@@ -28,6 +28,8 @@
   .helmet-stripe i:nth-child(3){background:var(--stripe);width:9px}
   .ribbon{padding:14px 0 6px;color:var(--tan);font-size:13.5px}
   .stale{color:var(--orange)}
+  .ribbon .zone{display:inline-block;margin-left:10px;padding:2px 7px;border:1px solid var(--edge);
+                border-radius:2px;font-size:11.5px;letter-spacing:.03em;color:var(--tan)}
   .banner{background:var(--orange);color:var(--seal);font-weight:600;padding:10px 14px;
           border-radius:3px;margin:16px 0 0;font-size:13.5px}
   .warn{border:1px solid var(--orange);color:var(--orange);background:none;
@@ -136,7 +138,7 @@
 
   <section>
     <h2 class="sec">Next game</h2>
-    <p class="lede">Soonest kickoff first. Times in your local zone.</p>
+    <p class="lede" id="nextlede">Soonest kickoff first.</p>
     <div id="next"></div>
   </section>
 
@@ -182,6 +184,19 @@ const fmtAge = iso => {
   return d + (d === 1 ? " day ago" : " days ago");
 };
 const num = (v, dp) => v == null ? "—" : Number(v).toFixed(dp);
+const TZ = "America/New_York";
+const tzAbbr = () => {
+  try {
+    return new Intl.DateTimeFormat("en-US", { timeZone: TZ, timeZoneName: "short" })
+      .formatToParts(new Date()).find(p => p.type === "timeZoneName").value;
+  } catch (e) { return "ET"; }
+};
+const etTime = iso => new Date(iso)
+  .toLocaleTimeString("en-US", { timeZone: TZ, hour: "numeric", minute: "2-digit" });
+const etDay = iso => new Date(iso)
+  .toLocaleDateString("en-US", { timeZone: TZ, weekday: "short", month: "short", day: "numeric" });
+const etShort = iso => new Date(iso)
+  .toLocaleString("en-US", { timeZone: TZ, weekday: "short", hour: "numeric", minute: "2-digit" });
 const teamLogo = t => t ? (t.logo_dark || t.logo) : null;
 const logo = (src, cls) => src
   ? `<img class="logo ${cls || ""}" src="${esc(src)}" alt="" loading="lazy">`
@@ -194,7 +209,7 @@ function chip(st) {
     return `<div class="chip live"><i class="dot"></i>Q${st.period ?? "?"} ${esc(st.clock ?? "")} · ${esc(st.score ?? "")}${st.tv ? " · " + esc(st.tv) : ""}</div>`;
   if (st.state === "final") return `<div class="chip final">${esc(st.label)}</div>`;
   if (st.state === "scheduled") {
-    const k = st.kickoff ? new Date(st.kickoff).toLocaleString([], {weekday:"short", hour:"numeric", minute:"2-digit"}) : "";
+    const k = st.kickoff ? (st.tbd ? "Time TBD" : etShort(st.kickoff)) : "";
     return `<div class="chip">${esc(st.label)}<br>${esc(k)}</div>`;
   }
   return `<div class="chip">${esc(st.label)}</div>`;
@@ -235,9 +250,9 @@ function renderNext(qbs) {
   const items = qbs.filter(q => q.next_game && q.next_game.kickoff)
     .sort((a, b) => new Date(a.next_game.kickoff) - new Date(b.next_game.kickoff));
   document.getElementById("next").innerHTML = items.length ? items.map(q => {
-    const n = q.next_game, d = new Date(n.kickoff);
-    const day = d.toLocaleDateString([], {weekday:"short", month:"short", day:"numeric"});
-    const time = d.toLocaleTimeString([], {hour:"numeric", minute:"2-digit"});
+    const n = q.next_game;
+    const day = etDay(n.kickoff);
+    const time = etTime(n.kickoff);
     const rank = n.opponent_rank ? `#${n.opponent_rank} ` : "";
     return `<div class="up">
       ${logo(teamLogo(q.team), "sm")}
@@ -294,8 +309,11 @@ function render(d) {
   const stale = new Date().getDay() === 6 ? age > 90 : age > 600;
   const dg = d.diagnostics || {};
 
+  const zone = tzAbbr();
   document.getElementById("ribbon").innerHTML =
-    `<span class="${stale ? "stale" : ""}">Updated ${fmtAge(d.updated_at)}${stale ? " — data may be stale" : ""}</span>`;
+    `<span class="${stale ? "stale" : ""}">Updated ${fmtAge(d.updated_at)}, ${esc(etTime(d.updated_at))} ${esc(zone)}${stale ? " — data may be stale" : ""}</span>
+     <span class="zone">All times ${esc(zone)}</span>`;
+  document.getElementById("nextlede").textContent = `Soonest kickoff first. All times ${zone}.`;
 
   let notice = "";
   if (d.sample) notice = `<div class="banner">Showing sample data. Run fetch_data.py to load real numbers.</div>`;
