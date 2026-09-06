@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T01:37:10.806899+00:00",
+  "updated_at": "2026-09-06T03:57:54.510032+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -807,7 +807,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmJoRFBpcGE5RDRFY0J6S0R2Z19ob3k1QlVGeWItRkpiWlZPQmdvZXdFVmZ4cUZ4U0hDUV9ST0hwakRJRDJyTmthYkVHdmQtU1o2eFhsX3ozSUcxNjEyenFCdHZ3SGt5TUIyd2lNWmtaLVpfd19JUkprcFN2M0psWGozVW9KRmplQVlnTmZQMHQxRWotUEJtajdEek9HZWppRHZBS1Nn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 4,
+      "age_hours": 7,
       "score": 21
     },
     {
@@ -816,7 +816,7 @@
       "domain": "247sports.com",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTlJONmpyNGRNLXJSQkNjTUxQNU9mMkVLcnR6bTJZaThvOWl1OTY5UTd0RENnWTFGM28wX1ktVFlxcXRYUHBoS041XzM4Uk13N0ZQUllQS0VYc0w0RUk5dmFkanB1cTM5eEVaemlUbHJSczY0X3JFT0N2SUNYSGJ4UTIta2Rvdk9TY29pR3ZJRG1TVkdEWXYzT0NibnlvV2NiUzZlX3NZNjl5MzVWQlRoZDh4NU5zTk9PMUtfbHhQMWVFZV9CVnNKQWpRaHpHMTFINEdkWXZueE1fcjU3aVk1YXVKSVB0TVZieFVfckRzSG1EQ0xqWkw4TWpUS3AzY19WOWQ4aDByb2MtUUdkOF9PX0p3?oc=5",
       "player": "CJ Carr",
-      "age_hours": 9,
+      "age_hours": 12,
       "score": 20
     },
     {
@@ -825,16 +825,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkxob2VhLUtRVkJfM1d4c2o3eC1Qd0c4ODZmeE1OWXdQWjJmNThObUhYMWVNWHcyVW92WkJyanpOeklRSE45Ynd0ZEM4Y19zRFBxX2ZFR0taeFZ5cUMtOE9qSllGUlBUazhQU2hmbXhNWHphOWp2bEpRQmVpX2hRR3Z0ZGJRaFN3U0JSdHd5TG12MENnbHRRb3lrT0s3TUtyVjRMYk1WSVZ6eWF5cWM2Wk9DbkxoTWVnenNJOFdJSE1MTmI3V2l3VHMtM0xSa2hPQ2kyQS1zY0s?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 11,
-      "score": 20
-    },
-    {
-      "headline": "Jeremiah Smith strikes Heisman pose, opens campaign with 2 TDs as Ohio State rolls",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0hSaEpITXNsZXdXLVZPRnhpNkVQRjRNM0ItMjdhRkRyVllBM2dXU21LTXUxSENablVjX3JzNnhUMC0xREEtY19zcHhwYzd0OFI3Tk8zT25kVWhVSUhxX1BRSm1MR191NW9yS2R1a1JLTU1Jc2QweVh3aVZ1OVBFS0JXZ0dEZ3NNUW1Cc3pmV3k4M09pM1p6ckloQQ?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 4,
+      "age_hours": 14,
       "score": 20
     },
     {
@@ -843,7 +834,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakxMTWdtbXZzZnk1Nl82SVIzU0dTLW1TRkF5NDRSTm4xY2F3Mmo0b3VFV0h1Z1hkaGRRZTAxbzF0T0FONndnTGJDVWFxS2k4OWFIUjFqTWhIbl9OUG1SY3NmTEhRQXFKeHIya3pTNG5lZ3hyR08xQnJUZ3ZENjdualExbFlScVVsM2hVZDFXWnNOdDh4N0k0aXVLeUFWUzJnd3VrRGJZdXAwTngwWFE?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 20,
+      "age_hours": 23,
       "score": 19
     },
     {
@@ -852,16 +843,16 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX05ibGhVQ3luT1NVRlo3bWVVa3o4ZlRCaEx6aHdoYlVYMUVudHlZLXY0Xy1TTGJrc0RfTEFnYUZHbmpadGs2ZUhYUkRHUnFRbkpWOEpIU3Q1LVMzdWplOFB3RHVHb1J2TEI0QXQtM3g3OWd0QjJBNnp1bFBJWDhXcldBcnZZMllDRWNGY0JHWl9CTmRlYXRISDhneUJ0QTZL?oc=5",
       "player": "CJ Carr",
-      "age_hours": 36,
+      "age_hours": 38,
       "score": 18
     },
     {
       "headline": "Polymarket Heisman odds: Miami QB Darian Mensah new favorite after Week 1 performance",
-      "source": "On3",
+      "source": "on3.com",
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1NIbEprbmtnN1d1ZW13ZWVkQi1zLXBBamdYdjM2TXI0bk5EYnpVUTE2VVdWRlJEN29XeWEzSmZjanRvTUhMSmlSLWtOaG9JMHBVNjFUcnJnV2NzU0xCNmRlVzBXRE54YXJOZHZsSlJaMUlfQXJqeHdtU3JzeDRrOElkR01YOWd4S1o2S1NKODBTT29YS0lCcTZrdEJFRlVTaEZMMU9Tb1RYUFhjQzc4?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 12,
+      "age_hours": 14,
       "score": 18
     },
     {
@@ -870,8 +861,17 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNm9wek1CWV9KdHphUWFtaks2Tk4xNXpwZHFVSkd3cHVnTXRYRF93RDBoX012dUFjdGlOZkJfMFIxTkJxbE42QjJ4WHNseTZzY3lELUtLdFFMVnhoVEo3aXREcG14c296S0xfYjBJeURmb24tcnRNN0JHZmlaY3VKQmJ0VkdhUmJ2NEtJc1dtYi1NNEtKSzFHV3ZMbVA5SXJ3VTlxdGY2emRxZndQ?oc=5",
       "player": "Noah Fifita",
-      "age_hours": 10,
+      "age_hours": 12,
       "score": 18
+    },
+    {
+      "headline": "Trinidad Chambliss on his readiness to start as QB for Ole Miss again",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnI3VHlrdXVoNmp2MURjYy1zbkZlZXZ0U294ckxzLXVXclNyWGczN2FfRkRHTjVNd01EbGpWYnNMSXFETHJMeVVDSUhqVk9NdVNoeVV0dWxpdm5GQy1YN3YxOHBvd0sxTkNNbUR2VnVKRUlUVkowa3RaRUtZZnBXdktFVjZYV2xhVTRTdlpzdzg4M0ZCQ19NQ1VpVGJtSnc?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 12,
+      "score": 17
     }
   ],
   "diagnostics": {
@@ -879,11 +879,12 @@
       "/scoreboard: HTTP 401 - key rejected or tier too low"
     ],
     "notes": [
-      "scoreboard unavailable - in-progress games won't show live"
+      "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
     "games_matched": 10,
     "teams_resolved": 10,
-    "live_available": null
+    "live_available": false,
+    "live_games_now": 0
   }
 }
