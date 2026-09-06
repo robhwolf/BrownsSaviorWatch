@@ -31,17 +31,23 @@ KEY = os.environ.get("CFBD_API_KEY", "").strip()
 CFBD = "https://api.collegefootballdata.com"
 
 QBS = [
-    {"name": "Trinidad Chambliss", "school": "Ole Miss",       "cls": "6th yr"},
-    {"name": "Dante Moore",        "school": "Oregon",         "cls": "RS Jr"},
-    {"name": "CJ Carr",            "school": "Notre Dame",     "cls": "RS So"},
-    {"name": "Darian Mensah",      "school": "Miami",          "cls": "Jr"},
-    {"name": "Julian Sayin",       "school": "Ohio State",     "cls": "RS So"},
-    {"name": "Drew Mestemaker",    "school": "Oklahoma State", "cls": "RS So"},
-    {"name": "Arch Manning",       "school": "Texas",          "cls": "RS Jr"},
-    {"name": "Sam Leavitt",        "school": "LSU",            "cls": "RS Jr"},
-    {"name": "Jayden Maiava",      "school": "USC",            "cls": "RS Sr"},
-    {"name": "Noah Fifita",        "school": "Arizona",        "cls": "RS Sr"},
+    {"name": "Trinidad Chambliss", "school": "Ole Miss",       "cls": "6th yr", "espn_id": 4911529},
+    {"name": "Dante Moore",        "school": "Oregon",         "cls": "RS Jr",  "espn_id": 4870921},
+    {"name": "CJ Carr",            "school": "Notre Dame",     "cls": "RS So",  "espn_id": 5079369},
+    {"name": "Darian Mensah",      "school": "Miami",          "cls": "Jr",     "espn_id": 5121169},
+    {"name": "Julian Sayin",       "school": "Ohio State",     "cls": "RS So",  "espn_id": 5079712},
+    {"name": "Drew Mestemaker",    "school": "Oklahoma State", "cls": "RS So",  "espn_id": 5219834},
+    {"name": "Arch Manning",       "school": "Texas",          "cls": "RS Jr",  "espn_id": 4870906},
+    {"name": "Sam Leavitt",        "school": "LSU",            "cls": "RS Jr",  "espn_id": 5078810},
+    {"name": "Jayden Maiava",      "school": "USC",            "cls": "RS Sr",  "espn_id": 4685454},
+    {"name": "Noah Fifita",        "school": "Arizona",        "cls": "RS Sr",  "espn_id": 4801717},
 ]
+
+# ESPN's headshot CDN, keyed by the player id above. Verified against ESPN's
+# own player-search API (site.web.api.espn.com) - each id below is that
+# player specifically, matched on name + school, not a guess.
+def espn_headshot(espn_id):
+    return f"https://a.espncdn.com/i/headshots/college-football/players/full/{espn_id}.png"
 
 # Durable identity links, not re-fetched every run. Wikipedia is omitted for
 # names without a page rather than guessed; same for any social account that
@@ -508,6 +514,7 @@ def main():
         log = clean_log(old.get("log"))
         if not team:
             rows.append({"name": qb["name"], "school": qb["school"], "class": qb["cls"],
+                         "headshot": espn_headshot(qb["espn_id"]),
                          "team": None, "status": {"state": "idle", "label": "Team unresolved"},
                          "game": None, "next_game": None, "log": log,
                          "season": season_from_log(log)})
@@ -531,6 +538,7 @@ def main():
 
         print(f"  {qb['name']:<20} {status['state']:<10} {status.get('label','')}")
         rows.append({"name": qb["name"], "school": qb["school"], "class": qb["cls"],
+                     "headshot": espn_headshot(qb["espn_id"]),
                      "team": team, "status": status, "game": line,
                      "next_game": upcoming(games, team["id"]),
                      "log": log, "season": season_from_log(log, epa)})

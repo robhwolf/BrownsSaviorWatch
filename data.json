@@ -126,7 +126,8 @@
       "season": {
         "games": 0,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4911529.png"
     },
     {
       "name": "Dante Moore",
@@ -216,7 +217,8 @@
         "ypg": 378,
         "rating": 188.2,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4870921.png"
     },
     {
       "name": "CJ Carr",
@@ -259,7 +261,8 @@
       "season": {
         "games": 0,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5079369.png"
     },
     {
       "name": "Darian Mensah",
@@ -296,7 +299,7 @@
         "rush_att": 1,
         "rush_yds": 5,
         "rush_td": 0,
-        "comp_pct": 90.0,
+        "comp_pct": 90,
         "ypa": 13.7
       },
       "next_game": {
@@ -321,7 +324,7 @@
           "rush_att": 1,
           "rush_yds": 5,
           "rush_td": 0,
-          "comp_pct": 90.0,
+          "comp_pct": 90,
           "ypa": 13.7,
           "event_id": "401858206",
           "week": 1,
@@ -337,7 +340,7 @@
         "record": "1-0",
         "cmp": 27,
         "att": 30,
-        "comp_pct": 90.0,
+        "comp_pct": 90,
         "pass_yds": 412,
         "ypa": 13.7,
         "pass_td": 5,
@@ -349,7 +352,8 @@
         "ypg": 412,
         "rating": 260.4,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5121169.png"
     },
     {
       "name": "Julian Sayin",
@@ -386,7 +390,7 @@
         "rush_att": 3,
         "rush_yds": -9,
         "rush_td": 1,
-        "comp_pct": 84.0,
+        "comp_pct": 84,
         "ypa": 12.8
       },
       "next_game": {
@@ -411,7 +415,7 @@
           "rush_att": 3,
           "rush_yds": -9,
           "rush_td": 1,
-          "comp_pct": 84.0,
+          "comp_pct": 84,
           "ypa": 12.8,
           "event_id": "401858432",
           "week": 1,
@@ -427,7 +431,7 @@
         "record": "1-0",
         "cmp": 21,
         "att": 25,
-        "comp_pct": 84.0,
+        "comp_pct": 84,
         "pass_yds": 320,
         "ypa": 12.8,
         "pass_td": 3,
@@ -439,7 +443,8 @@
         "ypg": 320,
         "rating": 231.1,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5079712.png"
     },
     {
       "name": "Drew Mestemaker",
@@ -529,7 +534,8 @@
         "ypg": 241,
         "rating": 99.1,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5219834.png"
     },
     {
       "name": "Arch Manning",
@@ -619,7 +625,8 @@
         "ypg": 305,
         "rating": 210.4,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4870906.png"
     },
     {
       "name": "Sam Leavitt",
@@ -709,7 +716,8 @@
         "ypg": 230,
         "rating": 130.8,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5078810.png"
     },
     {
       "name": "Jayden Maiava",
@@ -801,7 +809,8 @@
         "ypg": 286,
         "rating": 191.8,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4685454.png"
     },
     {
       "name": "Noah Fifita",
@@ -839,7 +848,7 @@
         "rush_yds": 24,
         "rush_td": 0,
         "comp_pct": 75.9,
-        "ypa": 9.0
+        "ypa": 9
       },
       "next_game": {
         "event_id": "401856810",
@@ -864,7 +873,7 @@
           "rush_yds": 24,
           "rush_td": 0,
           "comp_pct": 75.9,
-          "ypa": 9.0,
+          "ypa": 9,
           "event_id": "401856773",
           "week": 1,
           "opponent": "Northern Arizona",
@@ -881,7 +890,7 @@
         "att": 29,
         "comp_pct": 75.9,
         "pass_yds": 262,
-        "ypa": 9.0,
+        "ypa": 9,
         "pass_td": 2,
         "int": 0,
         "td_int": "2-0",
@@ -891,12 +900,13 @@
         "ypg": 262,
         "rating": 174.5,
         "epa_per_play": null
-      }
+      },
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4801717.png"
     }
   ],
   "news": [
     {
-      "headline": "As CJ Carr opens year 2 as Notre Dame\u2019s starter, what is QB\u2019s NFL Draft outlook?",
+      "headline": "As CJ Carr opens year 2 as Notre Dame’s starter, what is QB’s NFL Draft outlook?",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1p2QWNPdkpYSEFQQnVib0kyUlB2Z1hVVVprdEtTSUNmdjJRRUZncThXVzVMemY3MDJybG9tRTJ6YUdKVnBKUmdacU9BQk45eWx6dGhsamRzU19PdV8wM1N5TFVWMGd3VllOZ0d6MGtfdzk4YkU4NUZYTFBUbms1SDZ5RWhVWGJFcS0xTDJaU29ybkpIbDRUOA?oc=5",
@@ -914,7 +924,7 @@
       "score": 21
     },
     {
-      "headline": "2026 Heisman Trophy Odds (Darian Mensah Jumps to Favorite After Saturday\u2019s Week 1 Action)",
+      "headline": "2026 Heisman Trophy Odds (Darian Mensah Jumps to Favorite After Saturday’s Week 1 Action)",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3pqbnhlODYwMmpsWUctb21EaHNxc0F0ZWJoUHg4YVJvOVF6aWk1VjNZLTI1VjJUS1hJLVZoUnhCTmJnQVNRZzROSElISG9UUDlIRHQ3eUhIT25QTm9Ub1lBa0tVRWhqbVpUeC1VVDdaQi11eEp2ZEkzck80dTFVQmRvMTVTdm0zUjQ4MXQzRUhyRUM1aDdSZUNoQUxGVlFVT3RzLUZwTFE3MU42Yk9UOGxB?oc=5",
@@ -941,7 +951,7 @@
       "score": 17
     },
     {
-      "headline": "Boise State danced along to Oregon\u2019s \u2018Shout.\u2019 The Ducks found it \u2018a little weird\u2019 - The Athletic",
+      "headline": "Boise State danced along to Oregon’s ‘Shout.’ The Ducks found it ‘a little weird’ - The Athletic",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWF1eUJEVzA2X2FzUEdtZ1N3aGExcHAtNEQwZFhiNmJoREU2MHFxb3ZtVkNpZ3lzZFR3US1XSkNZNjQtQTZQd0g4X2cwdTlDaTB3SS01OUVPaUEwZVQ5T2JmanFjZE9zekUwT1NrOV83SWp2Y25NLWlhWE5jZEJmOElPZVpBVHJWRngwd01aMkdtU1VoSU55dWx1YTBxUQ?oc=5",

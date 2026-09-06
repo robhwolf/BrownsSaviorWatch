@@ -58,7 +58,9 @@
   .plate.live .pin{background:var(--orange)}
   .plate .rank{display:block;font-family:"IBM Plex Mono",monospace;font-size:10px;
                color:var(--tan);letter-spacing:.06em;margin-bottom:7px}
-  .plate .logo{margin:0 auto 8px}
+  .plate .photo-wrap{margin:0 auto 8px}
+  .plate .photo-wrap .photo{width:56px;height:56px;object-position:center 20%}
+  .plate .photo-wrap .badge{width:20px;height:20px}
   .plate h3{font-family:Oswald,sans-serif;font-weight:600;text-transform:uppercase;
             font-size:14px;margin:0;line-height:1.15}
   .plate p{margin:3px 0 0;color:var(--tan);font-size:10.5px}
@@ -85,6 +87,15 @@
   .logo{width:26px;height:26px;object-fit:contain;flex:none}
   .logo.sm{width:20px;height:20px}
   .logo.xs{width:17px;height:17px;vertical-align:-3px;margin-right:5px}
+
+  .photo-wrap{position:relative;flex:none;display:inline-block;line-height:0}
+  .photo-wrap .photo{display:block;border-radius:50%;object-fit:cover;background:var(--edge)}
+  .photo-wrap .badge{position:absolute;bottom:-2px;right:-2px;border-radius:50%;
+                      background:var(--ink);border:2px solid var(--ink);object-fit:contain;padding:2px}
+  .who .photo-wrap .photo{width:46px;height:46px;object-position:center 20%}
+  .who .photo-wrap .badge{width:18px;height:18px}
+  .qb.live .photo-wrap .photo{outline:2px solid var(--orange);outline-offset:1px}
+  .plate.live .photo-wrap .photo{outline:2px solid var(--orange);outline-offset:1px}
 
   .qb{position:relative;background:var(--seal);border:1px solid var(--edge);border-radius:3px;
       margin-bottom:10px;padding:14px 16px 14px 20px;box-shadow:0 3px 9px rgba(0,0,0,.35)}
@@ -298,6 +309,12 @@ const teamLogo = t => t ? (t.logo_dark || t.logo) : null;
 const logo = (src, cls) => src
   ? `<img class="logo ${cls || ""}" src="${esc(src)}" alt="" loading="lazy">`
   : `<span class="logo ${cls || ""}" aria-hidden="true"></span>`;
+const photo = (src, team) => src
+  ? `<span class="photo-wrap">
+       <img class="photo" src="${esc(src)}" alt="" loading="lazy">
+       ${teamLogo(team) ? `<img class="badge" src="${esc(teamLogo(team))}" alt="" loading="lazy">` : ""}
+     </span>`
+  : logo(teamLogo(team));
 const stat = (label, val, key) =>
   `<div class="stat${key ? " key" : ""}"><span>${label}</span><strong>${esc(val)}</strong></div>`;
 
@@ -329,7 +346,7 @@ function card(q) {
     <span class="pin" aria-hidden="true"></span>
     <div class="top">
       <div class="who">
-        ${logo(teamLogo(q.team))}
+        ${photo(q.headshot, q.team)}
         <div>
           <h3>${esc(q.name)}</h3>
           <p>${esc(q.school)} · ${esc(q.class)}</p>
@@ -360,7 +377,7 @@ function renderBoard(qbs, kalshi) {
             title="Jump to ${esc(q.name)}">
       <span class="pin" aria-hidden="true"></span>
       <span class="rank">${String(i + 1).padStart(2, "0")}</span>
-      ${logo(teamLogo(q.team))}
+      ${photo(q.headshot, q.team)}
       <h3>${esc(q.name.split(" ").slice(-1)[0])}</h3>
       <p>${esc(q.school)}</p>
       ${pct != null ? `<span class="stake">${pct}% 1st pick</span>` : ""}
