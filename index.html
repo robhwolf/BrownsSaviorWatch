@@ -177,9 +177,12 @@ const fmtAge = iso => {
   if (m < 1) return "just now";
   if (m < 60) return m + " min ago";
   const h = Math.round(m / 60);
-  return h < 24 ? h + " hr ago" : Math.round(h / 24) + " days ago";
+  if (h < 24) return h + (h === 1 ? " hr ago" : " hrs ago");
+  const d = Math.round(h / 24);
+  return d + (d === 1 ? " day ago" : " days ago");
 };
 const num = (v, dp) => v == null ? "—" : Number(v).toFixed(dp);
+const teamLogo = t => t ? (t.logo_dark || t.logo) : null;
 const logo = (src, cls) => src
   ? `<img class="logo ${cls || ""}" src="${esc(src)}" alt="" loading="lazy">`
   : `<span class="logo ${cls || ""}" aria-hidden="true"></span>`;
@@ -188,7 +191,7 @@ const stat = (label, val, key) =>
 
 function chip(st) {
   if (st.state === "live")
-    return `<div class="chip live"><i class="dot"></i>Q${st.period ?? "?"} ${esc(st.clock ?? "")} · ${esc(st.score ?? "")}</div>`;
+    return `<div class="chip live"><i class="dot"></i>Q${st.period ?? "?"} ${esc(st.clock ?? "")} · ${esc(st.score ?? "")}${st.tv ? " · " + esc(st.tv) : ""}</div>`;
   if (st.state === "final") return `<div class="chip final">${esc(st.label)}</div>`;
   if (st.state === "scheduled") {
     const k = st.kickoff ? new Date(st.kickoff).toLocaleString([], {weekday:"short", hour:"numeric", minute:"2-digit"}) : "";
@@ -215,7 +218,7 @@ function card(q) {
     <div class="body">
       <div class="top">
         <div class="who">
-          ${logo(q.team && q.team.logo)}
+          ${logo(teamLogo(q.team))}
           <div>
             <h3>${esc(q.name)}</h3>
             <p>${esc(q.school)} · ${esc(q.class)}</p>
@@ -237,10 +240,10 @@ function renderNext(qbs) {
     const time = d.toLocaleTimeString([], {hour:"numeric", minute:"2-digit"});
     const rank = n.opponent_rank ? `#${n.opponent_rank} ` : "";
     return `<div class="up">
-      ${logo(q.team && q.team.logo, "sm")}
+      ${logo(teamLogo(q.team), "sm")}
       <span class="nm2">${esc(q.name.split(" ").slice(-1)[0])}</span>
-      <span class="opp">${esc(n.home_away)} ${esc(rank)}${esc(n.opponent)}${n.broadcast ? " · " + esc(n.broadcast) : ""}</span>
-      <span class="when">${esc(time)}<em>${esc(day)}</em></span>
+      <span class="opp">${esc(n.home_away)} ${esc(rank)}${esc(n.opponent)}${n.neutral ? " (neutral)" : ""}</span>
+      <span class="when">${n.tbd ? "TBD" : esc(time)}<em>${esc(day)}</em></span>
     </div>`;
   }).join("") : `<div class="quiet">No upcoming games on file.</div>`;
 }
@@ -269,7 +272,7 @@ function renderSeason(qbs, key) {
       </tr></thead>
       <tbody>${rows.map((q, i) => `
         <tr class="${i === 0 ? "leader" : ""}">
-          <td><div class="nmcell">${logo(q.team && q.team.logo, "sm")}<div>
+          <td><div class="nmcell">${logo(teamLogo(q.team), "sm")}<div>
             <div class="nm">${esc(q.name)}</div>
             <div class="tm">${esc(q.school)} · ${esc(q.season.record)}</div>
           </div></div></td>
@@ -296,8 +299,10 @@ function render(d) {
 
   let notice = "";
   if (d.sample) notice = `<div class="banner">Showing sample data. Run fetch_data.py to load real numbers.</div>`;
-  else if (dg.events_seen === 0) notice = `<div class="warn">The last run couldn't reach ESPN's scoreboard, so no game states are current. Check the Actions log.</div>`;
-  else if (dg.games_matched === 0) notice = `<div class="warn">The last run found ${dg.events_seen} games but matched none to your quarterbacks. Check the Actions log.</div>`;
+  else if (!dg.games_seen) notice = `<div class="warn">The last run couldn't load the schedule from CollegeFootballData. Check the Actions log.</div>`;
+  else if (!dg.games_matched) notice = `<div class="warn">The last run loaded ${dg.games_seen} games but matched none to your quarterbacks. Check the Actions log.</div>`;
+  else if (dg.live_available === null && live.length === 0 && new Date().getDay() === 6)
+    notice = `<div class="warn">Live in-progress scores need a CFBD Patreon tier. Finals and schedules are unaffected.</div>`;
   document.getElementById("banner").innerHTML = notice;
 
   document.getElementById("livecount").textContent = live.length || "";
@@ -326,7 +331,7 @@ function render(d) {
     </div>`).join("") : `<p class="empty">Nothing has cleared the bar today.</p>`;
 
   document.getElementById("foot").innerHTML =
-    `Game state, box scores, schedules and team marks from ESPN. Efficiency data from
+    `Schedules, scores, box scores, efficiency data and team marks from
      <a href="https://collegefootballdata.com">CollegeFootballData.com</a>. Headlines via Google News.
      Not affiliated with the Cleveland Browns, the NFL, or any university.`;
 }

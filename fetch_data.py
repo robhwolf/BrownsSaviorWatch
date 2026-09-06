@@ -2,17 +2,15 @@
 """
 Cleveland Browns Savior Watch - data fetcher.
 
-Writes data.json, which index.html reads.
+Everything comes from CollegeFootballData. ESPN's endpoints return 403 to
+datacenter IPs, so they can't be used from a GitHub Actions runner at all.
 
-Sources:
-  ESPN  - free, no key. Team identities, live game state, box scores,
-          forward schedule, logos. Runs every time.
-  CFBD  - keyed. EPA per play only. Runs once a day.
-
-Teams are resolved to ESPN numeric ids once and cached in data.json, then
-every game lookup matches on id rather than on a display-name string. Name
-matching was too brittle - one mismatch and a quarterback silently shows
-"no game scheduled" on a day his team is playing.
+Calls per run:
+  /teams/fbs        once, cached in data.json
+  /games            1  - whole season, gives schedule + results for all ten
+  /scoreboard       1  - live status (needs a Patreon tier; degrades quietly)
+  /games/players    only for finished games not yet in the log
+  /ppa/players/season  10, once a day
 """
 
 import json
@@ -22,44 +20,26 @@ import sys
 import time
 import urllib.parse
 import urllib.request
+import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 
 SEASON = 2026
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
-
-CFBD_KEY = os.environ.get("CFBD_API_KEY", "").strip()
-CFBD_BASE = "https://api.collegefootballdata.com"
-ESPN = "https://site.api.espn.com/apis/site/v2/sports/football/college-football"
-
-# A plain script user-agent gets refused by some edge configs. Look like a browser.
-UA = {
-    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                   "(KHTML, like Gecko) Chrome/125.0 Safari/537.36"),
-    "Accept": "application/json, text/plain, */*",
-}
+KEY = os.environ.get("CFBD_API_KEY", "").strip()
+CFBD = "https://api.collegefootballdata.com"
 
 QBS = [
-    {"name": "Trinidad Chambliss", "school": "Ole Miss",       "cls": "6th yr",
-     "cfbd_team": "Ole Miss",       "espn_names": ["Ole Miss", "Mississippi", "Ole Miss Rebels"]},
-    {"name": "Dante Moore",        "school": "Oregon",         "cls": "RS Jr",
-     "cfbd_team": "Oregon",         "espn_names": ["Oregon", "Oregon Ducks"]},
-    {"name": "CJ Carr",            "school": "Notre Dame",     "cls": "RS So",
-     "cfbd_team": "Notre Dame",     "espn_names": ["Notre Dame", "Notre Dame Fighting Irish"]},
-    {"name": "Darian Mensah",      "school": "Miami",          "cls": "Jr",
-     "cfbd_team": "Miami",          "espn_names": ["Miami", "Miami (FL)", "Miami Hurricanes"]},
-    {"name": "Julian Sayin",       "school": "Ohio State",     "cls": "RS So",
-     "cfbd_team": "Ohio State",     "espn_names": ["Ohio State", "Ohio State Buckeyes"]},
-    {"name": "Drew Mestemaker",    "school": "Oklahoma State", "cls": "RS So",
-     "cfbd_team": "Oklahoma State", "espn_names": ["Oklahoma State", "Oklahoma State Cowboys"]},
-    {"name": "Arch Manning",       "school": "Texas",          "cls": "RS Jr",
-     "cfbd_team": "Texas",          "espn_names": ["Texas", "Texas Longhorns"]},
-    {"name": "Sam Leavitt",        "school": "LSU",            "cls": "RS Jr",
-     "cfbd_team": "LSU",            "espn_names": ["LSU", "LSU Tigers"]},
-    {"name": "Jayden Maiava",      "school": "USC",            "cls": "RS Sr",
-     "cfbd_team": "USC",            "espn_names": ["USC", "Southern California", "USC Trojans"]},
-    {"name": "Noah Fifita",        "school": "Arizona",        "cls": "RS Sr",
-     "cfbd_team": "Arizona",        "espn_names": ["Arizona", "Arizona Wildcats"]},
+    {"name": "Trinidad Chambliss", "school": "Ole Miss",       "cls": "6th yr"},
+    {"name": "Dante Moore",        "school": "Oregon",         "cls": "RS Jr"},
+    {"name": "CJ Carr",            "school": "Notre Dame",     "cls": "RS So"},
+    {"name": "Darian Mensah",      "school": "Miami",          "cls": "Jr"},
+    {"name": "Julian Sayin",       "school": "Ohio State",     "cls": "RS So"},
+    {"name": "Drew Mestemaker",    "school": "Oklahoma State", "cls": "RS So"},
+    {"name": "Arch Manning",       "school": "Texas",          "cls": "RS Jr"},
+    {"name": "Sam Leavitt",        "school": "LSU",            "cls": "RS Jr"},
+    {"name": "Jayden Maiava",      "school": "USC",            "cls": "RS Sr"},
+    {"name": "Noah Fifita",        "school": "Arizona",        "cls": "RS Sr"},
 ]
 
 SOURCE_TIER = {
@@ -73,35 +53,46 @@ HIGH_SIGNAL = [
     ("benched", 6), ("suspend", 5), ("transfer portal", 5), ("questionable", 4),
     ("draft", 3), ("heisman", 3), ("record", 2), ("nfl", 2),
 ]
-NEWS_FLOOR = 16      # raise to see less, lower to see more
+NEWS_FLOOR = 16
 NEWS_MAX = 8
 
 DIAG = {"errors": [], "notes": []}
+UA = {"User-Agent": "browns-savior-watch/2.0"}
 
 
-def get_json(url, headers=None, tries=3, label=""):
-    h = dict(UA)
-    if headers:
-        h.update(headers)
-    for i in range(tries):
+def cfbd(path, **params):
+    """GET a CFBD endpoint. Returns parsed JSON, or None after logging why not."""
+    q = urllib.parse.urlencode({k: v for k, v in params.items() if v is not None})
+    url = f"{CFBD}{path}" + (f"?{q}" if q else "")
+    head = dict(UA)
+    head["Authorization"] = f"Bearer {KEY}"
+    head["Accept"] = "application/json"
+    for attempt in range(3):
         try:
-            req = urllib.request.Request(url, headers=h)
-            with urllib.request.urlopen(req, timeout=25) as r:
+            with urllib.request.urlopen(
+                    urllib.request.Request(url, headers=head), timeout=30) as r:
                 return json.loads(r.read().decode("utf-8"))
-        except Exception as e:
-            if i == tries - 1:
-                msg = f"{label or url[:70]}: {e}"
-                print(f"  ! {msg}", file=sys.stderr)
-                DIAG["errors"].append(msg)
+        except urllib.error.HTTPError as e:
+            if e.code in (401, 403):
+                DIAG["errors"].append(f"{path}: HTTP {e.code} - key rejected or tier too low")
                 return None
-            time.sleep(2 * (i + 1))
+            if e.code == 429:
+                time.sleep(5 * (attempt + 1))
+                continue
+            DIAG["errors"].append(f"{path}: HTTP {e.code}")
+            return None
+        except Exception as e:
+            if attempt == 2:
+                DIAG["errors"].append(f"{path}: {e}")
+                return None
+            time.sleep(2 * (attempt + 1))
 
 
 def get_text(url, tries=2):
     for i in range(tries):
         try:
-            req = urllib.request.Request(url, headers=UA)
-            with urllib.request.urlopen(req, timeout=25) as r:
+            with urllib.request.urlopen(
+                    urllib.request.Request(url, headers=UA), timeout=25) as r:
                 return r.read().decode("utf-8", "replace")
         except Exception:
             if i == tries - 1:
@@ -109,189 +100,193 @@ def get_text(url, tries=2):
             time.sleep(2)
 
 
-# ---------------------------------------------------------------------------
-# Team identity: resolve once, cache forever
-# ---------------------------------------------------------------------------
+def now_utc():
+    return datetime.now(timezone.utc)
 
-def pick_logo(team):
-    """Prefer ESPN's dark-background variant - the default marks vanish on brown."""
-    logos = team.get("logos") or []
-    for lg in logos:
-        if "dark" in (lg.get("rel") or []):
-            return lg.get("href")
-    if logos:
-        return logos[0].get("href")
-    return team.get("logo")
 
+def parse_dt(s):
+    try:
+        return datetime.fromisoformat((s or "").replace("Z", "+00:00"))
+    except ValueError:
+        return None
+
+
+# ---------------------------------------------------------------------------
+# Teams
+# ---------------------------------------------------------------------------
 
 def resolve_teams(prev):
-    """Map each school to its ESPN team id, logo and colour."""
     teams = dict(prev or {})
-    missing = [q for q in QBS if q["school"] not in teams]
-    if not missing:
+    if all(q["school"] in teams for q in QBS):
         return teams
-
-    data = get_json(f"{ESPN}/teams?limit=1000", label="ESPN teams list")
-    if not data:
+    rows = cfbd("/teams/fbs", year=SEASON)
+    if not rows:
         return teams
-    try:
-        entries = data["sports"][0]["leagues"][0]["teams"]
-    except (KeyError, IndexError):
-        DIAG["errors"].append("ESPN teams list: unexpected shape")
-        return teams
-
     index = {}
-    for e in entries:
-        t = e.get("team") or {}
-        for key in (t.get("displayName"), t.get("shortDisplayName"),
-                    t.get("location"), t.get("nickname"), t.get("name")):
-            if key:
-                index.setdefault(key.lower(), t)
-
-    for q in missing:
-        hit = next((index[n.lower()] for n in q["espn_names"] if n.lower() in index), None)
-        if not hit:
-            DIAG["errors"].append(f"could not resolve {q['school']} to an ESPN team")
+    for t in rows:
+        for k in (t.get("school"), t.get("abbreviation"), t.get("alternateName")):
+            if k:
+                index.setdefault(str(k).lower(), t)
+    for q in QBS:
+        if q["school"] in teams:
             continue
+        hit = index.get(q["school"].lower())
+        if not hit:
+            DIAG["errors"].append(f"no CFBD team named {q['school']}")
+            continue
+        logos = hit.get("logos") or []
         teams[q["school"]] = {
-            "id": str(hit.get("id")),
-            "abbr": hit.get("abbreviation"),
-            "display": hit.get("displayName"),
-            "logo": pick_logo(hit),
-            "color": "#" + (hit.get("color") or "444444").lstrip("#"),
+            "id": hit.get("id"),
+            "school": hit.get("school"),
+            "mascot": hit.get("mascot"),
+            "logo": logos[0] if logos else None,
+            "logo_dark": logos[1] if len(logos) > 1 else (logos[0] if logos else None),
+            "color": hit.get("color") or "#444444",
         }
     return teams
 
 
 # ---------------------------------------------------------------------------
-# Game state
+# Games
 # ---------------------------------------------------------------------------
 
-def scoreboard(days_back=3, days_fwd=2):
-    events = []
-    today = datetime.now(timezone.utc).date()
-    for off in range(-days_back, days_fwd + 1):
-        d = (today + timedelta(days=off)).strftime("%Y%m%d")
-        data = get_json(f"{ESPN}/scoreboard?groups=80&limit=400&dates={d}",
-                        label=f"scoreboard {d}")
-        if data and data.get("events"):
-            events.extend(data["events"])
-    return events
+def season_games():
+    rows = cfbd("/games", year=SEASON, seasonType="regular", classification="fbs")
+    return rows or []
 
 
-def team_side(event, team_id):
-    comp = (event.get("competitions") or [{}])[0]
-    for c in comp.get("competitors", []):
-        if str((c.get("team") or {}).get("id")) == str(team_id):
-            return c, comp
-    return None, None
+def live_index():
+    """game id -> live status. Needs a Patreon tier; absence is not fatal."""
+    rows = cfbd("/scoreboard", classification="fbs")
+    if rows is None:
+        DIAG["notes"].append("scoreboard unavailable - in-progress games won't show live")
+        return {}
+    return {g.get("id"): g for g in rows if g.get("status") == "in_progress"}
 
 
-def find_game(events, team_id):
-    live = final = upcoming = None
-    for ev in events:
-        me, _ = team_side(ev, team_id)
-        if not me:
-            continue
-        state = ((ev.get("status") or {}).get("type") or {}).get("state")
-        if state == "in":
-            live = live or ev
-        elif state == "post":
-            if final is None or ev.get("date", "") > final.get("date", ""):
-                final = ev
-        elif upcoming is None:
-            upcoming = ev
-    return live or final or upcoming
-
-
-def describe(ev, team_id):
-    if not ev:
-        return {"state": "idle", "label": "No game found"}
-    me, comp = team_side(ev, team_id)
-    opp = next((c for c in comp.get("competitors", []) if c is not me), {})
-    ot = opp.get("team") or {}
-    status = ev.get("status") or {}
-    state = (status.get("type") or {}).get("state")
-    rank = (opp.get("curatedRank") or {}).get("current")
-    ha = "vs" if me.get("homeAway") == "home" else "at"
-    out = {
-        "event_id": str(ev.get("id")),
-        "opponent": ot.get("shortDisplayName") or ot.get("displayName") or "TBD",
-        "opponent_logo": pick_logo(ot),
-        "opponent_rank": rank if rank and rank < 26 else None,
-        "home_away": ha,
-        "kickoff": ev.get("date"),
-        "broadcast": next((b.get("names", [None])[0]
-                           for b in (comp.get("broadcasts") or []) if b.get("names")), None),
-    }
-    if state == "in":
-        out.update({"state": "live", "clock": status.get("displayClock"),
-                    "period": status.get("period"),
-                    "score": f"{me.get('score','0')}-{opp.get('score','0')}",
-                    "label": f"{ha} {out['opponent']}"})
-    elif state == "post":
-        res = "W" if me.get("winner") is True else ("L" if opp.get("winner") is True else "T")
-        out.update({"state": "final", "result": res,
-                    "score": f"{me.get('score','0')}-{opp.get('score','0')}",
-                    "label": f"{res} {me.get('score','0')}-{opp.get('score','0')} {ha} {out['opponent']}"})
-    else:
-        out.update({"state": "scheduled", "label": f"{ha} {out['opponent']}"})
+def team_games(games, team_id):
+    out = [g for g in games if g.get("homeId") == team_id or g.get("awayId") == team_id]
+    out.sort(key=lambda g: g.get("startDate") or "")
     return out
 
 
-def next_game(team_id, team_name):
-    """First future game on the team's own schedule - reaches past the scoreboard window."""
-    data = get_json(f"{ESPN}/teams/{team_id}/schedule?season={SEASON}",
-                    label=f"schedule {team_name}")
-    if not data:
-        return None
-    now = datetime.now(timezone.utc)
-    best = None
-    for ev in data.get("events") or []:
-        try:
-            when = datetime.fromisoformat((ev.get("date") or "").replace("Z", "+00:00"))
-        except ValueError:
-            continue
-        state = ((ev.get("status") or {}).get("type") or {}).get("state")
-        if state == "post" or when <= now:
-            continue
-        if best is None or when < best[0]:
-            best = (when, ev)
-    if not best:
-        return None
-    info = describe(best[1], team_id)
-    return {k: info.get(k) for k in
-            ("opponent", "opponent_logo", "opponent_rank", "home_away", "kickoff",
-             "broadcast", "label")}
+def shape(game, team_id, live=None):
+    """Turn a CFBD game into the status object the page renders."""
+    home = game.get("homeId") == team_id
+    mine = game.get("homePoints") if home else game.get("awayPoints")
+    theirs = game.get("awayPoints") if home else game.get("homePoints")
+    opp = game.get("awayTeam") if home else game.get("homeTeam")
+    out = {
+        "event_id": str(game.get("id")),
+        "week": game.get("week"),
+        "opponent": opp,
+        "opponent_id": game.get("awayId") if home else game.get("homeId"),
+        "home_away": "vs" if home else "at",
+        "kickoff": game.get("startDate"),
+        "tbd": bool(game.get("startTimeTBD")),
+        "neutral": bool(game.get("neutralSite")),
+    }
+    if live:
+        lm = live.get("homeTeam") if home else live.get("awayTeam")
+        lt = live.get("awayTeam") if home else live.get("homeTeam")
+        out.update({
+            "state": "live",
+            "period": live.get("period"),
+            "clock": live.get("clock"),
+            "tv": live.get("tv"),
+            "score": f"{(lm or {}).get('points', 0)}-{(lt or {}).get('points', 0)}",
+            "label": f"{out['home_away']} {opp}",
+        })
+    elif game.get("completed") and mine is not None and theirs is not None:
+        res = "W" if mine > theirs else ("L" if mine < theirs else "T")
+        out.update({"state": "final", "result": res, "score": f"{mine}-{theirs}",
+                    "label": f"{res} {mine}-{theirs} {out['home_away']} {opp}"})
+    else:
+        out.update({"state": "scheduled", "label": f"{out['home_away']} {opp}"})
+    return out
 
 
-def box_line(event_id, player_name):
-    if not event_id:
+def this_week(games, team_id, live_games):
+    """The game that belongs on today's board: live, else most recent final, else next up."""
+    n = now_utc()
+    window = [g for g in team_games(games, team_id)
+              if (d := parse_dt(g.get("startDate"))) and -timedelta(days=4) <= d - n <= timedelta(days=3)]
+    for g in window:
+        if g.get("id") in live_games:
+            return shape(g, team_id, live_games[g["id"]])
+    finals = [g for g in window if g.get("completed")]
+    if finals:
+        return shape(finals[-1], team_id)
+    if window:
+        return shape(window[0], team_id)
+    return {"state": "idle", "label": "No game this week"}
+
+
+def upcoming(games, team_id):
+    n = now_utc()
+    for g in team_games(games, team_id):
+        d = parse_dt(g.get("startDate"))
+        if g.get("completed") or not d or d <= n:
+            continue
+        return shape(g, team_id)
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Box scores
+# ---------------------------------------------------------------------------
+
+def to_int(v):
+    try:
+        return int(str(v).strip())
+    except (TypeError, ValueError):
+        return 0
+
+
+def box_line(week, school, player):
+    """Passing and rushing line from /games/players."""
+    rows = cfbd("/games/players", year=SEASON, week=week, team=school,
+                seasonType="regular", classification="fbs")
+    if not rows:
         return None
-    data = get_json(f"{ESPN}/summary?event={event_id}", label=f"box {event_id}")
-    if not data:
-        return None
-    line, last = {}, player_name.split()[-1].lower()
-    for team in (data.get("boxscore") or {}).get("players", []):
-        for cat in team.get("statistics", []):
-            keys = [k.lower() for k in cat.get("keys", [])]
-            for ath in cat.get("athletes", []):
-                if last not in (ath.get("athlete") or {}).get("displayName", "").lower():
+    last = player.split()[-1].lower()
+    line = {}
+    for game in rows:
+        for team in game.get("teams", []):
+            if (team.get("team") or "").lower() != school.lower():
+                continue
+            for cat in team.get("categories", []):
+                cname = (cat.get("name") or "").lower()
+                if cname not in ("passing", "rushing"):
                     continue
-                row = dict(zip(keys, ath.get("stats", [])))
-                if cat.get("name") == "passing":
-                    cmp_, att = (row.get("c/att", "0/0").split("/") + ["0"])[:2]
-                    line.update({"cmp": int(cmp_ or 0), "att": int(att or 0),
-                                 "pass_yds": int(row.get("yds", 0) or 0),
-                                 "pass_td": int(row.get("td", 0) or 0),
-                                 "int": int(row.get("int", 0) or 0)})
-                elif cat.get("name") == "rushing":
-                    line.update({"rush_att": int(row.get("car", 0) or 0),
-                                 "rush_yds": int(row.get("yds", 0) or 0),
-                                 "rush_td": int(row.get("td", 0) or 0)})
+                for typ in cat.get("types", []):
+                    tname = (typ.get("name") or "").upper()
+                    for ath in typ.get("athletes", []):
+                        if last not in (ath.get("name") or "").lower():
+                            continue
+                        val = ath.get("stat")
+                        if cname == "passing":
+                            if tname in ("C/ATT", "COMPLETIONS/ATTEMPTS"):
+                                c, _, a = str(val).partition("/")
+                                line["cmp"], line["att"] = to_int(c), to_int(a)
+                            elif tname == "YDS":
+                                line["pass_yds"] = to_int(val)
+                            elif tname == "TD":
+                                line["pass_td"] = to_int(val)
+                            elif tname == "INT":
+                                line["int"] = to_int(val)
+                            elif tname == "QBR":
+                                line["qbr"] = val
+                        else:
+                            if tname == "CAR":
+                                line["rush_att"] = to_int(val)
+                            elif tname == "YDS":
+                                line["rush_yds"] = to_int(val)
+                            elif tname == "TD":
+                                line["rush_td"] = to_int(val)
     if line.get("att"):
-        line["comp_pct"] = round(100 * line["cmp"] / line["att"], 1)
-        line["ypa"] = round(line["pass_yds"] / line["att"], 1)
+        line["comp_pct"] = round(100 * line.get("cmp", 0) / line["att"], 1)
+        line["ypa"] = round(line.get("pass_yds", 0) / line["att"], 1)
     return line or None
 
 
@@ -300,7 +295,6 @@ def box_line(event_id, player_name):
 # ---------------------------------------------------------------------------
 
 def clean_log(log):
-    """Drop anything without a real ESPN event id - purges seeded placeholder rows."""
     return [g for g in (log or []) if str(g.get("event_id", "")).isdigit()]
 
 
@@ -310,7 +304,7 @@ def merge_log(prev_log, status, line):
         return log
     entry = dict(line)
     entry.update({k: status.get(k) for k in
-                  ("event_id", "opponent", "home_away", "result", "score")})
+                  ("event_id", "week", "opponent", "home_away", "result", "score")})
     entry["date"] = status.get("kickoff")
     for i, e in enumerate(log):
         if e.get("event_id") == entry["event_id"]:
@@ -324,7 +318,7 @@ def merge_log(prev_log, status, line):
 def season_from_log(log, epa=None):
     if not log:
         return {"games": 0, "epa_per_play": epa}
-    t = {k: sum(int(g.get(k) or 0) for g in log) for k in
+    t = {k: sum(to_int(g.get(k)) for g in log) for k in
          ("cmp", "att", "pass_yds", "pass_td", "int", "rush_att", "rush_yds", "rush_td")}
     att = t["att"] or 1
     rating = ((8.4 * t["pass_yds"]) + (330 * t["pass_td"])
@@ -344,16 +338,10 @@ def season_from_log(log, epa=None):
     }
 
 
-def cfbd_epa(qb):
-    if not CFBD_KEY:
-        return None
-    q = urllib.parse.urlencode({"year": SEASON, "team": qb["cfbd_team"],
-                                "excludeGarbageTime": "true"})
-    rows = get_json(f"{CFBD_BASE}/ppa/players/season?{q}",
-                    headers={"Authorization": f"Bearer {CFBD_KEY}"},
-                    label=f"CFBD ppa {qb['cfbd_team']}")
+def epa_for(school, player):
+    rows = cfbd("/ppa/players/season", year=SEASON, team=school, excludeGarbageTime="true")
     for r in rows or []:
-        if qb["name"].split()[-1].lower() in (r.get("name") or "").lower():
+        if player.split()[-1].lower() in (r.get("name") or "").lower():
             v = (r.get("averagePPA") or {}).get("all")
             if v is not None:
                 return round(v, 3)
@@ -364,57 +352,44 @@ def cfbd_epa(qb):
 # News
 # ---------------------------------------------------------------------------
 
-def news_for(qb):
-    q = urllib.parse.quote(f'"{qb["name"]}" {qb["school"]} football')
-    xml = get_text(f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en")
-    if not xml:
-        return []
-    try:
-        root = ET.fromstring(xml)
-    except ET.ParseError:
-        return []
-    out = []
-    for it in root.iter("item"):
-        src_el = it.find("source")
-        domain = ""
-        if src_el is not None:
-            domain = re.sub(r"^https?://(www\.)?", "", src_el.get("url", "")).split("/")[0]
-        out.append({
-            "headline": (it.findtext("title") or "").strip().rsplit(" - ", 1)[0],
-            "source": (src_el.text if src_el is not None else "") or domain,
-            "domain": domain, "url": (it.findtext("link") or "").strip(),
-            "published": (it.findtext("pubDate") or "").strip(), "player": qb["name"],
-        })
-    return out[:12]
-
-
-def score_news(item):
-    s = SOURCE_TIER.get(item["domain"], 1) * 2
-    head = item["headline"].lower()
-    for word, weight in HIGH_SIGNAL:
-        if word in head:
-            s += weight
-    try:
-        pub = datetime.strptime(item["published"], "%a, %d %b %Y %H:%M:%S %Z") \
-            .replace(tzinfo=timezone.utc)
-        age = (datetime.now(timezone.utc) - pub).total_seconds() / 3600
-        s += 7 if age < 24 else 3 if age < 72 else 0
-        item["age_hours"] = round(age)
-    except Exception:
-        item["age_hours"] = None
-    return s
-
-
 def build_news():
     seen, out = set(), []
     for qb in QBS:
-        for item in news_for(qb):
-            key = re.sub(r"[^a-z0-9]", "", item["headline"].lower())[:60]
-            if key in seen:
+        q = urllib.parse.quote(f'"{qb["name"]}" {qb["school"]} football')
+        xml = get_text(f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en")
+        if not xml:
+            continue
+        try:
+            root = ET.fromstring(xml)
+        except ET.ParseError:
+            continue
+        for it in root.iter("item"):
+            src = it.find("source")
+            domain = ""
+            if src is not None:
+                domain = re.sub(r"^https?://(www\.)?", "", src.get("url", "")).split("/")[0]
+            head = (it.findtext("title") or "").strip().rsplit(" - ", 1)[0]
+            key = re.sub(r"[^a-z0-9]", "", head.lower())[:60]
+            if not head or key in seen:
                 continue
             seen.add(key)
-            item["score"] = score_news(item)
-            if item["score"] >= NEWS_FLOOR:
+            item = {"headline": head, "source": (src.text if src is not None else domain),
+                    "domain": domain, "url": (it.findtext("link") or "").strip(),
+                    "player": qb["name"]}
+            score = SOURCE_TIER.get(domain, 1) * 2
+            for word, w in HIGH_SIGNAL:
+                if word in head.lower():
+                    score += w
+            try:
+                pub = datetime.strptime((it.findtext("pubDate") or "").strip(),
+                                        "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc)
+                age = (now_utc() - pub).total_seconds() / 3600
+                score += 7 if age < 24 else 3 if age < 72 else 0
+                item["age_hours"] = round(age)
+            except Exception:
+                item["age_hours"] = None
+            item["score"] = score
+            if score >= NEWS_FLOOR:
                 out.append(item)
     out.sort(key=lambda x: -x["score"])
     return out[:NEWS_MAX]
@@ -423,8 +398,12 @@ def build_news():
 # ---------------------------------------------------------------------------
 
 def main():
-    now = datetime.now(timezone.utc)
-    print(f"Fetching {now.isoformat()}")
+    n = now_utc()
+    print(f"Fetching {n.isoformat()}")
+    if not KEY:
+        print("FATAL: CFBD_API_KEY is not set. Add it as a repository secret.",
+              file=sys.stderr)
+        sys.exit(1)
 
     prev = {}
     if os.path.exists(OUT):
@@ -433,65 +412,64 @@ def main():
         except Exception:
             pass
     prev_qb = {q["name"]: q for q in prev.get("quarterbacks", [])}
+    run_daily = os.environ.get("FORCE_DAILY") == "1" or n.hour == 12 or not prev_qb
 
     teams = resolve_teams(prev.get("teams"))
     print(f"  teams resolved: {len(teams)}/{len(QBS)}")
-
-    events = scoreboard()
-    print(f"  {len(events)} FBS events in window")
-    if not events:
-        DIAG["errors"].append("scoreboard returned no events at all")
-
-    run_daily = (os.environ.get("FORCE_DAILY") == "1" or now.hour == 12 or not prev_qb)
+    games = season_games()
+    print(f"  {len(games)} FBS games in the {SEASON} schedule")
+    live = live_index()
+    print(f"  {len(live)} games in progress league-wide")
 
     rows, matched = [], 0
     for qb in QBS:
         team = teams.get(qb["school"])
         old = prev_qb.get(qb["name"], {})
+        log = clean_log(old.get("log"))
         if not team:
             rows.append({"name": qb["name"], "school": qb["school"], "class": qb["cls"],
                          "team": None, "status": {"state": "idle", "label": "Team unresolved"},
-                         "game": None, "next_game": None,
-                         "log": clean_log(old.get("log")),
-                         "season": season_from_log(clean_log(old.get("log")))})
+                         "game": None, "next_game": None, "log": log,
+                         "season": season_from_log(log)})
             continue
 
-        status = describe(find_game(events, team["id"]), team["id"])
+        status = this_week(games, team["id"], live)
         if status["state"] != "idle":
             matched += 1
-        line = box_line(status.get("event_id"), qb["name"]) \
-            if status["state"] in ("live", "final") else None
 
-        nxt = old.get("next_game")
-        stale = run_daily or not nxt or (nxt.get("kickoff") or "") < now.isoformat()
-        if status["state"] == "live":
-            nxt = nxt  # don't burn a call mid-game
-        elif stale:
-            nxt = next_game(team["id"], qb["school"])
+        line = old.get("game")
+        need = status["state"] == "final" and not any(
+            e.get("event_id") == status.get("event_id") for e in log)
+        if need or (status["state"] == "live" and status.get("period")):
+            line = box_line(status.get("week"), team["school"], qb["name"]) or line
+        elif status["state"] not in ("live", "final"):
+            line = None
 
-        log = merge_log(old.get("log"), status, line)
-        epa = cfbd_epa(qb) if run_daily else (old.get("season") or {}).get("epa_per_play")
+        log = merge_log(log, status, line)
+        epa = epa_for(team["school"], qb["name"]) if run_daily \
+            else (old.get("season") or {}).get("epa_per_play")
 
         print(f"  {qb['name']:<20} {status['state']:<10} {status.get('label','')}")
         rows.append({"name": qb["name"], "school": qb["school"], "class": qb["cls"],
-                     "team": team, "status": status, "game": line, "next_game": nxt,
+                     "team": team, "status": status, "game": line,
+                     "next_game": upcoming(games, team["id"]),
                      "log": log, "season": season_from_log(log, epa)})
 
     payload = {
-        "updated_at": now.isoformat(), "season": SEASON,
+        "updated_at": n.isoformat(), "season": SEASON,
         "live_count": sum(1 for r in rows if r["status"]["state"] == "live"),
         "teams": teams, "quarterbacks": rows, "news": build_news(),
-        "diagnostics": {**DIAG, "events_seen": len(events),
-                        "games_matched": matched, "teams_resolved": len(teams)},
+        "diagnostics": {**DIAG, "games_seen": len(games), "games_matched": matched,
+                        "teams_resolved": len(teams), "live_available": bool(live) or None},
     }
     json.dump(payload, open(OUT, "w"), indent=2)
-    logged = sum(len(r["log"]) for r in rows)
-    print(f"Wrote {OUT} - {matched}/{len(QBS)} matched to a game, "
-          f"{logged} games logged, {len(payload['news'])} news items")
-    if DIAG["errors"]:
-        print("Problems:")
-        for e in DIAG["errors"][:12]:
-            print(f"  - {e}")
+    print(f"Wrote {OUT} - {matched}/{len(QBS)} on the board, "
+          f"{sum(len(r['log']) for r in rows)} games logged, "
+          f"{len(payload['news'])} news items")
+    if DIAG["errors"] or DIAG["notes"]:
+        print("Notes:")
+        for m in (DIAG["errors"] + DIAG["notes"])[:12]:
+            print(f"  - {m}")
 
 
 if __name__ == "__main__":
