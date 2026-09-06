@@ -1,0 +1,600 @@
+{
+  "sample": true,
+  "updated_at": "2026-09-05T23:00:00+00:00",
+  "season": 2026,
+  "cfbd_refreshed": false,
+  "live_count": 2,
+  "quarterbacks": [
+    {
+      "name": "Trinidad Chambliss",
+      "school": "Ole Miss",
+      "class": "6th yr",
+      "status": {
+        "state": "live",
+        "label": "vs Sample State",
+        "opponent": "Sample State",
+        "period": 3,
+        "clock": "7:41",
+        "score": "24-17"
+      },
+      "game": {
+        "cmp": 18,
+        "att": 25,
+        "pass_yds": 241,
+        "pass_td": 2,
+        "int": 0,
+        "rush_att": 7,
+        "rush_yds": 44,
+        "rush_td": 1,
+        "comp_pct": 72.0,
+        "ypa": 9.6
+      },
+      "log": [
+        {
+          "event_id": "a",
+          "opponent": "Sample A",
+          "result": "W",
+          "score": "31-20",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 21,
+          "att": 29,
+          "pass_yds": 276,
+          "pass_td": 2,
+          "int": 0,
+          "rush_att": 5,
+          "rush_yds": 61,
+          "rush_td": 1,
+          "comp_pct": 72.4,
+          "ypa": 9.5
+        },
+        {
+          "event_id": "b",
+          "opponent": "Sample B",
+          "result": "W",
+          "score": "27-24",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 19,
+          "att": 28,
+          "pass_yds": 244,
+          "pass_td": 2,
+          "int": 1,
+          "rush_att": 5,
+          "rush_yds": 52,
+          "rush_td": 1,
+          "comp_pct": 67.9,
+          "ypa": 8.7
+        }
+      ],
+      "season": {
+        "games": 2,
+        "record": "2-0",
+        "cmp": 40,
+        "att": 57,
+        "comp_pct": 70.2,
+        "pass_yds": 520,
+        "ypa": 9.1,
+        "pass_td": 4,
+        "int": 1,
+        "td_int": "4-1",
+        "rush_yds": 113,
+        "rush_td": 2,
+        "total_td": 6,
+        "ypg": 260,
+        "rating": 166.5,
+        "epa_per_play": 0.42
+      }
+    },
+    {
+      "name": "Sam Leavitt",
+      "school": "LSU",
+      "class": "RS Jr",
+      "status": {
+        "state": "live",
+        "label": "vs Sample Tech",
+        "opponent": "Sample Tech",
+        "period": 2,
+        "clock": "0:58",
+        "score": "13-10"
+      },
+      "game": {
+        "cmp": 11,
+        "att": 19,
+        "pass_yds": 138,
+        "pass_td": 1,
+        "int": 1,
+        "rush_att": 4,
+        "rush_yds": 21,
+        "rush_td": 0,
+        "comp_pct": 57.9,
+        "ypa": 7.3
+      },
+      "log": [
+        {
+          "event_id": "c",
+          "opponent": "Sample C",
+          "result": "L",
+          "score": "17-28",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 18,
+          "att": 33,
+          "pass_yds": 201,
+          "pass_td": 1,
+          "int": 2,
+          "rush_att": 5,
+          "rush_yds": 29,
+          "rush_td": 0,
+          "comp_pct": 54.5,
+          "ypa": 6.1
+        }
+      ],
+      "season": {
+        "games": 1,
+        "record": "0-1",
+        "cmp": 18,
+        "att": 33,
+        "comp_pct": 54.5,
+        "pass_yds": 201,
+        "ypa": 6.1,
+        "pass_td": 1,
+        "int": 2,
+        "td_int": "1-2",
+        "rush_yds": 29,
+        "rush_td": 0,
+        "total_td": 1,
+        "ypg": 201,
+        "rating": 103.6,
+        "epa_per_play": 0.11
+      }
+    },
+    {
+      "name": "Dante Moore",
+      "school": "Oregon",
+      "class": "RS Jr",
+      "status": {
+        "state": "final",
+        "label": "W 34-27 vs Sample U",
+        "result": "W",
+        "score": "34-27",
+        "opponent": "Sample U"
+      },
+      "game": {
+        "cmp": 22,
+        "att": 30,
+        "pass_yds": 288,
+        "pass_td": 3,
+        "int": 1,
+        "rush_att": 3,
+        "rush_yds": 12,
+        "rush_td": 0,
+        "comp_pct": 73.3,
+        "ypa": 9.6
+      },
+      "log": [
+        {
+          "event_id": "d",
+          "opponent": "Sample U",
+          "result": "W",
+          "score": "34-27",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 22,
+          "att": 30,
+          "pass_yds": 288,
+          "pass_td": 3,
+          "int": 1,
+          "rush_att": 5,
+          "rush_yds": 12,
+          "rush_td": 0,
+          "comp_pct": 73.3,
+          "ypa": 9.6
+        },
+        {
+          "event_id": "e",
+          "opponent": "Sample V",
+          "result": "W",
+          "score": "45-13",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 20,
+          "att": 26,
+          "pass_yds": 301,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 5,
+          "rush_yds": 18,
+          "rush_td": 1,
+          "comp_pct": 76.9,
+          "ypa": 11.6
+        }
+      ],
+      "season": {
+        "games": 2,
+        "record": "2-0",
+        "cmp": 42,
+        "att": 56,
+        "comp_pct": 75.0,
+        "pass_yds": 589,
+        "ypa": 10.5,
+        "pass_td": 6,
+        "int": 1,
+        "td_int": "6-1",
+        "rush_yds": 30,
+        "rush_td": 1,
+        "total_td": 7,
+        "ypg": 294,
+        "rating": 195.1,
+        "epa_per_play": 0.51
+      }
+    },
+    {
+      "name": "Arch Manning",
+      "school": "Texas",
+      "class": "RS Jr",
+      "status": {
+        "state": "final",
+        "label": "W 59-7 vs Sample A&M",
+        "result": "W",
+        "score": "59-7",
+        "opponent": "Sample A&M"
+      },
+      "game": {
+        "cmp": 16,
+        "att": 21,
+        "pass_yds": 254,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 5,
+        "rush_yds": 38,
+        "rush_td": 1,
+        "comp_pct": 76.2,
+        "ypa": 12.1
+      },
+      "log": [
+        {
+          "event_id": "f",
+          "opponent": "Sample A&M",
+          "result": "W",
+          "score": "59-7",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 16,
+          "att": 21,
+          "pass_yds": 254,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 5,
+          "rush_yds": 38,
+          "rush_td": 1,
+          "comp_pct": 76.2,
+          "ypa": 12.1
+        },
+        {
+          "event_id": "g",
+          "opponent": "Sample Bears",
+          "result": "W",
+          "score": "30-17",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 18,
+          "att": 29,
+          "pass_yds": 239,
+          "pass_td": 1,
+          "int": 1,
+          "rush_att": 5,
+          "rush_yds": 55,
+          "rush_td": 1,
+          "comp_pct": 62.1,
+          "ypa": 8.2
+        }
+      ],
+      "season": {
+        "games": 2,
+        "record": "2-0",
+        "cmp": 34,
+        "att": 50,
+        "comp_pct": 68.0,
+        "pass_yds": 493,
+        "ypa": 9.9,
+        "pass_td": 4,
+        "int": 1,
+        "td_int": "4-1",
+        "rush_yds": 93,
+        "rush_td": 2,
+        "total_td": 6,
+        "ypg": 246,
+        "rating": 173.2,
+        "epa_per_play": 0.38
+      }
+    },
+    {
+      "name": "Drew Mestemaker",
+      "school": "Oklahoma State",
+      "class": "RS So",
+      "status": {
+        "state": "final",
+        "label": "L 10-24 at Sample Hurricane",
+        "result": "L",
+        "score": "10-24",
+        "opponent": "Sample Hurricane"
+      },
+      "game": {
+        "cmp": 24,
+        "att": 41,
+        "pass_yds": 232,
+        "pass_td": 1,
+        "int": 2,
+        "rush_att": 6,
+        "rush_yds": -4,
+        "rush_td": 0,
+        "comp_pct": 58.5,
+        "ypa": 5.7
+      },
+      "log": [
+        {
+          "event_id": "h",
+          "opponent": "Sample Hurricane",
+          "result": "L",
+          "score": "10-24",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 24,
+          "att": 41,
+          "pass_yds": 232,
+          "pass_td": 1,
+          "int": 2,
+          "rush_att": 5,
+          "rush_yds": -4,
+          "rush_td": 0,
+          "comp_pct": 58.5,
+          "ypa": 5.7
+        }
+      ],
+      "season": {
+        "games": 1,
+        "record": "0-1",
+        "cmp": 24,
+        "att": 41,
+        "comp_pct": 58.5,
+        "pass_yds": 232,
+        "ypa": 5.7,
+        "pass_td": 1,
+        "int": 2,
+        "td_int": "1-2",
+        "rush_yds": -4,
+        "rush_td": 0,
+        "total_td": 1,
+        "ypg": 232,
+        "rating": 104.4,
+        "epa_per_play": 0.02
+      }
+    },
+    {
+      "name": "Noah Fifita",
+      "school": "Arizona",
+      "class": "RS Sr",
+      "status": {
+        "state": "final",
+        "label": "W 38-10 vs Sample Lumberjacks",
+        "result": "W",
+        "score": "38-10",
+        "opponent": "Sample Lumberjacks"
+      },
+      "game": {
+        "cmp": 25,
+        "att": 32,
+        "pass_yds": 289,
+        "pass_td": 4,
+        "int": 0,
+        "rush_att": 2,
+        "rush_yds": 9,
+        "rush_td": 0,
+        "comp_pct": 78.1,
+        "ypa": 9.0
+      },
+      "log": [
+        {
+          "event_id": "i",
+          "opponent": "Sample Jacks",
+          "result": "W",
+          "score": "38-10",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 25,
+          "att": 32,
+          "pass_yds": 289,
+          "pass_td": 4,
+          "int": 0,
+          "rush_att": 5,
+          "rush_yds": 9,
+          "rush_td": 0,
+          "comp_pct": 78.1,
+          "ypa": 9.0
+        }
+      ],
+      "season": {
+        "games": 1,
+        "record": "1-0",
+        "cmp": 25,
+        "att": 32,
+        "comp_pct": 78.1,
+        "pass_yds": 289,
+        "ypa": 9.0,
+        "pass_td": 4,
+        "int": 0,
+        "td_int": "4-0",
+        "rush_yds": 9,
+        "rush_td": 0,
+        "total_td": 4,
+        "ypg": 289,
+        "rating": 195.2,
+        "epa_per_play": 0.34
+      }
+    },
+    {
+      "name": "Julian Sayin",
+      "school": "Ohio State",
+      "class": "RS So",
+      "status": {
+        "state": "scheduled",
+        "label": "vs Sample Wildcats",
+        "opponent": "Sample Wildcats",
+        "kickoff": "2026-09-06T00:00:00+00:00"
+      },
+      "game": null,
+      "log": [
+        {
+          "event_id": "j",
+          "opponent": "Sample Cats",
+          "result": "W",
+          "score": "42-14",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 23,
+          "att": 28,
+          "pass_yds": 318,
+          "pass_td": 4,
+          "int": 0,
+          "rush_att": 5,
+          "rush_yds": 6,
+          "rush_td": 0,
+          "comp_pct": 82.1,
+          "ypa": 11.4
+        }
+      ],
+      "season": {
+        "games": 1,
+        "record": "1-0",
+        "cmp": 23,
+        "att": 28,
+        "comp_pct": 82.1,
+        "pass_yds": 318,
+        "ypa": 11.4,
+        "pass_td": 4,
+        "int": 0,
+        "td_int": "4-0",
+        "rush_yds": 6,
+        "rush_td": 0,
+        "total_td": 4,
+        "ypg": 318,
+        "rating": 224.7,
+        "epa_per_play": 0.55
+      }
+    },
+    {
+      "name": "CJ Carr",
+      "school": "Notre Dame",
+      "class": "RS So",
+      "status": {
+        "state": "scheduled",
+        "label": "at Sample Cardinals",
+        "opponent": "Sample Cardinals",
+        "kickoff": "2026-09-06T00:30:00+00:00"
+      },
+      "game": null,
+      "log": [
+        {
+          "event_id": "k",
+          "opponent": "Sample Cards",
+          "result": "W",
+          "score": "28-21",
+          "home_away": "vs",
+          "date": "2026-09-05T19:30:00Z",
+          "cmp": 21,
+          "att": 34,
+          "pass_yds": 262,
+          "pass_td": 2,
+          "int": 1,
+          "rush_att": 5,
+          "rush_yds": 11,
+          "rush_td": 0,
+          "comp_pct": 61.8,
+          "ypa": 7.7
+        }
+      ],
+      "season": {
+        "games": 1,
+        "record": "1-0",
+        "cmp": 21,
+        "att": 34,
+        "comp_pct": 61.8,
+        "pass_yds": 262,
+        "ypa": 7.7,
+        "pass_td": 2,
+        "int": 1,
+        "td_int": "2-1",
+        "rush_yds": 11,
+        "rush_td": 0,
+        "total_td": 2,
+        "ypg": 262,
+        "rating": 140.0,
+        "epa_per_play": 0.29
+      }
+    },
+    {
+      "name": "Darian Mensah",
+      "school": "Miami",
+      "class": "Jr",
+      "status": {
+        "state": "scheduled",
+        "label": "vs Sample Panthers",
+        "opponent": "Sample Panthers",
+        "kickoff": "2026-09-06T02:00:00+00:00"
+      },
+      "game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": 0.31
+      }
+    },
+    {
+      "name": "Jayden Maiava",
+      "school": "USC",
+      "class": "RS Sr",
+      "status": {
+        "state": "scheduled",
+        "label": "vs Sample Bruins",
+        "opponent": "Sample Bruins",
+        "kickoff": "2026-09-06T02:30:00+00:00"
+      },
+      "game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    }
+  ],
+  "news": [
+    {
+      "headline": "Sample headline: starting quarterback listed as questionable",
+      "source": "Sample Source",
+      "domain": "espn.com",
+      "url": "https://example.com",
+      "player": "Arch Manning",
+      "age_hours": 4,
+      "score": 21
+    },
+    {
+      "headline": "Sample headline: coach names Week 2 starter after uneven opener",
+      "source": "Sample Source",
+      "domain": "247sports.com",
+      "url": "https://example.com",
+      "player": "Sam Leavitt",
+      "age_hours": 11,
+      "score": 17
+    },
+    {
+      "headline": "Sample headline: 2027 draft board shuffles after opening weekend",
+      "source": "Sample Source",
+      "domain": "cbssports.com",
+      "url": "https://example.com",
+      "player": "Dante Moore",
+      "age_hours": 20,
+      "score": 14
+    }
+  ]
+}

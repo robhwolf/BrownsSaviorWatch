@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cleveland Browns Savior Watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --seal:#311D00; --ink:#1B0F00; --edge:#4B2E0A;
+    --orange:#FF3C00; --paper:#FFFFFF; --tan:#C4AE95; --stripe:#FFF6EF;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--ink);color:var(--paper);
+    font-family:"IBM Plex Sans",system-ui,sans-serif;
+    font-size:15px;line-height:1.5;font-feature-settings:"tnum" 1;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:860px;margin:0 auto;padding:0 16px 64px}
+
+  header{padding:28px 0 0}
+  h1{
+    font-family:Oswald,sans-serif;font-weight:700;
+    font-size:clamp(30px,8.5vw,58px);line-height:.95;
+    letter-spacing:-.01em;margin:0 0 14px;text-transform:uppercase;
+  }
+  h1 .sub{display:block;color:var(--orange)}
+  .helmet-stripe{height:14px;display:flex;border-radius:2px;overflow:hidden}
+  .helmet-stripe i{display:block;height:100%}
+  .helmet-stripe i:nth-child(1),.helmet-stripe i:nth-child(5){background:var(--orange);flex:1}
+  .helmet-stripe i:nth-child(2),.helmet-stripe i:nth-child(4){background:var(--seal);width:7px}
+  .helmet-stripe i:nth-child(3){background:var(--stripe);width:9px}
+  .ribbon{padding:14px 0 6px;color:var(--tan);font-size:13.5px}
+  .ribbon b{color:var(--paper);font-weight:600}
+  .stale{color:var(--orange)}
+  .banner{background:var(--orange);color:var(--seal);font-weight:600;
+          padding:10px 14px;border-radius:3px;margin:16px 0 0;font-size:13.5px}
+
+  h2.sec{font-family:Oswald,sans-serif;font-weight:600;text-transform:uppercase;
+         font-size:19px;letter-spacing:.02em;margin:34px 0 3px}
+  h2.sec .count{color:var(--orange)}
+  .lede{margin:0 0 14px;color:var(--tan);font-size:13px}
+
+  .qb{display:grid;grid-template-columns:6px 1fr;background:var(--seal);
+      border:1px solid var(--edge);border-radius:3px;margin-bottom:10px;overflow:hidden}
+  .qb .rib{background:var(--stripe)}
+  .qb.live .rib{background:var(--orange)}
+  .qb.live{border-color:var(--orange)}
+  .qb .body{padding:14px 16px}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+  .who h3{font-family:Oswald,sans-serif;font-weight:600;text-transform:uppercase;
+          font-size:22px;line-height:1.05;margin:0}
+  .who p{margin:3px 0 0;color:var(--tan);font-size:13px}
+  .chip{flex:none;font-size:12px;font-weight:600;padding:5px 9px;border-radius:2px;
+        border:1px solid var(--edge);color:var(--tan);white-space:nowrap;text-align:right}
+  .chip.final{color:var(--paper)}
+  .chip.live{background:var(--orange);color:var(--seal);border-color:var(--orange);
+             display:flex;align-items:center;gap:6px}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--seal);
+       animation:pulse 1.6s ease-in-out infinite}
+  @keyframes pulse{50%{opacity:.25}}
+  @media (prefers-reduced-motion:reduce){.dot{animation:none}}
+
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(62px,1fr));
+         gap:12px 8px;margin-top:14px;padding-top:13px;border-top:1px solid var(--edge)}
+  .stat span{display:block;color:var(--tan);font-size:11px;letter-spacing:.03em}
+  .stat strong{font-family:Oswald,sans-serif;font-weight:500;font-size:21px;line-height:1.1}
+  .stat.key strong{color:var(--orange)}
+  .empty{color:var(--tan);font-size:13px;font-style:italic;margin:12px 0 0}
+  .quiet{background:var(--seal);border:1px solid var(--edge);border-radius:3px;
+         padding:16px;color:var(--tan);font-size:14px}
+  .quiet b{color:var(--paper);font-weight:600}
+
+  .sortbar{display:flex;align-items:center;gap:8px;margin:0 0 12px;
+           color:var(--tan);font-size:13px}
+  select{background:var(--seal);color:var(--paper);border:1px solid var(--edge);
+         border-radius:2px;padding:6px 8px;font:inherit;font-size:13px}
+  table{width:100%;border-collapse:collapse;table-layout:fixed}
+  th{font-family:Oswald,sans-serif;font-weight:500;color:var(--tan);font-size:12px;
+     text-align:right;padding:0 0 8px;border-bottom:1px solid var(--edge)}
+  th:first-child{text-align:left}
+  td{padding:11px 0;border-bottom:1px solid var(--edge);text-align:right;
+     font-size:14px;white-space:nowrap}
+  td:first-child{text-align:left;white-space:normal}
+  tr.leader td{color:var(--orange)}
+  .nm{font-family:Oswald,sans-serif;font-weight:500;font-size:16px;
+      text-transform:uppercase;line-height:1.1}
+  .tm{color:var(--tan);font-size:12px}
+  .col-g{width:30px}.col-n{width:60px}.col-w{width:74px}
+
+  .story{padding:13px 0;border-top:1px solid var(--edge)}
+  .story a{color:var(--paper);text-decoration:none;font-weight:500}
+  .story a:hover,.story a:focus{color:var(--orange);text-decoration:underline}
+  .meta{margin-top:5px;color:var(--tan);font-size:12.5px}
+  .meta .tag{color:var(--orange);font-weight:600}
+  footer{margin-top:44px;padding-top:16px;border-top:1px solid var(--edge);
+         color:var(--tan);font-size:12.5px}
+  footer a{color:var(--tan)}
+  a:focus-visible,select:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Cleveland Browns<span class="sub">Savior Watch</span></h1>
+    <div class="helmet-stripe" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+    <div class="ribbon" id="ribbon"></div>
+    <div id="banner"></div>
+  </header>
+
+  <section>
+    <h2 class="sec">On the field now <span class="count" id="livecount"></span></h2>
+    <p class="lede" id="livelede"></p>
+    <div id="live"></div>
+  </section>
+
+  <section>
+    <h2 class="sec">This week</h2>
+    <p class="lede">Finals first, then whoever hasn't kicked off.</p>
+    <div id="week"></div>
+  </section>
+
+  <section>
+    <h2 class="sec">Season to date</h2>
+    <p class="lede">Totals accumulate from every completed game.</p>
+    <div class="sortbar">
+      <label for="sort">Sort by</label>
+      <select id="sort">
+        <option value="rating">Passer rating</option>
+        <option value="pass_yds">Passing yards</option>
+        <option value="total_td">Total touchdowns</option>
+        <option value="ypa">Yards per attempt</option>
+        <option value="comp_pct">Completion %</option>
+        <option value="epa_per_play">EPA per play</option>
+        <option value="int">Fewest interceptions</option>
+      </select>
+    </div>
+    <div id="season"></div>
+  </section>
+
+  <section>
+    <h2 class="sec">What's being reported</h2>
+    <p class="lede">Ranked by source, how much the story moves the needle, and how fresh it is.</p>
+    <div id="news"></div>
+  </section>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const REFRESH_MS = 5 * 60 * 1000;
+let DATA = null;
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmtAge = iso => {
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "just now";
+  if (m < 60) return m + " min ago";
+  const h = Math.round(m / 60);
+  return h < 24 ? h + " hr ago" : Math.round(h / 24) + " days ago";
+};
+const stat = (label, val, key) =>
+  `<div class="stat${key ? " key" : ""}"><span>${label}</span><strong>${esc(val)}</strong></div>`;
+
+function chip(st) {
+  if (st.state === "live")
+    return `<div class="chip live"><i class="dot"></i>Q${st.period ?? "?"} ${esc(st.clock ?? "")} · ${esc(st.score ?? "")}</div>`;
+  if (st.state === "final") return `<div class="chip final">${esc(st.label)}</div>`;
+  if (st.state === "scheduled") {
+    const k = st.kickoff ? new Date(st.kickoff).toLocaleString([], {weekday:"short", hour:"numeric", minute:"2-digit"}) : "";
+    return `<div class="chip">${esc(st.label)}<br>${esc(k)}</div>`;
+  }
+  return `<div class="chip">${esc(st.label)}</div>`;
+}
+
+function gameStats(g) {
+  if (!g || !g.att) return `<p class="empty">No stats posted yet.</p>`;
+  return `<div class="stats">
+    ${stat("Cmp-Att", `${g.cmp}-${g.att}`)}
+    ${stat("Pass yds", g.pass_yds, true)}
+    ${stat("TD-INT", `${g.pass_td}-${g.int}`, true)}
+    ${stat("Yds/att", g.ypa ?? "—")}
+    ${stat("Comp %", g.comp_pct != null ? g.comp_pct + "%" : "—")}
+    ${stat("Rush yds", g.rush_yds ?? "—")}
+  </div>`;
+}
+
+function card(q) {
+  return `<article class="qb${q.status.state === "live" ? " live" : ""}">
+    <div class="rib" aria-hidden="true"></div>
+    <div class="body">
+      <div class="top">
+        <div class="who">
+          <h3>${esc(q.name)}</h3>
+          <p>${esc(q.school)} · ${esc(q.class)}</p>
+        </div>
+        ${chip(q.status)}
+      </div>
+      ${q.status.state === "scheduled" || q.status.state === "idle" ? "" : gameStats(q.game)}
+    </div>
+  </article>`;
+}
+
+function nextKickoff(qbs) {
+  const up = qbs.filter(q => q.status.state === "scheduled" && q.status.kickoff)
+                .sort((a, b) => new Date(a.status.kickoff) - new Date(b.status.kickoff))[0];
+  if (!up) return "Nothing on the schedule.";
+  const when = new Date(up.status.kickoff)
+    .toLocaleString([], {weekday:"long", hour:"numeric", minute:"2-digit"});
+  return `Next up: ${up.name}, ${up.status.label}, ${when}.`;
+}
+
+function renderSeason(qbs, key) {
+  const played = qbs.filter(q => q.season && q.season.games > 0);
+  if (!played.length) {
+    document.getElementById("season").innerHTML =
+      `<div class="quiet">No completed games yet. Totals start building after the first final.</div>`;
+    return;
+  }
+  const dir = key === "int" ? 1 : -1;
+  const rows = [...played].sort((a, b) =>
+    dir * (((a.season[key] ?? -Infinity) < (b.season[key] ?? -Infinity)) ? 1 : -1));
+  const idle = qbs.filter(q => !q.season || !q.season.games);
+
+  document.getElementById("season").innerHTML = `
+    <table>
+      <colgroup><col><col class="col-g"><col class="col-n"><col class="col-w"><col class="col-n"><col class="col-n"></colgroup>
+      <thead><tr>
+        <th scope="col">Quarterback</th><th scope="col">G</th><th scope="col">Yds</th>
+        <th scope="col">TD-INT</th><th scope="col">Y/A</th><th scope="col">Rtg</th>
+      </tr></thead>
+      <tbody>${rows.map((q, i) => `
+        <tr class="${i === 0 ? "leader" : ""}">
+          <td><div class="nm">${esc(q.name)}</div><div class="tm">${esc(q.school)} · ${esc(q.season.record)}</div></td>
+          <td>${q.season.games}</td>
+          <td>${q.season.pass_yds.toLocaleString()}</td>
+          <td>${esc(q.season.td_int)}</td>
+          <td>${q.season.ypa}</td>
+          <td>${q.season.rating}</td>
+        </tr>`).join("")}
+      </tbody>
+    </table>
+    ${idle.length ? `<p class="empty">Yet to log a game: ${idle.map(q => esc(q.name)).join(", ")}.</p>` : ""}`;
+}
+
+function render(d) {
+  const live = d.quarterbacks.filter(q => q.status.state === "live");
+  const age = (Date.now() - new Date(d.updated_at)) / 60000;
+  const stale = new Date().getDay() === 6 ? age > 90 : age > 600;
+
+  document.getElementById("ribbon").innerHTML =
+    `<span class="${stale ? "stale" : ""}">Updated ${fmtAge(d.updated_at)}${stale ? " — data may be stale" : ""}</span>`;
+  document.getElementById("banner").innerHTML = d.sample
+    ? `<div class="banner">Showing sample data. Run fetch_data.py to load real numbers.</div>` : "";
+
+  document.getElementById("livecount").textContent = live.length ? `${live.length}` : "";
+  document.getElementById("livelede").textContent = live.length
+    ? "Scores and stat lines refresh every five minutes while this page is open."
+    : nextKickoff(d.quarterbacks);
+  document.getElementById("live").innerHTML = live.length
+    ? live.map(card).join("")
+    : `<div class="quiet"><b>No games in progress.</b></div>`;
+
+  const rank = { final: 0, scheduled: 1, idle: 2 };
+  const week = d.quarterbacks.filter(q => q.status.state !== "live")
+    .sort((a, b) => rank[a.status.state] - rank[b.status.state] || a.name.localeCompare(b.name));
+  document.getElementById("week").innerHTML = week.map(card).join("");
+
+  renderSeason(d.quarterbacks, document.getElementById("sort").value);
+
+  document.getElementById("news").innerHTML = d.news.length ? d.news.map(n => `
+    <div class="story">
+      <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.headline)}</a>
+      <div class="meta"><span class="tag">${esc(n.player)}</span> · ${esc(n.source || n.domain)}${
+        n.age_hours != null ? ` · ${n.age_hours < 24 ? n.age_hours + "h" : Math.round(n.age_hours/24) + "d"} ago` : ""}</div>
+    </div>`).join("") : `<p class="empty">Nothing has cleared the bar today.</p>`;
+
+  document.getElementById("foot").innerHTML =
+    `Game state and box scores from ESPN. Efficiency data from
+     <a href="https://collegefootballdata.com">CollegeFootballData.com</a>. Headlines via Google News.
+     Not affiliated with the Cleveland Browns or the NFL.`;
+}
+
+document.getElementById("sort").addEventListener("change", () => {
+  if (DATA) renderSeason(DATA.quarterbacks, document.getElementById("sort").value);
+});
+
+async function load() {
+  try {
+    const r = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    DATA = await r.json();
+    render(DATA);
+  } catch (e) {
+    document.getElementById("live").innerHTML =
+      `<div class="quiet">Couldn't load data.json (${esc(e.message)}). Check that the last scheduled run finished.</div>`;
+  }
+}
+load();
+setInterval(load, REFRESH_MS);
+</script>
+</body>
+</html>
