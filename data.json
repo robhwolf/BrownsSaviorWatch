@@ -1,20 +1,127 @@
 {
-  "updated_at": "2026-09-06T01:07:42.574316+00:00",
+  "updated_at": "2026-09-06T01:27:35.755598+00:00",
   "season": 2026,
   "live_count": 0,
-  "teams": {},
+  "teams": {
+    "Ole Miss": {
+      "id": 145,
+      "school": "Ole Miss",
+      "mascot": "Rebels",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/145.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/145.png",
+      "color": "#13294b"
+    },
+    "Oregon": {
+      "id": 2483,
+      "school": "Oregon",
+      "mascot": "Ducks",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/2483.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/2483.png",
+      "color": "#007030"
+    },
+    "Notre Dame": {
+      "id": 87,
+      "school": "Notre Dame",
+      "mascot": "Fighting Irish",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/87.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/87.png",
+      "color": "#0c2340"
+    },
+    "Miami": {
+      "id": 2390,
+      "school": "Miami",
+      "mascot": "Hurricanes",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/2390.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/2390.png",
+      "color": "#f47321"
+    },
+    "Ohio State": {
+      "id": 194,
+      "school": "Ohio State",
+      "mascot": "Buckeyes",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/194.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/194.png",
+      "color": "#ba0c2f"
+    },
+    "Oklahoma State": {
+      "id": 197,
+      "school": "Oklahoma State",
+      "mascot": "Cowboys",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/197.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/197.png",
+      "color": "#fe5c00"
+    },
+    "Texas": {
+      "id": 251,
+      "school": "Texas",
+      "mascot": "Longhorns",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/251.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/251.png",
+      "color": "#bf5700"
+    },
+    "LSU": {
+      "id": 99,
+      "school": "LSU",
+      "mascot": "Tigers",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/99.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/99.png",
+      "color": "#461d7c"
+    },
+    "USC": {
+      "id": 30,
+      "school": "USC",
+      "mascot": "Trojans",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/30.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/30.png",
+      "color": "#990000"
+    },
+    "Arizona": {
+      "id": 12,
+      "school": "Arizona",
+      "mascot": "Wildcats",
+      "logo": "https://cdn.collegefootballdata.com/logos/500/12.png",
+      "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/12.png",
+      "color": "#cc0033"
+    }
+  },
   "quarterbacks": [
     {
       "name": "Trinidad Chambliss",
       "school": "Ole Miss",
       "class": "6th yr",
-      "team": null,
+      "team": {
+        "id": 145,
+        "school": "Ole Miss",
+        "mascot": "Rebels",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/145.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/145.png",
+        "color": "#13294b"
+      },
       "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+        "event_id": "401856661",
+        "week": 1,
+        "opponent": "Louisville",
+        "opponent_id": 97,
+        "home_away": "vs",
+        "kickoff": "2026-09-06T23:30:00.000Z",
+        "tbd": false,
+        "neutral": true,
+        "state": "scheduled",
+        "label": "vs Louisville"
       },
       "game": null,
-      "next_game": null,
+      "next_game": {
+        "event_id": "401856661",
+        "week": 1,
+        "opponent": "Louisville",
+        "opponent_id": 97,
+        "home_away": "vs",
+        "kickoff": "2026-09-06T23:30:00.000Z",
+        "tbd": false,
+        "neutral": true,
+        "state": "scheduled",
+        "label": "vs Louisville"
+      },
       "log": [],
       "season": {
         "games": 0,
@@ -25,16 +132,89 @@
       "name": "Dante Moore",
       "school": "Oregon",
       "class": "RS Jr",
-      "team": null,
-      "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+      "team": {
+        "id": 2483,
+        "school": "Oregon",
+        "mascot": "Ducks",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/2483.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/2483.png",
+        "color": "#007030"
       },
-      "game": null,
-      "next_game": null,
-      "log": [],
+      "status": {
+        "event_id": "401858433",
+        "week": 1,
+        "opponent": "Boise State",
+        "opponent_id": 68,
+        "home_away": "vs",
+        "kickoff": "2026-09-05T19:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "final",
+        "result": "W",
+        "score": "34-27",
+        "label": "W 34-27 vs Boise State"
+      },
+      "game": {
+        "cmp": 28,
+        "att": 37,
+        "pass_yds": 378,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 2,
+        "rush_yds": -5,
+        "rush_td": 0,
+        "comp_pct": 75.7,
+        "ypa": 10.2
+      },
+      "next_game": {
+        "event_id": "401856782",
+        "week": 2,
+        "opponent": "Oklahoma State",
+        "opponent_id": 197,
+        "home_away": "at",
+        "kickoff": "2026-09-12T16:00:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "at Oklahoma State"
+      },
+      "log": [
+        {
+          "cmp": 28,
+          "att": 37,
+          "pass_yds": 378,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 2,
+          "rush_yds": -5,
+          "rush_td": 0,
+          "comp_pct": 75.7,
+          "ypa": 10.2,
+          "event_id": "401858433",
+          "week": 1,
+          "opponent": "Boise State",
+          "home_away": "vs",
+          "result": "W",
+          "score": "34-27",
+          "date": "2026-09-05T19:30:00.000Z"
+        }
+      ],
       "season": {
-        "games": 0,
+        "games": 1,
+        "record": "1-0",
+        "cmp": 28,
+        "att": 37,
+        "comp_pct": 75.7,
+        "pass_yds": 378,
+        "ypa": 10.2,
+        "pass_td": 3,
+        "int": 0,
+        "td_int": "3-0",
+        "rush_yds": -5,
+        "rush_td": 0,
+        "total_td": 3,
+        "ypg": 378,
+        "rating": 188.2,
         "epa_per_play": null
       }
     },
@@ -42,13 +222,39 @@
       "name": "CJ Carr",
       "school": "Notre Dame",
       "class": "RS So",
-      "team": null,
+      "team": {
+        "id": 87,
+        "school": "Notre Dame",
+        "mascot": "Fighting Irish",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/87.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/87.png",
+        "color": "#0c2340"
+      },
       "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+        "event_id": "401858438",
+        "week": 1,
+        "opponent": "Wisconsin",
+        "opponent_id": 275,
+        "home_away": "vs",
+        "kickoff": "2026-09-06T23:30:00.000Z",
+        "tbd": false,
+        "neutral": true,
+        "state": "scheduled",
+        "label": "vs Wisconsin"
       },
       "game": null,
-      "next_game": null,
+      "next_game": {
+        "event_id": "401858438",
+        "week": 1,
+        "opponent": "Wisconsin",
+        "opponent_id": 275,
+        "home_away": "vs",
+        "kickoff": "2026-09-06T23:30:00.000Z",
+        "tbd": false,
+        "neutral": true,
+        "state": "scheduled",
+        "label": "vs Wisconsin"
+      },
       "log": [],
       "season": {
         "games": 0,
@@ -59,16 +265,89 @@
       "name": "Darian Mensah",
       "school": "Miami",
       "class": "Jr",
-      "team": null,
-      "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+      "team": {
+        "id": 2390,
+        "school": "Miami",
+        "mascot": "Hurricanes",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/2390.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/2390.png",
+        "color": "#f47321"
       },
-      "game": null,
-      "next_game": null,
-      "log": [],
+      "status": {
+        "event_id": "401858206",
+        "week": 1,
+        "opponent": "Stanford",
+        "opponent_id": 24,
+        "home_away": "at",
+        "kickoff": "2026-09-05T01:00:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "final",
+        "result": "W",
+        "score": "45-6",
+        "label": "W 45-6 at Stanford"
+      },
+      "game": {
+        "cmp": 27,
+        "att": 30,
+        "pass_yds": 412,
+        "pass_td": 5,
+        "int": 0,
+        "rush_att": 1,
+        "rush_yds": 5,
+        "rush_td": 0,
+        "comp_pct": 90.0,
+        "ypa": 13.7
+      },
+      "next_game": {
+        "event_id": "401858213",
+        "week": 2,
+        "opponent": "Florida A&M",
+        "opponent_id": 50,
+        "home_away": "vs",
+        "kickoff": "2026-09-11T00:00:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Florida A&M"
+      },
+      "log": [
+        {
+          "cmp": 27,
+          "att": 30,
+          "pass_yds": 412,
+          "pass_td": 5,
+          "int": 0,
+          "rush_att": 1,
+          "rush_yds": 5,
+          "rush_td": 0,
+          "comp_pct": 90.0,
+          "ypa": 13.7,
+          "event_id": "401858206",
+          "week": 1,
+          "opponent": "Stanford",
+          "home_away": "at",
+          "result": "W",
+          "score": "45-6",
+          "date": "2026-09-05T01:00:00.000Z"
+        }
+      ],
       "season": {
-        "games": 0,
+        "games": 1,
+        "record": "1-0",
+        "cmp": 27,
+        "att": 30,
+        "comp_pct": 90.0,
+        "pass_yds": 412,
+        "ypa": 13.7,
+        "pass_td": 5,
+        "int": 0,
+        "td_int": "5-0",
+        "rush_yds": 5,
+        "rush_td": 0,
+        "total_td": 5,
+        "ypg": 412,
+        "rating": 260.4,
         "epa_per_play": null
       }
     },
@@ -76,16 +355,89 @@
       "name": "Julian Sayin",
       "school": "Ohio State",
       "class": "RS So",
-      "team": null,
-      "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+      "team": {
+        "id": 194,
+        "school": "Ohio State",
+        "mascot": "Buckeyes",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/194.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/194.png",
+        "color": "#ba0c2f"
       },
-      "game": null,
-      "next_game": null,
-      "log": [],
+      "status": {
+        "event_id": "401858432",
+        "week": 1,
+        "opponent": "Ball State",
+        "opponent_id": 2050,
+        "home_away": "vs",
+        "kickoff": "2026-09-05T16:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "final",
+        "result": "W",
+        "score": "56-3",
+        "label": "W 56-3 vs Ball State"
+      },
+      "game": {
+        "cmp": 21,
+        "att": 25,
+        "pass_yds": 320,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 3,
+        "rush_yds": -9,
+        "rush_td": 1,
+        "comp_pct": 84.0,
+        "ypa": 12.8
+      },
+      "next_game": {
+        "event_id": "401856682",
+        "week": 2,
+        "opponent": "Texas",
+        "opponent_id": 251,
+        "home_away": "at",
+        "kickoff": "2026-09-12T23:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "at Texas"
+      },
+      "log": [
+        {
+          "cmp": 21,
+          "att": 25,
+          "pass_yds": 320,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 3,
+          "rush_yds": -9,
+          "rush_td": 1,
+          "comp_pct": 84.0,
+          "ypa": 12.8,
+          "event_id": "401858432",
+          "week": 1,
+          "opponent": "Ball State",
+          "home_away": "vs",
+          "result": "W",
+          "score": "56-3",
+          "date": "2026-09-05T16:30:00.000Z"
+        }
+      ],
       "season": {
-        "games": 0,
+        "games": 1,
+        "record": "1-0",
+        "cmp": 21,
+        "att": 25,
+        "comp_pct": 84.0,
+        "pass_yds": 320,
+        "ypa": 12.8,
+        "pass_td": 3,
+        "int": 0,
+        "td_int": "3-0",
+        "rush_yds": -9,
+        "rush_td": 1,
+        "total_td": 4,
+        "ypg": 320,
+        "rating": 231.1,
         "epa_per_play": null
       }
     },
@@ -93,16 +445,89 @@
       "name": "Drew Mestemaker",
       "school": "Oklahoma State",
       "class": "RS So",
-      "team": null,
-      "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+      "team": {
+        "id": 197,
+        "school": "Oklahoma State",
+        "mascot": "Cowboys",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/197.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/197.png",
+        "color": "#fe5c00"
       },
-      "game": null,
-      "next_game": null,
-      "log": [],
+      "status": {
+        "event_id": "401856772",
+        "week": 1,
+        "opponent": "Tulsa",
+        "opponent_id": 202,
+        "home_away": "at",
+        "kickoff": "2026-09-05T19:45:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "final",
+        "result": "L",
+        "score": "10-24",
+        "label": "L 10-24 at Tulsa"
+      },
+      "game": {
+        "cmp": 29,
+        "att": 49,
+        "pass_yds": 241,
+        "pass_td": 1,
+        "int": 2,
+        "rush_att": 5,
+        "rush_yds": 3,
+        "rush_td": 0,
+        "comp_pct": 59.2,
+        "ypa": 4.9
+      },
+      "next_game": {
+        "event_id": "401856782",
+        "week": 2,
+        "opponent": "Oregon",
+        "opponent_id": 2483,
+        "home_away": "vs",
+        "kickoff": "2026-09-12T16:00:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Oregon"
+      },
+      "log": [
+        {
+          "cmp": 29,
+          "att": 49,
+          "pass_yds": 241,
+          "pass_td": 1,
+          "int": 2,
+          "rush_att": 5,
+          "rush_yds": 3,
+          "rush_td": 0,
+          "comp_pct": 59.2,
+          "ypa": 4.9,
+          "event_id": "401856772",
+          "week": 1,
+          "opponent": "Tulsa",
+          "home_away": "at",
+          "result": "L",
+          "score": "10-24",
+          "date": "2026-09-05T19:45:00.000Z"
+        }
+      ],
       "season": {
-        "games": 0,
+        "games": 1,
+        "record": "0-1",
+        "cmp": 29,
+        "att": 49,
+        "comp_pct": 59.2,
+        "pass_yds": 241,
+        "ypa": 4.9,
+        "pass_td": 1,
+        "int": 2,
+        "td_int": "1-2",
+        "rush_yds": 3,
+        "rush_td": 0,
+        "total_td": 1,
+        "ypg": 241,
+        "rating": 99.1,
         "epa_per_play": null
       }
     },
@@ -110,16 +535,89 @@
       "name": "Arch Manning",
       "school": "Texas",
       "class": "RS Jr",
-      "team": null,
-      "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+      "team": {
+        "id": 251,
+        "school": "Texas",
+        "mascot": "Longhorns",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/251.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/251.png",
+        "color": "#bf5700"
       },
-      "game": null,
-      "next_game": null,
-      "log": [],
+      "status": {
+        "event_id": "401856667",
+        "week": 1,
+        "opponent": "Texas State",
+        "opponent_id": 326,
+        "home_away": "vs",
+        "kickoff": "2026-09-05T19:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "final",
+        "result": "W",
+        "score": "59-7",
+        "label": "W 59-7 vs Texas State"
+      },
+      "game": {
+        "cmp": 20,
+        "att": 27,
+        "pass_yds": 305,
+        "pass_td": 4,
+        "int": 1,
+        "rush_att": 3,
+        "rush_yds": 6,
+        "rush_td": 0,
+        "comp_pct": 74.1,
+        "ypa": 11.3
+      },
+      "next_game": {
+        "event_id": "401856682",
+        "week": 2,
+        "opponent": "Ohio State",
+        "opponent_id": 194,
+        "home_away": "vs",
+        "kickoff": "2026-09-12T23:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Ohio State"
+      },
+      "log": [
+        {
+          "cmp": 20,
+          "att": 27,
+          "pass_yds": 305,
+          "pass_td": 4,
+          "int": 1,
+          "rush_att": 3,
+          "rush_yds": 6,
+          "rush_td": 0,
+          "comp_pct": 74.1,
+          "ypa": 11.3,
+          "event_id": "401856667",
+          "week": 1,
+          "opponent": "Texas State",
+          "home_away": "vs",
+          "result": "W",
+          "score": "59-7",
+          "date": "2026-09-05T19:30:00.000Z"
+        }
+      ],
       "season": {
-        "games": 0,
+        "games": 1,
+        "record": "1-0",
+        "cmp": 20,
+        "att": 27,
+        "comp_pct": 74.1,
+        "pass_yds": 305,
+        "ypa": 11.3,
+        "pass_td": 4,
+        "int": 1,
+        "td_int": "4-1",
+        "rush_yds": 6,
+        "rush_td": 0,
+        "total_td": 4,
+        "ypg": 305,
+        "rating": 210.4,
         "epa_per_play": null
       }
     },
@@ -127,13 +625,39 @@
       "name": "Sam Leavitt",
       "school": "LSU",
       "class": "RS Jr",
-      "team": null,
+      "team": {
+        "id": 99,
+        "school": "LSU",
+        "mascot": "Tigers",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/99.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/99.png",
+        "color": "#461d7c"
+      },
       "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+        "event_id": "401856660",
+        "week": 1,
+        "opponent": "Clemson",
+        "opponent_id": 228,
+        "home_away": "vs",
+        "kickoff": "2026-09-05T23:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Clemson"
       },
       "game": null,
-      "next_game": null,
+      "next_game": {
+        "event_id": "401867796",
+        "week": 2,
+        "opponent": "Louisiana Tech",
+        "opponent_id": 2348,
+        "home_away": "vs",
+        "kickoff": "2026-09-12T23:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Louisiana Tech"
+      },
       "log": [],
       "season": {
         "games": 0,
@@ -144,16 +668,91 @@
       "name": "Jayden Maiava",
       "school": "USC",
       "class": "RS Sr",
-      "team": null,
-      "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+      "team": {
+        "id": 30,
+        "school": "USC",
+        "mascot": "Trojans",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/30.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/30.png",
+        "color": "#990000"
       },
-      "game": null,
-      "next_game": null,
-      "log": [],
+      "status": {
+        "event_id": "401858436",
+        "week": 1,
+        "opponent": "Fresno State",
+        "opponent_id": 278,
+        "home_away": "vs",
+        "kickoff": "2026-09-05T01:00:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "final",
+        "result": "W",
+        "score": "39-0",
+        "label": "W 39-0 vs Fresno State"
+      },
+      "game": {
+        "cmp": 25,
+        "att": 29,
+        "pass_yds": 286,
+        "pass_td": 2,
+        "int": 0,
+        "rush_att": 3,
+        "rush_yds": -9,
+        "rush_td": 1,
+        "qbr": "80.4",
+        "comp_pct": 86.2,
+        "ypa": 9.9
+      },
+      "next_game": {
+        "event_id": "401858445",
+        "week": 2,
+        "opponent": "Louisiana",
+        "opponent_id": 309,
+        "home_away": "vs",
+        "kickoff": "2026-09-13T03:00:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Louisiana"
+      },
+      "log": [
+        {
+          "cmp": 25,
+          "att": 29,
+          "pass_yds": 286,
+          "pass_td": 2,
+          "int": 0,
+          "rush_att": 3,
+          "rush_yds": -9,
+          "rush_td": 1,
+          "qbr": "80.4",
+          "comp_pct": 86.2,
+          "ypa": 9.9,
+          "event_id": "401858436",
+          "week": 1,
+          "opponent": "Fresno State",
+          "home_away": "vs",
+          "result": "W",
+          "score": "39-0",
+          "date": "2026-09-05T01:00:00.000Z"
+        }
+      ],
       "season": {
-        "games": 0,
+        "games": 1,
+        "record": "1-0",
+        "cmp": 25,
+        "att": 29,
+        "comp_pct": 86.2,
+        "pass_yds": 286,
+        "ypa": 9.9,
+        "pass_td": 2,
+        "int": 0,
+        "td_int": "2-0",
+        "rush_yds": -9,
+        "rush_td": 1,
+        "total_td": 3,
+        "ypg": 286,
+        "rating": 191.8,
         "epa_per_play": null
       }
     },
@@ -161,13 +760,39 @@
       "name": "Noah Fifita",
       "school": "Arizona",
       "class": "RS Sr",
-      "team": null,
+      "team": {
+        "id": 12,
+        "school": "Arizona",
+        "mascot": "Wildcats",
+        "logo": "https://cdn.collegefootballdata.com/logos/500/12.png",
+        "logo_dark": "https://cdn.collegefootballdata.com/logos-dark/500/12.png",
+        "color": "#cc0033"
+      },
       "status": {
-        "state": "idle",
-        "label": "Team unresolved"
+        "event_id": "401856773",
+        "week": 1,
+        "opponent": "Northern Arizona",
+        "opponent_id": 2464,
+        "home_away": "vs",
+        "kickoff": "2026-09-06T01:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Northern Arizona"
       },
       "game": null,
-      "next_game": null,
+      "next_game": {
+        "event_id": "401856773",
+        "week": 1,
+        "opponent": "Northern Arizona",
+        "opponent_id": 2464,
+        "home_away": "vs",
+        "kickoff": "2026-09-06T01:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Northern Arizona"
+      },
       "log": [],
       "season": {
         "games": 0,
@@ -181,7 +806,6 @@
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmJoRFBpcGE5RDRFY0J6S0R2Z19ob3k1QlVGeWItRkpiWlZPQmdvZXdFVmZ4cUZ4U0hDUV9ST0hwakRJRDJyTmthYkVHdmQtU1o2eFhsX3ozSUcxNjEyenFCdHZ3SGt5TUIyd2lNWmtaLVpfd19JUkprcFN2M0psWGozVW9KRmplQVlnTmZQMHQxRWotUEJtajdEek9HZWppRHZBS1Nn?oc=5",
-      "published": "Sat, 05 Sep 2026 21:12:46 GMT",
       "player": "Dante Moore",
       "age_hours": 4,
       "score": 21
@@ -191,9 +815,26 @@
       "source": "247Sports",
       "domain": "247sports.com",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTlJONmpyNGRNLXJSQkNjTUxQNU9mMkVLcnR6bTJZaThvOWl1OTY5UTd0RENnWTFGM28wX1ktVFlxcXRYUHBoS041XzM4Uk13N0ZQUllQS0VYc0w0RUk5dmFkanB1cTM5eEVaemlUbHJSczY0X3JFT0N2SUNYSGJ4UTIta2Rvdk9TY29pR3ZJRG1TVkdEWXYzT0NibnlvV2NiUzZlX3NZNjl5MzVWQlRoZDh4NU5zTk9PMUtfbHhQMWVFZV9CVnNKQWpRaHpHMTFINEdkWXZueE1fcjU3aVk1YXVKSVB0TVZieFVfckRzSG1EQ0xqWkw4TWpUS3AzY19WOWQ4aDByb2MtUUdkOF9PX0p3?oc=5",
-      "published": "Sat, 05 Sep 2026 16:09:18 GMT",
       "player": "CJ Carr",
       "age_hours": 9,
+      "score": 20
+    },
+    {
+      "headline": "'I Feel Like I'm In Full Control': Miami's Heisman Hopeful QB Dazzles in Program Record Breaking Debut",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkxob2VhLUtRVkJfM1d4c2o3eC1Qd0c4ODZmeE1OWXdQWjJmNThObUhYMWVNWHcyVW92WkJyanpOeklRSE45Ynd0ZEM4Y19zRFBxX2ZFR0taeFZ5cUMtOE9qSllGUlBUazhQU2hmbXhNWHphOWp2bEpRQmVpX2hRR3Z0ZGJRaFN3U0JSdHd5TG12MENnbHRRb3lrT0s3TUtyVjRMYk1WSVZ6eWF5cWM2Wk9DbkxoTWVnenNJOFdJSE1MTmI3V2l3VHMtM0xSa2hPQ2kyQS1zY0s?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 11,
+      "score": 20
+    },
+    {
+      "headline": "Jeremiah Smith strikes Heisman pose, opens campaign with 2 TDs as Ohio State rolls",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0hSaEpITXNsZXdXLVZPRnhpNkVQRjRNM0ItMjdhRkRyVllBM2dXU21LTXUxSENablVjX3JzNnhUMC0xREEtY19zcHhwYzd0OFI3Tk8zT25kVWhVSUhxX1BRSm1MR191NW9yS2R1a1JLTU1Jc2QweVh3aVZ1OVBFS0JXZ0dEZ3NNUW1Cc3pmV3k4M09pM1p6ckloQQ?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 3,
       "score": 20
     },
     {
@@ -201,66 +842,48 @@
       "source": "ESPN",
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakxMTWdtbXZzZnk1Nl82SVIzU0dTLW1TRkF5NDRSTm4xY2F3Mmo0b3VFV0h1Z1hkaGRRZTAxbzF0T0FONndnTGJDVWFxS2k4OWFIUjFqTWhIbl9OUG1SY3NmTEhRQXFKeHIya3pTNG5lZ3hyR08xQnJUZ3ZENjdualExbFlScVVsM2hVZDFXWnNOdDh4N0k0aXVLeUFWUzJnd3VrRGJZdXAwTngwWFE?oc=5",
-      "published": "Sat, 05 Sep 2026 05:16:00 GMT",
       "player": "Darian Mensah",
       "age_hours": 20,
       "score": 19
+    },
+    {
+      "headline": "Darian Mensah, CJ Carr, more NFL Draft 2027 prospects to watch in college football Week 1",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX05ibGhVQ3luT1NVRlo3bWVVa3o4ZlRCaEx6aHdoYlVYMUVudHlZLXY0Xy1TTGJrc0RfTEFnYUZHbmpadGs2ZUhYUkRHUnFRbkpWOEpIU3Q1LVMzdWplOFB3RHVHb1J2TEI0QXQtM3g3OWd0QjJBNnp1bFBJWDhXcldBcnZZMllDRWNGY0JHWl9CTmRlYXRISDhneUJ0QTZL?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 36,
+      "score": 18
+    },
+    {
+      "headline": "Polymarket Heisman odds: Miami QB Darian Mensah new favorite after Week 1 performance",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1NIbEprbmtnN1d1ZW13ZWVkQi1zLXBBamdYdjM2TXI0bk5EYnpVUTE2VVdWRlJEN29XeWEzSmZjanRvTUhMSmlSLWtOaG9JMHBVNjFUcnJnV2NzU0xCNmRlVzBXRE54YXJOZHZsSlJaMUlfQXJqeHdtU3JzeDRrOElkR01YOWd4S1o2S1NKODBTT29YS0lCcTZrdEJFRlVTaEZMMU9Tb1RYUFhjQzc4?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 12,
+      "score": 18
     },
     {
       "headline": "Arizona Head Coach Brent Brennan Says Noah Fifita Has a Heisman Trophy Resume",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNm9wek1CWV9KdHphUWFtaks2Tk4xNXpwZHFVSkd3cHVnTXRYRF93RDBoX012dUFjdGlOZkJfMFIxTkJxbE42QjJ4WHNseTZzY3lELUtLdFFMVnhoVEo3aXREcG14c296S0xfYjBJeURmb24tcnRNN0JHZmlaY3VKQmJ0VkdhUmJ2NEtJc1dtYi1NNEtKSzFHV3ZMbVA5SXJ3VTlxdGY2emRxZndQ?oc=5",
-      "published": "Sat, 05 Sep 2026 16:00:00 GMT",
       "player": "Noah Fifita",
       "age_hours": 9,
       "score": 18
-    },
-    {
-      "headline": "No. 2 Oregon survives season-opening scare from Boise State thanks to Dante Moore\u2019s 3 TDs",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN283N3ZvdmdKaThDTkxzV1hhdHZuNDZDSTRpR201WDVaUktIZWpEYy11cmNJRFFRdmNiTjg4VHNIMGpVRW54WkZZS2RDUFMwV1o2RHEzWUIxSU1zMjJ2VUEza2d2TVVxMGVpampHYmVscFdLaEpDc2ljeUdzbDJEaTVMZ2x5enYtd1h6S0FmNGIwTURwclBGSk5R?oc=5",
-      "published": "Sat, 05 Sep 2026 23:32:52 GMT",
-      "player": "Dante Moore",
-      "age_hours": 2,
-      "score": 17
-    },
-    {
-      "headline": "Arch Manning throws 20-yard touchdown pass to Cam Coleman",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUU1hob1Y2c08zNWgwSVRTemY1RFpkTlZFXzU1Y0dvMlZkbHJRSjI1dFFTV0lLWmlfVnpaQXBTWWNvNU5iWlNWMUtpNUktbUdCSXA1b3pLNjZ0aGc?oc=5",
-      "published": "Sat, 05 Sep 2026 22:05:54 GMT",
-      "player": "Arch Manning",
-      "age_hours": 3,
-      "score": 17
-    },
-    {
-      "headline": "From Dallas to Times Square: Heisman Trophy campaigns look to make an early impact",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc1VGSDZXSFhpcUdiVUN2S1djaFVQMThKd1BXYjIwajV0a2RaWE9vM2pNXzduNHZueVVpbWxFbzFWTTlLTFpRQmtKUUt4SUwwLXdaLWFucDBiMGZWajdpVjRRWmhBQnN2alBKR3lKdmtjX3F2WFZwZEhhYmtKM2Z0REN2UEE2VHhEOXUzMTJWd2g3cnRUZWZUcUlzdUozZ0djTDVRWWZBXzVyZEV5djVSVDUyR0ZYR3JNbU5jUzlVUksteml1X0hUNnR2SnNkQQ?oc=5",
-      "published": "Thu, 03 Sep 2026 11:00:00 GMT",
-      "player": "Trinidad Chambliss",
-      "age_hours": 62,
-      "score": 16
     }
   ],
   "diagnostics": {
     "errors": [
-      "ESPN teams list: HTTP Error 403: Forbidden",
-      "scoreboard 20260903: HTTP Error 403: Forbidden",
-      "scoreboard 20260904: HTTP Error 403: Forbidden",
-      "scoreboard 20260905: HTTP Error 403: Forbidden",
-      "scoreboard 20260906: HTTP Error 403: Forbidden",
-      "scoreboard 20260907: HTTP Error 403: Forbidden",
-      "scoreboard 20260908: HTTP Error 403: Forbidden",
-      "scoreboard returned no events at all"
+      "/scoreboard: HTTP 401 - key rejected or tier too low"
     ],
-    "notes": [],
-    "events_seen": 0,
-    "games_matched": 0,
-    "teams_resolved": 0
+    "notes": [
+      "scoreboard unavailable - in-progress games won't show live"
+    ],
+    "games_seen": 888,
+    "games_matched": 10,
+    "teams_resolved": 10,
+    "live_available": null
   }
 }
