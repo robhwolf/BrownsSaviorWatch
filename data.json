@@ -1,15 +1,264 @@
 {
-  "updated_at": "2026-09-05T00:00:00+00:00",
+  "updated_at": "2026-09-06T01:07:42.574316+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {},
-  "quarterbacks": [],
-  "news": [],
+  "quarterbacks": [
+    {
+      "name": "Trinidad Chambliss",
+      "school": "Ole Miss",
+      "class": "6th yr",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    },
+    {
+      "name": "Dante Moore",
+      "school": "Oregon",
+      "class": "RS Jr",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    },
+    {
+      "name": "CJ Carr",
+      "school": "Notre Dame",
+      "class": "RS So",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    },
+    {
+      "name": "Darian Mensah",
+      "school": "Miami",
+      "class": "Jr",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    },
+    {
+      "name": "Julian Sayin",
+      "school": "Ohio State",
+      "class": "RS So",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    },
+    {
+      "name": "Drew Mestemaker",
+      "school": "Oklahoma State",
+      "class": "RS So",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    },
+    {
+      "name": "Arch Manning",
+      "school": "Texas",
+      "class": "RS Jr",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    },
+    {
+      "name": "Sam Leavitt",
+      "school": "LSU",
+      "class": "RS Jr",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    },
+    {
+      "name": "Jayden Maiava",
+      "school": "USC",
+      "class": "RS Sr",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    },
+    {
+      "name": "Noah Fifita",
+      "school": "Arizona",
+      "class": "RS Sr",
+      "team": null,
+      "status": {
+        "state": "idle",
+        "label": "Team unresolved"
+      },
+      "game": null,
+      "next_game": null,
+      "log": [],
+      "season": {
+        "games": 0,
+        "epa_per_play": null
+      }
+    }
+  ],
+  "news": [
+    {
+      "headline": "Oregon Ducks' Offense Derailed Early vs. Boise State By Key Injuries",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmJoRFBpcGE5RDRFY0J6S0R2Z19ob3k1QlVGeWItRkpiWlZPQmdvZXdFVmZ4cUZ4U0hDUV9ST0hwakRJRDJyTmthYkVHdmQtU1o2eFhsX3ozSUcxNjEyenFCdHZ3SGt5TUIyd2lNWmtaLVpfd19JUkprcFN2M0psWGozVW9KRmplQVlnTmZQMHQxRWotUEJtajdEek9HZWppRHZBS1Nn?oc=5",
+      "published": "Sat, 05 Sep 2026 21:12:46 GMT",
+      "player": "Dante Moore",
+      "age_hours": 4,
+      "score": 21
+    },
+    {
+      "headline": "Notre Dame\u2019s CJ Carr has \u2018All the Intangibles\u2019 to be Top 2027 NFL Draft Pick",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTlJONmpyNGRNLXJSQkNjTUxQNU9mMkVLcnR6bTJZaThvOWl1OTY5UTd0RENnWTFGM28wX1ktVFlxcXRYUHBoS041XzM4Uk13N0ZQUllQS0VYc0w0RUk5dmFkanB1cTM5eEVaemlUbHJSczY0X3JFT0N2SUNYSGJ4UTIta2Rvdk9TY29pR3ZJRG1TVkdEWXYzT0NibnlvV2NiUzZlX3NZNjl5MzVWQlRoZDh4NU5zTk9PMUtfbHhQMWVFZV9CVnNKQWpRaHpHMTFINEdkWXZueE1fcjU3aVk1YXVKSVB0TVZieFVfckRzSG1EQ0xqWkw4TWpUS3AzY19WOWQ4aDByb2MtUUdkOF9PX0p3?oc=5",
+      "published": "Sat, 05 Sep 2026 16:09:18 GMT",
+      "player": "CJ Carr",
+      "age_hours": 9,
+      "score": 20
+    },
+    {
+      "headline": "Toney, Mensah shatter Miami records in blowout of Stanford",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakxMTWdtbXZzZnk1Nl82SVIzU0dTLW1TRkF5NDRSTm4xY2F3Mmo0b3VFV0h1Z1hkaGRRZTAxbzF0T0FONndnTGJDVWFxS2k4OWFIUjFqTWhIbl9OUG1SY3NmTEhRQXFKeHIya3pTNG5lZ3hyR08xQnJUZ3ZENjdualExbFlScVVsM2hVZDFXWnNOdDh4N0k0aXVLeUFWUzJnd3VrRGJZdXAwTngwWFE?oc=5",
+      "published": "Sat, 05 Sep 2026 05:16:00 GMT",
+      "player": "Darian Mensah",
+      "age_hours": 20,
+      "score": 19
+    },
+    {
+      "headline": "Arizona Head Coach Brent Brennan Says Noah Fifita Has a Heisman Trophy Resume",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNm9wek1CWV9KdHphUWFtaks2Tk4xNXpwZHFVSkd3cHVnTXRYRF93RDBoX012dUFjdGlOZkJfMFIxTkJxbE42QjJ4WHNseTZzY3lELUtLdFFMVnhoVEo3aXREcG14c296S0xfYjBJeURmb24tcnRNN0JHZmlaY3VKQmJ0VkdhUmJ2NEtJc1dtYi1NNEtKSzFHV3ZMbVA5SXJ3VTlxdGY2emRxZndQ?oc=5",
+      "published": "Sat, 05 Sep 2026 16:00:00 GMT",
+      "player": "Noah Fifita",
+      "age_hours": 9,
+      "score": 18
+    },
+    {
+      "headline": "No. 2 Oregon survives season-opening scare from Boise State thanks to Dante Moore\u2019s 3 TDs",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN283N3ZvdmdKaThDTkxzV1hhdHZuNDZDSTRpR201WDVaUktIZWpEYy11cmNJRFFRdmNiTjg4VHNIMGpVRW54WkZZS2RDUFMwV1o2RHEzWUIxSU1zMjJ2VUEza2d2TVVxMGVpampHYmVscFdLaEpDc2ljeUdzbDJEaTVMZ2x5enYtd1h6S0FmNGIwTURwclBGSk5R?oc=5",
+      "published": "Sat, 05 Sep 2026 23:32:52 GMT",
+      "player": "Dante Moore",
+      "age_hours": 2,
+      "score": 17
+    },
+    {
+      "headline": "Arch Manning throws 20-yard touchdown pass to Cam Coleman",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUU1hob1Y2c08zNWgwSVRTemY1RFpkTlZFXzU1Y0dvMlZkbHJRSjI1dFFTV0lLWmlfVnpaQXBTWWNvNU5iWlNWMUtpNUktbUdCSXA1b3pLNjZ0aGc?oc=5",
+      "published": "Sat, 05 Sep 2026 22:05:54 GMT",
+      "player": "Arch Manning",
+      "age_hours": 3,
+      "score": 17
+    },
+    {
+      "headline": "From Dallas to Times Square: Heisman Trophy campaigns look to make an early impact",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc1VGSDZXSFhpcUdiVUN2S1djaFVQMThKd1BXYjIwajV0a2RaWE9vM2pNXzduNHZueVVpbWxFbzFWTTlLTFpRQmtKUUt4SUwwLXdaLWFucDBiMGZWajdpVjRRWmhBQnN2alBKR3lKdmtjX3F2WFZwZEhhYmtKM2Z0REN2UEE2VHhEOXUzMTJWd2g3cnRUZWZUcUlzdUozZ0djTDVRWWZBXzVyZEV5djVSVDUyR0ZYR3JNbU5jUzlVUksteml1X0hUNnR2SnNkQQ?oc=5",
+      "published": "Thu, 03 Sep 2026 11:00:00 GMT",
+      "player": "Trinidad Chambliss",
+      "age_hours": 62,
+      "score": 16
+    }
+  ],
   "diagnostics": {
-    "errors": [],
-    "notes": [
-      "seed file - replaced on first run"
+    "errors": [
+      "ESPN teams list: HTTP Error 403: Forbidden",
+      "scoreboard 20260903: HTTP Error 403: Forbidden",
+      "scoreboard 20260904: HTTP Error 403: Forbidden",
+      "scoreboard 20260905: HTTP Error 403: Forbidden",
+      "scoreboard 20260906: HTTP Error 403: Forbidden",
+      "scoreboard 20260907: HTTP Error 403: Forbidden",
+      "scoreboard 20260908: HTTP Error 403: Forbidden",
+      "scoreboard returned no events at all"
     ],
+    "notes": [],
     "events_seen": 0,
     "games_matched": 0,
     "teams_resolved": 0
