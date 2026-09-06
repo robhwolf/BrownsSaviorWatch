@@ -11,6 +11,7 @@ Calls per run:
   /scoreboard       1  - live status (needs a Patreon tier; degrades quietly)
   /games/players    only for finished games not yet in the log
   /ppa/players/season  10, once a day
+  Kalshi /events    3  - public, unauthenticated - draft pick, draft team, Heisman
 """
 
 import json
@@ -42,6 +43,11 @@ QBS = [
     {"name": "Noah Fifita",        "school": "Arizona",        "cls": "RS Sr"},
 ]
 
+# Durable identity links, not re-fetched every run. Wikipedia is omitted for
+# names without a page rather than guessed; same for any social account that
+# couldn't be verified as actually theirs.
+REFERENCES = {}
+
 SOURCE_TIER = {
     "espn.com": 5, "theathletic.com": 5, "nytimes.com": 5, "si.com": 4,
     "cbssports.com": 4, "foxsports.com": 4, "yahoo.com": 3, "247sports.com": 4,
@@ -55,6 +61,20 @@ HIGH_SIGNAL = [
 ]
 NEWS_FLOOR = 16
 NEWS_MAX = 8
+
+KALSHI = "https://api.elections.kalshi.com/trade-api/v2"
+KALSHI_MARKETS = [
+    {"key": "first_pick_player", "title": "First player picked, 2027 NFL Draft",
+     "event_ticker": "KXNFLDRAFTPICK-27-1",
+     "url": "https://kalshi.com/markets/kxnfldraftpick/nfl-draft-pick/kxnfldraftpick-27-1"},
+    {"key": "first_team_to_pick", "title": "First team to pick, 2027 NFL Draft",
+     "event_ticker": "KXNFLDRAFT1ST-27",
+     "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27"},
+    {"key": "heisman", "title": "2027 Heisman Trophy winner",
+     "event_ticker": "KXHEISMAN-27",
+     "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27"},
+]
+KALSHI_TOP_N = 8
 
 DIAG = {"errors": [], "notes": []}
 UA = {"User-Agent": "browns-savior-watch/2.0"}
@@ -401,6 +421,60 @@ def build_news():
 
 
 # ---------------------------------------------------------------------------
+# Kalshi prediction markets
+# ---------------------------------------------------------------------------
+
+def kalshi_event(event_ticker):
+    url = f"{KALSHI}/events/{event_ticker}?with_nested_markets=true"
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(
+                    urllib.request.Request(url, headers=UA), timeout=20) as r:
+                return json.loads(r.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            DIAG["errors"].append(f"kalshi {event_ticker}: HTTP {e.code}")
+            return None
+        except Exception as e:
+            if attempt == 2:
+                DIAG["errors"].append(f"kalshi {event_ticker}: {e}")
+                return None
+            time.sleep(2 * (attempt + 1))
+
+
+def build_kalshi():
+    tracked_last = {qb["name"].split()[-1].lower() for qb in QBS}
+    out = []
+    for spec in KALSHI_MARKETS:
+        data = kalshi_event(spec["event_ticker"])
+        markets = ((data or {}).get("event") or {}).get("markets") or []
+        rows = []
+        for m in markets:
+            if m.get("status") != "active":
+                continue
+            name = m.get("yes_sub_title") or m.get("subtitle") or m.get("title")
+            try:
+                pct = round(float(m.get("last_price_dollars") or 0) * 100)
+            except (TypeError, ValueError):
+                continue
+            if not name:
+                continue
+            rows.append({"name": name,
+                         "pct": pct,
+                         "tracked": name.split()[-1].lower() in tracked_last})
+        if not rows and data is None:
+            continue
+        rows.sort(key=lambda r: -r["pct"])
+        top, rest = rows[:KALSHI_TOP_N], rows[KALSHI_TOP_N:]
+        out.append({
+            "key": spec["key"], "title": spec["title"], "url": spec["url"],
+            "candidates": top,
+            "field_pct": max(0, 100 - sum(r["pct"] for r in top)) if rest else None,
+            "field_count": len(rest),
+        })
+    return out
+
+
+# ---------------------------------------------------------------------------
 
 def main():
     n = now_utc()
@@ -461,10 +535,14 @@ def main():
                      "next_game": upcoming(games, team["id"]),
                      "log": log, "season": season_from_log(log, epa)})
 
+    kalshi = build_kalshi()
+    references = {qb["name"]: REFERENCES[qb["name"]] for qb in QBS if qb["name"] in REFERENCES}
+
     payload = {
         "updated_at": n.isoformat(), "season": SEASON,
         "live_count": sum(1 for r in rows if r["status"]["state"] == "live"),
         "teams": teams, "quarterbacks": rows, "news": build_news(),
+        "kalshi": kalshi, "references": references,
         "diagnostics": {**DIAG, "games_seen": len(games), "games_matched": matched,
                         "teams_resolved": len(teams), "live_available": live_ok,
                         "live_games_now": len(live)},
@@ -472,7 +550,7 @@ def main():
     json.dump(payload, open(OUT, "w"), indent=2)
     print(f"Wrote {OUT} - {matched}/{len(QBS)} on the board, "
           f"{sum(len(r['log']) for r in rows)} games logged, "
-          f"{len(payload['news'])} news items")
+          f"{len(payload['news'])} news items, {len(kalshi)}/3 Kalshi markets")
     if DIAG["errors"] or DIAG["notes"]:
         print("Notes:")
         for m in (DIAG["errors"] + DIAG["notes"])[:12]:

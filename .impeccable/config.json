@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "pulsing-dot",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-06T16:16:36.550Z",
+        "reason": "dot only renders for status.state===live (chip.live), tied to an actual in-progress game whose score/clock/quarter refreshes every 5 min - genuinely live data, not decorative; pre-existing element, not added this session"
+      }
+    ]
+  }
+}

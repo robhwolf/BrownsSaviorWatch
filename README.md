@@ -7,6 +7,9 @@ A static page tracking ten college quarterbacks who could plausibly be in the
 index.html      the dashboard (reads data.json, no build step)
 fetch_data.py   pulls the data, writes data.json
 data.json       current snapshot — placeholder until the first real run
+banner.jpg      the 3:1 masthead image
+PRODUCT.md      durable product context (impeccable init)
+DESIGN.md       the visual system this page is built to
 .github/workflows/update.yml   the schedule
 ```
 
@@ -33,16 +36,36 @@ Scheduled workflows are also disabled automatically after 60 days of no repo
 activity. The bot's own commits count as activity, so this only bites in the
 offseason.
 
-## The four sections
+## The board, and the seven tabs behind it
 
-1. **On the field now** — only the quarterbacks currently playing, with quarter,
-   clock, score and a live stat line. When nobody's playing it collapses to a
-   single line naming the next kickoff.
+Atop the page: a 3:1 banner image, then **the board** — all ten quarterbacks as
+pinned nameplates, ranked by Kalshi's live first-pick odds where the market
+has an opinion (untracked-by-the-market names keep their original order).
+Clicking a nameplate jumps straight to that player's card. Everything else
+lives behind a tab bar, one panel visible at a time:
+
+1. **Live** — only the quarterbacks currently playing, with quarter, clock,
+   score and a live stat line. When nobody's playing it collapses to a single
+   line naming the next kickoff.
 2. **This week** — everyone else. Finals first, then whoever hasn't kicked off.
-3. **Season to date** — cumulative totals, sortable by passer rating, yards,
-   total touchdowns, yards per attempt, completion percentage, EPA per play, or
+3. **Next game** — every tracked QB's next kickoff, soonest first.
+4. **Season** — cumulative totals, sortable by passer rating, yards, total
+   touchdowns, yards per attempt, completion percentage, EPA per play, or
    fewest interceptions. Whoever leads the current sort is highlighted.
-4. **What's being reported** — the ranked news list.
+5. **Market odds** — Kalshi's live implied probabilities for three markets:
+   first player picked, first team to pick, and Heisman winner. Shown as a
+   plain ranked list (top 8 plus a "Field" bucket for the rest) — no charts,
+   just the current price. Informational only, not a recommendation to trade.
+6. **News** — the ranked, source-and-freshness-scored headline list.
+7. **Reading** — Wikipedia, official university bio, ESPN profile, and public
+   X/Instagram/LinkedIn accounts for each tracked quarterback, where one could
+   be found and verified. A name with none found shows "No verified links yet"
+   rather than a guess — these are hand-curated in `fetch_data.py`'s
+   `REFERENCES` dict, not fetched live, so they need updating by hand if a
+   handle changes.
+
+Visual design decisions — palette, type, the pin device, the whole "big board"
+direction — are recorded in [DESIGN.md](DESIGN.md).
 
 ## How season totals are built
 
@@ -77,6 +100,13 @@ everything else comes from the game log. Splitting it this way keeps you around
 tier × signal words (injury, benched, portal, draft) × recency, deduped by
 headline, and cut off below a threshold you can tune at the bottom of
 `fetch_data.py`. Headline and link only — no article text is reproduced.
+
+**Kalshi** (`api.elections.kalshi.com`), three events, public and
+unauthenticated — no key needed. Pulls `last_price_dollars` per contract as
+the displayed percentage, keeps the top 8 candidates per market, and buckets
+the rest into a "Field" row. Kalshi's per-candidate contracts don't have to
+sum to exactly 100% (independent markets, some overround), so the Field
+percentage is floored at 0 rather than going negative.
 
 ## Verify before you trust it
 
@@ -116,9 +146,17 @@ December.
 
 ## Design
 
-Seal brown `#311D00`, Browns orange `#FF3C00`, white. The masthead rule is the
-helmet's center stripe. The team's wordmark uses a proprietary custom typeface
-that isn't licensable, so headings use Oswald — a condensed gothic in the same
-family as the Alternate Gothic / Trade Gothic Bold Condensed lettering the
-classic Browns marks were built on. Data is set in IBM Plex Sans with tabular
-figures so columns don't jitter between refreshes. No team marks are used.
+Redesigned as a draft-night "big board": a pinned, ranked grid of all ten
+quarterbacks sits atop a banner image, with everything else (live status,
+season totals, market odds, news, further reading) living behind tabs instead
+of a long scroll. Board order is live — driven by Kalshi's own first-pick
+odds where the market has an opinion. Full rationale and tokens are recorded
+in [DESIGN.md](DESIGN.md); the short version: ground `#1B0F00`, seal brown
+`#311D00`, board tan-brown `#3A2A16`, Browns orange `#FF3C00` as the only
+accent, white and tan text. Headings are set in Oswald — a condensed gothic in
+the same family as the Alternate Gothic / Trade Gothic Bold Condensed
+lettering the classic Browns marks were built on, standing in for the team's
+proprietary, non-licensable wordmark typeface. Data is set in IBM Plex Sans
+with tabular figures so columns don't jitter between refreshes; ranks and odds
+use IBM Plex Mono. Team logos/marks are used on the board and cards; the
+banner artwork is AI-generated and user-supplied, not an official team asset.
