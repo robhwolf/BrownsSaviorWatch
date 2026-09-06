@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T17:41:40.277492+00:00",
+  "updated_at": "2026-09-06T21:56:55.133458+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -89,6 +89,7 @@
       "name": "Trinidad Chambliss",
       "school": "Ole Miss",
       "class": "6th yr",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4911529.png",
       "team": {
         "id": 145,
         "school": "Ole Miss",
@@ -126,13 +127,13 @@
       "season": {
         "games": 0,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4911529.png"
+      }
     },
     {
       "name": "Dante Moore",
       "school": "Oregon",
       "class": "RS Jr",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4870921.png",
       "team": {
         "id": 2483,
         "school": "Oregon",
@@ -217,13 +218,13 @@
         "ypg": 378,
         "rating": 188.2,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4870921.png"
+      }
     },
     {
       "name": "CJ Carr",
       "school": "Notre Dame",
       "class": "RS So",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5079369.png",
       "team": {
         "id": 87,
         "school": "Notre Dame",
@@ -261,13 +262,13 @@
       "season": {
         "games": 0,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5079369.png"
+      }
     },
     {
       "name": "Darian Mensah",
       "school": "Miami",
       "class": "Jr",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5121169.png",
       "team": {
         "id": 2390,
         "school": "Miami",
@@ -340,7 +341,7 @@
         "record": "1-0",
         "cmp": 27,
         "att": 30,
-        "comp_pct": 90,
+        "comp_pct": 90.0,
         "pass_yds": 412,
         "ypa": 13.7,
         "pass_td": 5,
@@ -352,13 +353,13 @@
         "ypg": 412,
         "rating": 260.4,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5121169.png"
+      }
     },
     {
       "name": "Julian Sayin",
       "school": "Ohio State",
       "class": "RS So",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5079712.png",
       "team": {
         "id": 194,
         "school": "Ohio State",
@@ -431,7 +432,7 @@
         "record": "1-0",
         "cmp": 21,
         "att": 25,
-        "comp_pct": 84,
+        "comp_pct": 84.0,
         "pass_yds": 320,
         "ypa": 12.8,
         "pass_td": 3,
@@ -443,13 +444,13 @@
         "ypg": 320,
         "rating": 231.1,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5079712.png"
+      }
     },
     {
       "name": "Drew Mestemaker",
       "school": "Oklahoma State",
       "class": "RS So",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5219834.png",
       "team": {
         "id": 197,
         "school": "Oklahoma State",
@@ -534,13 +535,13 @@
         "ypg": 241,
         "rating": 99.1,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5219834.png"
+      }
     },
     {
       "name": "Arch Manning",
       "school": "Texas",
       "class": "RS Jr",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4870906.png",
       "team": {
         "id": 251,
         "school": "Texas",
@@ -625,13 +626,13 @@
         "ypg": 305,
         "rating": 210.4,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4870906.png"
+      }
     },
     {
       "name": "Sam Leavitt",
       "school": "LSU",
       "class": "RS Jr",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5078810.png",
       "team": {
         "id": 99,
         "school": "LSU",
@@ -716,13 +717,13 @@
         "ypg": 230,
         "rating": 130.8,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5078810.png"
+      }
     },
     {
       "name": "Jayden Maiava",
       "school": "USC",
       "class": "RS Sr",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4685454.png",
       "team": {
         "id": 30,
         "school": "USC",
@@ -809,13 +810,13 @@
         "ypg": 286,
         "rating": 191.8,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4685454.png"
+      }
     },
     {
       "name": "Noah Fifita",
       "school": "Arizona",
       "class": "RS Sr",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4801717.png",
       "team": {
         "id": 12,
         "school": "Arizona",
@@ -890,7 +891,7 @@
         "att": 29,
         "comp_pct": 75.9,
         "pass_yds": 262,
-        "ypa": 9,
+        "ypa": 9.0,
         "pass_td": 2,
         "int": 0,
         "td_int": "2-0",
@@ -900,36 +901,35 @@
         "ypg": 262,
         "rating": 174.5,
         "epa_per_play": null
-      },
-      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4801717.png"
+      }
     }
   ],
   "news": [
     {
-      "headline": "As CJ Carr opens year 2 as Notre Dame’s starter, what is QB’s NFL Draft outlook?",
+      "headline": "As CJ Carr opens year 2 as Notre Dame\u2019s starter, what is QB\u2019s NFL Draft outlook?",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1p2QWNPdkpYSEFQQnVib0kyUlB2Z1hVVVprdEtTSUNmdjJRRUZncThXVzVMemY3MDJybG9tRTJ6YUdKVnBKUmdacU9BQk45eWx6dGhsamRzU19PdV8wM1N5TFVWMGd3VllOZ0d6MGtfdzk4YkU4NUZYTFBUbms1SDZ5RWhVWGJFcS0xTDJaU29ybkpIbDRUOA?oc=5",
       "player": "CJ Carr",
-      "age_hours": 7,
+      "age_hours": 12,
       "score": 22
     },
     {
-      "headline": "Oregon Ducks' Offense Derailed Early vs. Boise State By Key Injuries",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmJoRFBpcGE5RDRFY0J6S0R2Z19ob3k1QlVGeWItRkpiWlZPQmdvZXdFVmZ4cUZ4U0hDUV9ST0hwakRJRDJyTmthYkVHdmQtU1o2eFhsX3ozSUcxNjEyenFCdHZ3SGt5TUIyd2lNWmtaLVpfd19JUkprcFN2M0psWGozVW9KRmplQVlnTmZQMHQxRWotUEJtajdEek9HZWppRHZBS1Nn?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 20,
-      "score": 21
+      "headline": "Jeremiah Smith strikes Heisman pose, opens campaign with 2 TDs as Ohio State rolls",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0hSaEpITXNsZXdXLVZPRnhpNkVQRjRNM0ItMjdhRkRyVllBM2dXU21LTXUxSENablVjX3JzNnhUMC0xREEtY19zcHhwYzd0OFI3Tk8zT25kVWhVSUhxX1BRSm1MR191NW9yS2R1a1JLTU1Jc2QweVh3aVZ1OVBFS0JXZ0dEZ3NNUW1Cc3pmV3k4M09pM1p6ckloQQ?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 24,
+      "score": 20
     },
     {
-      "headline": "2026 Heisman Trophy Odds (Darian Mensah Jumps to Favorite After Saturday’s Week 1 Action)",
+      "headline": "2026 Heisman Trophy Odds (Darian Mensah Jumps to Favorite After Saturday\u2019s Week 1 Action)",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3pqbnhlODYwMmpsWUctb21EaHNxc0F0ZWJoUHg4YVJvOVF6aWk1VjNZLTI1VjJUS1hJLVZoUnhCTmJnQVNRZzROSElISG9UUDlIRHQ3eUhIT25QTm9Ub1lBa0tVRWhqbVpUeC1VVDdaQi11eEp2ZEkzck80dTFVQmRvMTVTdm0zUjQ4MXQzRUhyRUM1aDdSZUNoQUxGVlFVT3RzLUZwTFE3MU42Yk9UOGxB?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 0,
+      "age_hours": 4,
       "score": 18
     },
     {
@@ -938,7 +938,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDhiREZ3Z0dfRWtJQ0ZoRncwNEtXd1liUHktamZFSW1lM0J3RXJ5R0N3amxST0xuUjN6dE10ek5QcC0xTmZyLW5wNk9xSjhlZUhIUGYzTHNDUUp2VndSMzdmbHo0VGVMeUtVTDlTUXdXQzBvY3VBXzRFWkpQd0UyMlFPeTN4MHJfTXVrVl9nQ3Q4N1BuUmQwR3lWNkZNTnJ1ak4yQzl4MGx2RWdSYXNTNjk5aw?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 49,
+      "age_hours": 54,
       "score": 17
     },
     {
@@ -947,16 +947,25 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDVHZTA2REpYaGNDX21IUFFSUk52cXZReFNaZWsxd0M1S3pPcGlvcjdhM0g5MHVfcl9sX2MxdEVRT1hqTW5uZmpneWFzdERfN3hPSmZQZVZSSVpaUkhkYk8tajRaX1VZRkktNjE5SDdCMkxVSWtQQ1BsS3U4NUZ1SFZZVWxIS1RrS01tWHo3ZjdudnR2RGI0c2VLaHNVbEk1TnR0d2NMUDREOWhZNkdF?oc=5",
       "player": "Dante Moore",
-      "age_hours": 18,
+      "age_hours": 22,
       "score": 17
     },
     {
-      "headline": "Boise State danced along to Oregon’s ‘Shout.’ The Ducks found it ‘a little weird’ - The Athletic",
+      "headline": "Boise State danced along to Oregon\u2019s \u2018Shout.\u2019 The Ducks found it \u2018a little weird\u2019 - The Athletic",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWF1eUJEVzA2X2FzUEdtZ1N3aGExcHAtNEQwZFhiNmJoREU2MHFxb3ZtVkNpZ3lzZFR3US1XSkNZNjQtQTZQd0g4X2cwdTlDaTB3SS01OUVPaUEwZVQ5T2JmanFjZE9zekUwT1NrOV83SWp2Y25NLWlhWE5jZEJmOElPZVpBVHJWRngwd01aMkdtU1VoSU55dWx1YTBxUQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 12,
+      "age_hours": 20,
+      "score": 17
+    },
+    {
+      "headline": "Oregon Ducks' Offense Derailed Early vs. Boise State By Key Injuries",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmJoRFBpcGE5RDRFY0J6S0R2Z19ob3k1QlVGeWItRkpiWlZPQmdvZXdFVmZ4cUZ4U0hDUV9ST0hwakRJRDJyTmthYkVHdmQtU1o2eFhsX3ozSUcxNjEyenFCdHZ3SGt5TUIyd2lNWmtaLVpfd19JUkprcFN2M0psWGozVW9KRmplQVlnTmZQMHQxRWotUEJtajdEek9HZWppRHZBS1Nn?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 25,
       "score": 17
     },
     {
@@ -965,16 +974,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUE94Q0dZMjdZNENYSmhCTGY0RWZYNS0wNUVaSUtnZnFEZ0g4aWZnM1FWN1dadXYxdWt4RDA2STJybVF3R1pmNVRYWFNobXY5bEtTWGJWWkI3eVhXTFhTVmx4R3hob0dqaEtXMXNzajNDREx6dGJSUk5QMEh1Rlg2OURhbWY0QUYzampRSEtjR0o4ZUx6X01DTlcwNkxMQQ?oc=5",
       "player": "CJ Carr",
-      "age_hours": 4,
-      "score": 17
-    },
-    {
-      "headline": "Storm Warning in Stanford: Miami Hurricanes Stock Report After Record Setting Opener",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdWkxenFYd2pFdC1GLWlGZFNERkZXR3RRVjA2QmxwOHJYTHVGZDB6YkFPb1pfNlRzTXpBSm5WVFhGTmRRdTRtcDk5MFltdHh1Y2FTT3JUYnltS1NMaUlVVXE5MTlvTmlFRTBNcTBQVXZRVVB2MjV6b2FxbDJZcVkzYTZlVTl1S1dndjNpWXNIZWk1UWZBemprcnlqQThid1hTNlhsSy0ydzJlVTVVQUgwRURLRzZleWc5dFRqcWU5V3NBaFU?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 20,
+      "age_hours": 8,
       "score": 17
     }
   ],
@@ -995,14 +995,14 @@
           "tracked": true
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 13,
-          "tracked": false
-        },
-        {
           "name": "Darian Mensah",
           "pct": 13,
           "tracked": true
+        },
+        {
+          "name": "Jeremiah Smith",
+          "pct": 12,
+          "tracked": false
         },
         {
           "name": "Dante Moore",
@@ -1025,7 +1025,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 3,
+      "field_pct": 4,
       "field_count": 12
     },
     {
@@ -1113,17 +1113,17 @@
           "tracked": true
         },
         {
-          "name": "Dante Moore",
-          "pct": 7,
-          "tracked": true
-        },
-        {
           "name": "Malachi Toney",
           "pct": 6,
           "tracked": false
+        },
+        {
+          "name": "Jayden Maiava",
+          "pct": 6,
+          "tracked": true
         }
       ],
-      "field_pct": 30,
+      "field_pct": 31,
       "field_count": 29
     }
   ],
