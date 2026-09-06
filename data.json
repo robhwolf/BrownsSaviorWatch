@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T05:24:31.837701+00:00",
+  "updated_at": "2026-09-06T10:04:34.121440+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -897,29 +897,38 @@
   "news": [
     {
       "headline": "Oregon Ducks' Offense Derailed Early vs. Boise State By Key Injuries",
-      "source": "si.com",
+      "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmJoRFBpcGE5RDRFY0J6S0R2Z19ob3k1QlVGeWItRkpiWlZPQmdvZXdFVmZ4cUZ4U0hDUV9ST0hwakRJRDJyTmthYkVHdmQtU1o2eFhsX3ozSUcxNjEyenFCdHZ3SGt5TUIyd2lNWmtaLVpfd19JUkprcFN2M0psWGozVW9KRmplQVlnTmZQMHQxRWotUEJtajdEek9HZWppRHZBS1Nn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 8,
+      "age_hours": 13,
       "score": 21
     },
     {
       "headline": "Notre Dame\u2019s CJ Carr has \u2018All the Intangibles\u2019 to be Top 2027 NFL Draft Pick",
-      "source": "247sports.com",
+      "source": "247Sports",
       "domain": "247sports.com",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTlJONmpyNGRNLXJSQkNjTUxQNU9mMkVLcnR6bTJZaThvOWl1OTY5UTd0RENnWTFGM28wX1ktVFlxcXRYUHBoS041XzM4Uk13N0ZQUllQS0VYc0w0RUk5dmFkanB1cTM5eEVaemlUbHJSczY0X3JFT0N2SUNYSGJ4UTIta2Rvdk9TY29pR3ZJRG1TVkdEWXYzT0NibnlvV2NiUzZlX3NZNjl5MzVWQlRoZDh4NU5zTk9PMUtfbHhQMWVFZV9CVnNKQWpRaHpHMTFINEdkWXZueE1fcjU3aVk1YXVKSVB0TVZieFVfckRzSG1EQ0xqWkw4TWpUS3AzY19WOWQ4aDByb2MtUUdkOF9PX0p3?oc=5",
       "player": "CJ Carr",
-      "age_hours": 13,
+      "age_hours": 18,
       "score": 20
     },
     {
       "headline": "'I Feel Like I'm In Full Control': Miami's Heisman Hopeful QB Dazzles in Program Record Breaking Debut",
-      "source": "si.com",
+      "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkxob2VhLUtRVkJfM1d4c2o3eC1Qd0c4ODZmeE1OWXdQWjJmNThObUhYMWVNWHcyVW92WkJyanpOeklRSE45Ynd0ZEM4Y19zRFBxX2ZFR0taeFZ5cUMtOE9qSllGUlBUazhQU2hmbXhNWHphOWp2bEpRQmVpX2hRR3Z0ZGJRaFN3U0JSdHd5TG12MENnbHRRb3lrT0s3TUtyVjRMYk1WSVZ6eWF5cWM2Wk9DbkxoTWVnenNJOFdJSE1MTmI3V2l3VHMtM0xSa2hPQ2kyQS1zY0s?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 15,
+      "age_hours": 20,
+      "score": 20
+    },
+    {
+      "headline": "2027 NFL Mock Draft: Arch Manning Or Dante Moore At No. 1 Overall?",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWC1QTDBJVGZYLUppVjlDOGFZWENrbWNZdEFPTU9qamlsTUJvbUdDcmJQeFVPSHFpcmFHWDc5ZXZuTnVtNDdZX2ktSndTRHRPZWdpZmFacEhwdXEyQ0tQdFZEenVrSGhIcUpJeTZ6TUdJYndGYTNjbVFQcmhYRFZ3SFBSMFE1R2UwSGZJWXhKeThPbGppT2ZuWk1lRQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 13,
       "score": 20
     },
     {
@@ -928,7 +937,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX05ibGhVQ3luT1NVRlo3bWVVa3o4ZlRCaEx6aHdoYlVYMUVudHlZLXY0Xy1TTGJrc0RfTEFnYUZHbmpadGs2ZUhYUkRHUnFRbkpWOEpIU3Q1LVMzdWplOFB3RHVHb1J2TEI0QXQtM3g3OWd0QjJBNnp1bFBJWDhXcldBcnZZMllDRWNGY0JHWl9CTmRlYXRISDhneUJ0QTZL?oc=5",
       "player": "CJ Carr",
-      "age_hours": 40,
+      "age_hours": 45,
       "score": 18
     },
     {
@@ -937,34 +946,25 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1NIbEprbmtnN1d1ZW13ZWVkQi1zLXBBamdYdjM2TXI0bk5EYnpVUTE2VVdWRlJEN29XeWEzSmZjanRvTUhMSmlSLWtOaG9JMHBVNjFUcnJnV2NzU0xCNmRlVzBXRE54YXJOZHZsSlJaMUlfQXJqeHdtU3JzeDRrOElkR01YOWd4S1o2S1NKODBTT29YS0lCcTZrdEJFRlVTaEZMMU9Tb1RYUFhjQzc4?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 15,
+      "age_hours": 20,
       "score": 18
     },
     {
       "headline": "Arizona Head Coach Brent Brennan Says Noah Fifita Has a Heisman Trophy Resume",
-      "source": "si.com",
+      "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNm9wek1CWV9KdHphUWFtaks2Tk4xNXpwZHFVSkd3cHVnTXRYRF93RDBoX012dUFjdGlOZkJfMFIxTkJxbE42QjJ4WHNseTZzY3lELUtLdFFMVnhoVEo3aXREcG14c296S0xfYjBJeURmb24tcnRNN0JHZmlaY3VKQmJ0VkdhUmJ2NEtJc1dtYi1NNEtKSzFHV3ZMbVA5SXJ3VTlxdGY2emRxZndQ?oc=5",
       "player": "Noah Fifita",
-      "age_hours": 13,
+      "age_hours": 18,
       "score": 18
     },
     {
-      "headline": "Trinidad Chambliss on his readiness to start as QB for Ole Miss again",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnI3VHlrdXVoNmp2MURjYy1zbkZlZXZ0U294ckxzLXVXclNyWGczN2FfRkRHTjVNd01EbGpWYnNMSXFETHJMeVVDSUhqVk9NdVNoeVV0dWxpdm5GQy1YN3YxOHBvd0sxTkNNbUR2VnVKRUlUVkowa3RaRUtZZnBXdktFVjZYV2xhVTRTdlpzdzg4M0ZCQ19NQ1VpVGJtSnc?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 13,
-      "score": 17
-    },
-    {
       "headline": "No. 9 Ole Miss vs No. 24 Louisville: How to Watch, Odds, Injuries, and More",
-      "source": "si.com",
+      "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDhiREZ3Z0dfRWtJQ0ZoRncwNEtXd1liUHktamZFSW1lM0J3RXJ5R0N3amxST0xuUjN6dE10ek5QcC0xTmZyLW5wNk9xSjhlZUhIUGYzTHNDUUp2VndSMzdmbHo0VGVMeUtVTDlTUXdXQzBvY3VBXzRFWkpQd0UyMlFPeTN4MHJfTXVrVl9nQ3Q4N1BuUmQwR3lWNkZNTnJ1ak4yQzl4MGx2RWdSYXNTNjk5aw?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 37,
+      "age_hours": 42,
       "score": 17
     }
   ],
