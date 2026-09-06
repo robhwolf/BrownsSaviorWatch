@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T03:57:54.510032+00:00",
+  "updated_at": "2026-09-06T05:24:31.837701+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -642,10 +642,23 @@
         "kickoff": "2026-09-05T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Clemson"
+        "state": "final",
+        "result": "W",
+        "score": "51-10",
+        "label": "W 51-10 vs Clemson"
       },
-      "game": null,
+      "game": {
+        "cmp": 16,
+        "att": 28,
+        "pass_yds": 230,
+        "pass_td": 1,
+        "int": 1,
+        "rush_att": 12,
+        "rush_yds": 113,
+        "rush_td": 2,
+        "comp_pct": 57.1,
+        "ypa": 8.2
+      },
       "next_game": {
         "event_id": "401867796",
         "week": 2,
@@ -658,9 +671,43 @@
         "state": "scheduled",
         "label": "vs Louisiana Tech"
       },
-      "log": [],
+      "log": [
+        {
+          "cmp": 16,
+          "att": 28,
+          "pass_yds": 230,
+          "pass_td": 1,
+          "int": 1,
+          "rush_att": 12,
+          "rush_yds": 113,
+          "rush_td": 2,
+          "comp_pct": 57.1,
+          "ypa": 8.2,
+          "event_id": "401856660",
+          "week": 1,
+          "opponent": "Clemson",
+          "home_away": "vs",
+          "result": "W",
+          "score": "51-10",
+          "date": "2026-09-05T23:30:00.000Z"
+        }
+      ],
       "season": {
-        "games": 0,
+        "games": 1,
+        "record": "1-0",
+        "cmp": 16,
+        "att": 28,
+        "comp_pct": 57.1,
+        "pass_yds": 230,
+        "ypa": 8.2,
+        "pass_td": 1,
+        "int": 1,
+        "td_int": "1-1",
+        "rush_yds": 113,
+        "rush_td": 2,
+        "total_td": 3,
+        "ypg": 230,
+        "rating": 130.8,
         "epa_per_play": null
       }
     },
@@ -777,10 +824,23 @@
         "kickoff": "2026-09-06T01:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Northern Arizona"
+        "state": "final",
+        "result": "W",
+        "score": "35-7",
+        "label": "W 35-7 vs Northern Arizona"
       },
-      "game": null,
+      "game": {
+        "cmp": 22,
+        "att": 29,
+        "pass_yds": 262,
+        "pass_td": 2,
+        "int": 0,
+        "rush_att": 5,
+        "rush_yds": 24,
+        "rush_td": 0,
+        "comp_pct": 75.9,
+        "ypa": 9.0
+      },
       "next_game": {
         "event_id": "401856810",
         "week": 2,
@@ -793,9 +853,43 @@
         "state": "scheduled",
         "label": "at BYU"
       },
-      "log": [],
+      "log": [
+        {
+          "cmp": 22,
+          "att": 29,
+          "pass_yds": 262,
+          "pass_td": 2,
+          "int": 0,
+          "rush_att": 5,
+          "rush_yds": 24,
+          "rush_td": 0,
+          "comp_pct": 75.9,
+          "ypa": 9.0,
+          "event_id": "401856773",
+          "week": 1,
+          "opponent": "Northern Arizona",
+          "home_away": "vs",
+          "result": "W",
+          "score": "35-7",
+          "date": "2026-09-06T01:30:00.000Z"
+        }
+      ],
       "season": {
-        "games": 0,
+        "games": 1,
+        "record": "1-0",
+        "cmp": 22,
+        "att": 29,
+        "comp_pct": 75.9,
+        "pass_yds": 262,
+        "ypa": 9.0,
+        "pass_td": 2,
+        "int": 0,
+        "td_int": "2-0",
+        "rush_yds": 24,
+        "rush_td": 0,
+        "total_td": 2,
+        "ypg": 262,
+        "rating": 174.5,
         "epa_per_play": null
       }
     }
@@ -803,39 +897,30 @@
   "news": [
     {
       "headline": "Oregon Ducks' Offense Derailed Early vs. Boise State By Key Injuries",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmJoRFBpcGE5RDRFY0J6S0R2Z19ob3k1QlVGeWItRkpiWlZPQmdvZXdFVmZ4cUZ4U0hDUV9ST0hwakRJRDJyTmthYkVHdmQtU1o2eFhsX3ozSUcxNjEyenFCdHZ3SGt5TUIyd2lNWmtaLVpfd19JUkprcFN2M0psWGozVW9KRmplQVlnTmZQMHQxRWotUEJtajdEek9HZWppRHZBS1Nn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 7,
+      "age_hours": 8,
       "score": 21
     },
     {
       "headline": "Notre Dame\u2019s CJ Carr has \u2018All the Intangibles\u2019 to be Top 2027 NFL Draft Pick",
-      "source": "247Sports",
+      "source": "247sports.com",
       "domain": "247sports.com",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTlJONmpyNGRNLXJSQkNjTUxQNU9mMkVLcnR6bTJZaThvOWl1OTY5UTd0RENnWTFGM28wX1ktVFlxcXRYUHBoS041XzM4Uk13N0ZQUllQS0VYc0w0RUk5dmFkanB1cTM5eEVaemlUbHJSczY0X3JFT0N2SUNYSGJ4UTIta2Rvdk9TY29pR3ZJRG1TVkdEWXYzT0NibnlvV2NiUzZlX3NZNjl5MzVWQlRoZDh4NU5zTk9PMUtfbHhQMWVFZV9CVnNKQWpRaHpHMTFINEdkWXZueE1fcjU3aVk1YXVKSVB0TVZieFVfckRzSG1EQ0xqWkw4TWpUS3AzY19WOWQ4aDByb2MtUUdkOF9PX0p3?oc=5",
       "player": "CJ Carr",
-      "age_hours": 12,
+      "age_hours": 13,
       "score": 20
     },
     {
       "headline": "'I Feel Like I'm In Full Control': Miami's Heisman Hopeful QB Dazzles in Program Record Breaking Debut",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkxob2VhLUtRVkJfM1d4c2o3eC1Qd0c4ODZmeE1OWXdQWjJmNThObUhYMWVNWHcyVW92WkJyanpOeklRSE45Ynd0ZEM4Y19zRFBxX2ZFR0taeFZ5cUMtOE9qSllGUlBUazhQU2hmbXhNWHphOWp2bEpRQmVpX2hRR3Z0ZGJRaFN3U0JSdHd5TG12MENnbHRRb3lrT0s3TUtyVjRMYk1WSVZ6eWF5cWM2Wk9DbkxoTWVnenNJOFdJSE1MTmI3V2l3VHMtM0xSa2hPQ2kyQS1zY0s?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 14,
+      "age_hours": 15,
       "score": 20
-    },
-    {
-      "headline": "Toney, Mensah shatter Miami records in blowout of Stanford",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakxMTWdtbXZzZnk1Nl82SVIzU0dTLW1TRkF5NDRSTm4xY2F3Mmo0b3VFV0h1Z1hkaGRRZTAxbzF0T0FONndnTGJDVWFxS2k4OWFIUjFqTWhIbl9OUG1SY3NmTEhRQXFKeHIya3pTNG5lZ3hyR08xQnJUZ3ZENjdualExbFlScVVsM2hVZDFXWnNOdDh4N0k0aXVLeUFWUzJnd3VrRGJZdXAwTngwWFE?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 23,
-      "score": 19
     },
     {
       "headline": "Darian Mensah, CJ Carr, more NFL Draft 2027 prospects to watch in college football Week 1",
@@ -843,25 +928,25 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX05ibGhVQ3luT1NVRlo3bWVVa3o4ZlRCaEx6aHdoYlVYMUVudHlZLXY0Xy1TTGJrc0RfTEFnYUZHbmpadGs2ZUhYUkRHUnFRbkpWOEpIU3Q1LVMzdWplOFB3RHVHb1J2TEI0QXQtM3g3OWd0QjJBNnp1bFBJWDhXcldBcnZZMllDRWNGY0JHWl9CTmRlYXRISDhneUJ0QTZL?oc=5",
       "player": "CJ Carr",
-      "age_hours": 38,
+      "age_hours": 40,
       "score": 18
     },
     {
       "headline": "Polymarket Heisman odds: Miami QB Darian Mensah new favorite after Week 1 performance",
-      "source": "on3.com",
+      "source": "On3",
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1NIbEprbmtnN1d1ZW13ZWVkQi1zLXBBamdYdjM2TXI0bk5EYnpVUTE2VVdWRlJEN29XeWEzSmZjanRvTUhMSmlSLWtOaG9JMHBVNjFUcnJnV2NzU0xCNmRlVzBXRE54YXJOZHZsSlJaMUlfQXJqeHdtU3JzeDRrOElkR01YOWd4S1o2S1NKODBTT29YS0lCcTZrdEJFRlVTaEZMMU9Tb1RYUFhjQzc4?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 14,
+      "age_hours": 15,
       "score": 18
     },
     {
       "headline": "Arizona Head Coach Brent Brennan Says Noah Fifita Has a Heisman Trophy Resume",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNm9wek1CWV9KdHphUWFtaks2Tk4xNXpwZHFVSkd3cHVnTXRYRF93RDBoX012dUFjdGlOZkJfMFIxTkJxbE42QjJ4WHNseTZzY3lELUtLdFFMVnhoVEo3aXREcG14c296S0xfYjBJeURmb24tcnRNN0JHZmlaY3VKQmJ0VkdhUmJ2NEtJc1dtYi1NNEtKSzFHV3ZMbVA5SXJ3VTlxdGY2emRxZndQ?oc=5",
       "player": "Noah Fifita",
-      "age_hours": 12,
+      "age_hours": 13,
       "score": 18
     },
     {
@@ -870,7 +955,16 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnI3VHlrdXVoNmp2MURjYy1zbkZlZXZ0U294ckxzLXVXclNyWGczN2FfRkRHTjVNd01EbGpWYnNMSXFETHJMeVVDSUhqVk9NdVNoeVV0dWxpdm5GQy1YN3YxOHBvd0sxTkNNbUR2VnVKRUlUVkowa3RaRUtZZnBXdktFVjZYV2xhVTRTdlpzdzg4M0ZCQ19NQ1VpVGJtSnc?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 12,
+      "age_hours": 13,
+      "score": 17
+    },
+    {
+      "headline": "No. 9 Ole Miss vs No. 24 Louisville: How to Watch, Odds, Injuries, and More",
+      "source": "si.com",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDhiREZ3Z0dfRWtJQ0ZoRncwNEtXd1liUHktamZFSW1lM0J3RXJ5R0N3amxST0xuUjN6dE10ek5QcC0xTmZyLW5wNk9xSjhlZUhIUGYzTHNDUUp2VndSMzdmbHo0VGVMeUtVTDlTUXdXQzBvY3VBXzRFWkpQd0UyMlFPeTN4MHJfTXVrVl9nQ3Q4N1BuUmQwR3lWNkZNTnJ1ak4yQzl4MGx2RWdSYXNTNjk5aw?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 37,
       "score": 17
     }
   ],
