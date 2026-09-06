@@ -156,12 +156,17 @@ def season_games():
 
 
 def live_index():
-    """game id -> live status. Needs a Patreon tier; absence is not fatal."""
+    """game id -> live status.
+
+    Returns (index, reachable). An empty index with reachable=True simply means
+    nothing is being played right now; reachable=False means the endpoint
+    refused us, which is the only case worth warning about.
+    """
     rows = cfbd("/scoreboard", classification="fbs")
     if rows is None:
-        DIAG["notes"].append("scoreboard unavailable - in-progress games won't show live")
-        return {}
-    return {g.get("id"): g for g in rows if g.get("status") == "in_progress"}
+        DIAG["notes"].append("scoreboard call failed - live status unavailable this run")
+        return {}, False
+    return {g.get("id"): g for g in rows if g.get("status") == "in_progress"}, True
 
 
 def team_games(games, team_id):
@@ -418,8 +423,9 @@ def main():
     print(f"  teams resolved: {len(teams)}/{len(QBS)}")
     games = season_games()
     print(f"  {len(games)} FBS games in the {SEASON} schedule")
-    live = live_index()
-    print(f"  {len(live)} games in progress league-wide")
+    live, live_ok = live_index()
+    print(f"  scoreboard reachable: {live_ok}; "
+          f"{len(live)} games in progress league-wide")
 
     rows, matched = [], 0
     for qb in QBS:
@@ -460,7 +466,8 @@ def main():
         "live_count": sum(1 for r in rows if r["status"]["state"] == "live"),
         "teams": teams, "quarterbacks": rows, "news": build_news(),
         "diagnostics": {**DIAG, "games_seen": len(games), "games_matched": matched,
-                        "teams_resolved": len(teams), "live_available": bool(live) or None},
+                        "teams_resolved": len(teams), "live_available": live_ok,
+                        "live_games_now": len(live)},
     }
     json.dump(payload, open(OUT, "w"), indent=2)
     print(f"Wrote {OUT} - {matched}/{len(QBS)} on the board, "

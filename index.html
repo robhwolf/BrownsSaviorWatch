@@ -319,8 +319,8 @@ function render(d) {
   if (d.sample) notice = `<div class="banner">Showing sample data. Run fetch_data.py to load real numbers.</div>`;
   else if (!dg.games_seen) notice = `<div class="warn">The last run couldn't load the schedule from CollegeFootballData. Check the Actions log.</div>`;
   else if (!dg.games_matched) notice = `<div class="warn">The last run loaded ${dg.games_seen} games but matched none to your quarterbacks. Check the Actions log.</div>`;
-  else if (dg.live_available === null && live.length === 0 && new Date().getDay() === 6)
-    notice = `<div class="warn">Live in-progress scores need a CFBD Patreon tier. Finals and schedules are unaffected.</div>`;
+  else if (dg.live_available === false)
+    notice = `<div class="warn">The live scoreboard didn't respond on the last run, so in-progress games may show as scheduled. Finals and schedules are unaffected.</div>`;
   document.getElementById("banner").innerHTML = notice;
 
   document.getElementById("livecount").textContent = live.length || "";
