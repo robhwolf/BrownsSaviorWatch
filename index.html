@@ -497,14 +497,21 @@ function render(d) {
   if (d.sample) notice = `<div class="banner">Showing sample data. Run fetch_data.py to load real numbers.</div>`;
   else if (!dg.games_seen) notice = `<div class="warn">The last run couldn't load the schedule from CollegeFootballData. Check the Actions log.</div>`;
   else if (!dg.games_matched) notice = `<div class="warn">The last run loaded ${dg.games_seen} games but matched none to your quarterbacks. Check the Actions log.</div>`;
-  else if (dg.live_available === false)
-    notice = `<div class="warn">The live scoreboard didn't respond on the last run, so in-progress games may show as scheduled. Finals and schedules are unaffected.</div>`;
   document.getElementById("banner").innerHTML = notice;
+
+  // The CFBD key's tier doesn't cover /scoreboard, so live status never
+  // resolves — permanent, not a one-off failure. Only worth a mention when a
+  // tracked kickoff has actually passed; otherwise it's noise nobody needs.
+  const now = Date.now();
+  const midflight = dg.live_available === false && !live.length && qbs.some(q =>
+    q.status.state === "scheduled" && q.status.kickoff && new Date(q.status.kickoff) <= now);
 
   document.getElementById("tab-live-n").textContent = live.length || "";
   document.getElementById("livelede").textContent = live.length
     ? "Scores and stat lines refresh every five minutes while this page is open."
-    : "Nobody's playing at the moment.";
+    : midflight
+      ? "A tracked kickoff has passed, but live status isn't available on the current API tier — it'll catch up once the game goes final."
+      : "Nobody's playing at the moment.";
   document.getElementById("live").innerHTML = live.length
     ? live.map(card).join("")
     : `<div class="quiet"><b>No games in progress.</b></div>`;
