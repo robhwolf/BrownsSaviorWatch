@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T01:27:35.755598+00:00",
+  "updated_at": "2026-09-06T01:37:10.806899+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -782,16 +782,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856773",
-        "week": 1,
-        "opponent": "Northern Arizona",
-        "opponent_id": 2464,
-        "home_away": "vs",
-        "kickoff": "2026-09-06T01:30:00.000Z",
+        "event_id": "401856810",
+        "week": 2,
+        "opponent": "BYU",
+        "opponent_id": 252,
+        "home_away": "at",
+        "kickoff": "2026-09-12T19:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Northern Arizona"
+        "label": "at BYU"
       },
       "log": [],
       "season": {
@@ -834,7 +834,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0hSaEpITXNsZXdXLVZPRnhpNkVQRjRNM0ItMjdhRkRyVllBM2dXU21LTXUxSENablVjX3JzNnhUMC0xREEtY19zcHhwYzd0OFI3Tk8zT25kVWhVSUhxX1BRSm1MR191NW9yS2R1a1JLTU1Jc2QweVh3aVZ1OVBFS0JXZ0dEZ3NNUW1Cc3pmV3k4M09pM1p6ckloQQ?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 3,
+      "age_hours": 4,
       "score": 20
     },
     {
@@ -870,7 +870,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNm9wek1CWV9KdHphUWFtaks2Tk4xNXpwZHFVSkd3cHVnTXRYRF93RDBoX012dUFjdGlOZkJfMFIxTkJxbE42QjJ4WHNseTZzY3lELUtLdFFMVnhoVEo3aXREcG14c296S0xfYjBJeURmb24tcnRNN0JHZmlaY3VKQmJ0VkdhUmJ2NEtJc1dtYi1NNEtKSzFHV3ZMbVA5SXJ3VTlxdGY2emRxZndQ?oc=5",
       "player": "Noah Fifita",
-      "age_hours": 9,
+      "age_hours": 10,
       "score": 18
     }
   ],
