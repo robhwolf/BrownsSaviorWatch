@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:18:51.758023+00:00",
+  "updated_at": "2026-09-07T21:09:24.645443+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -435,7 +435,7 @@
         "record": "1-0",
         "cmp": 27,
         "att": 30,
-        "comp_pct": 90,
+        "comp_pct": 90.0,
         "pass_yds": 412,
         "ypa": 13.7,
         "pass_td": 5,
@@ -526,7 +526,7 @@
         "record": "1-0",
         "cmp": 21,
         "att": 25,
-        "comp_pct": 84,
+        "comp_pct": 84.0,
         "pass_yds": 320,
         "ypa": 12.8,
         "pass_td": 3,
@@ -985,7 +985,7 @@
         "att": 29,
         "comp_pct": 75.9,
         "pass_yds": 262,
-        "ypa": 9,
+        "ypa": 9.0,
         "pass_td": 2,
         "int": 0,
         "td_int": "2-0",
@@ -1005,43 +1005,52 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUlJQVDdVX00yWmRmMWVCeFpFM2RvSk0tQ0k4aFRSUm9DX09vSnp5cS1WZlhMa1dYZDFZNGxEdWY5OEgtcEdOdWJja0N4OXFOSmVkem1oQkJVNHRTeVprMWg3Z3JUR3VkcjdCUUtlVXFHZ3N2TkZmeXNZcm8xUUZNdmUzSjgxTDdLSmwyYkxhMmE?oc=5",
       "player": "Arch Manning",
-      "age_hours": 16,
+      "age_hours": 20,
       "score": 21
     },
     {
-      "headline": "Dante Moore’s Heisman Trophy Odds Take Surprising Turn After Boise State Win",
+      "headline": "2027 NFL Mock Draft: First-Round Projection Before Everything Gets Flipped Totally Upside Down",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGwweWhBdnd4YXg4eWhoWTNjZlRPTGZlQXlQT2RJT1NhbXppcWIzT252TDNVY3Y3aDVnanhHQnJlZmc3dXlIMUtIT1RWdXk5ZGp5a3BOWVJ1QUc5SkdhNzVrLVJEenZpR29pRG5DVk9RaU9uM0U1cFRWbElVYVBVRE5rY2VQVW9KRGp6cWVJQURyc3l5Ql9HTldTTUd2bWFVN0lpdV9HSmFhWEtPc3dyT3A2MDF0R21jMUxrdTJ3Z1hDQTdSRTZraHdKWDVGUlJTVVpiQ1BB?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 11,
+      "score": 20
+    },
+    {
+      "headline": "Dante Moore\u2019s Heisman Trophy Odds Take Surprising Turn After Boise State Win",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXN2S25hYTQyaldiak0zQU9pb2hJVDFhS2pwcm9vajgzTi1sa0wydzdCNWpZZjFHY0NGLVBzUEl4S1BkMnAydlFyNFRETHJLNnJxY3lLZ2RyN1ZqLUZJbVJxSlBiT1dKM0RMUE0xUVkxY1p5TlZvdDMxVG80RWU1X3Q3QmlPS2g3ckhTU1VoN3RMZmFhN1RyUEY4RHpxRy1Mb2VJSUQ2OUVjQQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 4,
+      "age_hours": 8,
       "score": 18
     },
     {
-      "headline": "As CJ Carr opens year 2 as Notre Dame’s starter, what is QB’s NFL Draft outlook?",
-      "source": "The New York Times",
+      "headline": "As CJ Carr opens year 2 as Notre Dame\u2019s starter, what is QB\u2019s NFL Draft outlook?",
+      "source": "nytimes.com",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1p2QWNPdkpYSEFQQnVib0kyUlB2Z1hVVVprdEtTSUNmdjJRRUZncThXVzVMemY3MDJybG9tRTJ6YUdKVnBKUmdacU9BQk45eWx6dGhsamRzU19PdV8wM1N5TFVWMGd3VllOZ0d6MGtfdzk4YkU4NUZYTFBUbms1SDZ5RWhVWGJFcS0xTDJaU29ybkpIbDRUOA?oc=5",
       "player": "CJ Carr",
-      "age_hours": 31,
+      "age_hours": 35,
       "score": 18
     },
     {
-      "headline": "2026 Heisman Trophy Odds (Darian Mensah Jumps to Favorite After Saturday’s Week 1 Action)",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3pqbnhlODYwMmpsWUctb21EaHNxc0F0ZWJoUHg4YVJvOVF6aWk1VjNZLTI1VjJUS1hJLVZoUnhCTmJnQVNRZzROSElISG9UUDlIRHQ3eUhIT25QTm9Ub1lBa0tVRWhqbVpUeC1VVDdaQi11eEp2ZEkzck80dTFVQmRvMTVTdm0zUjQ4MXQzRUhyRUM1aDdSZUNoQUxGVlFVT3RzLUZwTFE3MU42Yk9UOGxB?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 24,
-      "score": 18
+      "headline": "Ole Miss-Louisville fireworks, Notre Dame squashes Wisconsin and more bonus Final Thoughts",
+      "source": "nytimes.com",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN25MZHFOSzNmRnVhZEFCckVNaG10clZLdXE0cm5La3owMU9lZ1FvTUhaU1lhMk4zUGNudS11b05NSXRLS29abUVsdVNuaEw4cmNpemZJVFJGeWRHUDA5dTBRSENVQWQySVh0aXQ5c1dEZkNXZjhtVlZfVExIT3dzemM0eTVIU0gtTG5wSEFwYm1qYjJVRTJ6dXA1ZDhsbHVZbi11Y3NyMW51TDQ?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 3,
+      "score": 17
     },
     {
       "headline": "Lucas Carneiro's 48-yard FG leads Ole Miss past No. 24 Louisville",
-      "source": "ESPN",
+      "source": "espn.com",
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1FRZW9kLTk4WElCTnJ4MVBYem1pYXpsOWtWMUtlYmxPNDhsQW9fa3pZdE9SZ3d0ek1LcmI2NHM5WnRqdnFFTTJhay12MFNudzRjdkEybGFmRlp3SUxWR1Y4VnlyMmQ2c1dZQWtoN21QZk9hWE1RYWZlaUpBU2VaU0ZJUEo5X1QyVzZGVzI2UkxDV2w2T28wZmVXVjU4MGNDYzYwRGRkNG10R0VRbFBlREE5SXJ3dw?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 13,
+      "age_hours": 17,
       "score": 17
     },
     {
@@ -1050,25 +1059,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmJoRFBpcGE5RDRFY0J6S0R2Z19ob3k1QlVGeWItRkpiWlZPQmdvZXdFVmZ4cUZ4U0hDUV9ST0hwakRJRDJyTmthYkVHdmQtU1o2eFhsX3ozSUcxNjEyenFCdHZ3SGt5TUIyd2lNWmtaLVpfd19JUkprcFN2M0psWGozVW9KRmplQVlnTmZQMHQxRWotUEJtajdEek9HZWppRHZBS1Nn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 44,
+      "age_hours": 48,
       "score": 17
     },
     {
       "headline": "CJ Carr, Notre Dame pull away, beat Wisconsin in opener",
-      "source": "ESPN",
+      "source": "espn.com",
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXRScVBpbUIwaGVzWE50RVdvQzhvUW9reTFkMl9RWEt5ZjYxNjlwRHEwT240by1kM2h6cWdRWFFMeFk2UFpsOEVMZ3h5MUpiTGJ4N0pBR0JWU1JZMFNuSkFpRzQ3UnFRNG1yQUhWSHl6R2VJZWlTaS1ZdkRtSmtkUkpXWkllMmhoUmF0RGZTNkswVXZTNWJNZ1paQ1p5a1hCTkNmQWVmRXJENEZC?oc=5",
       "player": "CJ Carr",
-      "age_hours": 14,
-      "score": 17
-    },
-    {
-      "headline": "Peyton and Eli Manning Gave Arch Manning Simple Advice About His NFL Future",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQzIwU3REbm1mRXl1aXJkbmtWcjBKd0gySmpxeW44RnpyR1VWYTBJWWtDMlpvUy1ESDFKcGhzcG83d0FxVGtOQThfbDJwZk1XcXZ1eHBZYmtMTWJIUmxpR3FTWDZwV1lEY3VTYVVUTldNeXlEbTh6VklJZC1kSmhVWXdfRnk1M2EtR0dFTHk1bDRpWm5fSjR6N1F6NFRlekN6N0RpUjZ0OFpFaVFoRkxfenJSTHMxbkx0?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 20,
+      "age_hours": 18,
       "score": 17
     }
   ],
@@ -1178,7 +1178,7 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 12,
+          "pct": 14,
           "tracked": true
         },
         {
@@ -1187,14 +1187,14 @@
           "tracked": true
         },
         {
+          "name": "CJ Carr",
+          "pct": 9,
+          "tracked": true
+        },
+        {
           "name": "Jeremiah Smith",
           "pct": 8,
           "tracked": false
-        },
-        {
-          "name": "CJ Carr",
-          "pct": 8,
-          "tracked": true
         },
         {
           "name": "Julian Sayin",
@@ -1217,7 +1217,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 35,
+      "field_pct": 32,
       "field_count": 29
     }
   ],
