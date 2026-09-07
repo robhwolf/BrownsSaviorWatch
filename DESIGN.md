@@ -156,7 +156,10 @@ only circular form; everything else is rectangular.
 
 ### Nameplate (`.plate`)
 The signature component, and the board's whole point: the player photo IS the
-card, not an avatar sitting on one. A `4/5`-ratio button, the ESPN headshot
+card, not an avatar sitting on one. A `3/5`-ratio button — tall enough that
+the bottom info bar never eats into the chin, since ESPN's headshots run
+landscape and `object-fit: cover` already fills the frame's full height
+before any bar sits on top of it — the ESPN headshot
 full-bleed via `object-fit: cover` (ink-toned tan and white read clean against
 it), pushpin dot overlaid top-center, rank stamped top-right like a jersey
 number — bold Oswald numeral, no circle or chip behind it, just a hard Ground
