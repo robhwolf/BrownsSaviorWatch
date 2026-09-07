@@ -157,11 +157,15 @@ The signature component, and the board's whole point: the player photo IS the
 card, not an avatar sitting on one. A `4/5`-ratio button, the ESPN headshot
 full-bleed via `object-fit: cover` (ink-toned tan and white read clean against
 it), pushpin dot overlaid top-center, a two-digit mono rank as a circular badge
-overlaid top-right. Name, school, and — only when Kalshi's market actually has
-an opinion — a mono percentage line sit in a solid Ground Brown bar overlaid
+overlaid top-right. Name and school sit in a solid Ground Brown bar overlaid
 at the bottom of the photo (never a gradient scrim: a flat, fully opaque bar
-guarantees contrast regardless of the photo underneath). No team-logo badge —
-the school name is already there in text, so the logo was redundant chrome.
+guarantees contrast regardless of the photo underneath) — a fixed two lines
+for every plate, tracked by the market or not, so the photo gets the same
+amount of room across the whole board. Only when Kalshi's market actually has
+an opinion, a mono percentage rides inline right after the name ("Manning
+29%") rather than as a third line or a repeated "1st pick" label — the section
+lede already says what the number means. No team-logo badge — the school name
+is already there in text, so the logo was redundant chrome.
 Clicking a plate jumps to that quarterback's full card in the Live or This
 Week tab. Live quarterbacks get an orange pin and an inset orange outline
 around the photo itself; everyone else, Edge Brown.
