@@ -116,11 +116,14 @@ The heading carries its own weight.
 
 ## Layout
 
-Single centered column, `max-width: 900px`, 16px side padding. The board is a
-`grid-template-columns: repeat(auto-fill, minmax(126px, 1fr))` that reflows
+Single centered column, `max-width: 900px`, 16px side padding. The tab bar
+sits directly under the header — the board is itself the first tab and the
+default view, not a permanent fixture above the tabs. The board is a
+`grid-template-columns: repeat(auto-fill, minmax(134px, 1fr))` that reflows
 from five-wide on desktop to two-wide on narrow phones with no breakpoint
-authored by hand. Content below the board lives in tab panels, one visible at
-a time, switched without navigation. The banner is a fixed 3:1 `aspect-ratio`
+authored by hand. Every other panel (Live, This Week, Next Game, Season,
+Market Odds, News, Reading) lives behind the same tab bar, one visible at a
+time, switched without navigation. The banner is a fixed 3:1 `aspect-ratio`
 image spanning the full column width — the only element in the system with a
 locked ratio.
 
@@ -151,11 +154,14 @@ only circular form; everything else is rectangular.
 
 ### Nameplate (`.plate`)
 The signature component. A button styled as a pinned index card: pushpin dot
-top-center, a two-digit mono rank, team logo, last name in Oswald caps, school
-in tan, and — only when Kalshi's market actually has an opinion — a mono
-percentage line. Clicking one jumps to that quarterback's full card in the
-Live or This Week tab. Live quarterbacks get an orange pin; everyone else,
-Edge Brown.
+top-center, a 72px circular player photo (ESPN headshot) with a small team-logo
+badge overlapping its lower-right edge, a two-digit mono rank as a circular
+badge overlaid in the top-right corner (out of flow — it never competes with
+the photo for vertical space), last name in Oswald caps, school in tan, and —
+only when Kalshi's market actually has an opinion — a mono percentage line.
+Clicking one jumps to that quarterback's full card in the Live or This Week
+tab. Live quarterbacks get an orange pin and an orange outline on the photo;
+everyone else, Edge Brown.
 
 ### Quarterback card (`.qb`)
 Panel-seal background, corner pin (left edge, not top-center, to distinguish
@@ -167,7 +173,8 @@ Yds/att, Comp %, Rush yds).
 Folder-tab convention: inactive tabs sit on Panel Seal with a visible bottom
 rule; the active tab's background becomes Ground Brown and its bottom border
 disappears, so it visually merges with the panel beneath it. One small mono
-badge (`.tab .n`) on the Live tab shows the live count.
+badge (`.tab .n`) on the Live tab shows the live count. Board is the first tab
+and the default on load; every other tab starts `hidden`.
 
 ### Chips (`.chip`)
 - **Live:** orange fill, seal text, pulsing dot — reserved for a genuinely

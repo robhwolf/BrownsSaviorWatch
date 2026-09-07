@@ -36,33 +36,33 @@ Scheduled workflows are also disabled automatically after 60 days of no repo
 activity. The bot's own commits count as activity, so this only bites in the
 offseason.
 
-## The board, and the seven tabs behind it
+## Eight tabs, "Board" first
 
-Atop the page: a 3:1 banner image, then **the board** — all ten quarterbacks as
-pinned nameplates, ranked by Kalshi's live first-pick odds where the market
-has an opinion (untracked-by-the-market names keep their original order).
-Clicking a nameplate jumps straight to that player's card. Everything else
-lives behind a tab bar, one panel visible at a time:
+Atop the page: a 3:1 banner image, then a tab bar. **Board** is the first tab
+and the default view — all ten quarterbacks as pinned nameplates with a photo,
+ranked by Kalshi's live first-pick odds where the market has an opinion
+(untracked-by-the-market names keep their original order). Clicking a
+nameplate jumps straight to that player's card. Everything else lives behind
+the same tab bar, one panel visible at a time:
 
-1. **Live** — only the quarterbacks currently playing, with quarter, clock,
+1. **Board** — the ranked nameplate grid described above.
+2. **Live** — only the quarterbacks currently playing, with quarter, clock,
    score and a live stat line. When nobody's playing it collapses to a single
    line naming the next kickoff.
-2. **This week** — everyone else. Finals first, then whoever hasn't kicked off.
-3. **Next game** — every tracked QB's next kickoff, soonest first.
-4. **Season** — cumulative totals, sortable by passer rating, yards, total
+3. **This week** — everyone else. Finals first, then whoever hasn't kicked off.
+4. **Next game** — every tracked QB's next kickoff, soonest first.
+5. **Season** — cumulative totals, sortable by passer rating, yards, total
    touchdowns, yards per attempt, completion percentage, EPA per play, or
    fewest interceptions. Whoever leads the current sort is highlighted.
-5. **Market odds** — Kalshi's live implied probabilities for three markets:
+6. **Market odds** — Kalshi's live implied probabilities for three markets:
    first player picked, first team to pick, and Heisman winner. Shown as a
    plain ranked list (top 8 plus a "Field" bucket for the rest) — no charts,
    just the current price. Informational only, not a recommendation to trade.
-6. **News** — the ranked, source-and-freshness-scored headline list.
-7. **Reading** — Wikipedia, official university bio, ESPN profile, and public
-   X/Instagram/LinkedIn accounts for each tracked quarterback, where one could
-   be found and verified. A name with none found shows "No verified links yet"
-   rather than a guess — these are hand-curated in `fetch_data.py`'s
-   `REFERENCES` dict, not fetched live, so they need updating by hand if a
-   handle changes.
+7. **News** — the ranked, source-and-freshness-scored headline list.
+8. **Reading** — Wikipedia, official university bio, and ESPN profile for each
+   tracked quarterback. Verified by hand against each source (no guessed
+   URLs); these live in `fetch_data.py`'s `REFERENCES` dict, not fetched live,
+   so they need updating by hand if a link changes.
 
 Visual design decisions — palette, type, the pin device, the whole "big board"
 direction — are recorded in [DESIGN.md](DESIGN.md).

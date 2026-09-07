@@ -49,10 +49,60 @@ QBS = [
 def espn_headshot(espn_id):
     return f"https://a.espncdn.com/i/headshots/college-football/players/full/{espn_id}.png"
 
-# Durable identity links, not re-fetched every run. Wikipedia is omitted for
-# names without a page rather than guessed; same for any social account that
-# couldn't be verified as actually theirs.
-REFERENCES = {}
+# Durable identity links, not re-fetched every run. Verified by hand against
+# Wikipedia, the school's own athletics roster, and ESPN - not guessed.
+REFERENCES = {
+    "Trinidad Chambliss": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Trinidad_Chambliss",
+        "university_bio": "https://olemisssports.com/sports/football/roster/trinidad-chambliss/6554",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/4911529/trinidad-chambliss",
+    },
+    "Dante Moore": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dante_Moore",
+        "university_bio": "https://goducks.com/sports/football/roster/dante-moore/18320",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/4870921/dante-moore",
+    },
+    "CJ Carr": {
+        "wikipedia": "https://en.wikipedia.org/wiki/CJ_Carr",
+        "university_bio": "https://fightingirish.com/sports/football/roster/player/cj-carr",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/5079369/cj-carr",
+    },
+    "Darian Mensah": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Darian_Mensah",
+        "university_bio": "https://miamihurricanes.com/sports/football/roster/player/darian-mensah",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/5121169/darian-mensah",
+    },
+    "Julian Sayin": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Julian_Sayin",
+        "university_bio": "https://ohiostatebuckeyes.com/sports/football/roster/julian-sayin/13331",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/5079712/julian-sayin",
+    },
+    "Drew Mestemaker": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Drew_Mestemaker",
+        "university_bio": "https://okstate.com/sports/football/roster/drew-mestemaker/14374",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/5219834/drew-mestemaker",
+    },
+    "Arch Manning": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Arch_Manning",
+        "university_bio": "https://texaslonghorns.com/sports/football/roster/arch-manning/16963",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/4870906/arch-manning",
+    },
+    "Sam Leavitt": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sam_Leavitt_(American_football)",
+        "university_bio": "https://lsusports.net/sports/fb/roster/player/sam-leavitt",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/5078810/sam-leavitt",
+    },
+    "Jayden Maiava": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jayden_Maiava",
+        "university_bio": "https://usctrojans.com/sports/football/roster/jayden-maiava/18836",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/4685454/jayden-maiava",
+    },
+    "Noah Fifita": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Noah_Fifita",
+        "university_bio": "https://arizonawildcats.com/sports/football/roster/noah-fifita/19276",
+        "espn_bio": "https://www.espn.com/college-football/player/_/id/4801717/noah-fifita",
+    },
+}
 
 SOURCE_TIER = {
     "espn.com": 5, "theathletic.com": 5, "nytimes.com": 5, "si.com": 4,

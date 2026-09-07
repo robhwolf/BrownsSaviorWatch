@@ -435,7 +435,7 @@
         "record": "1-0",
         "cmp": 27,
         "att": 30,
-        "comp_pct": 90.0,
+        "comp_pct": 90,
         "pass_yds": 412,
         "ypa": 13.7,
         "pass_td": 5,
@@ -526,7 +526,7 @@
         "record": "1-0",
         "cmp": 21,
         "att": 25,
-        "comp_pct": 84.0,
+        "comp_pct": 84,
         "pass_yds": 320,
         "ypa": 12.8,
         "pass_td": 3,
@@ -985,7 +985,7 @@
         "att": 29,
         "comp_pct": 75.9,
         "pass_yds": 262,
-        "ypa": 9.0,
+        "ypa": 9,
         "pass_td": 2,
         "int": 0,
         "td_int": "2-0",
@@ -1009,7 +1009,7 @@
       "score": 21
     },
     {
-      "headline": "Dante Moore\u2019s Heisman Trophy Odds Take Surprising Turn After Boise State Win",
+      "headline": "Dante Moore’s Heisman Trophy Odds Take Surprising Turn After Boise State Win",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXN2S25hYTQyaldiak0zQU9pb2hJVDFhS2pwcm9vajgzTi1sa0wydzdCNWpZZjFHY0NGLVBzUEl4S1BkMnAydlFyNFRETHJLNnJxY3lLZ2RyN1ZqLUZJbVJxSlBiT1dKM0RMUE0xUVkxY1p5TlZvdDMxVG80RWU1X3Q3QmlPS2g3ckhTU1VoN3RMZmFhN1RyUEY4RHpxRy1Mb2VJSUQ2OUVjQQ?oc=5",
@@ -1018,7 +1018,7 @@
       "score": 18
     },
     {
-      "headline": "As CJ Carr opens year 2 as Notre Dame\u2019s starter, what is QB\u2019s NFL Draft outlook?",
+      "headline": "As CJ Carr opens year 2 as Notre Dame’s starter, what is QB’s NFL Draft outlook?",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1p2QWNPdkpYSEFQQnVib0kyUlB2Z1hVVVprdEtTSUNmdjJRRUZncThXVzVMemY3MDJybG9tRTJ6YUdKVnBKUmdacU9BQk45eWx6dGhsamRzU19PdV8wM1N5TFVWMGd3VllOZ0d6MGtfdzk4YkU4NUZYTFBUbms1SDZ5RWhVWGJFcS0xTDJaU29ybkpIbDRUOA?oc=5",
@@ -1027,7 +1027,7 @@
       "score": 18
     },
     {
-      "headline": "2026 Heisman Trophy Odds (Darian Mensah Jumps to Favorite After Saturday\u2019s Week 1 Action)",
+      "headline": "2026 Heisman Trophy Odds (Darian Mensah Jumps to Favorite After Saturday’s Week 1 Action)",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3pqbnhlODYwMmpsWUctb21EaHNxc0F0ZWJoUHg4YVJvOVF6aWk1VjNZLTI1VjJUS1hJLVZoUnhCTmJnQVNRZzROSElISG9UUDlIRHQ3eUhIT25QTm9Ub1lBa0tVRWhqbVpUeC1VVDdaQi11eEp2ZEkzck80dTFVQmRvMTVTdm0zUjQ4MXQzRUhyRUM1aDdSZUNoQUxGVlFVT3RzLUZwTFE3MU42Yk9UOGxB?oc=5",
@@ -1221,7 +1221,58 @@
       "field_count": 29
     }
   ],
-  "references": {},
+  "references": {
+    "Trinidad Chambliss": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Trinidad_Chambliss",
+      "university_bio": "https://olemisssports.com/sports/football/roster/trinidad-chambliss/6554",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/4911529/trinidad-chambliss"
+    },
+    "Dante Moore": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dante_Moore",
+      "university_bio": "https://goducks.com/sports/football/roster/dante-moore/18320",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/4870921/dante-moore"
+    },
+    "CJ Carr": {
+      "wikipedia": "https://en.wikipedia.org/wiki/CJ_Carr",
+      "university_bio": "https://fightingirish.com/sports/football/roster/player/cj-carr",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/5079369/cj-carr"
+    },
+    "Darian Mensah": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Darian_Mensah",
+      "university_bio": "https://miamihurricanes.com/sports/football/roster/player/darian-mensah",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/5121169/darian-mensah"
+    },
+    "Julian Sayin": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Julian_Sayin",
+      "university_bio": "https://ohiostatebuckeyes.com/sports/football/roster/julian-sayin/13331",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/5079712/julian-sayin"
+    },
+    "Drew Mestemaker": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Drew_Mestemaker",
+      "university_bio": "https://okstate.com/sports/football/roster/drew-mestemaker/14374",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/5219834/drew-mestemaker"
+    },
+    "Arch Manning": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Arch_Manning",
+      "university_bio": "https://texaslonghorns.com/sports/football/roster/arch-manning/16963",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/4870906/arch-manning"
+    },
+    "Sam Leavitt": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sam_Leavitt_(American_football)",
+      "university_bio": "https://lsusports.net/sports/fb/roster/player/sam-leavitt",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/5078810/sam-leavitt"
+    },
+    "Jayden Maiava": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Jayden_Maiava",
+      "university_bio": "https://usctrojans.com/sports/football/roster/jayden-maiava/18836",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/4685454/jayden-maiava"
+    },
+    "Noah Fifita": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Noah_Fifita",
+      "university_bio": "https://arizonawildcats.com/sports/football/roster/noah-fifita/19276",
+      "espn_bio": "https://www.espn.com/college-football/player/_/id/4801717/noah-fifita"
+    }
+  },
   "diagnostics": {
     "errors": [
       "/scoreboard: HTTP 401 - key rejected or tier too low"
