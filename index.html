@@ -41,26 +41,29 @@
   .warn{border:1px solid var(--orange);color:var(--orange);background:none;
         padding:10px 14px;border-radius:3px;margin:16px 0 0;font-size:14px;font-weight:400}
 
-  /* ---- the board: pinned nameplates ---- */
+  /* ---- the board: photo-first nameplates ---- */
   .board{display:grid;grid-template-columns:repeat(auto-fill,minmax(134px,1fr));gap:11px}
-  .plate{position:relative;display:block;width:100%;background:var(--board);
-         border:1px solid var(--edge);border-radius:4px;padding:16px 10px 12px;text-align:center;
+  .plate{position:relative;display:block;width:100%;aspect-ratio:4/5;overflow:hidden;
+         background:var(--board);border:1px solid var(--edge);border-radius:6px;
          box-shadow:0 3px 9px rgba(0,0,0,.4);font:inherit;color:inherit;cursor:pointer;
-         appearance:none;-webkit-appearance:none}
+         padding:0;appearance:none;-webkit-appearance:none}
   .plate .pin{position:absolute;top:-5px;left:50%;transform:translateX(-50%);width:9px;height:9px;
-              border-radius:50%;background:var(--edge);box-shadow:0 2px 2px rgba(0,0,0,.45)}
+              border-radius:50%;background:var(--edge);box-shadow:0 2px 2px rgba(0,0,0,.45);z-index:2}
   .plate.live .pin{background:var(--orange)}
-  .plate .rank{position:absolute;top:7px;right:7px;width:21px;height:21px;border-radius:50%;
+  .plate .rank{position:absolute;top:8px;right:8px;width:24px;height:24px;border-radius:50%;
                background:var(--ink);border:1px solid var(--edge);color:var(--tan);
-               display:flex;align-items:center;justify-content:center;
-               font-family:"IBM Plex Mono",monospace;font-size:10px}
-  .plate .photo-wrap{margin:2px auto 8px}
-  .plate .photo-wrap .photo{width:72px;height:72px;object-position:center 20%}
-  .plate .photo-wrap .badge{width:24px;height:24px}
+               display:flex;align-items:center;justify-content:center;z-index:2;
+               font-family:"IBM Plex Mono",monospace;font-size:11px}
+  .plate .photo-wrap{position:absolute;inset:0}
+  .plate .photo-wrap .photo{width:100%;height:100%;border-radius:0;object-position:center}
+  .plate .photo-wrap .badge{display:none}
+  .plate.live .photo-wrap .photo{outline:3px solid var(--orange);outline-offset:-3px}
+  .plate .info{position:absolute;left:0;right:0;bottom:0;z-index:1;background:var(--ink);
+               border-top:1px solid var(--edge);padding:7px 8px 9px;text-align:center}
   .plate h3{font-family:Oswald,sans-serif;font-weight:600;text-transform:uppercase;
-            font-size:15px;margin:0;line-height:1.15}
-  .plate p{margin:3px 0 0;color:var(--tan);font-size:11.5px}
-  .plate .stake{display:block;margin-top:7px;font-family:"IBM Plex Mono",monospace;
+            font-size:15px;margin:0;line-height:1.15;color:var(--paper)}
+  .plate p{margin:2px 0 0;color:var(--tan);font-size:11.5px}
+  .plate .stake{display:block;margin-top:4px;font-family:"IBM Plex Mono",monospace;
                 font-size:12px;color:var(--orange)}
   .plate:hover,.plate:focus-visible{border-color:var(--orange)}
 
@@ -372,12 +375,14 @@ function renderBoard(qbs, kalshi) {
   box.innerHTML = ranked.map(({ q, pct }, i) => `
     <button class="plate${q.status.state === "live" ? " live" : ""}" data-jump="qb-${slug(q.name)}"
             title="Jump to ${esc(q.name)}">
+      ${photo(q.headshot, q.team)}
       <span class="pin" aria-hidden="true"></span>
       <span class="rank">${String(i + 1).padStart(2, "0")}</span>
-      ${photo(q.headshot, q.team)}
-      <h3>${esc(q.name.split(" ").slice(-1)[0])}</h3>
-      <p>${esc(q.school)}</p>
-      ${pct != null ? `<span class="stake">${pct}% 1st pick</span>` : ""}
+      <div class="info">
+        <h3>${esc(q.name.split(" ").slice(-1)[0])}</h3>
+        <p>${esc(q.school)}</p>
+        ${pct != null ? `<span class="stake">${pct}% 1st pick</span>` : ""}
+      </div>
     </button>`).join("");
   box.querySelectorAll(".plate").forEach(btn => btn.addEventListener("click", () => {
     const target = document.getElementById(btn.dataset.jump);

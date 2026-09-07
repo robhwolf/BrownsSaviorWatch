@@ -153,15 +153,18 @@ only circular form; everything else is rectangular.
 ## Components
 
 ### Nameplate (`.plate`)
-The signature component. A button styled as a pinned index card: pushpin dot
-top-center, a 72px circular player photo (ESPN headshot) with a small team-logo
-badge overlapping its lower-right edge, a two-digit mono rank as a circular
-badge overlaid in the top-right corner (out of flow — it never competes with
-the photo for vertical space), last name in Oswald caps, school in tan, and —
-only when Kalshi's market actually has an opinion — a mono percentage line.
-Clicking one jumps to that quarterback's full card in the Live or This Week
-tab. Live quarterbacks get an orange pin and an orange outline on the photo;
-everyone else, Edge Brown.
+The signature component, and the board's whole point: the player photo IS the
+card, not an avatar sitting on one. A `4/5`-ratio button, the ESPN headshot
+full-bleed via `object-fit: cover` (ink-toned tan and white read clean against
+it), pushpin dot overlaid top-center, a two-digit mono rank as a circular badge
+overlaid top-right. Name, school, and — only when Kalshi's market actually has
+an opinion — a mono percentage line sit in a solid Ground Brown bar overlaid
+at the bottom of the photo (never a gradient scrim: a flat, fully opaque bar
+guarantees contrast regardless of the photo underneath). No team-logo badge —
+the school name is already there in text, so the logo was redundant chrome.
+Clicking a plate jumps to that quarterback's full card in the Live or This
+Week tab. Live quarterbacks get an orange pin and an inset orange outline
+around the photo itself; everyone else, Edge Brown.
 
 ### Quarterback card (`.qb`)
 Panel-seal background, corner pin (left edge, not top-center, to distinguish
