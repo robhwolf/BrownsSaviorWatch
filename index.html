@@ -13,7 +13,7 @@
   *{box-sizing:border-box}
   html,body{margin:0;padding:0}
   body{background:var(--ink);color:var(--paper);
-       font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:15px;line-height:1.5;
+       font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:16px;line-height:1.5;
        font-feature-settings:"tnum" 1;-webkit-font-smoothing:antialiased}
   .wrap{max-width:900px;margin:0 auto;padding:0 16px 64px}
   ::selection{background:var(--orange);color:var(--seal)}
@@ -32,22 +32,22 @@
   .helmet-stripe i:nth-child(1),.helmet-stripe i:nth-child(5){background:var(--orange);flex:1}
   .helmet-stripe i:nth-child(2),.helmet-stripe i:nth-child(4){background:var(--seal);width:7px}
   .helmet-stripe i:nth-child(3){background:var(--stripe);width:9px}
-  .ribbon{padding:13px 0 4px;color:var(--tan);font-size:13.5px}
+  .ribbon{padding:13px 0 4px;color:var(--tan);font-size:14.5px}
   .stale{color:var(--orange)}
   .ribbon .zone{display:inline-block;margin-left:10px;padding:2px 7px;border:1px solid var(--edge);
-                border-radius:2px;font-size:11.5px;letter-spacing:.03em;color:var(--tan)}
+                border-radius:2px;font-size:12.5px;letter-spacing:.03em;color:var(--tan)}
   .banner{background:var(--orange);color:var(--seal);font-weight:600;padding:10px 14px;
-          border-radius:3px;margin:16px 0 0;font-size:13.5px}
+          border-radius:3px;margin:16px 0 0;font-size:14.5px}
   .warn{border:1px solid var(--orange);color:var(--orange);background:none;
-        padding:10px 14px;border-radius:3px;margin:16px 0 0;font-size:13px;font-weight:400}
+        padding:10px 14px;border-radius:3px;margin:16px 0 0;font-size:14px;font-weight:400}
 
   /* ---- the board: pinned nameplates ---- */
   .board-h{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;
            gap:4px 10px;margin:32px 0 3px}
   .board-h h2{font-family:Oswald,sans-serif;font-weight:600;text-transform:uppercase;
-              font-size:18px;letter-spacing:.02em;margin:0;flex:none}
-  .board-h p{margin:0;color:var(--tan);font-size:12px;text-align:right;flex:1 1 200px}
-  .board{display:grid;grid-template-columns:repeat(auto-fill,minmax(126px,1fr));gap:11px;
+              font-size:19px;letter-spacing:.02em;margin:0;flex:none}
+  .board-h p{margin:0;color:var(--tan);font-size:13px;text-align:right;flex:1 1 200px}
+  .board{display:grid;grid-template-columns:repeat(auto-fill,minmax(134px,1fr));gap:11px;
          margin-top:14px}
   .plate{position:relative;display:block;width:100%;background:var(--board);
          border:1px solid var(--edge);border-radius:4px;padding:17px 10px 12px;text-align:center;
@@ -56,21 +56,21 @@
   .plate .pin{position:absolute;top:-5px;left:50%;transform:translateX(-50%);width:9px;height:9px;
               border-radius:50%;background:var(--edge);box-shadow:0 2px 2px rgba(0,0,0,.45)}
   .plate.live .pin{background:var(--orange)}
-  .plate .rank{display:block;font-family:"IBM Plex Mono",monospace;font-size:10px;
+  .plate .rank{display:block;font-family:"IBM Plex Mono",monospace;font-size:11px;
                color:var(--tan);letter-spacing:.06em;margin-bottom:7px}
   .plate .photo-wrap{margin:0 auto 8px}
   .plate .photo-wrap .photo{width:56px;height:56px;object-position:center 20%}
   .plate .photo-wrap .badge{width:20px;height:20px}
   .plate h3{font-family:Oswald,sans-serif;font-weight:600;text-transform:uppercase;
-            font-size:14px;margin:0;line-height:1.15}
-  .plate p{margin:3px 0 0;color:var(--tan);font-size:10.5px}
+            font-size:15px;margin:0;line-height:1.15}
+  .plate p{margin:3px 0 0;color:var(--tan);font-size:11.5px}
   .plate .stake{display:block;margin-top:7px;font-family:"IBM Plex Mono",monospace;
-                font-size:11px;color:var(--orange)}
+                font-size:12px;color:var(--orange)}
   .plate:hover,.plate:focus-visible{border-color:var(--orange)}
 
   /* ---- tabs ---- */
   .tabs{display:flex;gap:3px;overflow-x:auto;margin:34px 0 0}
-  .tab{font-family:Oswald,sans-serif;font-weight:500;text-transform:uppercase;font-size:12.5px;
+  .tab{font-family:Oswald,sans-serif;font-weight:500;text-transform:uppercase;font-size:13.5px;
        letter-spacing:.03em;color:var(--tan);background:var(--seal);border:1px solid var(--edge);
        border-bottom:2px solid var(--edge);border-radius:4px 4px 0 0;padding:10px 14px 8px;
        white-space:nowrap;cursor:pointer;flex:none}
@@ -82,7 +82,7 @@
   .tabpanel{animation:rise .22s ease-out}
   @keyframes rise{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
   @media (prefers-reduced-motion:reduce){.tabpanel{animation:none}}
-  .lede{margin:0 0 14px;color:var(--tan);font-size:13px}
+  .lede{margin:0 0 14px;color:var(--tan);font-size:14px}
 
   .logo{width:26px;height:26px;object-fit:contain;flex:none}
   .logo.sm{width:20px;height:20px}
@@ -103,12 +103,12 @@
            border-radius:50%;background:var(--edge);box-shadow:0 2px 3px rgba(0,0,0,.45)}
   .qb.live .pin{background:var(--orange)}
   .qb.live{border-color:var(--orange)}
-  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
-  .who{display:flex;align-items:center;gap:11px;min-width:0}
+  .top{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-start;gap:8px 12px}
+  .who{display:flex;align-items:center;gap:11px;min-width:0;flex:1 1 190px}
   .who h3{font-family:Oswald,sans-serif;font-weight:600;text-transform:uppercase;
-          font-size:22px;line-height:1.05;margin:0}
-  .who p{margin:2px 0 0;color:var(--tan);font-size:13px}
-  .chip{flex:none;font-size:12px;font-weight:600;padding:5px 9px;border-radius:2px;
+          font-size:23px;line-height:1.05;margin:0}
+  .who p{margin:2px 0 0;color:var(--tan);font-size:14px}
+  .chip{flex:none;font-size:13px;font-weight:600;padding:5px 9px;border-radius:2px;
         border:1px solid var(--edge);color:var(--tan);white-space:nowrap;text-align:right}
   .chip.final{color:var(--paper)}
   .chip.live{background:var(--orange);color:var(--seal);border-color:var(--orange);
@@ -120,53 +120,54 @@
 
   .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(62px,1fr));gap:12px 8px;
          margin-top:14px;padding-top:13px;border-top:1px solid var(--edge)}
-  .stat span{display:block;color:var(--tan);font-size:11px;letter-spacing:.03em}
-  .stat strong{font-family:Oswald,sans-serif;font-weight:500;font-size:21px;line-height:1.1}
+  .stat span{display:block;color:var(--tan);font-size:12px;letter-spacing:.03em}
+  .stat strong{font-family:Oswald,sans-serif;font-weight:500;font-size:22px;line-height:1.1}
   .stat.key strong{color:var(--orange)}
-  .empty{color:var(--tan);font-size:13px;font-style:italic;margin:12px 0 0}
+  .empty{color:var(--tan);font-size:14px;font-style:italic;margin:12px 0 0}
   .quiet{background:var(--seal);border:1px solid var(--edge);border-radius:3px;
-         padding:16px;color:var(--tan);font-size:14px}
+         padding:16px;color:var(--tan);font-size:15px}
   .quiet b{color:var(--paper);font-weight:600}
 
   .up{display:flex;align-items:center;gap:10px;padding:10px 0;
-      border-bottom:1px solid var(--edge);font-size:13.5px}
-  .up .nm2{font-family:Oswald,sans-serif;font-weight:500;font-size:15px;
+      border-bottom:1px solid var(--edge);font-size:14.5px}
+  .up .nm2{font-family:Oswald,sans-serif;font-weight:500;font-size:16px;
            text-transform:uppercase;flex:none}
   .up .opp{color:var(--tan);flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;
            white-space:nowrap}
-  .up .when{color:var(--paper);flex:none;font-size:12.5px;text-align:right}
-  .up .when em{display:block;color:var(--tan);font-style:normal;font-size:11.5px}
+  .up .when{color:var(--paper);flex:none;font-size:13.5px;text-align:right}
+  .up .when em{display:block;color:var(--tan);font-style:normal;font-size:12.5px}
 
-  .sortbar{display:flex;align-items:center;gap:8px;margin:0 0 12px;color:var(--tan);font-size:13px}
+  .sortbar{display:flex;align-items:center;gap:8px;margin:0 0 12px;color:var(--tan);font-size:14px}
   select{background:var(--seal);color:var(--paper);border:1px solid var(--edge);
-         border-radius:2px;padding:6px 8px;font:inherit;font-size:13px}
-  table{width:100%;border-collapse:collapse;table-layout:fixed}
-  th{font-family:Oswald,sans-serif;font-weight:500;color:var(--tan);font-size:12px;
+         border-radius:2px;padding:6px 8px;font:inherit;font-size:14px}
+  .tablewrap{overflow-x:auto}
+  table{width:100%;min-width:460px;border-collapse:collapse;table-layout:fixed}
+  th{font-family:Oswald,sans-serif;font-weight:500;color:var(--tan);font-size:13px;
      text-align:right;padding:0 0 8px;border-bottom:1px solid var(--edge)}
   th:first-child{text-align:left}
   td{padding:11px 0;border-bottom:1px solid var(--edge);text-align:right;
-     font-size:14px;white-space:nowrap}
+     font-size:15px;white-space:nowrap}
   td:first-child{text-align:left;white-space:normal}
   tr.leader td{color:var(--orange)}
   .nmcell{display:flex;align-items:center;gap:9px}
-  .nm{font-family:Oswald,sans-serif;font-weight:500;font-size:16px;
+  .nm{font-family:Oswald,sans-serif;font-weight:500;font-size:17px;
       text-transform:uppercase;line-height:1.1}
-  .tm{color:var(--tan);font-size:12px}
+  .tm{color:var(--tan);font-size:13px}
   tr.leader .tm{color:var(--orange)}
-  .col-g{width:28px}.col-n{width:56px}.col-w{width:70px}
+  .col-g{width:30px}.col-n{width:60px}.col-w{width:76px}
 
   .markets{display:flex;flex-direction:column;gap:14px}
   .market{background:var(--seal);border:1px solid var(--edge);border-radius:3px;padding:14px 16px}
   .market h3{font-family:Oswald,sans-serif;font-weight:600;text-transform:uppercase;
-             font-size:15px;letter-spacing:.01em;margin:0 0 10px}
+             font-size:16px;letter-spacing:.01em;margin:0 0 10px}
   .market h3 a{color:var(--paper);text-decoration:none}
   .market h3 a:hover,.market h3 a:focus{color:var(--orange)}
   .odds-row{display:flex;align-items:center;gap:10px;padding:6px 0;
-            border-bottom:1px solid var(--edge);font-size:13.5px}
+            border-bottom:1px solid var(--edge);font-size:14.5px}
   .odds-row:last-child{border-bottom:none}
   .odds-row .nm3{flex:1;min-width:0;color:var(--tan)}
   .odds-row.tracked .nm3{color:var(--paper);font-weight:500}
-  .odds-row .pct{font-family:Oswald,sans-serif;font-weight:500;font-size:16px;
+  .odds-row .pct{font-family:Oswald,sans-serif;font-weight:500;font-size:17px;
                  color:var(--tan);flex:none;width:44px;text-align:right}
   .odds-row.tracked .pct{color:var(--orange)}
   .odds-row.field{font-style:italic}
@@ -176,23 +177,23 @@
           border-bottom:1px solid var(--edge)}
   .refrow:last-child{border-bottom:none}
   .refrow .who2{flex:none;display:flex;align-items:center;gap:9px;min-width:150px}
-  .refrow .nm2{font-family:Oswald,sans-serif;font-weight:500;font-size:14px;
+  .refrow .nm2{font-family:Oswald,sans-serif;font-weight:500;font-size:15px;
                text-transform:uppercase;color:var(--paper)}
   .refrow .links{display:flex;flex-wrap:wrap;gap:7px 8px;flex:1;min-width:180px}
-  .reflink{color:var(--tan);font-size:12px;text-decoration:none;border:1px solid var(--edge);
+  .reflink{color:var(--tan);font-size:13px;text-decoration:none;border:1px solid var(--edge);
            border-radius:2px;padding:3px 8px;white-space:nowrap}
   .reflink:hover,.reflink:focus{color:var(--paper);border-color:var(--orange)}
-  .refnone{color:var(--tan);font-size:12px;font-style:italic}
+  .refnone{color:var(--tan);font-size:13px;font-style:italic}
 
   .story{display:flex;gap:9px;align-items:baseline;padding:7px 0;
-         border-bottom:1px solid var(--edge);font-size:13.5px;line-height:1.35}
+         border-bottom:1px solid var(--edge);font-size:14.5px;line-height:1.35}
   .story a{color:var(--paper);text-decoration:none}
   .story a:hover,.story a:focus{color:var(--orange);text-decoration:underline}
-  .story .tag{color:var(--orange);font-weight:600;font-size:11.5px;flex:none;
+  .story .tag{color:var(--orange);font-weight:600;font-size:12.5px;flex:none;
               text-transform:uppercase;font-family:Oswald,sans-serif;letter-spacing:.02em}
-  .story .src{color:var(--tan);font-size:11.5px;white-space:nowrap}
+  .story .src{color:var(--tan);font-size:12.5px;white-space:nowrap}
   footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--edge);
-         color:var(--tan);font-size:12.5px}
+         color:var(--tan);font-size:13.5px}
   footer a{color:var(--tan)}
   a:focus-visible,select:focus-visible,.tab:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
 </style>
@@ -427,7 +428,7 @@ function renderSeason(qbs, key) {
   const idle = qbs.filter(q => !q.season || !q.season.games);
 
   box.innerHTML = `
-    <table>
+    <div class="tablewrap"><table>
       <colgroup><col><col class="col-g"><col class="col-n"><col class="col-w"><col class="col-n"><col class="col-n"></colgroup>
       <thead><tr>
         <th scope="col">Quarterback</th><th scope="col">G</th><th scope="col">Yds</th>
@@ -446,7 +447,7 @@ function renderSeason(qbs, key) {
           <td>${num(q.season.rating, 1)}</td>
         </tr>`).join("")}
       </tbody>
-    </table>
+    </table></div>
     ${idle.length ? `<p class="empty">Yet to log a game: ${idle.map(q => esc(q.name)).join(", ")}.</p>` : ""}`;
 }
 
