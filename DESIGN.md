@@ -101,14 +101,16 @@ or actionable. It never appears as passive decoration on an idle element.
 **Character:** A condensed, gothic display face (standing in for the Browns'
 non-licensable proprietary wordmark) paired with a plain, highly legible sans
 for data-dense reading, and a monospace face reserved for anything that is
-actually a measurement — ranks, odds percentages, live clocks.
+actually a measurement — odds percentages, live clocks. Board rank is the one
+deliberate exception: it borrows the display face's jersey-number register
+instead, because it names a football convention, not a measurement.
 
 ### Hierarchy
-- **Display** (700, `clamp(28px,7.5vw,50px)`, 0.95 line-height): page masthead only (now carried by the banner image).
+- **Display** (700, `clamp(28px,7.5vw,50px)`, 0.95 line-height): page masthead only (now carried by the banner image); the board rank overlay reuses this weight at a smaller size.
 - **Headline** (600, 18–22px, uppercase): section and card-name headings (`h2.sec`-equivalent, quarterback names).
 - **Title** (500, 14–16px, uppercase): nameplate names, table row names, tab labels.
 - **Body** (400, 15px, 1.5 line-height): running copy, lede lines.
-- **Label** (400–500, 10–12px, mono, tracked): ranks, odds percentages, timestamps, captions.
+- **Label** (400–500, 10–12px, mono, tracked): odds percentages, timestamps, captions.
 
 ### Named Rules
 **The No-Kicker Rule.** No eyebrow or kicker label ever sits above a heading.
@@ -156,8 +158,13 @@ only circular form; everything else is rectangular.
 The signature component, and the board's whole point: the player photo IS the
 card, not an avatar sitting on one. A `4/5`-ratio button, the ESPN headshot
 full-bleed via `object-fit: cover` (ink-toned tan and white read clean against
-it), pushpin dot overlaid top-center, a two-digit mono rank as a circular badge
-overlaid top-right. Name and school sit in a solid Ground Brown bar overlaid
+it), pushpin dot overlaid top-center, rank stamped top-right like a jersey
+number — bold Oswald numeral, no circle or chip behind it, just a hard Ground
+Brown outline (a four-direction text-shadow, not a real stroke property) plus
+a soft drop shadow so it reads against any photo. A circular numbered badge
+read as generic notification chrome the first time around; a jersey number is
+this subject's own convention, and it reuses the same outlined-lettering trick
+already carrying the banner's title. Name and school sit in a solid Ground Brown bar overlaid
 at the bottom of the photo (never a gradient scrim: a flat, fully opaque bar
 guarantees contrast regardless of the photo underneath) — a fixed two lines
 for every plate, tracked by the market or not, so the photo gets the same

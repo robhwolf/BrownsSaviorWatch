@@ -50,10 +50,13 @@
   .plate .pin{position:absolute;top:-5px;left:50%;transform:translateX(-50%);width:9px;height:9px;
               border-radius:50%;background:var(--edge);box-shadow:0 2px 2px rgba(0,0,0,.45);z-index:2}
   .plate.live .pin{background:var(--orange)}
-  .plate .rank{position:absolute;top:8px;right:8px;width:24px;height:24px;border-radius:50%;
-               background:var(--ink);border:1px solid var(--edge);color:var(--tan);
-               display:flex;align-items:center;justify-content:center;z-index:2;
-               font-family:"IBM Plex Mono",monospace;font-size:11px}
+  .plate .rank{position:absolute;top:6px;right:9px;z-index:2;
+               font-family:Oswald,sans-serif;font-weight:700;font-size:26px;line-height:1;
+               color:var(--paper);
+               text-shadow:-1.5px -1.5px 0 var(--ink),1.5px -1.5px 0 var(--ink),
+                           -1.5px 1.5px 0 var(--ink),1.5px 1.5px 0 var(--ink),
+                           0 3px 5px rgba(0,0,0,.55)}
+  .plate.live .rank{color:var(--orange)}
   .plate .photo-wrap{position:absolute;inset:0}
   .plate .photo-wrap .photo{width:100%;height:100%;border-radius:0;object-position:center}
   .plate .photo-wrap .badge{display:none}
@@ -63,8 +66,8 @@
   .plate h3{font-family:Oswald,sans-serif;font-weight:600;text-transform:uppercase;
             font-size:15px;margin:0;line-height:1.15;color:var(--paper)}
   .plate p{margin:2px 0 0;color:var(--tan);font-size:11.5px}
-  .plate .stake{font-family:"IBM Plex Mono",monospace;font-size:11px;
-                color:var(--orange);letter-spacing:0;text-transform:none}
+  .plate .stake{font-family:"IBM Plex Mono",monospace;font-size:15px;font-weight:500;
+                color:var(--orange);letter-spacing:0;text-transform:none;margin-left:2px}
   .plate:hover,.plate:focus-visible{border-color:var(--orange)}
 
   /* ---- tabs ---- */
@@ -377,7 +380,7 @@ function renderBoard(qbs, kalshi) {
             title="Jump to ${esc(q.name)}">
       ${photo(q.headshot, q.team)}
       <span class="pin" aria-hidden="true"></span>
-      <span class="rank">${String(i + 1).padStart(2, "0")}</span>
+      <span class="rank">${i + 1}</span>
       <div class="info">
         <h3>${esc(q.name.split(" ").slice(-1)[0])}${pct != null ? ` <span class="stake">${pct}%</span>` : ""}</h3>
         <p>${esc(q.school)}</p>
