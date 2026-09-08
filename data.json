@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T03:14:50.348788+00:00",
+  "updated_at": "2026-09-08T16:03:20.873273+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1000,12 +1000,30 @@
   ],
   "news": [
     {
-      "headline": "Dante Moore\u2019s Heisman Trophy Odds Take Surprising Turn After Boise State Win",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXN2S25hYTQyaldiak0zQU9pb2hJVDFhS2pwcm9vajgzTi1sa0wydzdCNWpZZjFHY0NGLVBzUEl4S1BkMnAydlFyNFRETHJLNnJxY3lLZ2RyN1ZqLUZJbVJxSlBiT1dKM0RMUE0xUVkxY1p5TlZvdDMxVG80RWU1X3Q3QmlPS2g3ckhTU1VoN3RMZmFhN1RyUEY4RHpxRy1Mb2VJSUQ2OUVjQQ?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 14,
+      "headline": "How did Trinidad Chambliss, other key prospects fare in Week 1?: NFL Draft film room",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmhTWVltY0MxOGZvY3ZDUlBJSkFpQ3V5MFBGRUJ3ZnVIa1lBR3Z4aWZqNzRWcHFldnJGN2psbUhac0tUOE5oT1hXMm1wXzAzN0xUSzdCdFBkS2F0RXlhYWdYX0hVcWljNDBrTjQySDJCeXROVWFFalU3ZVItT05TUEFUNUhmeERTWWFLa0dkTktTSGNnc2hFYmRaSmQ?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 6,
+      "score": 22
+    },
+    {
+      "headline": "Heisman odds: Darian Mensah becomes favorite ahead of Jeremiah Smith, Arch Manning",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0ZCWGgtWGJ2Z3otM2ZDcUhsVW5HU3NfNzY1TmlXYUV4ZFJiR3QwTHZZTGhaUmwxRWVJaHZlSFBNZXdna0U2N3ZMM0l3WmJoU0Yza01mUW12ZkFRT3BIMzBiT25Sem5xcVpTdW9aR3R1WlJrQlRZTW5GUF9lZmRYRFdxVEFwTl9FcHlHV0U1X0RsdktCcEhJUHViOGtIMy1qdkFvOU9JLUlCd3c?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 1,
+      "score": 20
+    },
+    {
+      "headline": "Trinidad Chambliss turns historic second half into early Heisman statement",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU82c0JKYnBob0dOTmZKUGNQV3JrZDdKZjdQeGl5Tjhwak9HTTdjd3U3Mlkwa05YZTE1SkpPclY4ZVVpQWFib2V2S0c4M2lwTDd4eXB2eGZlcWN5TFlITzNPMU1yQTA5TFJlMmZTZC0xd0RrZzZxWWVCY2FGNjdySmhKTzBKaDQzUWFBNl9ScnhfZEIwam1UdVRMNWxCV3BFLUYxMW8zVWdWOFlfODNwTy1ZOEV6cEZMdE9mMV95cw?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 3,
       "score": 18
     },
     {
@@ -1014,7 +1032,34 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbE9PM3EwY0FhRUZfODJlWFJrSjBBTU02MnZ3TEx5YTcyOEtMYVdZeW05MHhlWXc2QXJQWmlpUkRYWE5fUE0xcDByR2lzOHVwVlB2X1hpbmdiOHZERDFDQTQwN0ZHTTNKdlp0NjZOUk9fYWRHN3ZUUDRuVDFaQjQ2NTVMTlRmVlVWc3hNNzQ3Yk5SWS0ya2prQTNveFh3VDRFZzc0eFRLMkhTYlphbGxsRQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 4,
+      "age_hours": 17,
+      "score": 18
+    },
+    {
+      "headline": "Arch Manning and Dante Moore come out firing, more Week 1 NFL Draft reactions",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlV2WXpuVlJrRldXSFFTU0hDWG1KeWo4WC1qQkVLQkoxYUpORFFMZDhtck9vQnhNczFTbWNHTlVydVUxSkRHVVZlTEQtWDV3Y2wxS2lhb3lXVU5VcDItaklybVVxV0RqcUx1enU3bmFiTm9ZdHhIRWM4VUlERGdCT1ZnOGxUS1FoVmh1YVhWUkVSQQ?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 51,
+      "score": 18
+    },
+    {
+      "headline": "As CJ Carr opens year 2 as Notre Dame\u2019s starter, what is QB\u2019s NFL Draft outlook?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1p2QWNPdkpYSEFQQnVib0kyUlB2Z1hVVVprdEtTSUNmdjJRRUZncThXVzVMemY3MDJybG9tRTJ6YUdKVnBKUmdacU9BQk45eWx6dGhsamRzU19PdV8wM1N5TFVWMGd3VllOZ0d6MGtfdzk4YkU4NUZYTFBUbms1SDZ5RWhVWGJFcS0xTDJaU29ybkpIbDRUOA?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 54,
+      "score": 18
+    },
+    {
+      "headline": "EJ Manuel: Darian Mensah is 'unequivocally' the Heisman frontrunner after Week 1",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUVKVmUzMFdOcEpDX3h5em5Yc2VYQlIwdVU2SmpHRGhkd2Zad2ZSbEw5QlBnb1dHQll6S2xaQjJlSm14clNqLUtSWUNIcEhxOURXX0xEY3hHcG4xb0hCOGxuaGx6ckhtb1lvVWVZbXJHSHl5ZWswSzhhZnhUR3dfU05KRlZDNktyZ3AtM3ZNeDl1MzRBQUEwRGtCLWdxelRSTzFHek13?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 3,
       "score": 18
     },
     {
@@ -1023,53 +1068,8 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN25MZHFOSzNmRnVhZEFCckVNaG10clZLdXE0cm5La3owMU9lZ1FvTUhaU1lhMk4zUGNudS11b05NSXRLS29abUVsdVNuaEw4cmNpemZJVFJGeWRHUDA5dTBRSENVQWQySVh0aXQ5c1dEZkNXZjhtVlZfVExIT3dzemM0eTVIU0gtTG5wSEFwYm1qYjJVRTJ6dXA1ZDhsbHVZbi11Y3NyMW51TDQ?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 10,
+      "age_hours": 22,
       "score": 17
-    },
-    {
-      "headline": "Lucas Carneiro's 48-yard FG leads Ole Miss past No. 24 Louisville",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1FRZW9kLTk4WElCTnJ4MVBYem1pYXpsOWtWMUtlYmxPNDhsQW9fa3pZdE9SZ3d0ek1LcmI2NHM5WnRqdnFFTTJhay12MFNudzRjdkEybGFmRlp3SUxWR1Y4VnlyMmQ2c1dZQWtoN21QZk9hWE1RYWZlaUpBU2VaU0ZJUEo5X1QyVzZGVzI2UkxDV2w2T28wZmVXVjU4MGNDYzYwRGRkNG10R0VRbFBlREE5SXJ3dw?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 23,
-      "score": 17
-    },
-    {
-      "headline": "Oregon Ducks' Offense Derailed Early vs. Boise State By Key Injuries",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmJoRFBpcGE5RDRFY0J6S0R2Z19ob3k1QlVGeWItRkpiWlZPQmdvZXdFVmZ4cUZ4U0hDUV9ST0hwakRJRDJyTmthYkVHdmQtU1o2eFhsX3ozSUcxNjEyenFCdHZ3SGt5TUIyd2lNWmtaLVpfd19JUkprcFN2M0psWGozVW9KRmplQVlnTmZQMHQxRWotUEJtajdEek9HZWppRHZBS1Nn?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 54,
-      "score": 17
-    },
-    {
-      "headline": "CJ Carr, Notre Dame pull away, beat Wisconsin in opener",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXRScVBpbUIwaGVzWE50RVdvQzhvUW9reTFkMl9RWEt5ZjYxNjlwRHEwT240by1kM2h6cWdRWFFMeFk2UFpsOEVMZ3h5MUpiTGJ4N0pBR0JWU1JZMFNuSkFpRzQ3UnFRNG1yQUhWSHl6R2VJZWlTaS1ZdkRtSmtkUkpXWkllMmhoUmF0RGZTNkswVXZTNWJNZ1paQ1p5a1hCTkNmQWVmRXJENEZC?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 24,
-      "score": 17
-    },
-    {
-      "headline": "Arch Manning eyes 2nd shot at Ohio State after 'rough' debut",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3hDdVFQajNiWEJTM2JOMXJkRTBCTmhjN01fSnR4SVRPcWJhNzh1cE1LT1NwSE1iNFN4LVZJYmJGVEZ6QWtHQkFtRXJPc3Fldk9pM2ZGekQwZGJZUFhreXhKV3Y4SjJwSVctVXR1OXI2N0hDZGVvXzg4YmwwTDk0dldfR3RYLVJEYnByZEp5VkVkQlFwU3VwYUJ6MWlTazBQRjg2YW1FMGNOWTQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 7,
-      "score": 17
-    },
-    {
-      "headline": "'I Feel Like I'm In Full Control': Miami's Heisman Hopeful QB Dazzles in Program Record Breaking Debut",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkxob2VhLUtRVkJfM1d4c2o3eC1Qd0c4ODZmeE1OWXdQWjJmNThObUhYMWVNWHcyVW92WkJyanpOeklRSE45Ynd0ZEM4Y19zRFBxX2ZFR0taeFZ5cUMtOE9qSllGUlBUazhQU2hmbXhNWHphOWp2bEpRQmVpX2hRR3Z0ZGJRaFN3U0JSdHd5TG12MENnbHRRb3lrT0s3TUtyVjRMYk1WSVZ6eWF5cWM2Wk9DbkxoTWVnenNJOFdJSE1MTmI3V2l3VHMtM0xSa2hPQ2kyQS1zY0s?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 61,
-      "score": 16
     }
   ],
   "kalshi": [
@@ -1080,7 +1080,7 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 31,
+          "pct": 29,
           "tracked": true
         },
         {
@@ -1089,18 +1089,18 @@
           "tracked": false
         },
         {
-          "name": "Dante Moore",
+          "name": "Darian Mensah",
           "pct": 16,
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
+          "name": "Dante Moore",
           "pct": 14,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 13,
+          "pct": 12,
           "tracked": true
         },
         {
@@ -1109,13 +1109,13 @@
           "tracked": false
         },
         {
-          "name": "Trinidad Chambliss",
+          "name": "Drew Mestemaker",
           "pct": 5,
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 5,
+          "name": "Julian Sayin",
+          "pct": 4,
           "tracked": true
         }
       ],
@@ -1128,13 +1128,13 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
-          "name": "Miami",
-          "pct": 22,
+          "name": "Arizona",
+          "pct": 23,
           "tracked": false
         },
         {
-          "name": "Arizona",
-          "pct": 21,
+          "name": "Miami",
+          "pct": 22,
           "tracked": false
         },
         {
@@ -1168,7 +1168,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 10,
+      "field_pct": 8,
       "field_count": 24
     },
     {
@@ -1178,7 +1178,12 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 15,
+          "pct": 16,
+          "tracked": true
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 9,
           "tracked": true
         },
         {
@@ -1190,16 +1195,6 @@
           "name": "Jeremiah Smith",
           "pct": 8,
           "tracked": false
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 8,
-          "tracked": true
-        },
-        {
-          "name": "Julian Sayin",
-          "pct": 7,
-          "tracked": true
         },
         {
           "name": "Malachi Toney",
@@ -1215,10 +1210,15 @@
           "name": "Dante Moore",
           "pct": 7,
           "tracked": true
+        },
+        {
+          "name": "Julian Sayin",
+          "pct": 6,
+          "tracked": true
         }
       ],
-      "field_pct": 32,
-      "field_count": 29
+      "field_pct": 31,
+      "field_count": 30
     }
   ],
   "references": {
