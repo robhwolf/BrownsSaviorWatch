@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:59:25.819907+00:00",
+  "updated_at": "2026-09-09T20:29:47.742292+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -190,31 +190,18 @@
         "color": "#007030"
       },
       "status": {
-        "event_id": "401858433",
-        "week": 1,
-        "opponent": "Boise State",
-        "opponent_id": 68,
-        "home_away": "vs",
-        "kickoff": "2026-09-05T19:30:00.000Z",
+        "event_id": "401856782",
+        "week": 2,
+        "opponent": "Oklahoma State",
+        "opponent_id": 197,
+        "home_away": "at",
+        "kickoff": "2026-09-12T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "34-27",
-        "label": "W 34-27 vs Boise State"
+        "state": "scheduled",
+        "label": "at Oklahoma State"
       },
-      "game": {
-        "cmp": 28,
-        "att": 37,
-        "pass_yds": 378,
-        "pass_td": 3,
-        "int": 0,
-        "rush_att": 2,
-        "rush_yds": -5,
-        "rush_td": 0,
-        "comp_pct": 75.7,
-        "ypa": 10.2
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856782",
         "week": 2,
@@ -450,31 +437,10 @@
         "color": "#ba0c2f"
       },
       "status": {
-        "event_id": "401858432",
-        "week": 1,
-        "opponent": "Ball State",
-        "opponent_id": 2050,
-        "home_away": "vs",
-        "kickoff": "2026-09-05T16:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "56-3",
-        "label": "W 56-3 vs Ball State"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 21,
-        "att": 25,
-        "pass_yds": 320,
-        "pass_td": 3,
-        "int": 0,
-        "rush_att": 3,
-        "rush_yds": -9,
-        "rush_td": 1,
-        "comp_pct": 84,
-        "ypa": 12.8
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856682",
         "week": 2,
@@ -541,31 +507,18 @@
         "color": "#fe5c00"
       },
       "status": {
-        "event_id": "401856772",
-        "week": 1,
-        "opponent": "Tulsa",
-        "opponent_id": 202,
-        "home_away": "at",
-        "kickoff": "2026-09-05T19:45:00.000Z",
+        "event_id": "401856782",
+        "week": 2,
+        "opponent": "Oregon",
+        "opponent_id": 2483,
+        "home_away": "vs",
+        "kickoff": "2026-09-12T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "L",
-        "score": "10-24",
-        "label": "L 10-24 at Tulsa"
+        "state": "scheduled",
+        "label": "vs Oregon"
       },
-      "game": {
-        "cmp": 29,
-        "att": 49,
-        "pass_yds": 241,
-        "pass_td": 1,
-        "int": 2,
-        "rush_att": 5,
-        "rush_yds": 3,
-        "rush_td": 0,
-        "comp_pct": 59.2,
-        "ypa": 4.9
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856782",
         "week": 2,
@@ -632,31 +585,10 @@
         "color": "#bf5700"
       },
       "status": {
-        "event_id": "401856667",
-        "week": 1,
-        "opponent": "Texas State",
-        "opponent_id": 326,
-        "home_away": "vs",
-        "kickoff": "2026-09-05T19:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "59-7",
-        "label": "W 59-7 vs Texas State"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 20,
-        "att": 27,
-        "pass_yds": 305,
-        "pass_td": 4,
-        "int": 1,
-        "rush_att": 3,
-        "rush_yds": 6,
-        "rush_td": 0,
-        "comp_pct": 74.1,
-        "ypa": 11.3
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856682",
         "week": 2,
@@ -970,7 +902,16 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmhTWVltY0MxOGZvY3ZDUlBJSkFpQ3V5MFBGRUJ3ZnVIa1lBR3Z4aWZqNzRWcHFldnJGN2psbUhac0tUOE5oT1hXMm1wXzAzN0xUSzdCdFBkS2F0RXlhYWdYX0hVcWljNDBrTjQySDJCeXROVWFFalU3ZVItT05TUEFUNUhmeERTWWFLa0dkTktTSGNnc2hFYmRaSmQ?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 30,
+      "age_hours": 34,
+      "score": 18
+    },
+    {
+      "headline": "College Football Week 1 Passing Leaders: Darian Mensah Vaults Heisman Campaign",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDBWZ0xwaWRQcThtTUtqRlRMcG1ObWU0RVVqNENNa3FJeGVZMWU0Mjh3X1lheldjb21XTjFSTHM3dUo2N2daZTYtd25ENWVOalF2Ym04ODdpd0hnbzNRNkZzR2QxMmNyQURsZmEzU3ZmWTU2VlItLXdBQzJFWFdkcDhLVkExbVlRQk5YeGc2bGIzUmplRVRTa1VmWTROWGNGOElnYzgtWXJiV1ptc0tHRnJEdmtsNkd5Q1JsVUtUbGNtWWV1QlNxYTNB?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 4,
       "score": 18
     },
     {
@@ -978,53 +919,17 @@
       "source": "CBS Sports",
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFZTRzlWLXJjbzIwY0lTSnJyajhrUEZBeElHUElZYUk0T3lmMHViT1pONUc0UFZLZUxqeXl1Q0RiQXlpYVVCMFJVUk52NzljaGFfZE5TVjY2TVNxOGNxSWhOdXhSVnJjenBSNnBIaXhpcFBURjBwS0lYWkJpQ3NQVmxpbGxFWXVCc3ZsZndJNE0wa19PdTlzT0hQbHdkNjV6VXpzRnZiUDNxenJ6cjVnczFacWxibjZLWkxEQg?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 19,
-      "score": 18
-    },
-    {
-      "headline": "Darian Mensah Vaults to Heisman Favorite on Kalshi Prediction Market",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTAxYkJGdkRIdlNrcjBQWXFVaFdtSDc4cmVVaEpHX3dDQlBVNWFOQ0YzaDBKT2lROXdkT3VQSTlWakpPb3FKLUNia0o0WnoxWG9SY0hXNG1aaXhValA1bkZCQjZIazlRbUkyeEtTbU8ydWJWZDJLUzlPYlljUC1KX3dXUG9zOWZKaFpUSlFJRU9zRTc5MGY5U0RZaElNX2wwS2tPM1JJZEdPSTM1cTlpQjhPVE51ZHdqb2dn?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 21,
-      "score": 18
-    },
-    {
-      "headline": "Heisman Trophy Index: Major Stars Shine Brightest Over Opening Weekend",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGZNRm9JeU5NTkRQbFpnNUVwTnYxekd2WWJ2eFZ5NjZ6eld4MkRLU1NGREhRZTAyNXh2WnNLWTg5OFBvVHhnczZqRW95dDhlWVljVmtiTWZPSWktc1p3WTZ0MGtiS0JWODZ5NmdJNDUzMUNaRXhtaUoxakhQVWRHSG5ta2tscEdnX3lEeWNidU1Ld0VMdGctc0g2T3ltMG54YXp0SVFJcmpqWWpTblJKSTZfeWhzTTJSdWg0bGIwNA?oc=5",
-      "player": "Darian Mensah",
+      "player": "Julian Sayin",
       "age_hours": 23,
       "score": 18
     },
     {
-      "headline": "Texas vs. Ohio State Could Top 2006\u2019s Game of the Century in Draft Talent",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZi1NSjVnOGNfRDFaMV9vOG5wV1ZMNHZKYjB2eUlNUTBvb3JqaU1RZklMcmQxMzc5WVBWYjNtdDVBeHJJQ0ZSLU9HNGRBaUFtZWZQbko2NmhFaFJITG5kbUdtWEJfT19ncmxab3BqLXNVZVBVNFNiaEI5S1ZNQmgtMEVDMTNxRERfamVRLW4wVlo2dzNtSUhDblZNWWRMa2owU2NpNnZrN0toUkxpLUp3MVotRU1XaVlyc0E?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 18,
-      "score": 18
-    },
-    {
-      "headline": "Miami's HC Mario Cristobal on Darian Mensah: Elite talent, elite human being!",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHQXA5bjdUVjA5NE5nQy02WVM0NURBQ0xTeF9TdGlXN2JfZ3lKYVBPaDkyUWVPQ3dUVXV0S1AzTTI1MFJfWDFoTEdFZ0UxeDZmMGU0bDZDUnppWVU?oc=5",
+      "headline": "College Football QB Power Rankings: Darian Mensah surges to No. 1 after record-setting Week 1",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUdTcWo2cnVuaVVoMjJMQUswUldIcDUxTF8yN3Y1RWRROHZKbENKSGtDbmlDcTdmcElBXzQ0T0JVSndMRHMxOWNCUFJUOHdTMzl3QnJqUlhvb0JDcDFSb0JSdEpybm14VnFlb25aMXZiUWZPSmVQa2p4OTEzaHZiYUZJVW1QRXdTMXpFSnk5Y21wajUwdGNJTXp0UmZGeXBxMnRYRlRR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 22,
-      "score": 17
-    },
-    {
-      "headline": "Mario Cristobal talks Miami Hurricanes expectations, Darian Mensah & more! | The Pat McAfee Show",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xODZDT1F6dVdPUmQwVE80ekJ1RWVuZTZ6N0hic2M0dFJuRUpwUlBvZFI1c2xtbkl0TWxxMFNqdW56OUw2Ul9tQ0lwYjYwTmZmcGVYb1ZxZnFCbWpXZWxhN3VrR2hyUFMtUU1xTEZoOW9Cdw?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 23,
+      "age_hours": 2,
       "score": 17
     },
     {
@@ -1033,8 +938,35 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2FaYURKMk8wVEZoYTZKczRIYVp5aWtjb2lOTkpiX011RHRsc00wckhxRDVibG9IT0h6NmZ0WHFuSlFwYVlpSVlnTUVuY2x1dkNGRG9DbVpBSWdzLW1aTUZqb1Ryb2lXRHcwalRVSTg3XzZnenVlQ0ExTWpoRGI5VDhUM3oteGhkLU9SaEx6b1dzdDA3eFo1OTRWN0M5YUc1RFZ4V3NJTU9OdGRy?oc=5",
       "player": "Julian Sayin",
+      "age_hours": 10,
+      "score": 17
+    },
+    {
+      "headline": "What NFL scouts say about Texas QB Arch Manning ahead of Ohio State test: 'Good's really good, but ...'",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRVRWbU9IcFpiV1NnUU5YbnhDYVQwTDQtblFuSzYwZlB5Uld2VEp2U3FDeWN2dlkzVlo3WnU4OTEza19jTkpxeXFqaFB4YlJVUjZIbGJIUUR4TFg1S0VsR25ta0J5a3pnVmVBWFZOeUQxOFlCYXd5eTVNMVo5Q2d0WU1iTG1QOEVmVmxtd29uTjVFcy1SRzJXem0wd0paT0ZKcExXUFBtN2s1cUpnUTlZNjRCY2diSFFnMmlRUTh4dkNpOFFlNWxMNVV3?oc=5",
+      "player": "Arch Manning",
       "age_hours": 5,
       "score": 17
+    },
+    {
+      "headline": "Myth-busting Arch Manning: What we know and what the games have shown for the Texas QB",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWlZRUUNJVDR6U1JKYnZHUkUzeUM4LVpSNFBaRnBIOFhhUzM4S2xncWY5MHdsUDc1SXZlY1lzdG9rQ0I2cFB0dktsblU2WWxIbmpjNXEzWVlMbkZXa3RBSjdFX2Z4cC1zcHEwTEtXQ3UybHR0SWh0Q29EaGN3YTdaZnlTNExnelV0Um9QaFltQm1LT2EzdW9LMTBSeUxwQ3hwQV9wSWlEY0Rnb2pKbGlxZWNzYV9vSXVDUlVyNmo5YU5CQQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 10,
+      "score": 17
+    },
+    {
+      "headline": "Heisman Trophy momentum meter: Miami's QB-WR duo shakes up Week 1 power rankings",
+      "source": "USA Today",
+      "domain": "usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0NHbWtRbFVCTXRKMnRTNHN3NEE0MU5IZDZwb1ktYkpQbjRnVU1tSWtJdEdGTnNMWHlka1MwTXRtRjNqNkpLckEtZ0JSSWxUYTdCSDA5VTNzTGg2QzNmb1BNZ0V2QzNXVEtPOG1kaDNxX2hlRVhYYjl2LU81VmdzemlqMS1uZlRiUGl6WFJNelRfeXdsWDNLSW9vSS1LWnZvOHU2WVdUT01jSjRBQm1CYnFYR1M5akFkdG9TR3QzTFNCTmc?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 7,
+      "score": 16
     }
   ],
   "kalshi": [
@@ -1050,7 +982,7 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 17,
+          "pct": 16,
           "tracked": true
         },
         {
@@ -1084,7 +1016,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 1,
       "field_count": 12
     },
     {
@@ -1093,13 +1025,13 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
-          "name": "Miami",
-          "pct": 22,
+          "name": "Arizona",
+          "pct": 23,
           "tracked": false
         },
         {
-          "name": "Arizona",
-          "pct": 21,
+          "name": "Miami",
+          "pct": 22,
           "tracked": false
         },
         {
@@ -1143,7 +1075,7 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 17,
+          "pct": 16,
           "tracked": true
         },
         {
@@ -1162,22 +1094,22 @@
           "tracked": false
         },
         {
+          "name": "Julian Sayin",
+          "pct": 7,
+          "tracked": true
+        },
+        {
           "name": "Malachi Toney",
           "pct": 7,
           "tracked": false
         },
         {
-          "name": "Dante Moore",
+          "name": "Trinidad Chambliss",
           "pct": 6,
           "tracked": true
         },
         {
-          "name": "Sam Leavitt",
-          "pct": 6,
-          "tracked": true
-        },
-        {
-          "name": "Julian Sayin",
+          "name": "Jayden Maiava",
           "pct": 5,
           "tracked": true
         }
@@ -1246,7 +1178,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 9,
+    "games_matched": 7,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
