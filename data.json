@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T03:12:38.411160+00:00",
+  "updated_at": "2026-09-11T15:55:51.120540+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -901,40 +901,58 @@
   ],
   "news": [
     {
+      "headline": "No. 4 Texas vs. No. 1 Ohio State: How to Watch, Odds, Injuries, and More",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTgzVTB1M0NpQ0VaQkg3THduRV9NZUUtVHJ3aWxDZEx1Mk1KNGtUMEJzTjExVnk0MkdsRncwWmtBT0lPMndyclZWM3owWGMzaVZ2SktRQ2o4MHluakxZdFVYUmdUWk0tbE9Vbmp1cDhnN1JHNnFWZExOcFNTVUNsRExrc3ZwUFZWUEhEbE5Ra1FleVdhdkZpX1Z6cU01QUxOTW9zOWJuRExSQzQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 4,
+      "score": 21
+    },
+    {
+      "headline": "No. 8 LSU vs. Louisiana Tech: How to Watch, Odds, Injuries, and More",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEtYcEhfd0JHZzFVZ1lWY0xWeU5TOXNPdl9ySm5MMW9rVzRKTXQta1BrbVpKcXBiYnJ6QmFHRnRVWTBIQjNoZmgzTzFuaFIyMnlmNjRNenNENWthVlRHOVVnRGdjQUxGWS1WalBkcklUb0tTdWlKRC1XTWU3ZV9pMllWZDRqa2ZVbWpobWoxeDJtR1IyN1JPMFowUUV3QQ?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 3,
+      "score": 21
+    },
+    {
       "headline": "Lincoln Riley Delivers Injury Updates for USC Stars Jahkeem Stewart, Terrell Anderson",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkp3azdlQnZmaHlVWEhOLS1QTWV4SmE4cmswdEY4YTl1MGplUERDZUgzdHlyZ2JQZWdUY3hxZTZBcFhkRjlkUV9qbmtPUjVFWWxvSXJjbWhzc2pFVnFLOEdQZU9ka3k2YU1PTUZsZ2RvOVN3cE9SQklKR0lGTk5rWWhjMVZFUVN5aVpqY2tfUFR3Qk9kOEJObURZODY3NFVMR0tKbEZfaXYtR3RVc212alNJSkpFWW1pcGo1LVNWNA?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 7,
+      "age_hours": 20,
       "score": 21
     },
     {
-      "headline": "Oklahoma State NFL Draft Stock Watch: Scouts, GMs Set to Descend on Stillwater",
+      "headline": "College Football Transfer Portal Star Worth Over $6 Million Earns Major Recognition",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWU0bVY2OVFGRFBIbTFkODFPTnh1aDk5MW9CTE1nTGNqS0p1dnM3dEttcVhHMVhVWlZRc0JHeUZteVd3QW1YMzNVUUpNRjQ5aU1WNGxnMDVIQ0F3WE5wRTlxR0hISmRNaXRXVUQ5M0g4OVJDRFdLa05odnFpR01ON2ZzZnh6OU1TUllWb055UWZ6R0JGN3Q5Rm96RDQwS1BSb1I2emFab2lOdS12aUg4T0tiYXl4TVE?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 12,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96akU4bm9BVFZSNDhrMmhNRHhfdHQyVUFyWXNxVUF0WWFvbjRMdkpfSDk1Wlk0dUZRWjNFNEVYdVZSM3g2bGpwZVVsUVZjY0ZlMEc4SkoxZ2Y4aWt1bHJ3cVFyXzhNZFdfa0wzeFZlY1d5bkdrckF0ZVpHcnZiRGlKTERXS3NwWmtLdmJIYjB5Vms5YTlZOG1ScU90RE5qTm85OGJDR3VWb3R6Sm5SM3BjdUEyYkJadU0wcDE3SlU2djFjWjd3ZUkwTQ?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 1,
       "score": 20
     },
     {
-      "headline": "2027 NFL Draft QB Power Rankings: Why Dante Moore Is Ahead Of Arch Manning \u2014 For Now",
-      "source": "FOX Sports",
-      "domain": "foxsports.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjFPTGRtTC1zSS1ERjROTjlXdDhOWVg2Y1NJLWNiX2xHbUFRbk9SQTVaUEYzNzlvNDdMSDJTWXZjanExb09ERXdPWVNpczFXR0NBNkpkVFBCYmp3VWhYOGVlRWRuNVZHSmJrb09uVWdCNHV6c2R1RlcwZlFPT09kakNmenNfdk1jQUZsanBBMmUzUkJPWmRhYjRaTVZwZHRLSURBT3JPb0pfVUczckHSAa4BQVVfeXFMTzloUXZNVnpWYmVlWG5HaWlwbUFRNmtleHdVZjR2WUxBdTJmY2h5TDR0T1FFamxJOGlYNjRFbDFJcUVkVTZyN08xNF9aUFJrTDlBX2s1U3N6RHI4NnotRnNqaWp2ZURZckZURjk0dW80WjRKLUZZWG1fYzVIUU5ocmtaMUJMNnFxQ19vaTlPaVlmUDh0Zlg4elJreDB3dXYzRXJvWU9LeWkxdGRyYW1R?oc=5",
+      "headline": "Ohio State-Texas marks latest battle between Heisman hopefuls",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcHNYN192QTdWQzh5Snl2NS1XLV83dlFWTEY4cXpONFo5X0tpWWFHOUtzeU1SeElYaXJmLWg3TmdnY1ZQVkdiczhRLU5RWVRlUy1wMGNZdktqWEtFaUh0VnNHVUhEbWlkMHpYcFZQTzZvUy1WTkhoUW1wY0Z1Nm5Nb3pjTS12MDJsUDVpRUxDNUZzaFR6dUVhX2dFZHhyX0d3bVBaRkdFMmRwdHZJdXNkMUZMRVNpN21JLUtRQUliSWY?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 3,
+      "score": 20
+    },
+    {
+      "headline": "10 NFL Draft Prospects Facing Critical Week 2 Evaluation: Arch Manning's Defining Moment",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHJZc0JJQS1DVVNlbUJqUUgyRVlkR0N1RlRVa0l6ZDA3N3ZEQy1EUW9NMk1VZmZvRHlxRnpCa3VnMnhRLUxqM1FxYlI0M3pDN2FfQ2VGRzd3QUFVNXIzeGMwMmdyVWFfRUxQZ3RVTUFnUkpLeHdObUJqNW93cU54THlvRmhMT0VSQmdHRkdTeEdNazJ0ZmlHTHNTSV95b0xWOHRsOVpZRVAxaFJtV2ltd1BBTFctbVM5Q29uc0xuZzh6QnVq?oc=5",
       "player": "Arch Manning",
-      "age_hours": 15,
+      "age_hours": 6,
       "score": 20
-    },
-    {
-      "headline": "How did Trinidad Chambliss, other key prospects fare in Week 1?: NFL Draft film room",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmhTWVltY0MxOGZvY3ZDUlBJSkFpQ3V5MFBGRUJ3ZnVIa1lBR3Z4aWZqNzRWcHFldnJGN2psbUhac0tUOE5oT1hXMm1wXzAzN0xUSzdCdFBkS2F0RXlhYWdYX0hVcWljNDBrTjQySDJCeXROVWFFalU3ZVItT05TUEFUNUhmeERTWWFLa0dkTktTSGNnc2hFYmRaSmQ?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 65,
-      "score": 18
     },
     {
       "headline": "Oklahoma State Injury News Shakes Up Oregon Ducks Matchup",
@@ -942,35 +960,17 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTk8wSmo5TUxTUVJ4bjhzM3Q5WXZaZENnNGY5UzVIX2FmRnQ3d2VSeVhydm5oTnVIZFdlcWJUMm1SLVJLY2h1cW9rSk1HZ1NRUkozYTN5Q25KdDNtQTN1SVN2eG5IcUVNV0FITVpKNjF0ZUhWNzVaZkRtSGM3VVJnTjU5VXhJdWw4bEUtdmFRNWZOR0Uxbk96LUtKeHhtY3JJR3c?oc=5",
       "player": "Dante Moore",
-      "age_hours": 28,
+      "age_hours": 41,
       "score": 17
     },
     {
-      "headline": "Newsstand: How Notre Dame football alumni shaped NFL season opener",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMl9RdVdxTm02N1VCTHlHS2tkVGR3SVNWNEpMWmt1UzRJMkM1U3F4MjFPUy1KZGpidnRDelB0OTBkOE1MTmtRQ1AyRkdqSUJDejc2enVsYVBISG91TEZLSGtBeTFLX0FSRGt1VVhicUZuOERnWWd1clluWE5ZUTlHdlpMTG16Y3FpaXlKQkM5R0dsR1NINmJFanMyR2dGQ2JNeERJV2RpSVl3TG90cjdSSXJzSTBVMHJDTExPWFQ1OU0?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 16,
-      "score": 17
-    },
-    {
-      "headline": "College football insider: NFL scouts on Arch Manning-Julian Sayin, retread coaching market & more",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV0ZadkZEdjBhb09MR0M4LW1YTkJkMHpKd3VIdjFFRlpVV0t5NVhFQTBpTm50bmxTMkNrMnNWVXpiSEZyaVhQRUtVWHNBOWdsdXhIQzhlMDBjYkNWbUJJcS1Wbzdla0hfLUZWUUJJMWh0a2gtU3JDUFhVM0cxVjBkUEdBc28tNmc2QzVMSnBENXBhQkJDb1VudHppR2ZnYmtlZzdCdlBwYTZpT0tkRXFxajF5X2ZWeUprY2lVY2hMUExuS3dYYUN5di16dmx2bER6RmNwN2EyUU1Dc250eEE?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 13,
-      "score": 17
-    },
-    {
-      "headline": "Heisman odds: Darian Mensah becomes favorite ahead of Jeremiah Smith, Arch Manning",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0ZCWGgtWGJ2Z3otM2ZDcUhsVW5HU3NfNzY1TmlXYUV4ZFJiR3QwTHZZTGhaUmwxRWVJaHZlSFBNZXdna0U2N3ZMM0l3WmJoU0Yza01mUW12ZkFRT3BIMzBiT25Sem5xcVpTdW9aR3R1WlJrQlRZTW5GUF9lZmRYRFdxVEFwTl9FcHlHV0U1X0RsdktCcEhJUHViOGtIMy1qdkFvOU9JLUlCd3c?oc=5",
+      "headline": "Miami 77-7 Florida A&M (Sep 10, 2026) Game Recap",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaS0dVaFZrXzRFQU1ZZTdoQ3lDZ3NoQlBBUnpRS3dzUTF5LXJXRXR6bkdadkl4SUZwdlFTNDlGV2MzcEZMRzV6djJHaVQyek5RYkgyOWgzdU1pUnpSbGdCS2RFY2tjSVY5WGp4OUVmQQ?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 60,
-      "score": 16
+      "age_hours": 12,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -981,22 +981,22 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 29,
+          "pct": 31,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
-          "pct": 21,
-          "tracked": true
-        },
-        {
-          "name": "Dante Moore",
-          "pct": 15,
+          "pct": 20,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 12,
+          "pct": 15,
+          "tracked": true
+        },
+        {
+          "name": "Dante Moore",
+          "pct": 14,
           "tracked": true
         },
         {
@@ -1006,7 +1006,7 @@
         },
         {
           "name": "Julian Sayin",
-          "pct": 5,
+          "pct": 6,
           "tracked": true
         },
         {
@@ -1020,7 +1020,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 1,
+      "field_pct": 0,
       "field_count": 12
     },
     {
@@ -1028,6 +1028,11 @@
       "title": "First team to pick, 2027 NFL Draft",
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
+        {
+          "name": "Atlanta",
+          "pct": 46,
+          "tracked": false
+        },
         {
           "name": "Arizona",
           "pct": 23,
@@ -1044,8 +1049,8 @@
           "tracked": false
         },
         {
-          "name": "Atlanta",
-          "pct": 15,
+          "name": "New York J",
+          "pct": 16,
           "tracked": false
         },
         {
@@ -1054,13 +1059,8 @@
           "tracked": false
         },
         {
-          "name": "New York J",
-          "pct": 10,
-          "tracked": false
-        },
-        {
           "name": "Las Vegas",
-          "pct": 5,
+          "pct": 7,
           "tracked": false
         },
         {
@@ -1083,11 +1083,6 @@
           "tracked": true
         },
         {
-          "name": "Malachi Toney",
-          "pct": 9,
-          "tracked": false
-        },
-        {
           "name": "Arch Manning",
           "pct": 9,
           "tracked": true
@@ -1108,17 +1103,22 @@
           "tracked": true
         },
         {
+          "name": "Malachi Toney",
+          "pct": 7,
+          "tracked": false
+        },
+        {
           "name": "Trinidad Chambliss",
           "pct": 6,
           "tracked": true
         },
         {
-          "name": "Sam Leavitt",
-          "pct": 6,
+          "name": "Jayden Maiava",
+          "pct": 5,
           "tracked": true
         }
       ],
-      "field_pct": 30,
+      "field_pct": 33,
       "field_count": 30
     }
   ],
