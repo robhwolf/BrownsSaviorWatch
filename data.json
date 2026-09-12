@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T07:32:31.980760+00:00",
+  "updated_at": "2026-09-12T17:31:29.565806+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -190,16 +190,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856782",
-        "week": 2,
-        "opponent": "Oklahoma State",
-        "opponent_id": 197,
-        "home_away": "at",
-        "kickoff": "2026-09-12T16:00:00.000Z",
+        "event_id": "401858455",
+        "week": 3,
+        "opponent": "Portland State",
+        "opponent_id": 2502,
+        "home_away": "vs",
+        "kickoff": "2026-09-19T02:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Oklahoma State"
+        "label": "vs Portland State"
       },
       "log": [
         {
@@ -534,16 +534,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856782",
-        "week": 2,
-        "opponent": "Oregon",
-        "opponent_id": 2483,
+        "event_id": "401856803",
+        "week": 3,
+        "opponent": "Murray State",
+        "opponent_id": 93,
         "home_away": "vs",
-        "kickoff": "2026-09-12T16:00:00.000Z",
+        "kickoff": "2026-09-19T23:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Oregon"
+        "label": "vs Murray State"
       },
       "log": [
         {
@@ -901,75 +901,75 @@
   ],
   "news": [
     {
-      "headline": "No. 4 Texas vs. No. 1 Ohio State: How to Watch, Odds, Injuries, and More",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTgzVTB1M0NpQ0VaQkg3THduRV9NZUUtVHJ3aWxDZEx1Mk1KNGtUMEJzTjExVnk0MkdsRncwWmtBT0lPMndyclZWM3owWGMzaVZ2SktRQ2o4MHluakxZdFVYUmdUWk0tbE9Vbmp1cDhnN1JHNnFWZExOcFNTVUNsRExrc3ZwUFZWUEhEbE5Ra1FleVdhdkZpX1Z6cU01QUxOTW9zOWJuRExSQzQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 20,
-      "score": 21
-    },
-    {
-      "headline": "No. 8 LSU vs. Louisiana Tech: How to Watch, Odds, Injuries, and More",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEtYcEhfd0JHZzFVZ1lWY0xWeU5TOXNPdl9ySm5MMW9rVzRKTXQta1BrbVpKcXBiYnJ6QmFHRnRVWTBIQjNoZmgzTzFuaFIyMnlmNjRNenNENWthVlRHOVVnRGdjQUxGWS1WalBkcklUb0tTdWlKRC1XTWU3ZV9pMllWZDRqa2ZVbWpobWoxeDJtR1IyN1JPMFowUUV3QQ?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 19,
-      "score": 21
-    },
-    {
-      "headline": "College Football Transfer Portal Star Worth Over $6 Million Earns Major Recognition",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96akU4bm9BVFZSNDhrMmhNRHhfdHQyVUFyWXNxVUF0WWFvbjRMdkpfSDk1Wlk0dUZRWjNFNEVYdVZSM3g2bGpwZVVsUVZjY0ZlMEc4SkoxZ2Y4aWt1bHJ3cVFyXzhNZFdfa0wzeFZlY1d5bkdrckF0ZVpHcnZiRGlKTERXS3NwWmtLdmJIYjB5Vms5YTlZOG1ScU90RE5qTm85OGJDR3VWb3R6Sm5SM3BjdUEyYkJadU0wcDE3SlU2djFjWjd3ZUkwTQ?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 17,
-      "score": 20
-    },
-    {
-      "headline": "Ohio State-Texas marks latest battle between Heisman hopefuls",
+      "headline": "Poll: Oregon's Dante Moore runaway QB1 for 2027 NFL draft",
       "source": "ESPN",
       "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcHNYN192QTdWQzh5Snl2NS1XLV83dlFWTEY4cXpONFo5X0tpWWFHOUtzeU1SeElYaXJmLWg3TmdnY1ZQVkdiczhRLU5RWVRlUy1wMGNZdktqWEtFaUh0VnNHVUhEbWlkMHpYcFZQTzZvUy1WTkhoUW1wY0Z1Nm5Nb3pjTS12MDJsUDVpRUxDNUZzaFR6dUVhX2dFZHhyX0d3bVBaRkdFMmRwdHZJdXNkMUZMRVNpN21JLUtRQUliSWY?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 18,
-      "score": 20
-    },
-    {
-      "headline": "10 NFL Draft Prospects Facing Critical Week 2 Evaluation: Arch Manning's Defining Moment",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHJZc0JJQS1DVVNlbUJqUUgyRVlkR0N1RlRVa0l6ZDA3N3ZEQy1EUW9NMk1VZmZvRHlxRnpCa3VnMnhRLUxqM1FxYlI0M3pDN2FfQ2VGRzd3QUFVNXIzeGMwMmdyVWFfRUxQZ3RVTUFnUkpLeHdObUJqNW93cU54THlvRmhMT0VSQmdHRkdTeEdNazJ0ZmlHTHNTSV95b0xWOHRsOVpZRVAxaFJtV2ltd1BBTFctbVM5Q29uc0xuZzh6QnVq?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 22,
-      "score": 20
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDQ5Y2dUWEdNbS1WTE9qQUFydUVoMUtMTTN3cUd1WHgzMTYwYTR5emc0RmR4SnVIZ21HTU92MGttZU5yX1N0ejZXV1hhbzJaS0k5VmVzQTZpaExlYnpoNWFvb21idGlqY29jX3RPYlR5MlhkZ0t3X1BSMWRBenRvWHZkczMzUm4yZ291RmhDQWw1VmItb1h0ejZHTm1SSVRL?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
+      "score": 22
     },
     {
       "headline": "'That's What I Came Here to Do': Darian Mensah Keeps Pace With Heisman Hopes Only in Half of Play",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTkRhVzl0OE1PemFROV9NVmpaMC1UVnRONzAyX1poWm5YZFhHaWQ4dEpqeTZ0N2YyZS1zbG9HTTZubzBPdjV0Mk5MQ055MFZHUkVJVE9Jb2NSb3dxNzhyZi1qMl9vU0xvTHo0MXFmc0JYNllRUnhSMDExN0Y2bWFEYUxZM3JSeEI2Ym1zTmNrV2RwSFRybDlrWUUwX0w2cmNDOGxRdF9haGJtY0pXblRXby1KQnZWd2o5dml3TmpNOFBoOFlabFlueDFYSnRsYm5BY3c?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 12,
+      "age_hours": 22,
+      "score": 18
+    },
+    {
+      "headline": "Julian Sayin could be trickiest QB prospect in loaded 2027 NFL Draft",
+      "source": "USA Today",
+      "domain": "usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk9ZRHRkdEF3cUtwZS1JY1dZa2IyNWt3UlJjcDBqcnI2eU5ZS2R1Y1kxcjFwekNfN09UVUtwVjctMnhQOXM2RWFTeFdEZFZWb2w1bjBJaEtzZFZ4WDJnZXlvRG01S1dUVWlBR2R0WXA0dUVYMFlQazdzZVB1U1BNWFRFVnBpSzhTX0dOS2FVZFZuejgtLVVSRnV2U3BpZlY0TGhLNDlUUm1FM2dLcXgtb2Z3S0tqUQ?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 2,
+      "score": 18
+    },
+    {
+      "headline": "Arch Manning looks to make NFL draft statement vs Ohio State in rematch",
+      "source": "USA Today",
+      "domain": "usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYURJVFptTVkxNEdsQlNvemtsN3RZQk9pVHM5Vnkza1NVVVpKX3VNbVEwTEFJVU9rNTVPSVA2eUZscTBGb0syYVZweFpHcWFOeUpTTUd6Nm9nRDBpR3hvNWRsZmVFS1YwcU1leXFPRWlIeWdzXzNzb0pBSE1McEdjdjZIOGhkU1pObkRnOVViWFNtUXY0U01BV0UzTFhYcTFta3ZjTUJ1cGtOa19zYWIwVlRkelpzekwzak50VXdrdHhmQ2RM?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 2,
       "score": 18
     },
     {
       "headline": "Oklahoma State Injury News Shakes Up Oregon Ducks Matchup",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTk8wSmo5TUxTUVJ4bjhzM3Q5WXZaZENnNGY5UzVIX2FmRnQ3d2VSeVhydm5oTnVIZFdlcWJUMm1SLVJLY2h1cW9rSk1HZ1NRUkozYTN5Q25KdDNtQTN1SVN2eG5IcUVNV0FITVpKNjF0ZUhWNzVaZkRtSGM3VVJnTjU5VXhJdWw4bEUtdmFRNWZOR0Uxbk96LUtKeHhtY3JJR3c?oc=5",
       "player": "Dante Moore",
-      "age_hours": 57,
+      "age_hours": 67,
       "score": 17
     },
     {
-      "headline": "What to expect from Arch Manning and Julian Sayin in Texas-Ohio State rematch",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGRZaTFmc1M3SjVHdHR1R2dCczJpREdIX3N1MUpMMVZ0cEl2YXBndmtKRXFsQ3A0UzJOMkt2RWVpVzdQU3pBaXl0MThYNjU5QUU4bExIcEJ3MFJmeDkzUzZaNG96N2gxS1hFN1NJS1ZYVkZ3ZDZRODN6Sm45ZWRkbUNxSGtjRUJQSzRHQkFtcUNxS3ZuZFNwU3d4cUVxaEJla0N5R0M1TEFqeFFVLXc?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 22,
+      "headline": "Oklahoma State vs. Oregon Brings Falcons Legend, NFL Scouts to Stillwater",
+      "source": "si.com",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmg5UVFuWHNqU3c0Zl9JV0poa1JaejRBSjA1NXV6a0ZOSUxwOHFNZWJDa2dpZlA1QzVWeWt0c2RLS25MZWxDN2RvZ2pqUFoxTXZSWFpBcG1hdVRqMUhuVDRJcGloT1JmclROVWVwYUNHNTMzUUpQQ0tjT3F2Q1ExWVdieVU0VDJSU1lySk5KNjZZVHF2dllzc0NYRUdDeGZCXzFBTUNtVEFaelhWdWl0N1pqX1plRUxsd1E?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 0,
+      "score": 17
+    },
+    {
+      "headline": "No. 4 Texas vs. No. 1 Ohio State: How to Watch, Odds, Injuries, and More",
+      "source": "si.com",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTgzVTB1M0NpQ0VaQkg3THduRV9NZUUtVHJ3aWxDZEx1Mk1KNGtUMEJzTjExVnk0MkdsRncwWmtBT0lPMndyclZWM3owWGMzaVZ2SktRQ2o4MHluakxZdFVYUmdUWk0tbE9Vbmp1cDhnN1JHNnFWZExOcFNTVUNsRExrc3ZwUFZWUEhEbE5Ra1FleVdhdkZpX1Z6cU01QUxOTW9zOWJuRExSQzQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 30,
+      "score": 17
+    },
+    {
+      "headline": "No. 8 LSU vs. Louisiana Tech: How to Watch, Odds, Injuries, and More",
+      "source": "si.com",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEtYcEhfd0JHZzFVZ1lWY0xWeU5TOXNPdl9ySm5MMW9rVzRKTXQta1BrbVpKcXBiYnJ6QmFHRnRVWTBIQjNoZmgzTzFuaFIyMnlmNjRNenNENWthVlRHOVVnRGdjQUxGWS1WalBkcklUb0tTdWlKRC1XTWU3ZV9pMllWZDRqa2ZVbWpobWoxeDJtR1IyN1JPMFowUUV3QQ?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 29,
       "score": 17
     }
   ],
@@ -981,7 +981,12 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 30,
+          "pct": 28,
+          "tracked": true
+        },
+        {
+          "name": "Dante Moore",
+          "pct": 19,
           "tracked": true
         },
         {
@@ -991,36 +996,31 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 15,
-          "tracked": true
-        },
-        {
-          "name": "Dante Moore",
-          "pct": 14,
+          "pct": 12,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 9,
+          "pct": 7,
           "tracked": false
         },
         {
           "name": "Julian Sayin",
-          "pct": 6,
-          "tracked": true
-        },
-        {
-          "name": "Sam Leavitt",
-          "pct": 6,
+          "pct": 5,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 5,
+          "pct": 4,
+          "tracked": true
+        },
+        {
+          "name": "Drew Mestemaker",
+          "pct": 4,
           "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 4,
       "field_count": 12
     },
     {
@@ -1079,17 +1079,17 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 17,
-          "tracked": true
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 9,
+          "pct": 16,
           "tracked": true
         },
         {
           "name": "CJ Carr",
           "pct": 9,
+          "tracked": true
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 8,
           "tracked": true
         },
         {
@@ -1103,14 +1103,14 @@
           "tracked": false
         },
         {
-          "name": "Julian Sayin",
-          "pct": 7,
-          "tracked": true
-        },
-        {
           "name": "Malachi Toney",
           "pct": 7,
           "tracked": false
+        },
+        {
+          "name": "Julian Sayin",
+          "pct": 6,
+          "tracked": true
         },
         {
           "name": "Dante Moore",
@@ -1118,7 +1118,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 30,
+      "field_pct": 33,
       "field_count": 31
     }
   ],
