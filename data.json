@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:50:24.233237+00:00",
+  "updated_at": "2026-09-12T21:48:17.176606+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -185,10 +185,23 @@
         "kickoff": "2026-09-12T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Oklahoma State"
+        "state": "final",
+        "result": "L",
+        "score": "31-39",
+        "label": "L 31-39 at Oklahoma State"
       },
-      "game": null,
+      "game": {
+        "cmp": 14,
+        "att": 29,
+        "pass_yds": 191,
+        "pass_td": 2,
+        "int": 0,
+        "rush_att": 6,
+        "rush_yds": -9,
+        "rush_td": 0,
+        "comp_pct": 48.3,
+        "ypa": 6.6
+      },
       "next_game": {
         "event_id": "401858455",
         "week": 3,
@@ -220,24 +233,43 @@
           "result": "W",
           "score": "34-27",
           "date": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "cmp": 14,
+          "att": 29,
+          "pass_yds": 191,
+          "pass_td": 2,
+          "int": 0,
+          "rush_att": 6,
+          "rush_yds": -9,
+          "rush_td": 0,
+          "comp_pct": 48.3,
+          "ypa": 6.6,
+          "event_id": "401856782",
+          "week": 2,
+          "opponent": "Oklahoma State",
+          "home_away": "at",
+          "result": "L",
+          "score": "31-39",
+          "date": "2026-09-12T16:00:00.000Z"
         }
       ],
       "season": {
-        "games": 1,
-        "record": "1-0",
-        "cmp": 28,
-        "att": 37,
-        "comp_pct": 75.7,
-        "pass_yds": 378,
-        "ypa": 10.2,
-        "pass_td": 3,
+        "games": 2,
+        "record": "1-1",
+        "cmp": 42,
+        "att": 66,
+        "comp_pct": 63.6,
+        "pass_yds": 569,
+        "ypa": 8.6,
+        "pass_td": 5,
         "int": 0,
-        "td_int": "3-0",
-        "rush_yds": -5,
+        "td_int": "5-0",
+        "rush_yds": -14,
         "rush_td": 0,
-        "total_td": 3,
-        "ypg": 378,
-        "rating": 188.2,
+        "total_td": 5,
+        "ypg": 284,
+        "rating": 161.1,
         "epa_per_play": null
       }
     },
@@ -529,10 +561,23 @@
         "kickoff": "2026-09-12T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Oregon"
+        "state": "final",
+        "result": "W",
+        "score": "39-31",
+        "label": "W 39-31 vs Oregon"
       },
-      "game": null,
+      "game": {
+        "cmp": 26,
+        "att": 43,
+        "pass_yds": 317,
+        "pass_td": 2,
+        "int": 2,
+        "rush_att": 6,
+        "rush_yds": 109,
+        "rush_td": 1,
+        "comp_pct": 60.5,
+        "ypa": 7.4
+      },
       "next_game": {
         "event_id": "401856803",
         "week": 3,
@@ -564,24 +609,43 @@
           "result": "L",
           "score": "10-24",
           "date": "2026-09-05T19:45:00.000Z"
+        },
+        {
+          "cmp": 26,
+          "att": 43,
+          "pass_yds": 317,
+          "pass_td": 2,
+          "int": 2,
+          "rush_att": 6,
+          "rush_yds": 109,
+          "rush_td": 1,
+          "comp_pct": 60.5,
+          "ypa": 7.4,
+          "event_id": "401856782",
+          "week": 2,
+          "opponent": "Oregon",
+          "home_away": "vs",
+          "result": "W",
+          "score": "39-31",
+          "date": "2026-09-12T16:00:00.000Z"
         }
       ],
       "season": {
-        "games": 1,
-        "record": "0-1",
-        "cmp": 29,
-        "att": 49,
-        "comp_pct": 59.2,
-        "pass_yds": 241,
-        "ypa": 4.9,
-        "pass_td": 1,
-        "int": 2,
-        "td_int": "1-2",
-        "rush_yds": 3,
-        "rush_td": 0,
-        "total_td": 1,
-        "ypg": 241,
-        "rating": 99.1,
+        "games": 2,
+        "record": "1-1",
+        "cmp": 55,
+        "att": 92,
+        "comp_pct": 59.8,
+        "pass_yds": 558,
+        "ypa": 6.1,
+        "pass_td": 3,
+        "int": 4,
+        "td_int": "3-4",
+        "rush_yds": 112,
+        "rush_td": 1,
+        "total_td": 4,
+        "ypg": 279,
+        "rating": 112.8,
         "epa_per_play": null
       }
     },
@@ -906,7 +970,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDQ5Y2dUWEdNbS1WTE9qQUFydUVoMUtMTTN3cUd1WHgzMTYwYTR5emc0RmR4SnVIZ21HTU92MGttZU5yX1N0ejZXV1hhbzJaS0k5VmVzQTZpaExlYnpoNWFvb21idGlqY29jX3RPYlR5MlhkZ0t3X1BSMWRBenRvWHZkczMzUm4yZ291RmhDQWw1VmItb1h0ejZHTm1SSVRL?oc=5",
       "player": "Dante Moore",
-      "age_hours": 5,
+      "age_hours": 7,
       "score": 22
     },
     {
@@ -915,16 +979,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGxlMGJFMmotYUV2d0hKLVBzWFVTSFBYRWFNMUdVT3U0VXNUUkd3bmR0NEtnc2hYWlE5Z01QUXVwTnFsUmd1RUczYXpnOEpxNk9Tcko4Rm12OXlYaWlnTFFyaUo2MEpRQXRGb0diQnp1NXEtcjhGckVHZkVscF9WY3BJbXNfY0IwakJ4Z2JGVTJsNnBxczJYMTkyY1NVcjM0Z0FhRGZmeUNoMjE3M0syN3pIbUVwNDg?oc=5",
       "player": "Dante Moore",
-      "age_hours": 2,
+      "age_hours": 4,
       "score": 21
     },
     {
-      "headline": "Arch Manning looks to make NFL draft statement vs Ohio State in rematch",
+      "headline": "Julian Sayin could be trickiest QB prospect in loaded 2027 NFL Draft",
       "source": "USA Today",
       "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYURJVFptTVkxNEdsQlNvemtsN3RZQk9pVHM5Vnkza1NVVVpKX3VNbVEwTEFJVU9rNTVPSVA2eUZscTBGb0syYVZweFpHcWFOeUpTTUd6Nm9nRDBpR3hvNWRsZmVFS1YwcU1leXFPRWlIeWdzXzNzb0pBSE1McEdjdjZIOGhkU1pObkRnOVViWFNtUXY0U01BV0UzTFhYcTFta3ZjTUJ1cGtOa19zYWIwVlRkelpzekwzak50VXdrdHhmQ2RM?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 5,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk9ZRHRkdEF3cUtwZS1JY1dZa2IyNWt3UlJjcDBqcnI2eU5ZS2R1Y1kxcjFwekNfN09UVUtwVjctMnhQOXM2RWFTeFdEZFZWb2w1bjBJaEtzZFZ4WDJnZXlvRG01S1dUVWlBR2R0WXA0dUVYMFlQazdzZVB1U1BNWFRFVnBpSzhTX0dOS2FVZFZuejgtLVVSRnV2U3BpZlY0TGhLNDlUUm1FM2dLcXgtb2Z3S0tqUQ?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 7,
       "score": 18
     },
     {
@@ -933,7 +997,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTk8wSmo5TUxTUVJ4bjhzM3Q5WXZaZENnNGY5UzVIX2FmRnQ3d2VSeVhydm5oTnVIZFdlcWJUMm1SLVJLY2h1cW9rSk1HZ1NRUkozYTN5Q25KdDNtQTN1SVN2eG5IcUVNV0FITVpKNjF0ZUhWNzVaZkRtSGM3VVJnTjU5VXhJdWw4bEUtdmFRNWZOR0Uxbk96LUtKeHhtY3JJR3c?oc=5",
       "player": "Dante Moore",
-      "age_hours": 69,
+      "age_hours": 71,
+      "score": 17
+    },
+    {
+      "headline": "Drew Mestemaker goes airborne for wild Oklahoma State TD",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQVBCODBaMVZpTTBVeUVuc25BMzNQd2hMaFBMck5ndG5WWHFNenJIdXpvX0pWc3hwN1VQRjB2Zzg0SHQ3Z01UODRnNVVlRUdmTVhscnoycmE4ejY5aDRfRld4dkdqS3NGN04zSTlzdWVtQWpFY05abWJrOGxJY1F4bzR5UQ?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 0,
       "score": 17
     },
     {
@@ -942,7 +1015,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGM1phXzNQM081MTVvbGZsREtfbElPUzBGM2hHZGZGbVIxUzFNbU1sYmRGV2NkTldzQ0JmbE5SOVRUbHFxYlZKa19Ia3pzd0ZNZHZuY09aM19ld28?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 1,
+      "age_hours": 3,
       "score": 17
     },
     {
@@ -951,7 +1024,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTgzVTB1M0NpQ0VaQkg3THduRV9NZUUtVHJ3aWxDZEx1Mk1KNGtUMEJzTjExVnk0MkdsRncwWmtBT0lPMndyclZWM3owWGMzaVZ2SktRQ2o4MHluakxZdFVYUmdUWk0tbE9Vbmp1cDhnN1JHNnFWZExOcFNTVUNsRExrc3ZwUFZWUEhEbE5Ra1FleVdhdkZpX1Z6cU01QUxOTW9zOWJuRExSQzQ?oc=5",
       "player": "Arch Manning",
-      "age_hours": 32,
+      "age_hours": 34,
       "score": 17
     },
     {
@@ -960,16 +1033,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEtYcEhfd0JHZzFVZ1lWY0xWeU5TOXNPdl9ySm5MMW9rVzRKTXQta1BrbVpKcXBiYnJ6QmFHRnRVWTBIQjNoZmgzTzFuaFIyMnlmNjRNenNENWthVlRHOVVnRGdjQUxGWS1WalBkcklUb0tTdWlKRC1XTWU3ZV9pMllWZDRqa2ZVbWpobWoxeDJtR1IyN1JPMFowUUV3QQ?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 31,
-      "score": 17
-    },
-    {
-      "headline": "Lincoln Riley Delivers Injury Updates for USC Stars Jahkeem Stewart, Terrell Anderson",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkp3azdlQnZmaHlVWEhOLS1QTWV4SmE4cmswdEY4YTl1MGplUERDZUgzdHlyZ2JQZWdUY3hxZTZBcFhkRjlkUV9qbmtPUjVFWWxvSXJjbWhzc2pFVnFLOEdQZU9ka3k2YU1PTUZsZ2RvOVN3cE9SQklKR0lGTk5rWWhjMVZFUVN5aVpqY2tfUFR3Qk9kOEJObURZODY3NFVMR0tKbEZfaXYtR3RVc212alNJSkpFWW1pcGo1LVNWNA?oc=5",
-      "player": "Jayden Maiava",
-      "age_hours": 48,
+      "age_hours": 33,
       "score": 17
     }
   ],
@@ -981,12 +1045,12 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 28,
+          "pct": 30,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
-          "pct": 22,
+          "pct": 20,
           "tracked": true
         },
         {
@@ -1000,27 +1064,27 @@
           "tracked": true
         },
         {
+          "name": "Drew Mestemaker",
+          "pct": 11,
+          "tracked": true
+        },
+        {
           "name": "Jeremiah Smith",
           "pct": 7,
           "tracked": false
         },
         {
-          "name": "Sam Leavitt",
-          "pct": 6,
-          "tracked": true
-        },
-        {
           "name": "Julian Sayin",
-          "pct": 5,
+          "pct": 4,
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 5,
+          "name": "Trinidad Chambliss",
+          "pct": 4,
           "tracked": true
         }
       ],
-      "field_pct": 3,
+      "field_pct": 0,
       "field_count": 13
     },
     {
@@ -1031,6 +1095,11 @@
         {
           "name": "Atlanta",
           "pct": 46,
+          "tracked": false
+        },
+        {
+          "name": "Cleveland",
+          "pct": 38,
           "tracked": false
         },
         {
@@ -1054,11 +1123,6 @@
           "tracked": false
         },
         {
-          "name": "Cleveland",
-          "pct": 12,
-          "tracked": false
-        },
-        {
           "name": "Las Vegas",
           "pct": 7,
           "tracked": false
@@ -1079,7 +1143,12 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 16,
+          "pct": 17,
+          "tracked": true
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 9,
           "tracked": true
         },
         {
@@ -1088,14 +1157,14 @@
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 8,
-          "tracked": true
-        },
-        {
           "name": "Jeremiah Smith",
           "pct": 7,
           "tracked": false
+        },
+        {
+          "name": "Julian Sayin",
+          "pct": 7,
+          "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
@@ -1103,14 +1172,9 @@
           "tracked": true
         },
         {
-          "name": "Sam Leavitt",
-          "pct": 7,
-          "tracked": true
-        },
-        {
-          "name": "Julian Sayin",
+          "name": "Malachi Toney",
           "pct": 5,
-          "tracked": true
+          "tracked": false
         },
         {
           "name": "Jayden Maiava",
@@ -1118,7 +1182,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 36,
+      "field_pct": 34,
       "field_count": 31
     }
   ],
