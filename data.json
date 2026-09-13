@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:32:59.768410+00:00",
+  "updated_at": "2026-09-13T02:36:15.295960+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -112,16 +112,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856676",
-        "week": 2,
-        "opponent": "Charlotte",
-        "opponent_id": 2429,
+        "event_id": "401856688",
+        "week": 3,
+        "opponent": "LSU",
+        "opponent_id": 99,
         "home_away": "vs",
-        "kickoff": "2026-09-12T23:45:00.000Z",
+        "kickoff": "2026-09-19T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Charlotte"
+        "label": "vs LSU"
       },
       "log": [
         {
@@ -1028,16 +1028,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDQ5Y2dUWEdNbS1WTE9qQUFydUVoMUtMTTN3cUd1WHgzMTYwYTR5emc0RmR4SnVIZ21HTU92MGttZU5yX1N0ejZXV1hhbzJaS0k5VmVzQTZpaExlYnpoNWFvb21idGlqY29jX3RPYlR5MlhkZ0t3X1BSMWRBenRvWHZkczMzUm4yZ291RmhDQWw1VmItb1h0ejZHTm1SSVRL?oc=5",
       "player": "Dante Moore",
-      "age_hours": 9,
-      "score": 22
-    },
-    {
-      "headline": "Did Drew Mestemaker reestablish himself as a 2027 NFL Draft prospect vs. Oregon?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmlkdEZzUWJHeW1CVG5udTYzUVVUR0xSYlFySW5YMjFDTHVGai1vS0xpbWZNVThTXzN0MEJJWkpwMU5HS1BhbzIzci1CWEZDTHBvMTFyd1Q3N3VjMTZaQ1U2MHJsMnVlY1Y1UDl2TFhlTjZpekF0SHpzS1czTGpFX1F4ekl2bXdINTU5d05oZnVTRGF1YmNNbThDX3NvYzRC?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 2,
+      "age_hours": 12,
       "score": 22
     },
     {
@@ -1046,7 +1037,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGxlMGJFMmotYUV2d0hKLVBzWFVTSFBYRWFNMUdVT3U0VXNUUkd3bmR0NEtnc2hYWlE5Z01QUXVwTnFsUmd1RUczYXpnOEpxNk9Tcko4Rm12OXlYaWlnTFFyaUo2MEpRQXRGb0diQnp1NXEtcjhGckVHZkVscF9WY3BJbXNfY0IwakJ4Z2JGVTJsNnBxczJYMTkyY1NVcjM0Z0FhRGZmeUNoMjE3M0syN3pIbUVwNDg?oc=5",
       "player": "Dante Moore",
-      "age_hours": 5,
+      "age_hours": 8,
       "score": 21
     },
     {
@@ -1054,9 +1045,18 @@
       "source": "247Sports",
       "domain": "247sports.com",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaEs5U3pDSlB0MnNPZTA4SW9xeC1Xc25iMjBsM3NiTWt6YklZbzhDZ0dxUnRSenVxclkySTU4alloVUNHRmtJS0I2dXRadnVMalE1MVo4RmExQmZ4TEhlZ1o0V2wyNkdFbmVBYXdtTDRxOFdrN3hNcmxZMkFreFB0MmQ4UXpOTUdqU01XbTRDQnVXZG5HMzZWTnJORFpDcmJzSXFoQXRyMy11S0RiS3loX0EwMF9ud3Z2SzRHVG8xa3VPLUtfRmFUYkx0R0FaQlRrZHZWNm9RYW81YkFObHJHcWoyRWFzVTg4ZzNGNGg5NWxtY1JnWnZMSXlNVlE1azRNMUhQV1ozY2N6aGNGRTJhSllvRUhTY1RWMGdqTg?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 1,
+      "player": "Dante Moore",
+      "age_hours": 4,
       "score": 21
+    },
+    {
+      "headline": "Dante Moore\u2019s Struggles Saturday Could Push Browns Further From Drafting Him",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWENlUk1yMlZpbFRPN0tWeUxIUXJrbm9iZ0RNQkpkTVJPRVNsRFp6aTdCSTRSV1dNQnl0SDY0WDhHZW44d0JrQ29zUHdwRmYxbVBTMFAtMGZFMVRCSTQzSnBid21sYWR1dGxabG5qWG1IT2dVTUxtVVhyX1NfNzBXMGRZeXE0MmVNMk9WN3EwcTRlbjdWbGZVTEpBZ3NNRmVJM2JuaTRBR3I5ZGR0NWpoTmVsbmh1MUlDcTZQOHJyWF9wUQ?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 0,
+      "score": 18
     },
     {
       "headline": "Julian Sayin could be trickiest QB prospect in loaded 2027 NFL Draft",
@@ -1064,7 +1064,7 @@
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk9ZRHRkdEF3cUtwZS1JY1dZa2IyNWt3UlJjcDBqcnI2eU5ZS2R1Y1kxcjFwekNfN09UVUtwVjctMnhQOXM2RWFTeFdEZFZWb2w1bjBJaEtzZFZ4WDJnZXlvRG01S1dUVWlBR2R0WXA0dUVYMFlQazdzZVB1U1BNWFRFVnBpSzhTX0dOS2FVZFZuejgtLVVSRnV2U3BpZlY0TGhLNDlUUm1FM2dLcXgtb2Z3S0tqUQ?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 8,
+      "age_hours": 11,
       "score": 18
     },
     {
@@ -1073,7 +1073,16 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdlFlRFlZRHJSaW0wbG9JSTA1bUNWc3I0cXdhV04xbVBlLWRfMjJmRTZTb2RVeVBzMGN0bURDM2Ryc2IwTnVuT1RLTzFNSTUxVXQ1cjVqT0VlOWdsTVAtVHdCa01qeWh6a0I5bHlBbXZGbzBxanBaTW5zYkxMUzZxQkJndVdEZGMzNmgwVmhtMG94bFZRQ1MySDJxTWpLdGc?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1,
+      "age_hours": 5,
+      "score": 17
+    },
+    {
+      "headline": "What to expect from Arch Manning and Julian Sayin in Texas-Ohio State rematch",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGRZaTFmc1M3SjVHdHR1R2dCczJpREdIX3N1MUpMMVZ0cEl2YXBndmtKRXFsQ3A0UzJOMkt2RWVpVzdQU3pBaXl0MThYNjU5QUU4bExIcEJ3MFJmeDkzUzZaNG96N2gxS1hFN1NJS1ZYVkZ3ZDZRODN6Sm45ZWRkbUNxSGtjRUJQSzRHQkFtcUNxS3ZuZFNwU3d4cUVxaEJla0N5R0M1TEFqeFFVLXc?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 6,
       "score": 17
     },
     {
@@ -1081,15 +1090,6 @@
       "source": "ESPN",
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOOV9jX19EZm9HWDk2dXl3RVU2YVh5b01PbTdGWUdud0w0Zzg5WlF4aGJpMkFwOGVzY3lzYXFyTWFOLWVLbUc0MzRtYmJFM0hKdGVBd0plZ1l3cEk?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 3,
-      "score": 17
-    },
-    {
-      "headline": "Drew Mestemaker, Wyatt Young link up for a 52-yard Oklahoma State TD",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGM1phXzNQM081MTVvbGZsREtfbElPUzBGM2hHZGZGbVIxUzFNbU1sYmRGV2NkTldzQ0JmbE5SOVRUbHFxYlZKa19Ia3pzd0ZNZHZuY09aM19ld28?oc=5",
       "player": "Drew Mestemaker",
       "age_hours": 5,
       "score": 17
@@ -1103,16 +1103,26 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 30,
+          "pct": 23,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
-          "pct": 20,
+          "pct": 21,
           "tracked": true
         },
         {
           "name": "CJ Carr",
+          "pct": 21,
+          "tracked": true
+        },
+        {
+          "name": "Jeremiah Smith",
+          "pct": 14,
+          "tracked": false
+        },
+        {
+          "name": "Dante Moore",
           "pct": 12,
           "tracked": true
         },
@@ -1122,18 +1132,8 @@
           "tracked": true
         },
         {
-          "name": "Dante Moore",
-          "pct": 10,
-          "tracked": true
-        },
-        {
-          "name": "Jeremiah Smith",
-          "pct": 7,
-          "tracked": false
-        },
-        {
           "name": "Julian Sayin",
-          "pct": 4,
+          "pct": 7,
           "tracked": true
         },
         {
@@ -1142,7 +1142,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 2,
+      "field_pct": 0,
       "field_count": 13
     },
     {
@@ -1200,13 +1200,13 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "Darian Mensah",
-          "pct": 17,
-          "tracked": true
+          "name": "Jeremiah Smith",
+          "pct": 15,
+          "tracked": false
         },
         {
-          "name": "Arch Manning",
-          "pct": 9,
+          "name": "Darian Mensah",
+          "pct": 12,
           "tracked": true
         },
         {
@@ -1215,23 +1215,23 @@
           "tracked": true
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 7,
-          "tracked": false
-        },
-        {
           "name": "Julian Sayin",
-          "pct": 7,
+          "pct": 6,
           "tracked": true
         },
         {
+          "name": "Gunner Stockton",
+          "pct": 5,
+          "tracked": false
+        },
+        {
           "name": "Malachi Toney",
-          "pct": 6,
+          "pct": 5,
           "tracked": false
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 6,
+          "pct": 5,
           "tracked": true
         },
         {
@@ -1240,7 +1240,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 34,
+      "field_pct": 38,
       "field_count": 31
     }
   ],
