@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T16:21:21.534395+00:00",
+  "updated_at": "2026-09-15T20:54:03.711347+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1156,21 +1156,12 @@
   ],
   "news": [
     {
-      "headline": "Notre Dame\u2019s CJ Carr has \u2018All the Intangibles\u2019 to be Top 2027 NFL Draft Pick",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTlJONmpyNGRNLXJSQkNjTUxQNU9mMkVLcnR6bTJZaThvOWl1OTY5UTd0RENnWTFGM28wX1ktVFlxcXRYUHBoS041XzM4Uk13N0ZQUllQS0VYc0w0RUk5dmFkanB1cTM5eEVaemlUbHJSczY0X3JFT0N2SUNYSGJ4UTIta2Rvdk9TY29pR3ZJRG1TVkdEWXYzT0NibnlvV2NiUzZlX3NZNjl5MzVWQlRoZDh4NU5zTk9PMUtfbHhQMWVFZV9CVnNKQWpRaHpHMTFINEdkWXZueE1fcjU3aVk1YXVKSVB0TVZieFVfckRzSG1EQ0xqWkw4TWpUS3AzY19WOWQ4aDByb2MtUUdkOF9PX0p3?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 16,
-      "score": 20
-    },
-    {
-      "headline": "Heisman Trophy odds: Where Arch Manning sits after Texas\u2019 big comeback",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHZEM05PTDFObDBFRk1ic2N4RUNPbFdpRG1EX21zb2Z0UWZJb0VHNXVmeEtpWjRjMzVLOXAtZk1WcUZCR0hsdVMxR012NTYxc0xWZzR1YkNvM2dnNy1lRXNpbVJNUnZEOUF5bzdnVGdRRURtSEJscEt0YmN0U09CT0ZNQ3JibWhNQWRtX2Q2Wnk?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 20,
+      "headline": "From walk-on at North Texas to promising NFL Draft prospect: What early season says about QB Drew Mestemaker",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXdPRGRQcC1xVEFnS3hzZFlac0k3bEl1ZFQ4R2pqQkI3N2gyQ3YxYXNMZkxuamQzbndIYzFFTmVmNllXb3k5ckF2REFFNlpuVmYzT0lkbnVLSEJ2Mm13cVNnd1R2anNlU2hjWWhqQmlXQXVHRUJKczFTMXpGQ3BJX3BYSW4weUpyRUNSSFU4SkVzamJoS3BHdG1ELUhWdEhVeDM3aQ?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 2,
       "score": 20
     },
     {
@@ -1179,7 +1170,16 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVlUtMVR2UGtxbzF2Z05aRzFhTEh6T0xJOFhNVk8xQnhmX1BCeUpXeVlhblJmZWVzNzBFaThaMG9Za21MOHo5em0weFQ5ajRYUDIxQVE5UWFva0N5UXNkZzhyaXl5TGJxNmZscTc0T09CdE11ZU93ZVo3bGFYT0dpS1FJcUFxYnhrUFJsRjRMZlZ3dUtkZnAtMVpmSWtSOFNoN2xfc2pZa1lnQXk4MHRyclFrQVA0ckNvQ2pJYnVmVVM5N1VFa2FhcHg0NWRvX2VubTFGUk5OMC1ibWNhM0dv?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 2,
+      "age_hours": 7,
+      "score": 18
+    },
+    {
+      "headline": "NBC Sports' Joshua Perry wonders if Dante Moore could fake an injury to protect his draft stock",
+      "source": "Awful Announcing",
+      "domain": "awfulannouncing.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGZYR3ZyZjF4RktPVkVheDFvbzZzNllDdldUMmdJekZpRXpacEw1OUwyUDVYcG5aUFcwNzlTb1ZRemRoUTBZTVdpZy1fQnlraVB2TnVXMUFIVEh0ZG9UNFBlWjZRNXd5aXJka2YxQWxaaHpfWnIwMXdfSnNpVVVqZTJYcEh5d2hmQXdlU25COWNhTE1fTXBPalZjWnU2U203ODFza1F3?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
       "score": 18
     },
     {
@@ -1188,43 +1188,43 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTlzMlJlekVoVjVyamtPVzNDXzZwVDVpdks4Ukwyb0pOXzI1VjN3cFBkOFVlSlZxdUN3eFNIMzNYZndSTVpxcFVUNXYxWjRNdmJUa3Ruc1duSG9JYjN3VjFNcjROQXlJeUZsUFFiT3Nncm1iMDVIU3l1bzBoLUY3WmdrWmNQRDVlS19PVW1FUHhrM3lLV1BJTXp1bjBxdC03REIzblJZODlYWUlyblNF?oc=5",
       "player": "Dante Moore",
-      "age_hours": 18,
+      "age_hours": 22,
       "score": 18
     },
     {
-      "headline": "What we're hearing: Drew Mestemaker's NFL Draft stock, all eyes on Lane Kiffin",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVDg2Sk1xclZCamtwSUdDZ3EwQ2xhdy1tejFRY3g5M2pmM29XMzlCMHIta25OeFZsTXJKa2wtTmczamJoRVM2VVNUNjF6SldXaGFncE9IWDB4RE1faDRlVzNWNnVHV2NrY0VhMlYzV3BxVFh3TUF2NXp2LTZmanVyOHNReUVyczF0ekVTVjdGUy1RVnhPMlNKaGpEREYwRThYSHJJYmJsSVV4MHNfeTgzX2s1ZEdZcThFLURRWWxFWDY4ZUVBUWh4dXJVckwwT2VsSzVrR0ZxNVZuT2J6WnRiajFvbWo2QQ?oc=5",
+      "headline": "Did Drew Mestemaker reestablish himself as a 2027 NFL Draft prospect vs. Oregon?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmlkdEZzUWJHeW1CVG5udTYzUVVUR0xSYlFySW5YMjFDTHVGai1vS0xpbWZNVThTXzN0MEJJWkpwMU5HS1BhbzIzci1CWEZDTHBvMTFyd1Q3N3VjMTZaQ1U2MHJsMnVlY1Y1UDl2TFhlTjZpekF0SHpzS1czTGpFX1F4ekl2bXdINTU5d05oZnVTRGF1YmNNbThDX3NvYzRC?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 7,
+      "age_hours": 71,
       "score": 18
     },
     {
-      "headline": "Orlovsky: Trinidad Chambliss 'can keep Ole Miss in every game, even without Lane Kiffin'",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fMFdXeG9heDRaNmFIaVl3UnFZZmVZaHJuUVZhOUZQdEM3VTROMVRTRjF1QThKNHpBd0dEVF9ib0NfMU4zM0c4dmNTZDRDSVhoeGhZSldNRzZVLXM?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 23,
-      "score": 17
+      "headline": "Robert Griffin III calls Arch Manning's game against Ohio State 'a first pick in the Draft performance'",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN1RwVmVPbXVXYTAwTk4ybHF5eEpsZ3pIT0ZycjhVUTIxUFdza2ZZUmR2T3ctTllHdDdSUk51UEd6NDcyQU1rWllEVjdRLXMwaDB2VGo5LWw5ZGpGNUlsMEE4YnlVT2NXQmRSZTY0UUpxbWVOanNVQ2dkSnVVVUp3NnQ5UkxQTWtEdWV0SlBEVlNGSjZVeUl1endoR0ZKUkppTDFEMnNsc0FwOGUzYWIxUjl0U2JLRC00Z19VZzBqWERMb21FVFdYRUVWOA?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 0,
+      "score": 18
     },
     {
-      "headline": "Coach Lanning updates Oregon injuries after Oklahoma State upset",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaEs5U3pDSlB0MnNPZTA4SW9xeC1Xc25iMjBsM3NiTWt6YklZbzhDZ0dxUnRSenVxclkySTU4alloVUNHRmtJS0I2dXRadnVMalE1MVo4RmExQmZ4TEhlZ1o0V2wyNkdFbmVBYXdtTDRxOFdrN3hNcmxZMkFreFB0MmQ4UXpOTUdqU01XbTRDQnVXZG5HMzZWTnJORFpDcmJzSXFoQXRyMy11S0RiS3loX0EwMF9ud3Z2SzRHVG8xa3VPLUtfRmFUYkx0R0FaQlRrZHZWNm9RYW81YkFObHJHcWoyRWFzVTg4ZzNGNGg5NWxtY1JnWnZMSXlNVlE1azRNMUhQV1ozY2N6aGNGRTJhSllvRUhTY1RWMGdqTg?oc=5",
+      "headline": "Dante Moore Sets the Record Straight on Oregon's Players-Only Meeting",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelpkVWNSTUZ1enBQN2FCcVc3X1VtMlZGNmpCaFRmb3kwU2hSYXdsZEJwR0swQlVINmtPc1h0NTdYU0NkVENvU1BpYWgyNU5aRmQ4ZFp1VnFVTFZncVloSXNMTFRYd1dDNjg5TXNZM3Q1THdON1RmX2kxd2NDZlFTemFZYTE4emdsVkhrUnlmV3NMdEJiTzVSMGJ5Mm85YU1FWmx5cTZtckx5WjBHelE?oc=5",
       "player": "Dante Moore",
-      "age_hours": 68,
+      "age_hours": 1,
       "score": 17
     },
     {
-      "headline": "Inside Oklahoma State's upset of No. 6 Oregon",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZHcyb1dCaEgxSVBaMVhPU1I3MDNpTno1cEE5SEJTV1pjWjFVRzAyekRSU0Y1Q1JRUEUtVzRuN2JBOHlXb3pEdlc3ckd5VUxoVFFoMzg2MWZjbExoaHFHNk5tRkFrRW8xaWdOcTZsOFpRUkJxTFVzTElTSzVSSDkySWJ6NTloNnhHSGdLb1B6S05VMUJqWUhtUkJTTzFSaXp1ZGVlbg?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 20,
+      "headline": "Arch Manning addresses Steve Sarkisian-Holly Rowe interaction, sparks fresh criticism - The Athletic",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXJuNVhPbkZTVUVtOUxfY0c2QkhiMndsZV95NUdYVE11OVlISDBCYll3MzZTZm9pT0kzbktvLWRrak42VVBkaTZkVXZFRmJEME5yTFpuOTdINHdXc04tLW1zbVNuN3MxVUhGd2w2Y0p4bDFXYkZ3cXJtTDk0SGFpVENZU1dMZ2luN1EzOGZNLTZWS2UzMmRxVkVSVDFXQnFnVXZnUk9TYzFKWVpfTFkyQjRCLUExdHFkaUN6amE5TFo5eUhRN2p1UFFubXFMNlBOOFBz?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 5,
       "score": 17
     }
   ],
@@ -1236,7 +1236,7 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 27,
+          "pct": 29,
           "tracked": true
         },
         {
@@ -1256,8 +1256,13 @@
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 7,
+          "pct": 6,
           "tracked": false
+        },
+        {
+          "name": "Drew Mestemaker",
+          "pct": 6,
+          "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
@@ -1268,14 +1273,9 @@
           "name": "LaNorris Sellers",
           "pct": 4,
           "tracked": false
-        },
-        {
-          "name": "Drew Mestemaker",
-          "pct": 4,
-          "tracked": true
         }
       ],
-      "field_pct": 14,
+      "field_pct": 11,
       "field_count": 13
     },
     {
@@ -1319,8 +1319,8 @@
           "tracked": false
         },
         {
-          "name": "New York G",
-          "pct": 6,
+          "name": "Carolina",
+          "pct": 8,
           "tracked": false
         }
       ],
@@ -1338,19 +1338,24 @@
           "tracked": true
         },
         {
-          "name": "Jeremiah Smith",
+          "name": "CJ Carr",
           "pct": 12,
+          "tracked": true
+        },
+        {
+          "name": "Jeremiah Smith",
+          "pct": 10,
           "tracked": false
         },
         {
           "name": "Arch Manning",
-          "pct": 10,
+          "pct": 9,
           "tracked": true
         },
         {
-          "name": "CJ Carr",
-          "pct": 9,
-          "tracked": true
+          "name": "Malachi Toney",
+          "pct": 8,
+          "tracked": false
         },
         {
           "name": "Trinidad Chambliss",
@@ -1358,22 +1363,17 @@
           "tracked": true
         },
         {
-          "name": "Kamario Taylor",
-          "pct": 6,
+          "name": "Gunner Stockton",
+          "pct": 4,
           "tracked": false
         },
         {
-          "name": "Malachi Toney",
-          "pct": 5,
-          "tracked": false
-        },
-        {
-          "name": "Julian Sayin",
+          "name": "Jayden Maiava",
           "pct": 4,
           "tracked": true
         }
       ],
-      "field_pct": 30,
+      "field_pct": 29,
       "field_count": 31
     }
   ],
