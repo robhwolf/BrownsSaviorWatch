@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T20:54:03.711347+00:00",
+  "updated_at": "2026-09-16T03:31:33.419637+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -423,8 +423,16 @@
         "color": "#f47321"
       },
       "status": {
-        "state": "idle",
-        "label": "No game this week"
+        "event_id": "401858226",
+        "week": 3,
+        "opponent": "Wake Forest",
+        "opponent_id": 154,
+        "home_away": "at",
+        "kickoff": "2026-09-18T23:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "at Wake Forest"
       },
       "game": null,
       "next_game": {
@@ -1161,7 +1169,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXdPRGRQcC1xVEFnS3hzZFlac0k3bEl1ZFQ4R2pqQkI3N2gyQ3YxYXNMZkxuamQzbndIYzFFTmVmNllXb3k5ckF2REFFNlpuVmYzT0lkbnVLSEJ2Mm13cVNnd1R2anNlU2hjWWhqQmlXQXVHRUJKczFTMXpGQ3BJX3BYSW4weUpyRUNSSFU4SkVzamJoS3BHdG1ELUhWdEhVeDM3aQ?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 2,
+      "age_hours": 8,
       "score": 20
     },
     {
@@ -1170,43 +1178,34 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVlUtMVR2UGtxbzF2Z05aRzFhTEh6T0xJOFhNVk8xQnhmX1BCeUpXeVlhblJmZWVzNzBFaThaMG9Za21MOHo5em0weFQ5ajRYUDIxQVE5UWFva0N5UXNkZzhyaXl5TGJxNmZscTc0T09CdE11ZU93ZVo3bGFYT0dpS1FJcUFxYnhrUFJsRjRMZlZ3dUtkZnAtMVpmSWtSOFNoN2xfc2pZa1lnQXk4MHRyclFrQVA0ckNvQ2pJYnVmVVM5N1VFa2FhcHg0NWRvX2VubTFGUk5OMC1ibWNhM0dv?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 7,
+      "age_hours": 13,
       "score": 18
     },
     {
       "headline": "NBC Sports' Joshua Perry wonders if Dante Moore could fake an injury to protect his draft stock",
-      "source": "Awful Announcing",
+      "source": "awfulannouncing.com",
       "domain": "awfulannouncing.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGZYR3ZyZjF4RktPVkVheDFvbzZzNllDdldUMmdJekZpRXpacEw1OUwyUDVYcG5aUFcwNzlTb1ZRemRoUTBZTVdpZy1fQnlraVB2TnVXMUFIVEh0ZG9UNFBlWjZRNXd5aXJka2YxQWxaaHpfWnIwMXdfSnNpVVVqZTJYcEh5d2hmQXdlU25COWNhTE1fTXBPalZjWnU2U203ODFza1F3?oc=5",
       "player": "Dante Moore",
-      "age_hours": 3,
+      "age_hours": 9,
       "score": 18
     },
     {
-      "headline": "Oregon Ducks' Upset Loss Sparks New Problem for Dante Moore\u2019s Heisman Case",
+      "headline": "Looking Ahead to Bowman Football: Week 3 Heisman Hopefuls",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTlzMlJlekVoVjVyamtPVzNDXzZwVDVpdks4Ukwyb0pOXzI1VjN3cFBkOFVlSlZxdUN3eFNIMzNYZndSTVpxcFVUNXYxWjRNdmJUa3Ruc1duSG9JYjN3VjFNcjROQXlJeUZsUFFiT3Nncm1iMDVIU3l1bzBoLUY3WmdrWmNQRDVlS19PVW1FUHhrM3lLV1BJTXp1bjBxdC03REIzblJZODlYWUlyblNF?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 22,
-      "score": 18
-    },
-    {
-      "headline": "Did Drew Mestemaker reestablish himself as a 2027 NFL Draft prospect vs. Oregon?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmlkdEZzUWJHeW1CVG5udTYzUVVUR0xSYlFySW5YMjFDTHVGai1vS0xpbWZNVThTXzN0MEJJWkpwMU5HS1BhbzIzci1CWEZDTHBvMTFyd1Q3N3VjMTZaQ1U2MHJsMnVlY1Y1UDl2TFhlTjZpekF0SHpzS1czTGpFX1F4ekl2bXdINTU5d05oZnVTRGF1YmNNbThDX3NvYzRC?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXQ1eUtPbnJHT09kai1DazA3eVNLejdsRDdjbnYtRHpORmJVaXRXN2R3Umtmd2hLbWF6NjQ2RG40RXUtNnNvSS1icnpZWUZTcHBDMmYtSE1xOE9pc182QU1nUm8zX0ZYNUlxRGxMMzFnWHBxb2k2NmFNcE1VbjNyRTkwdThRTmxYZ3ZWUkJ3?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 71,
+      "age_hours": 4,
       "score": 18
     },
     {
       "headline": "Robert Griffin III calls Arch Manning's game against Ohio State 'a first pick in the Draft performance'",
-      "source": "On3",
+      "source": "on3.com",
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN1RwVmVPbXVXYTAwTk4ybHF5eEpsZ3pIT0ZycjhVUTIxUFdza2ZZUmR2T3ctTllHdDdSUk51UEd6NDcyQU1rWllEVjdRLXMwaDB2VGo5LWw5ZGpGNUlsMEE4YnlVT2NXQmRSZTY0UUpxbWVOanNVQ2dkSnVVVUp3NnQ5UkxQTWtEdWV0SlBEVlNGSjZVeUl1endoR0ZKUkppTDFEMnNsc0FwOGUzYWIxUjl0U2JLRC00Z19VZzBqWERMb21FVFdYRUVWOA?oc=5",
       "player": "Arch Manning",
-      "age_hours": 0,
+      "age_hours": 7,
       "score": 18
     },
     {
@@ -1215,7 +1214,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelpkVWNSTUZ1enBQN2FCcVc3X1VtMlZGNmpCaFRmb3kwU2hSYXdsZEJwR0swQlVINmtPc1h0NTdYU0NkVENvU1BpYWgyNU5aRmQ4ZFp1VnFVTFZncVloSXNMTFRYd1dDNjg5TXNZM3Q1THdON1RmX2kxd2NDZlFTemFZYTE4emdsVkhrUnlmV3NMdEJiTzVSMGJ5Mm85YU1FWmx5cTZtckx5WjBHelE?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1,
+      "age_hours": 8,
+      "score": 17
+    },
+    {
+      "headline": "Texas' Arch Manning apologizes for reaction to violent AI video",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUldScDJaMDNqNFRNc09sLVNpQ1l3VFhtQU5CQ2p2aVM1ZFUyeWh1djZIY0dkdkhkclNzYVVfZmo5N0Naa3hVMWluMnpoX3JwMnpKTExqYzFneVRBQXlKTWs2dUxlaVYwa2tHUThGam5OZkdmNlczQ1pmTkhUN0RfR0F3RkY0NFhMTm11SVpwRHNWWjNNb0p3NENMLW1DQXY1TE9VNzM5MVJzdjlnU1F0eDVGNA?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 9,
       "score": 17
     },
     {
@@ -1224,7 +1232,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXJuNVhPbkZTVUVtOUxfY0c2QkhiMndsZV95NUdYVE11OVlISDBCYll3MzZTZm9pT0kzbktvLWRrak42VVBkaTZkVXZFRmJEME5yTFpuOTdINHdXc04tLW1zbVNuN3MxVUhGd2w2Y0p4bDFXYkZ3cXJtTDk0SGFpVENZU1dMZ2luN1EzOGZNLTZWS2UzMmRxVkVSVDFXQnFnVXZnUk9TYzFKWVpfTFkyQjRCLUExdHFkaUN6amE5TFo5eUhRN2p1UFFubXFMNlBOOFBz?oc=5",
       "player": "Arch Manning",
-      "age_hours": 5,
+      "age_hours": 11,
       "score": 17
     }
   ],
@@ -1236,7 +1244,12 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 29,
+          "pct": 31,
+          "tracked": true
+        },
+        {
+          "name": "Drew Mestemaker",
+          "pct": 21,
           "tracked": true
         },
         {
@@ -1245,24 +1258,19 @@
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
-          "pct": 12,
+          "name": "Dante Moore",
+          "pct": 14,
           "tracked": true
         },
         {
-          "name": "Dante Moore",
-          "pct": 10,
+          "name": "Darian Mensah",
+          "pct": 12,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
           "pct": 6,
           "tracked": false
-        },
-        {
-          "name": "Drew Mestemaker",
-          "pct": 6,
-          "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
@@ -1275,7 +1283,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 11,
+      "field_pct": 0,
       "field_count": 13
     },
     {
@@ -1285,7 +1293,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 37,
+          "pct": 36,
           "tracked": false
         },
         {
@@ -1295,7 +1303,7 @@
         },
         {
           "name": "Cleveland",
-          "pct": 31,
+          "pct": 24,
           "tracked": false
         },
         {
@@ -1315,7 +1323,7 @@
         },
         {
           "name": "Arizona",
-          "pct": 9,
+          "pct": 8,
           "tracked": false
         },
         {
@@ -1339,12 +1347,12 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 12,
+          "pct": 11,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 10,
+          "pct": 9,
           "tracked": false
         },
         {
@@ -1353,14 +1361,14 @@
           "tracked": true
         },
         {
-          "name": "Malachi Toney",
-          "pct": 8,
-          "tracked": false
+          "name": "Trinidad Chambliss",
+          "pct": 6,
+          "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 7,
-          "tracked": true
+          "name": "Malachi Toney",
+          "pct": 5,
+          "tracked": false
         },
         {
           "name": "Gunner Stockton",
@@ -1373,7 +1381,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 29,
+      "field_pct": 35,
       "field_count": 31
     }
   ],
@@ -1437,7 +1445,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 9,
+    "games_matched": 10,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
