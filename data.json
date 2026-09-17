@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T03:37:08.386724+00:00",
+  "updated_at": "2026-09-17T16:19:29.964128+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1053,30 +1053,12 @@
   ],
   "news": [
     {
-      "headline": "Trajectory of 2027 NFL draft QB prospects flips fast",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVERHeFBYWUdJbHEyYzRNR3ZWanU3TXA2STNhLVZnbVBWcWQxZTJMSkZNcndEVUoxeXpoQjdfcl9VRmtFMlZhNjdJRklHZERfc3dqeDNjMVBaZlJETWZSMGNfOXJuQ3p5MnlzTHE5NWd4ZlJNSlpoNkNtdmFPZzF1UVAzSWtvb2pNcVdrX0d5VE5qaGV3enBJZTgxNzh6d3lqNFMzNnR5Y2lTYlpIVFBLMmg3NlpkbmJsRVJMZ195UTFNUQ?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 17,
-      "score": 22
-    },
-    {
       "headline": "Ohio State injury report: Status of starters Phillip Daniels, Zion Grady uncertain",
       "source": "On3",
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmh2d2tjMUNXb1ZqS1ltQjJrWEhLZnZEa1BnbTNNSjZCZjA0UVZqSUkxOFItNE1lTGVDNV85WEh3eXk1ZGtNZk1WZVNSLWdRVVNJT2hPQUswdWVEM2FYeFREdFBVNC12NWhKcWdlSkVnZWFIX1drVG5UY3pFMzhUcTNTLUNNMGkzX1BzbWZobGJHYUZKemJqQmpQTEp6XzdRNUJGMmIxNGZtbl9nZHpFeUlLbERsU2owR3lfSFhjajdsZ204ckRB?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 4,
-      "score": 21
-    },
-    {
-      "headline": "LSU QB Sam Leavitt 'doubtful' on injury report ahead of Ole Miss showdown, did not throw in latest practice",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalNXRjFFSG8tc0p2LU5fTGwzMWJJUlV2VUNjOU1QWWE2TEQxUzBzTktJc1F6NTdGQWNab004RV9MdENndm9nalhiYUVtSXh2ZF80SGotSWxMbktGSDNqX2IxSk5ObEl5WTJ0WU9jbWVtNjV1LTBQNm9JYlhsY0h1cWl1LVQtUGRodUlweXdSd05LeGdOeWFZ?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 2,
+      "age_hours": 17,
       "score": 21
     },
     {
@@ -1085,7 +1067,16 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1dKWnRYNjl0V0JjRkNMX3BRWUtqOENrZ1h4TTNzNENGZ2lOREVyMW9JY1NodzFyRTM2cnd1eHkyNmZCOWdsVkNYRkdQanVlSy1VLWppOTFyOWdlMkJsRHRMLVdvMTdRZ0tnNzlMcmZRTndZZC1tTElsYVlFUWVYaVE5aGVKOVVqTFg2X0ZJQkxodGtydXlCTUE2V3RiNG9wOERTQUF1cXZmaGNqUjlXeXZYWQ?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 3,
+      "age_hours": 16,
+      "score": 21
+    },
+    {
+      "headline": "LSU QB Sam Leavitt 'doubtful' on injury report ahead of Ole Miss showdown, did not throw in latest practice",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalNXRjFFSG8tc0p2LU5fTGwzMWJJUlV2VUNjOU1QWWE2TEQxUzBzTktJc1F6NTdGQWNab004RV9MdENndm9nalhiYUVtSXh2ZF80SGotSWxMbktGSDNqX2IxSk5ObEl5WTJ0WU9jbWVtNjV1LTBQNm9JYlhsY0h1cWl1LVQtUGRodUlweXdSd05LeGdOeWFZ?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 14,
       "score": 21
     },
     {
@@ -1093,6 +1084,24 @@
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3dxeC0xUlpocHVGZUxGSnQ5LUZUbVhzVXJ2dlZUakJXeV94MnFRbXVkMzFienBiLVN1Ti1QV09rYzdKMmhzc2N3UVk4Ulg5bXpzSHdsOE1BZV9taWM2YmxtLWEwQVBnZjI1djcxdWpVVmtlZGtPQUNiRC1zYWlYcEExZWJkZlZ2Snc4MUtRUEpWbXA4NlB6bDZSYl9CWFBRYmpNQ0V3T0c1dDFoSk9NU3lCcjlBQQ?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 15,
+      "score": 21
+    },
+    {
+      "headline": "Sam Leavitt Headlines College Football Injury Report Ahead of Week 3",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGpVUFl1eHRObzN3ZDRTQW5IU3hGMzJIdElRaGt3VFBsM3pCcU8xd0U5UlQ2UUx2VERkZ0JnQ3RNYW1ZZmU2YUExd3J3SXNONFl1MFlsM1gxT3YyUlV2TFg4TFJtYzFEaEgzblZWN2tsc1dmeURhaDNVNV9JRUJ0ZERfMlJrSjV1LTJjZGJnSTVQVWUzalN5ODhFbGJnakk?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 1,
+      "score": 21
+    },
+    {
+      "headline": "Paul Finebaum weighs in on Sam Leavitt injury designation, possible Lane Kiffin games: 'He is thumbing his nose'",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnlPTlJTYUhNYnZyRnJKUnJ5dWV1QS1NdmlGMkRvSkxJX0FlTUN3N0pvekhxd1VhbGtWRDdKNHVjdDRmZnJyZVg5M05IYS02a3hoOV9xYWxYSVNrcFc4QlBreXpQTFFfS1dhOElmbkJ1TVo2Wm0yVUVDR0xfZzVIQ2YwYUdwSDBGaWVGaWZJR0Z6VUJjelotaTl3cllKbTA0aWJLbkZPRENxTFRxaTZv?oc=5",
       "player": "Sam Leavitt",
       "age_hours": 3,
       "score": 21
@@ -1103,26 +1112,17 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnpDZldZUjd6Z2lVekVSOFgwRUtzY1Npcnc1MXYwajNhZ181TUFGRlhGVWNjTmlYWTdZWDJxQ1pRckJxNjBHMTUtbXNORHBlRlBNLTRuM1ZxVHFHeVBYbWQweXlVdWhZOUxFRnhoLXY4OGdlbE1hcmpfUE92dzV3Q1JBcXNLZjhRQXN3aEJEcUZyS1JMS3JHNXNuWUpmci0xay1QZFlvQQ?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 3,
-      "score": 21
-    },
-    {
-      "headline": "USC Quarterback Jayden Maiava Offers Honest Response to Injury Concerns",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpyWTR3ZVpQWFM0MWVxaV9NR3lYb3VXeHNldVJhN0F1UjRnOV9TNGVWeVJKTXpORHlIUGloTklWcEdHbU1PZS1tdGxqRVYwMWdLYlp4Y2VLVm9PTHRZRTZUb2tXRnVsblo4cDdZUWROZVNTUHBjeTFYQkJ1cW5TR1NYVWdydUh3dWpJWUo3el9BaXRNU0RJMkxrcHhZS3FRdG82dmE4d0t2NUJzaGltd0pEU1pXLUU?oc=5",
-      "player": "Jayden Maiava",
       "age_hours": 15,
       "score": 21
     },
     {
-      "headline": "Leavitt doubtful, Dottery questionable in initial injury report",
-      "source": "Louisiana Sports",
-      "domain": "louisianasports.net",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHdhWjZHTnEzdmxDSndzdWJSbmhvRDd2WXprVGVIdmVrRVdMaUpnSkFNT0dmN0FhWF92Uk40bDhSeXA1MTVTelpBdUpaVWVDbG5kRUJ5UWRsQUh5OFgwamVTRXhBbVFGNkNnOWhvQjVWc0FDajFsQS1HX1IxWjFUM3ZMd1ZuRllCcGFWMTJzb1lWajgzbnNSRWt3T0JQRFl2bjJuNmZobzVnc09nQ1BpSjlVOEpRWEU?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 3,
-      "score": 19
+      "headline": "USC Trojans' Injury Report Reveals Lengthy List Before Rutgers",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREZCMU9sTm42dlB1WlJWSk1FNkh4VUwwN05hTzhIV3k3ZUxyV2xNc2Jab203dU8tYWZXNWFiMkFNSHZIQVp5bDhCREtnUkVvZ3QwZUJJUU5kRk5qU1dXNTFpM3d0eFMwODlmY1NtNGpKeDM1d2ZlMGpFM2ptN2V3VGx4V19SZ1F1NlBfdDlrS1hxWkg0OFdEV0swa1NjMFRyMHJ3?oc=5",
+      "player": "Jayden Maiava",
+      "age_hours": 16,
+      "score": 21
     }
   ],
   "kalshi": [
@@ -1137,12 +1137,12 @@
           "tracked": true
         },
         {
-          "name": "CJ Carr",
-          "pct": 17,
+          "name": "Dante Moore",
+          "pct": 14,
           "tracked": true
         },
         {
-          "name": "Dante Moore",
+          "name": "CJ Carr",
           "pct": 14,
           "tracked": true
         },
@@ -1152,14 +1152,14 @@
           "tracked": true
         },
         {
+          "name": "Jeremiah Smith",
+          "pct": 10,
+          "tracked": false
+        },
+        {
           "name": "Drew Mestemaker",
           "pct": 8,
           "tracked": true
-        },
-        {
-          "name": "Jeremiah Smith",
-          "pct": 7,
-          "tracked": false
         },
         {
           "name": "LaNorris Sellers",
@@ -1182,7 +1182,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 36,
+          "pct": 37,
           "tracked": false
         },
         {
@@ -1196,12 +1196,12 @@
           "tracked": false
         },
         {
-          "name": "Green Bay",
-          "pct": 17,
+          "name": "Tennessee",
+          "pct": 18,
           "tracked": false
         },
         {
-          "name": "Tennessee",
+          "name": "Green Bay",
           "pct": 17,
           "tracked": false
         },
@@ -1246,12 +1246,12 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 8,
+          "pct": 9,
           "tracked": true
         },
         {
           "name": "Malachi Toney",
-          "pct": 7,
+          "pct": 8,
           "tracked": false
         },
         {
@@ -1260,17 +1260,17 @@
           "tracked": true
         },
         {
+          "name": "Kamario Taylor",
+          "pct": 6,
+          "tracked": false
+        },
+        {
           "name": "Julian Sayin",
           "pct": 4,
           "tracked": true
-        },
-        {
-          "name": "Gunner Stockton",
-          "pct": 4,
-          "tracked": false
         }
       ],
-      "field_pct": 33,
+      "field_pct": 29,
       "field_count": 31
     }
   ],
