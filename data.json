@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T15:54:14.572288+00:00",
+  "updated_at": "2026-09-18T20:27:40.429609+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1058,7 +1058,7 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmZESWRfeHZrTFJhUGQwWnBjdlhTaUY5QzRsVjJNQ0dwUTVUNFpkTHVaenZDdTFFbDZCOUhRdjBzdWp2UFpvaVFxWC1xMXFKX0UyTFZfTEJ6VDEzSFhaN21BTzJ5dlU1RVJ2ajlvWWxGM2NFM19xaDNlVDV4Q2tibDhiMHJUUEp5N25nWmlWUTlRb2JFVE5tNGdzUk9TVUJ4Z2FEd0NPbTRkakkxUldoeXNRX0FYUkk2ZVhRTGxIR19NTjI0?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 1,
+      "age_hours": 6,
       "score": 21
     },
     {
@@ -1067,7 +1067,7 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjhsRHY4S2FCaVVhOUNLY3BEd1FwY25TTjJ5ZzZXNjMyV1BqOUM0emV1bjVGazNFNF9ZeUpJY1JRYUhKUFFWcjlEd0cxX2dKYWRQdmhGZF80dkpGb28zdllNNC1FSDBCNFJ2TXJfZ1NHQWRGSHBSTnh6ZmhyQlpsdGROU1N0N0dhWDAyN0VoX24wbUhzTTF3dzN2OHhOZFl3em15Y1dueFh5Ty02N05UaWgzMGYyNl91Mm93NU5LUQ?oc=5",
       "player": "Arch Manning",
-      "age_hours": 2,
+      "age_hours": 7,
       "score": 21
     },
     {
@@ -1076,43 +1076,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnFkazBLT2pMUjdjX25xOWRJZ2sxTlFJSUdTTGZKX0NXLWZnVmlGd0VQNkxsNnVnZEpOZjRvOU44UnZzZWIwV29lWTRhWGExOHhEVEtiTFpxNXlYalR1R1JxNXdWLW43dUdsMEJfNXlFcDFuZ25wamZvZVBMLW9rWkoyX01FeHpaTEtOWElWaGFuQmhYSHRseEQ2QjhzOWVnNjZtQWRLSQ?oc=5",
       "player": "Arch Manning",
-      "age_hours": 3,
-      "score": 21
-    },
-    {
-      "headline": "Sam Leavitt upgraded from doubtful to questionable ahead of LSU-Ole Miss showdown",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWk5qb2JQc1NuRm1zTS1vWWd0Szg0bzhURWpnSWhrN2sxR2lkZHl3cUFXMFNVUnB5M2xFalRVRFhkWm04c1NBVFlHYTlHV1g0Mks3TldYZzVNYXkySkQ4dHlCNC01NzJIOHVMNzU5ejVsbW1CdlBkaHZwa0RJalM3ZVZ4TW5hTFQ3ZEVkS0pNU1NicUtp?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 3,
-      "score": 21
-    },
-    {
-      "headline": "Sam Leavitt goes from doubtful to questionable for LSU",
-      "source": "espn.com",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUxWb21hZnJPUDlmU3ZTaXhkcG1uWWtEYVR2MERfZzNBWU1vekg3SktlM1YydDZKVldvVGtaSnpCTmdJb05tMXZXTFlVNXZhWXJJZFMwUjlJRGlfTlZjMDhBcjJ5emVCVmdWRXhJcEFDbFJLcUxFbzhkMWc2cWV4QTdPallUSGtmbmZQa1lGaHFwYjhaSzRXbVM5ZmJLNXRVdmc?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 15,
-      "score": 21
-    },
-    {
-      "headline": "Sam Leavitt Injury Status Receives Major Update Before LSU-Ole Miss Game",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRThibTdoVTlDdHhPaDVtd0VTeEhKalJqYW1TX21tS1F1aE5ScGtncDJ5Q0dSZ1Bua1cyZU1ncG5Bc291R1NqUXFMaEJmSHlKRkFPTEZWcXRua0pQa3M5UGYxTDRVUGxUYV90VmtPRVBUbThjbEU1aXctMGxFS1BOc0J4YzcxT2JJUEJWYmpDQUdFQmNFU2pKSFZnaTh1bGtvd2Z4QjJadGZiMlAyd0R0enh3?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 16,
-      "score": 21
-    },
-    {
-      "headline": "Positive Sam Leavitt Injury Update Emerges Before LSU-Ole Miss Showdown",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDNkazFFZ2ZwZklnSG80WGh1Mm9Vemd0dmJrNVhYVzY2QzBiM3ZLWDh6VjMtem5YSXhUekw1SU9ySUVFdGN2OXhSZnBSTmZFenRVNW5fY0VQLTJSa3V0Z2p5UEI5R0ZKMFVibFNwemlGMnJEVGtrOWJoZG84RnVTMzRQVVhXLUFtby1fdHQzM1BmWTFUM3lNWmtidmNNTkRURWRQdTZuaTJsTTFYcThsMQ?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 21,
+      "age_hours": 7,
       "score": 21
     },
     {
@@ -1121,7 +1085,43 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFFBdE5HSmxLOG5vQmVHOGt2UkNqenlzMFh2RE9QRTVYRWM5REtQa0ZkV2hicVdOSngwdFFqX2Z1QThuZGQ4T3BuWTZ3UXFFT29YNHhicTdWdC0wc21MYm1xYW1ldFp0OXczZjJxMFdXMjdUSFBmMHpaeG5wLVRIQzJiVDA4WFE4ZWNjTUtsdHl2U2w2aVR5SkVCWTRaelRVR3hyZE1Kam1CU3Ria0VVVF9B?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 16,
+      "age_hours": 20,
+      "score": 21
+    },
+    {
+      "headline": "Sam Leavitt goes from doubtful to questionable for LSU",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUxWb21hZnJPUDlmU3ZTaXhkcG1uWWtEYVR2MERfZzNBWU1vekg3SktlM1YydDZKVldvVGtaSnpCTmdJb05tMXZXTFlVNXZhWXJJZFMwUjlJRGlfTlZjMDhBcjJ5emVCVmdWRXhJcEFDbFJLcUxFbzhkMWc2cWV4QTdPallUSGtmbmZQa1lGaHFwYjhaSzRXbVM5ZmJLNXRVdmc?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 20,
+      "score": 21
+    },
+    {
+      "headline": "Sam Leavitt Injury Status Receives Major Update Before LSU-Ole Miss Game",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRThibTdoVTlDdHhPaDVtd0VTeEhKalJqYW1TX21tS1F1aE5ScGtncDJ5Q0dSZ1Bua1cyZU1ncG5Bc291R1NqUXFMaEJmSHlKRkFPTEZWcXRua0pQa3M5UGYxTDRVUGxUYV90VmtPRVBUbThjbEU1aXctMGxFS1BOc0J4YzcxT2JJUEJWYmpDQUdFQmNFU2pKSFZnaTh1bGtvd2Z4QjJadGZiMlAyd0R0enh3?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 20,
+      "score": 21
+    },
+    {
+      "headline": "Sam Leavitt upgraded from doubtful to questionable ahead of LSU-Ole Miss showdown",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWk5qb2JQc1NuRm1zTS1vWWd0Szg0bzhURWpnSWhrN2sxR2lkZHl3cUFXMFNVUnB5M2xFalRVRFhkWm04c1NBVFlHYTlHV1g0Mks3TldYZzVNYXkySkQ4dHlCNC01NzJIOHVMNzU5ejVsbW1CdlBkaHZwa0RJalM3ZVZ4TW5hTFQ3ZEVkS0pNU1NicUtp?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 20,
+      "score": 21
+    },
+    {
+      "headline": "Pete Golding reveals Lane Kiffin texted him Sam Leavitt was out before injury report dropped: 'Yeah buddy, I bet he is'",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNjYzRXk5cWF1aXJGVzJaV1VKQVV1Yk1RaXYyeWo0d3VKYVFLdEpWX0lkSEpuajVCdmR0TzZKZmwzVG9MWm01bFpGckFseGotRV84UmRVS2RrMEkzandXeEl2NWJLUE1WRzE3RmJwNllSY21DZWZScUd6WHNKbG9SMzNnNmFyTzdaeXcwRzVETDhVVFZhN1RIMzFRQ0ZNaVJhMl9mWlBxeGhkbWdITlg5OU5KdUltVkVQZ1gxWFh4eDNldUFQanlycnpVOEdqWWY4REE5ZDJ0TVg?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 2,
       "score": 21
     }
   ],
@@ -1133,7 +1133,7 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 30,
+          "pct": 31,
           "tracked": true
         },
         {
@@ -1162,17 +1162,17 @@
           "tracked": true
         },
         {
+          "name": "Trinidad Chambliss",
+          "pct": 5,
+          "tracked": true
+        },
+        {
           "name": "LaNorris Sellers",
           "pct": 4,
           "tracked": false
-        },
-        {
-          "name": "Trinidad Chambliss",
-          "pct": 4,
-          "tracked": true
         }
       ],
-      "field_pct": 3,
+      "field_pct": 1,
       "field_count": 13
     },
     {
@@ -1182,12 +1182,12 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 36,
+          "pct": 37,
           "tracked": false
         },
         {
           "name": "Cleveland",
-          "pct": 23,
+          "pct": 22,
           "tracked": false
         },
         {
@@ -1231,22 +1231,17 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 18,
+          "pct": 16,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 10,
-          "tracked": false
-        },
-        {
-          "name": "Malachi Toney",
-          "pct": 10,
+          "pct": 12,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 10,
+          "pct": 11,
           "tracked": true
         },
         {
@@ -1260,14 +1255,19 @@
           "tracked": true
         },
         {
-          "name": "Kamario Taylor",
-          "pct": 6,
+          "name": "Malachi Toney",
+          "pct": 7,
           "tracked": false
         },
         {
-          "name": "Julian Sayin",
-          "pct": 4,
-          "tracked": true
+          "name": "Kamario Taylor",
+          "pct": 7,
+          "tracked": false
+        },
+        {
+          "name": "Gunner Stockton",
+          "pct": 5,
+          "tracked": false
         }
       ],
       "field_pct": 25,
