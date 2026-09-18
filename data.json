@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T03:23:03.833658+00:00",
+  "updated_at": "2026-09-18T15:54:14.572288+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1053,7 +1053,34 @@
   ],
   "news": [
     {
-      "headline": "LSU QB Sam Leavitt upgraded to questionable ahead of Ole Miss showdown",
+      "headline": "College Football Injury Report: Latest Week 3 updates at LSU, Ole Miss, Alabama & more",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmZESWRfeHZrTFJhUGQwWnBjdlhTaUY5QzRsVjJNQ0dwUTVUNFpkTHVaenZDdTFFbDZCOUhRdjBzdWp2UFpvaVFxWC1xMXFKX0UyTFZfTEJ6VDEzSFhaN21BTzJ5dlU1RVJ2ajlvWWxGM2NFM19xaDNlVDV4Q2tibDhiMHJUUEp5N25nWmlWUTlRb2JFVE5tNGdzUk9TVUJ4Z2FEd0NPbTRkakkxUldoeXNRX0FYUkk2ZVhRTGxIR19NTjI0?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 1,
+      "score": 21
+    },
+    {
+      "headline": "Inside Texas Intel: The Latest on Texas Injuries, Arch Manning and UTSA Prep",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjhsRHY4S2FCaVVhOUNLY3BEd1FwY25TTjJ5ZzZXNjMyV1BqOUM0emV1bjVGazNFNF9ZeUpJY1JRYUhKUFFWcjlEd0cxX2dKYWRQdmhGZF80dkpGb28zdllNNC1FSDBCNFJ2TXJfZ1NHQWRGSHBSTnh6ZmhyQlpsdGROU1N0N0dhWDAyN0VoX24wbUhzTTF3dzN2OHhOZFl3em15Y1dueFh5Ty02N05UaWgzMGYyNl91Mm93NU5LUQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 2,
+      "score": 21
+    },
+    {
+      "headline": "No. 1 Texas vs. UTSA: How to Watch, Betting Odds, Injuries, and More",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnFkazBLT2pMUjdjX25xOWRJZ2sxTlFJSUdTTGZKX0NXLWZnVmlGd0VQNkxsNnVnZEpOZjRvOU44UnZzZWIwV29lWTRhWGExOHhEVEtiTFpxNXlYalR1R1JxNXdWLW43dUdsMEJfNXlFcDFuZ25wamZvZVBMLW9rWkoyX01FeHpaTEtOWElWaGFuQmhYSHRseEQ2QjhzOWVnNjZtQWRLSQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 3,
+      "score": 21
+    },
+    {
+      "headline": "Sam Leavitt upgraded from doubtful to questionable ahead of LSU-Ole Miss showdown",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWk5qb2JQc1NuRm1zTS1vWWd0Szg0bzhURWpnSWhrN2sxR2lkZHl3cUFXMFNVUnB5M2xFalRVRFhkWm04c1NBVFlHYTlHV1g0Mks3TldYZzVNYXkySkQ4dHlCNC01NzJIOHVMNzU5ejVsbW1CdlBkaHZwa0RJalM3ZVZ4TW5hTFQ3ZEVkS0pNU1NicUtp?oc=5",
@@ -1062,30 +1089,21 @@
       "score": 21
     },
     {
+      "headline": "Sam Leavitt goes from doubtful to questionable for LSU",
+      "source": "espn.com",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUxWb21hZnJPUDlmU3ZTaXhkcG1uWWtEYVR2MERfZzNBWU1vekg3SktlM1YydDZKVldvVGtaSnpCTmdJb05tMXZXTFlVNXZhWXJJZFMwUjlJRGlfTlZjMDhBcjJ5emVCVmdWRXhJcEFDbFJLcUxFbzhkMWc2cWV4QTdPallUSGtmbmZQa1lGaHFwYjhaSzRXbVM5ZmJLNXRVdmc?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 15,
+      "score": 21
+    },
+    {
       "headline": "Sam Leavitt Injury Status Receives Major Update Before LSU-Ole Miss Game",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRThibTdoVTlDdHhPaDVtd0VTeEhKalJqYW1TX21tS1F1aE5ScGtncDJ5Q0dSZ1Bua1cyZU1ncG5Bc291R1NqUXFMaEJmSHlKRkFPTEZWcXRua0pQa3M5UGYxTDRVUGxUYV90VmtPRVBUbThjbEU1aXctMGxFS1BOc0J4YzcxT2JJUEJWYmpDQUdFQmNFU2pKSFZnaTh1bGtvd2Z4QjJadGZiMlAyd0R0enh3?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 3,
-      "score": 21
-    },
-    {
-      "headline": "Sam Leavitt injury update: LSU QB headlines Wednesday SEC availability reports in Week 3",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1dKWnRYNjl0V0JjRkNMX3BRWUtqOENrZ1h4TTNzNENGZ2lOREVyMW9JY1NodzFyRTM2cnd1eHkyNmZCOWdsVkNYRkdQanVlSy1VLWppOTFyOWdlMkJsRHRMLVdvMTdRZ0tnNzlMcmZRTndZZC1tTElsYVlFUWVYaVE5aGVKOVVqTFg2X0ZJQkxodGtydXlCTUE2V3RiNG9wOERTQUF1cXZmaGNqUjlXeXZYWQ?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 6,
-      "score": 21
-    },
-    {
-      "headline": "Sam Leavitt goes from doubtful to questionable for LSU",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUxWb21hZnJPUDlmU3ZTaXhkcG1uWWtEYVR2MERfZzNBWU1vekg3SktlM1YydDZKVldvVGtaSnpCTmdJb05tMXZXTFlVNXZhWXJJZFMwUjlJRGlfTlZjMDhBcjJ5emVCVmdWRXhJcEFDbFJLcUxFbzhkMWc2cWV4QTdPallUSGtmbmZQa1lGaHFwYjhaSzRXbVM5ZmJLNXRVdmc?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 3,
+      "age_hours": 16,
       "score": 21
     },
     {
@@ -1094,35 +1112,17 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDNkazFFZ2ZwZklnSG80WGh1Mm9Vemd0dmJrNVhYVzY2QzBiM3ZLWDh6VjMtem5YSXhUekw1SU9ySUVFdGN2OXhSZnBSTmZFenRVNW5fY0VQLTJSa3V0Z2p5UEI5R0ZKMFVibFNwemlGMnJEVGtrOWJoZG84RnVTMzRQVVhXLUFtby1fdHQzM1BmWTFUM3lNWmtidmNNTkRURWRQdTZuaTJsTTFYcThsMQ?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 8,
+      "age_hours": 21,
       "score": 21
     },
     {
-      "headline": "Sam Leavitt injury update: LSU QB headlines Thursday SEC availability reports in Week 3",
+      "headline": "Sam Leavitt injury update: LSU QB headlines Thursday SEC availability report ahead of Ole Miss trip",
       "source": "On3",
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFFBdE5HSmxLOG5vQmVHOGt2UkNqenlzMFh2RE9QRTVYRWM5REtQa0ZkV2hicVdOSngwdFFqX2Z1QThuZGQ4T3BuWTZ3UXFFT29YNHhicTdWdC0wc21MYm1xYW1ldFp0OXczZjJxMFdXMjdUSFBmMHpaeG5wLVRIQzJiVDA4WFE4ZWNjTUtsdHl2U2w2aVR5SkVCWTRaelRVR3hyZE1Kam1CU3Ria0VVVF9B?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 3,
+      "age_hours": 16,
       "score": 21
-    },
-    {
-      "headline": "Sam Leavitt Headlines College Football Injury Report Ahead of Week 3",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGpVUFl1eHRObzN3ZDRTQW5IU3hGMzJIdElRaGt3VFBsM3pCcU8xd0U5UlQ2UUx2VERkZ0JnQ3RNYW1ZZmU2YUExd3J3SXNONFl1MFlsM1gxT3YyUlV2TFg4TFJtYzFEaEgzblZWN2tsc1dmeURhaDNVNV9JRUJ0ZERfMlJrSjV1LTJjZGJnSTVQVWUzalN5ODhFbGJnakk?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 13,
-      "score": 21
-    },
-    {
-      "headline": "Latest Dante Moore NFL Draft Intel Raises Bigger Question for Oregon",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXZRak9KTUlZcWJhS1RVdGlrMEpWM2pFQk1DUnFHb3YyTFBCcVhZOUJLcUtBSmM2TlVmRFNBYWtZWnR6ektfR1I1akREWHo4bTRRS3QzV0poMEVZMXdCSkEtckdtRGNsSU1ONFB4Z2k5Wmd1UmFjdlFFaS0tUm1lNV9rU2FsY1RWZ0xveEFHcnJCdXZWRHZFdU4tMVhlR2NtSDc3OGw0NHByUQ?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 9,
-      "score": 20
     }
   ],
   "kalshi": [
@@ -1133,7 +1133,7 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 29,
+          "pct": 30,
           "tracked": true
         },
         {
@@ -1143,18 +1143,18 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 14,
-          "tracked": true
-        },
-        {
-          "name": "Darian Mensah",
-          "pct": 11,
+          "pct": 15,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 10,
+          "pct": 9,
           "tracked": false
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 9,
+          "tracked": true
         },
         {
           "name": "Drew Mestemaker",
@@ -1172,7 +1172,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 2,
+      "field_pct": 3,
       "field_count": 13
     },
     {
@@ -1186,23 +1186,18 @@
           "tracked": false
         },
         {
-          "name": "Atlanta",
-          "pct": 33,
-          "tracked": false
-        },
-        {
           "name": "Cleveland",
-          "pct": 22,
-          "tracked": false
-        },
-        {
-          "name": "Tennessee",
-          "pct": 18,
+          "pct": 23,
           "tracked": false
         },
         {
           "name": "Green Bay",
           "pct": 17,
+          "tracked": false
+        },
+        {
+          "name": "Tennessee",
+          "pct": 10,
           "tracked": false
         },
         {
@@ -1219,6 +1214,11 @@
           "name": "New York G",
           "pct": 6,
           "tracked": false
+        },
+        {
+          "name": "Atlanta",
+          "pct": 4,
+          "tracked": false
         }
       ],
       "field_pct": 0,
@@ -1231,12 +1231,17 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 16,
+          "pct": 18,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 12,
+          "pct": 10,
+          "tracked": false
+        },
+        {
+          "name": "Malachi Toney",
+          "pct": 10,
           "tracked": false
         },
         {
@@ -1246,31 +1251,26 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 7,
+          "pct": 9,
           "tracked": true
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 6,
-          "tracked": false
-        },
-        {
-          "name": "Malachi Toney",
-          "pct": 6,
-          "tracked": false
-        },
-        {
           "name": "Trinidad Chambliss",
-          "pct": 6,
+          "pct": 8,
           "tracked": true
         },
         {
           "name": "Kamario Taylor",
-          "pct": 5,
+          "pct": 6,
           "tracked": false
+        },
+        {
+          "name": "Julian Sayin",
+          "pct": 4,
+          "tracked": true
         }
       ],
-      "field_pct": 32,
+      "field_pct": 25,
       "field_count": 31
     }
   ],
