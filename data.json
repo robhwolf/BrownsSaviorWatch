@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:52:48.303233+00:00",
+  "updated_at": "2026-09-19T02:34:47.085178+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -209,16 +209,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858455",
-        "week": 3,
-        "opponent": "Portland State",
-        "opponent_id": 2502,
-        "home_away": "vs",
-        "kickoff": "2026-09-19T02:30:00.000Z",
+        "event_id": "401858469",
+        "week": 4,
+        "opponent": "USC",
+        "opponent_id": 30,
+        "home_away": "at",
+        "kickoff": "2026-09-26T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Portland State"
+        "label": "at USC"
       },
       "log": [
         {
@@ -1053,21 +1053,21 @@
   ],
   "news": [
     {
+      "headline": "LSU removes QB Sam Leavitt from injury report ahead of Ole Miss showdown",
+      "source": "nytimes.com",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5cWFoRXZpMU5jajNEby1RYWprNHpYRzNXam1BQWtnTXMzYW5UemtsWUw3bEJIYktDUnVnSWQ1NnRWSlppOTNNMFFFaEVjS2VrbFo4ejBzQWVfWnNzNTBoTmh3a3R0MHNQMmtZUEZLcXdDTElOWG13azREYWdHWE4yRjJsZFhFSktKTks4TTktZkkySGc?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 2,
+      "score": 23
+    },
+    {
       "headline": "College Football Injury Report: Latest Week 3 updates at LSU, Ole Miss, Alabama & more",
       "source": "On3",
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmZESWRfeHZrTFJhUGQwWnBjdlhTaUY5QzRsVjJNQ0dwUTVUNFpkTHVaenZDdTFFbDZCOUhRdjBzdWp2UFpvaVFxWC1xMXFKX0UyTFZfTEJ6VDEzSFhaN21BTzJ5dlU1RVJ2ajlvWWxGM2NFM19xaDNlVDV4Q2tibDhiMHJUUEp5N25nWmlWUTlRb2JFVE5tNGdzUk9TVUJ4Z2FEd0NPbTRkakkxUldoeXNRX0FYUkk2ZVhRTGxIR19NTjI0?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 9,
-      "score": 21
-    },
-    {
-      "headline": "Inside the Program: Latest on Arch Manning, Injury Report & UTSA Prep",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ29HSFZfMjhWQWlQZEwyRUs2WlJ0d1FDb2NtTENOQXBFX0lHMTRFaVJNQXdPTXRZbk9DRFA2OHRlb0hROFRsSzM2VExBdmJ6R1kyMkFYbmtuWG9EQ0pHTlEwX0VlWTMxeHVYeHpKT3lZZGtwNG8tRzJkU3Y4U1gxTUlBcTZhWndYRTlHSjhvWjhWWmZZay1laTMyTncwLWJmeGRCeVlKNVBIamFHSVViam0yTQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 4,
+      "age_hours": 12,
       "score": 21
     },
     {
@@ -1076,7 +1076,16 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjhsRHY4S2FCaVVhOUNLY3BEd1FwY25TTjJ5ZzZXNjMyV1BqOUM0emV1bjVGazNFNF9ZeUpJY1JRYUhKUFFWcjlEd0cxX2dKYWRQdmhGZF80dkpGb28zdllNNC1FSDBCNFJ2TXJfZ1NHQWRGSHBSTnh6ZmhyQlpsdGROU1N0N0dhWDAyN0VoX24wbUhzTTF3dzN2OHhOZFl3em15Y1dueFh5Ty02N05UaWgzMGYyNl91Mm93NU5LUQ?oc=5",
       "player": "Arch Manning",
-      "age_hours": 10,
+      "age_hours": 13,
+      "score": 21
+    },
+    {
+      "headline": "Inside the Program: Latest on Arch Manning, Injury Report & UTSA Prep",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ29HSFZfMjhWQWlQZEwyRUs2WlJ0d1FDb2NtTENOQXBFX0lHMTRFaVJNQXdPTXRZbk9DRFA2OHRlb0hROFRsSzM2VExBdmJ6R1kyMkFYbmtuWG9EQ0pHTlEwX0VlWTMxeHVYeHpKT3lZZGtwNG8tRzJkU3Y4U1gxTUlBcTZhWndYRTlHSjhvWjhWWmZZay1laTMyTncwLWJmeGRCeVlKNVBIamFHSVViam0yTQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 7,
       "score": 21
     },
     {
@@ -1085,43 +1094,34 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnFkazBLT2pMUjdjX25xOWRJZ2sxTlFJSUdTTGZKX0NXLWZnVmlGd0VQNkxsNnVnZEpOZjRvOU44UnZzZWIwV29lWTRhWGExOHhEVEtiTFpxNXlYalR1R1JxNXdWLW43dUdsMEJfNXlFcDFuZ25wamZvZVBMLW9rWkoyX01FeHpaTEtOWElWaGFuQmhYSHRseEQ2QjhzOWVnNjZtQWRLSQ?oc=5",
       "player": "Arch Manning",
-      "age_hours": 11,
+      "age_hours": 13,
       "score": 21
     },
     {
-      "headline": "Sam Leavitt injury update: LSU QB headlines Thursday SEC availability report ahead of Ole Miss trip",
+      "headline": "Sam Leavitt injury update: Latest on LSU QB's status vs. Ole Miss revealed on Friday availability report",
       "source": "On3",
       "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFFBdE5HSmxLOG5vQmVHOGt2UkNqenlzMFh2RE9QRTVYRWM5REtQa0ZkV2hicVdOSngwdFFqX2Z1QThuZGQ4T3BuWTZ3UXFFT29YNHhicTdWdC0wc21MYm1xYW1ldFp0OXczZjJxMFdXMjdUSFBmMHpaeG5wLVRIQzJiVDA4WFE4ZWNjTUtsdHl2U2w2aVR5SkVCWTRaelRVR3hyZE1Kam1CU3Ria0VVVF9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUktem9uQl9NT3lxRHVkVFZnWl9tME1McXRZd3ExWmN2dXBTUWNHcjgyaExXQVBJaHEya2U5ZmxwWHU4V3RZeGQzeG1KWnE2bFd0RFZ4V2ZZZmNQLVp5ZVZoNlZycC1kWW9PTm1PTHFOMVFuakwzd3dKYXNZd0l5OEZXdG9WX1NUQ1llZVhtUjFRUDBXQ3ZLbVN4UklBb3JKY29nQlpoNlNDY0QwNWNQMTRmbzZCTk9MU0xQeWozTTI?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 24,
+      "age_hours": 2,
+      "score": 21
+    },
+    {
+      "headline": "LSU QB Sam Leavitt removed from SEC injury report ahead of top-10 showdown against Ole Miss",
+      "source": "cbssports.com",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1duLWdnWFJRc2tmY09Xa3ctNmhUQU82UGJmbE9CUEkyb2lEc1dyYktHLW14LVVMVkVLZEhFZFhRQm5lRW56Q3RhOVJzcFJSOFB0ODZoeVpmYWg4NmVNR3NBTm1PNGVuVENuMnFyekNhWThCMGtYdXhETEZsMS1idkYzMWNoX0dmRGVzODgxZ0x3YTI0cGZ6N0o1b0M0dGl0Rl8w?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 2,
       "score": 21
     },
     {
       "headline": "Sam Leavitt upgraded from doubtful to questionable ahead of LSU-Ole Miss showdown",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWk5qb2JQc1NuRm1zTS1vWWd0Szg0bzhURWpnSWhrN2sxR2lkZHl3cUFXMFNVUnB5M2xFalRVRFhkWm04c1NBVFlHYTlHV1g0Mks3TldYZzVNYXkySkQ4dHlCNC01NzJIOHVMNzU5ejVsbW1CdlBkaHZwa0RJalM3ZVZ4TW5hTFQ3ZEVkS0pNU1NicUtp?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 11,
-      "score": 21
-    },
-    {
-      "headline": "Sam Leavitt Injury Status Receives Major Update Before LSU-Ole Miss Game",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRThibTdoVTlDdHhPaDVtd0VTeEhKalJqYW1TX21tS1F1aE5ScGtncDJ5Q0dSZ1Bua1cyZU1ncG5Bc291R1NqUXFMaEJmSHlKRkFPTEZWcXRua0pQa3M5UGYxTDRVUGxUYV90VmtPRVBUbThjbEU1aXctMGxFS1BOc0J4YzcxT2JJUEJWYmpDQUdFQmNFU2pKSFZnaTh1bGtvd2Z4QjJadGZiMlAyd0R0enh3?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 24,
-      "score": 21
-    },
-    {
-      "headline": "Sam Leavitt goes from doubtful to questionable for LSU",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUxWb21hZnJPUDlmU3ZTaXhkcG1uWWtEYVR2MERfZzNBWU1vekg3SktlM1YydDZKVldvVGtaSnpCTmdJb05tMXZXTFlVNXZhWXJJZFMwUjlJRGlfTlZjMDhBcjJ5emVCVmdWRXhJcEFDbFJLcUxFbzhkMWc2cWV4QTdPallUSGtmbmZQa1lGaHFwYjhaSzRXbVM5ZmJLNXRVdmc?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 23,
+      "age_hours": 13,
       "score": 21
     }
   ],
@@ -1142,13 +1142,13 @@
           "tracked": true
         },
         {
-          "name": "CJ Carr",
-          "pct": 15,
+          "name": "Darian Mensah",
+          "pct": 18,
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
-          "pct": 11,
+          "name": "CJ Carr",
+          "pct": 15,
           "tracked": true
         },
         {
@@ -1230,23 +1230,18 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "Trinidad Chambliss",
-          "pct": 21,
-          "tracked": true
-        },
-        {
           "name": "Darian Mensah",
-          "pct": 18,
+          "pct": 22,
           "tracked": true
-        },
-        {
-          "name": "Malachi Toney",
-          "pct": 13,
-          "tracked": false
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 12,
+          "pct": 11,
+          "tracked": false
+        },
+        {
+          "name": "Malachi Toney",
+          "pct": 11,
           "tracked": false
         },
         {
@@ -1256,7 +1251,12 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 9,
+          "pct": 10,
+          "tracked": true
+        },
+        {
+          "name": "Trinidad Chambliss",
+          "pct": 10,
           "tracked": true
         },
         {
@@ -1270,7 +1270,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 5,
+      "field_pct": 14,
       "field_count": 31
     }
   ],
