@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T07:42:34.032765+00:00",
+  "updated_at": "2026-09-19T17:34:47.628727+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -561,16 +561,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858454",
-        "week": 3,
-        "opponent": "Kent State",
-        "opponent_id": 2309,
+        "event_id": "401858465",
+        "week": 4,
+        "opponent": "Illinois",
+        "opponent_id": 356,
         "home_away": "vs",
-        "kickoff": "2026-09-19T16:00:00.000Z",
+        "kickoff": "2026-09-26T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Kent State"
+        "label": "vs Illinois"
       },
       "log": [
         {
@@ -1122,61 +1122,34 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5cWFoRXZpMU5jajNEby1RYWprNHpYRzNXam1BQWtnTXMzYW5UemtsWUw3bEJIYktDUnVnSWQ1NnRWSlppOTNNMFFFaEVjS2VrbFo4ejBzQWVfWnNzNTBoTmh3a3R0MHNQMmtZUEZLcXdDTElOWG13azREYWdHWE4yRjJsZFhFSktKTks4TTktZkkySGc?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 7,
+      "age_hours": 3,
       "score": 23
     },
     {
-      "headline": "College Football Injury Report: Latest Week 3 updates at LSU, Ole Miss, Alabama & more",
-      "source": "on3.com",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmZESWRfeHZrTFJhUGQwWnBjdlhTaUY5QzRsVjJNQ0dwUTVUNFpkTHVaenZDdTFFbDZCOUhRdjBzdWp2UFpvaVFxWC1xMXFKX0UyTFZfTEJ6VDEzSFhaN21BTzJ5dlU1RVJ2ajlvWWxGM2NFM19xaDNlVDV4Q2tibDhiMHJUUEp5N25nWmlWUTlRb2JFVE5tNGdzUk9TVUJ4Z2FEd0NPbTRkakkxUldoeXNRX0FYUkk2ZVhRTGxIR19NTjI0?oc=5",
+      "headline": "Trinidad Chambliss is a legit 2027 NFL Draft prospect, with or without Lane Kiffin",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmdPVjUyMHJiTzZOQTFEaVJBdUl0LUVreUlCSExsMVJOcFRkUnp3NDc0bDd2bHh4SW9LdHFRVVhhUTB5UGN6N3RWdUttMTRRTm90TjlDZG9wV0hVUjBNWHZ3YWw2SUlMVzBrdEhVbHltb2hmaXoyVW9RZ0dJczZHSTBzYlVhQW1TV25abGVvQ3pmSW8zVUVnYjY3RVRyZndELVRmUzJkbw?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 17,
-      "score": 21
-    },
-    {
-      "headline": "Injuries Overshadow No. 5 Miami's First Real Test of the Season at Wake Forest",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmw5OEcwSmNodHZCRU9YOUtEck9Dbk9JR2lOWnh0MnNNN0JnelhPME9ITlpXcVdSdkVDX1hDa2U2TGc5R0JoNHdKdFpqTTZJRTFJQ0JMSmc2bE9zMWFIcEwwZUFiWEFmajcwdGFEWmtXV1V3S2FiUTlSWGJnYnBBYmgxaE1uT29wY3JrdjBIU2FhUGNyTjl1N0dFU3ZEWGM1ZTdscF96ZmtxOC1kRUpnOEZLRGFmZUlL?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 5,
-      "score": 21
-    },
-    {
-      "headline": "Inside Texas Intel: The Latest on Texas Injuries, Arch Manning and UTSA Prep",
-      "source": "on3.com",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjhsRHY4S2FCaVVhOUNLY3BEd1FwY25TTjJ5ZzZXNjMyV1BqOUM0emV1bjVGazNFNF9ZeUpJY1JRYUhKUFFWcjlEd0cxX2dKYWRQdmhGZF80dkpGb28zdllNNC1FSDBCNFJ2TXJfZ1NHQWRGSHBSTnh6ZmhyQlpsdGROU1N0N0dhWDAyN0VoX24wbUhzTTF3dzN2OHhOZFl3em15Y1dueFh5Ty02N05UaWgzMGYyNl91Mm93NU5LUQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 18,
-      "score": 21
+      "age_hours": 3,
+      "score": 22
     },
     {
       "headline": "Inside the Program: Latest on Arch Manning, Injury Report & UTSA Prep",
-      "source": "on3.com",
+      "source": "On3",
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ29HSFZfMjhWQWlQZEwyRUs2WlJ0d1FDb2NtTENOQXBFX0lHMTRFaVJNQXdPTXRZbk9DRFA2OHRlb0hROFRsSzM2VExBdmJ6R1kyMkFYbmtuWG9EQ0pHTlEwX0VlWTMxeHVYeHpKT3lZZGtwNG8tRzJkU3Y4U1gxTUlBcTZhWndYRTlHSjhvWjhWWmZZay1laTMyTncwLWJmeGRCeVlKNVBIamFHSVViam0yTQ?oc=5",
       "player": "Arch Manning",
-      "age_hours": 12,
-      "score": 21
-    },
-    {
-      "headline": "No. 1 Texas vs. UTSA: How to Watch, Betting Odds, Injuries, and More",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnFkazBLT2pMUjdjX25xOWRJZ2sxTlFJSUdTTGZKX0NXLWZnVmlGd0VQNkxsNnVnZEpOZjRvOU44UnZzZWIwV29lWTRhWGExOHhEVEtiTFpxNXlYalR1R1JxNXdWLW43dUdsMEJfNXlFcDFuZ25wamZvZVBMLW9rWkoyX01FeHpaTEtOWElWaGFuQmhYSHRseEQ2QjhzOWVnNjZtQWRLSQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 18,
+      "age_hours": 22,
       "score": 21
     },
     {
       "headline": "Sam Leavitt injury update: Latest on LSU QB's status vs. Ole Miss revealed on Friday availability report",
-      "source": "on3.com",
+      "source": "On3",
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUktem9uQl9NT3lxRHVkVFZnWl9tME1McXRZd3ExWmN2dXBTUWNHcjgyaExXQVBJaHEya2U5ZmxwWHU4V3RZeGQzeG1KWnE2bFd0RFZ4V2ZZZmNQLVp5ZVZoNlZycC1kWW9PTm1PTHFOMVFuakwzd3dKYXNZd0l5OEZXdG9WX1NUQ1llZVhtUjFRUDBXQ3ZLbVN4UklBb3JKY29nQlpoNlNDY0QwNWNQMTRmbzZCTk9MU0xQeWozTTI?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 8,
+      "age_hours": 17,
       "score": 21
     },
     {
@@ -1185,7 +1158,34 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1duLWdnWFJRc2tmY09Xa3ctNmhUQU82UGJmbE9CUEkyb2lEc1dyYktHLW14LVVMVkVLZEhFZFhRQm5lRW56Q3RhOVJzcFJSOFB0ODZoeVpmYWg4NmVNR3NBTm1PNGVuVENuMnFyekNhWThCMGtYdXhETEZsMS1idkYzMWNoX0dmRGVzODgxZ0x3YTI0cGZ6N0o1b0M0dGl0Rl8w?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 7,
+      "age_hours": 17,
+      "score": 21
+    },
+    {
+      "headline": "LSU Makes Decision on Sam Leavitt Amid Controversial Injury Status for Ole Miss Game",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUW5vRjZfZDlPUHRZRFY5UUVVS2NTaGlGYlZHUE94MWVlMWp5bGNCekJyVWV1RjJEY3dIaS1zWEtpbC1YRElXQWN1QUZ5NUpidDF5Wlh4OUU2V29SWDlVZXdFamNpeHJfSkgtMnhjZ3RrMXB4WmUzMXlNaWlUTFVuZGo3MlBRY2R3bUI3Nld0WS1ZS1pua19vT1V3?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 14,
+      "score": 21
+    },
+    {
+      "headline": "Sam Leavitt's Injury Saga Has Taken the Turn Everyone Saw Coming",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3gxVjlSWERXYlBhTmhPYnRFUzM5b1VJbUVuWnlRX1YwRHBPNVNoaU9YV3Vab1RUei01YzBhcXJicEtBVzBlc3UwcTV1cm9Xd1VHRDlIOWFfS1JBTnY3eTR1akhiMjdWZzNEZ3F6QkhXcUQ3dDRvc0lZeDZtQUpZX3E2bk16anNxYjBYS1VISG1ibjYtQlBuTmZPaVpad1gwN3E2eg?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 17,
+      "score": 21
+    },
+    {
+      "headline": "Sam Leavitt injury update: Lane Kiffin addresses LSU QB's status on game day vs. Ole Miss",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3owODAxcDVKU3pCcjJWUU9zazBiZjAzOUhZR25hQmdEZmJoZ0U4NUNvQ0RuQ0EzdDVaZVFsQlpraEFPWXo5bURERjhMN2NWdVAyWGhrdkpVdDh6X1puaDhtV0o3V2J2c3BpZlhmemxReGRnMnR2RHBqNWZXejc1VW5lVG1lck0zNkhxY3hzdzFfUUpRZEM5SHRLbW1qM0owQ0haZlE3dHNHaWdUX2JSQ2xneHFVM0c3VW5WbHJaQmU0U053QThj?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 2,
       "score": 21
     }
   ],
@@ -1280,8 +1280,8 @@
           "tracked": false
         },
         {
-          "name": "Las Vegas",
-          "pct": 3,
+          "name": "New York J",
+          "pct": 4,
           "tracked": false
         }
       ],
@@ -1295,33 +1295,28 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 26,
+          "pct": 29,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 14,
+          "pct": 15,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 11,
+          "pct": 12,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 11,
-          "tracked": true
-        },
-        {
-          "name": "Arch Manning",
           "pct": 10,
           "tracked": true
         },
         {
-          "name": "Malachi Toney",
-          "pct": 7,
-          "tracked": false
+          "name": "Arch Manning",
+          "pct": 9,
+          "tracked": true
         },
         {
           "name": "Kamario Taylor",
@@ -1329,12 +1324,17 @@
           "tracked": false
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 6,
+          "name": "Malachi Toney",
+          "pct": 5,
           "tracked": false
+        },
+        {
+          "name": "Julian Sayin",
+          "pct": 4,
+          "tracked": true
         }
       ],
-      "field_pct": 8,
+      "field_pct": 9,
       "field_count": 31
     }
   ],
