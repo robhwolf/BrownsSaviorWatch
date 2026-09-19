@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:44:49.495816+00:00",
+  "updated_at": "2026-09-19T21:54:20.048416+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1154,7 +1154,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5cWFoRXZpMU5jajNEby1RYWprNHpYRzNXam1BQWtnTXMzYW5UemtsWUw3bEJIYktDUnVnSWQ1NnRWSlppOTNNMFFFaEVjS2VrbFo4ejBzQWVfWnNzNTBoTmh3a3R0MHNQMmtZUEZLcXdDTElOWG13azREYWdHWE4yRjJsZFhFSktKTks4TTktZkkySGc?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 5,
+      "age_hours": 7,
       "score": 23
     },
     {
@@ -1163,7 +1163,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmdPVjUyMHJiTzZOQTFEaVJBdUl0LUVreUlCSExsMVJOcFRkUnp3NDc0bDd2bHh4SW9LdHFRVVhhUTB5UGN6N3RWdUttMTRRTm90TjlDZG9wV0hVUjBNWHZ3YWw2SUlMVzBrdEhVbHltb2hmaXoyVW9RZ0dJczZHSTBzYlVhQW1TV25abGVvQ3pmSW8zVUVnYjY3RVRyZndELVRmUzJkbw?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 5,
+      "age_hours": 7,
       "score": 22
     },
     {
@@ -1172,16 +1172,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmw5OEcwSmNodHZCRU9YOUtEck9Dbk9JR2lOWnh0MnNNN0JnelhPME9ITlpXcVdSdkVDX1hDa2U2TGc5R0JoNHdKdFpqTTZJRTFJQ0JMSmc2bE9zMWFIcEwwZUFiWEFmajcwdGFEWmtXV1V3S2FiUTlSWGJnYnBBYmgxaE1uT29wY3JrdjBIU2FhUGNyTjl1N0dFU3ZEWGM1ZTdscF96ZmtxOC1kRUpnOEZLRGFmZUlL?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 17,
+      "age_hours": 19,
       "score": 21
     },
     {
-      "headline": "Inside the Program: Latest on Arch Manning, Injury Report & UTSA Prep",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ29HSFZfMjhWQWlQZEwyRUs2WlJ0d1FDb2NtTENOQXBFX0lHMTRFaVJNQXdPTXRZbk9DRFA2OHRlb0hROFRsSzM2VExBdmJ6R1kyMkFYbmtuWG9EQ0pHTlEwX0VlWTMxeHVYeHpKT3lZZGtwNG8tRzJkU3Y4U1gxTUlBcTZhWndYRTlHSjhvWjhWWmZZay1laTMyTncwLWJmeGRCeVlKNVBIamFHSVViam0yTQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 24,
+      "headline": "Inside the LSU Depth Chart: Latest intel on starters, injury buzz ahead of Week 3 at Ole Miss",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZE0xUFlTRGtqazVtT2phWjZTTUJqNE9pbHFUWWxnNmFTMHlybHNNaE1yY3pPQUg3VTJvbTdTX1RscnZvVTF4SVZYZHVYWkZlM2VDQUhmNHF1LTlJalZja2dnMUwzTmszdG9VbFVoYUhXcWFmV000eHZSVUd4WnJJYngtR2piZWNrNlQ5ZE4xYkx6RHBIMWtZZmR1Y0d4dWlOYWx1LWNmdlc4UE9CV1RaWEJwVVd0NUdzS29LcXBXYlY3TG9nVWdIaGlmZVNnS1JoRU5QUVF6YlRQakc4OER1Qm9nS1QzdkF5OTFaMjBORDV6cmVCMzU1U2xmVk5pMVA1eF8waHdreTVhQ2tHcEE?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 5,
       "score": 21
     },
     {
@@ -1190,7 +1190,7 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUktem9uQl9NT3lxRHVkVFZnWl9tME1McXRZd3ExWmN2dXBTUWNHcjgyaExXQVBJaHEya2U5ZmxwWHU4V3RZeGQzeG1KWnE2bFd0RFZ4V2ZZZmNQLVp5ZVZoNlZycC1kWW9PTm1PTHFOMVFuakwzd3dKYXNZd0l5OEZXdG9WX1NUQ1llZVhtUjFRUDBXQ3ZLbVN4UklBb3JKY29nQlpoNlNDY0QwNWNQMTRmbzZCTk9MU0xQeWozTTI?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 20,
+      "age_hours": 22,
       "score": 21
     },
     {
@@ -1199,7 +1199,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1duLWdnWFJRc2tmY09Xa3ctNmhUQU82UGJmbE9CUEkyb2lEc1dyYktHLW14LVVMVkVLZEhFZFhRQm5lRW56Q3RhOVJzcFJSOFB0ODZoeVpmYWg4NmVNR3NBTm1PNGVuVENuMnFyekNhWThCMGtYdXhETEZsMS1idkYzMWNoX0dmRGVzODgxZ0x3YTI0cGZ6N0o1b0M0dGl0Rl8w?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 19,
+      "age_hours": 21,
       "score": 21
     },
     {
@@ -1208,7 +1208,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUW5vRjZfZDlPUHRZRFY5UUVVS2NTaGlGYlZHUE94MWVlMWp5bGNCekJyVWV1RjJEY3dIaS1zWEtpbC1YRElXQWN1QUZ5NUpidDF5Wlh4OUU2V29SWDlVZXdFamNpeHJfSkgtMnhjZ3RrMXB4WmUzMXlNaWlUTFVuZGo3MlBRY2R3bUI3Nld0WS1ZS1pua19vT1V3?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 16,
+      "age_hours": 18,
       "score": 21
     },
     {
@@ -1217,7 +1217,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3gxVjlSWERXYlBhTmhPYnRFUzM5b1VJbUVuWnlRX1YwRHBPNVNoaU9YV3Vab1RUei01YzBhcXJicEtBVzBlc3UwcTV1cm9Xd1VHRDlIOWFfS1JBTnY3eTR1akhiMjdWZzNEZ3F6QkhXcUQ3dDRvc0lZeDZtQUpZX3E2bk16anNxYjBYS1VISG1ibjYtQlBuTmZPaVpad1gwN3E2eg?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 19,
+      "age_hours": 21,
       "score": 21
     }
   ],
@@ -1233,12 +1233,12 @@
           "tracked": true
         },
         {
-          "name": "Dante Moore",
-          "pct": 18,
+          "name": "Darian Mensah",
+          "pct": 21,
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
+          "name": "Dante Moore",
           "pct": 18,
           "tracked": true
         },
@@ -1278,7 +1278,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 37,
+          "pct": 39,
           "tracked": false
         },
         {
@@ -1327,13 +1327,18 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 27,
+          "pct": 25,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 11,
+          "pct": 15,
           "tracked": true
+        },
+        {
+          "name": "Jeremiah Smith",
+          "pct": 11,
+          "tracked": false
         },
         {
           "name": "CJ Carr",
@@ -1341,19 +1346,9 @@
           "tracked": true
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 10,
-          "tracked": false
-        },
-        {
           "name": "Arch Manning",
-          "pct": 7,
+          "pct": 8,
           "tracked": true
-        },
-        {
-          "name": "Kamario Taylor",
-          "pct": 7,
-          "tracked": false
         },
         {
           "name": "Gunner Stockton",
@@ -1364,9 +1359,14 @@
           "name": "Malachi Toney",
           "pct": 4,
           "tracked": false
+        },
+        {
+          "name": "Jayden Maiava",
+          "pct": 4,
+          "tracked": true
         }
       ],
-      "field_pct": 18,
+      "field_pct": 17,
       "field_count": 31
     }
   ],
