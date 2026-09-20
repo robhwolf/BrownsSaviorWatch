@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T02:51:51.159363+00:00",
+  "updated_at": "2026-09-20T08:11:34.627704+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -107,10 +107,23 @@
         "kickoff": "2026-09-19T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs LSU"
+        "state": "final",
+        "result": "W",
+        "score": "32-24",
+        "label": "W 32-24 vs LSU"
       },
-      "game": null,
+      "game": {
+        "cmp": 33,
+        "att": 48,
+        "pass_yds": 363,
+        "pass_td": 2,
+        "int": 1,
+        "rush_att": 9,
+        "rush_yds": 2,
+        "rush_td": 1,
+        "comp_pct": 68.8,
+        "ypa": 7.6
+      },
       "next_game": {
         "event_id": "401856699",
         "week": 4,
@@ -161,24 +174,43 @@
           "result": "W",
           "score": "41-9",
           "date": "2026-09-12T23:45:00.000Z"
+        },
+        {
+          "cmp": 33,
+          "att": 48,
+          "pass_yds": 363,
+          "pass_td": 2,
+          "int": 1,
+          "rush_att": 9,
+          "rush_yds": 2,
+          "rush_td": 1,
+          "comp_pct": 68.8,
+          "ypa": 7.6,
+          "event_id": "401856688",
+          "week": 3,
+          "opponent": "LSU",
+          "home_away": "vs",
+          "result": "W",
+          "score": "32-24",
+          "date": "2026-09-19T23:30:00.000Z"
         }
       ],
       "season": {
-        "games": 2,
-        "record": "2-0",
-        "cmp": 44,
-        "att": 62,
-        "comp_pct": 71.0,
-        "pass_yds": 561,
-        "ypa": 9.0,
-        "pass_td": 5,
-        "int": 1,
-        "td_int": "5-1",
-        "rush_yds": 52,
-        "rush_td": 1,
-        "total_td": 6,
-        "ypg": 280,
-        "rating": 170.4,
+        "games": 3,
+        "record": "3-0",
+        "cmp": 77,
+        "att": 110,
+        "comp_pct": 70.0,
+        "pass_yds": 924,
+        "ypa": 8.4,
+        "pass_td": 7,
+        "int": 2,
+        "td_int": "7-2",
+        "rush_yds": 54,
+        "rush_td": 2,
+        "total_td": 9,
+        "ypg": 308,
+        "rating": 157.9,
         "epa_per_play": null
       }
     },
@@ -846,10 +878,23 @@
         "kickoff": "2026-09-20T00:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs UTSA"
+        "state": "final",
+        "result": "W",
+        "score": "30-6",
+        "label": "W 30-6 vs UTSA"
       },
-      "game": null,
+      "game": {
+        "cmp": 17,
+        "att": 33,
+        "pass_yds": 164,
+        "pass_td": 2,
+        "int": 0,
+        "rush_att": 9,
+        "rush_yds": 50,
+        "rush_td": 0,
+        "comp_pct": 51.5,
+        "ypa": 5.0
+      },
       "next_game": {
         "event_id": "401856704",
         "week": 4,
@@ -900,24 +945,43 @@
           "result": "W",
           "score": "24-23",
           "date": "2026-09-12T23:30:00.000Z"
+        },
+        {
+          "cmp": 17,
+          "att": 33,
+          "pass_yds": 164,
+          "pass_td": 2,
+          "int": 0,
+          "rush_att": 9,
+          "rush_yds": 50,
+          "rush_td": 0,
+          "comp_pct": 51.5,
+          "ypa": 5.0,
+          "event_id": "401856693",
+          "week": 3,
+          "opponent": "UTSA",
+          "home_away": "vs",
+          "result": "W",
+          "score": "30-6",
+          "date": "2026-09-20T00:00:00.000Z"
         }
       ],
       "season": {
-        "games": 2,
-        "record": "2-0",
-        "cmp": 43,
-        "att": 64,
-        "comp_pct": 67.2,
-        "pass_yds": 501,
-        "ypa": 7.8,
-        "pass_td": 5,
+        "games": 3,
+        "record": "3-0",
+        "cmp": 60,
+        "att": 97,
+        "comp_pct": 61.9,
+        "pass_yds": 665,
+        "ypa": 6.9,
+        "pass_td": 7,
         "int": 2,
-        "td_int": "5-2",
-        "rush_yds": 28,
+        "td_int": "7-2",
+        "rush_yds": 78,
         "rush_td": 0,
-        "total_td": 5,
-        "ypg": 250,
-        "rating": 152.5,
+        "total_td": 7,
+        "ypg": 222,
+        "rating": 139.1,
         "epa_per_play": null
       }
     },
@@ -943,10 +1007,23 @@
         "kickoff": "2026-09-19T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Ole Miss"
+        "state": "final",
+        "result": "L",
+        "score": "24-32",
+        "label": "L 24-32 at Ole Miss"
       },
-      "game": null,
+      "game": {
+        "cmp": 16,
+        "att": 27,
+        "pass_yds": 158,
+        "pass_td": 1,
+        "int": 1,
+        "rush_att": 17,
+        "rush_yds": 63,
+        "rush_td": 1,
+        "comp_pct": 59.3,
+        "ypa": 5.9
+      },
       "next_game": {
         "event_id": "401856702",
         "week": 4,
@@ -997,24 +1074,43 @@
           "result": "W",
           "score": "45-14",
           "date": "2026-09-12T23:30:00.000Z"
+        },
+        {
+          "cmp": 16,
+          "att": 27,
+          "pass_yds": 158,
+          "pass_td": 1,
+          "int": 1,
+          "rush_att": 17,
+          "rush_yds": 63,
+          "rush_td": 1,
+          "comp_pct": 59.3,
+          "ypa": 5.9,
+          "event_id": "401856688",
+          "week": 3,
+          "opponent": "Ole Miss",
+          "home_away": "at",
+          "result": "L",
+          "score": "24-32",
+          "date": "2026-09-19T23:30:00.000Z"
         }
       ],
       "season": {
-        "games": 2,
-        "record": "2-0",
-        "cmp": 41,
-        "att": 66,
-        "comp_pct": 62.1,
-        "pass_yds": 574,
-        "ypa": 8.7,
-        "pass_td": 2,
-        "int": 4,
-        "td_int": "2-4",
-        "rush_yds": 135,
-        "rush_td": 5,
-        "total_td": 7,
-        "ypg": 287,
-        "rating": 133.1,
+        "games": 3,
+        "record": "2-1",
+        "cmp": 57,
+        "att": 93,
+        "comp_pct": 61.3,
+        "pass_yds": 732,
+        "ypa": 7.9,
+        "pass_td": 3,
+        "int": 5,
+        "td_int": "3-5",
+        "rush_yds": 198,
+        "rush_td": 6,
+        "total_td": 9,
+        "ypg": 244,
+        "rating": 127.3,
         "epa_per_play": null
       }
     },
@@ -1167,8 +1263,10 @@
         "kickoff": "2026-09-20T02:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Northern Illinois"
+        "state": "final",
+        "result": "W",
+        "score": "42-17",
+        "label": "W 42-17 vs Northern Illinois"
       },
       "game": null,
       "next_game": {
@@ -1250,7 +1348,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5cWFoRXZpMU5jajNEby1RYWprNHpYRzNXam1BQWtnTXMzYW5UemtsWUw3bEJIYktDUnVnSWQ1NnRWSlppOTNNMFFFaEVjS2VrbFo4ejBzQWVfWnNzNTBoTmh3a3R0MHNQMmtZUEZLcXdDTElOWG13azREYWdHWE4yRjJsZFhFSktKTks4TTktZkkySGc?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 12,
+      "age_hours": 18,
       "score": 23
     },
     {
@@ -1259,35 +1357,8 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmdPVjUyMHJiTzZOQTFEaVJBdUl0LUVreUlCSExsMVJOcFRkUnp3NDc0bDd2bHh4SW9LdHFRVVhhUTB5UGN6N3RWdUttMTRRTm90TjlDZG9wV0hVUjBNWHZ3YWw2SUlMVzBrdEhVbHltb2hmaXoyVW9RZ0dJczZHSTBzYlVhQW1TV25abGVvQ3pmSW8zVUVnYjY3RVRyZndELVRmUzJkbw?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 12,
+      "age_hours": 18,
       "score": 22
-    },
-    {
-      "headline": "Injuries Overshadow No. 5 Miami's First Real Test of the Season at Wake Forest",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmw5OEcwSmNodHZCRU9YOUtEck9Dbk9JR2lOWnh0MnNNN0JnelhPME9ITlpXcVdSdkVDX1hDa2U2TGc5R0JoNHdKdFpqTTZJRTFJQ0JMSmc2bE9zMWFIcEwwZUFiWEFmajcwdGFEWmtXV1V3S2FiUTlSWGJnYnBBYmgxaE1uT29wY3JrdjBIU2FhUGNyTjl1N0dFU3ZEWGM1ZTdscF96ZmtxOC1kRUpnOEZLRGFmZUlL?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 24,
-      "score": 21
-    },
-    {
-      "headline": "Inside the LSU Depth Chart: Latest intel on starters, injury buzz ahead of Week 3 at Ole Miss",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZE0xUFlTRGtqazVtT2phWjZTTUJqNE9pbHFUWWxnNmFTMHlybHNNaE1yY3pPQUg3VTJvbTdTX1RscnZvVTF4SVZYZHVYWkZlM2VDQUhmNHF1LTlJalZja2dnMUwzTmszdG9VbFVoYUhXcWFmV000eHZSVUd4WnJJYngtR2piZWNrNlQ5ZE4xYkx6RHBIMWtZZmR1Y0d4dWlOYWx1LWNmdlc4UE9CV1RaWEJwVVd0NUdzS29LcXBXYlY3TG9nVWdIaGlmZVNnS1JoRU5QUVF6YlRQakc4OER1Qm9nS1QzdkF5OTFaMjBORDV6cmVCMzU1U2xmVk5pMVA1eF8waHdreTVhQ2tHcEE?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 10,
-      "score": 21
-    },
-    {
-      "headline": "LSU Makes Decision on Sam Leavitt Amid Controversial Injury Status for Ole Miss Game",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUW5vRjZfZDlPUHRZRFY5UUVVS2NTaGlGYlZHUE94MWVlMWp5bGNCekJyVWV1RjJEY3dIaS1zWEtpbC1YRElXQWN1QUZ5NUpidDF5Wlh4OUU2V29SWDlVZXdFamNpeHJfSkgtMnhjZ3RrMXB4WmUzMXlNaWlUTFVuZGo3MlBRY2R3bUI3Nld0WS1ZS1pua19vT1V3?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 23,
-      "score": 21
     },
     {
       "headline": "Sam Leavitt upgraded from doubtful to questionable ahead of LSU-Ole Miss showdown",
@@ -1295,7 +1366,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWk5qb2JQc1NuRm1zTS1vWWd0Szg0bzhURWpnSWhrN2sxR2lkZHl3cUFXMFNVUnB5M2xFalRVRFhkWm04c1NBVFlHYTlHV1g0Mks3TldYZzVNYXkySkQ4dHlCNC01NzJIOHVMNzU5ejVsbW1CdlBkaHZwa0RJalM3ZVZ4TW5hTFQ3ZEVkS0pNU1NicUtp?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 12,
+      "age_hours": 18,
       "score": 21
     },
     {
@@ -1304,8 +1375,17 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVdiQVZ1VW5UM3VyanRvSzRfd0otUGM2RzBCUHdMYzFndWU1QWR1UDdHT2hpZlV1MmU2WHc3a1BYdUY5bFVOR0VhU093a3k5eHBERkdHWEQ5UlNDeEN0eXVqVjdIV2FEYWdBQXpnTEZoc2tGTUc4VUgzcU5Eb3JRLTRPbkJ3clktWjA2aEVrTkpzbTlPcVNvSmIzM19NTnAxMjNKSmR0aFZ3X0lPMWRpOA?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 12,
+      "age_hours": 18,
       "score": 21
+    },
+    {
+      "headline": "As Jeremiah Smith breaks Ohio State record, was Buckeyes\u2019 rout of Kent State satisfying?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekJFcnkySVFiMjY3ODNHcUxQeUF1OERuekJaT2tkOVphY1dRbmlQVDFueGNlcThTNThtTlR4SXNjZVZYQjJ0NG5CdTk3ZWtpZmY4RVlBMHc5eXpGUjZXWXEzZjN0U1Z0U2NHdUgtY09kUDhuTkticmhIRXU2UjktU0ExX3RQLU5KcGRTUTZSdzMtczBOQVl0bGRUcw?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 9,
+      "score": 19
     },
     {
       "headline": "Nick Saban says don't buy into Sam Leavitt injury story",
@@ -1313,8 +1393,26 @@
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdFBwZ0pyOEk5TFEzRGl6VHJ0eVAwLVBfVHdDRW5rMnZIbXFTQ0hNanIySHhmUWM3NzJMR3dDTmFwY1p4S1VJeDlnTmxncUZqbzhWeGx2ZnN3Y1IxT3ZjT094WURzak5wOHRKVlc5SFFSZGNVdk5Hc0RSaThmU24zYURscVFubHEtUnJOMnIwY0JpTDg0ZnlkM3VDc3VaeTdzN2I3bEJxVU0wY2lhd05KU3FWTVpldzhSNnJGVmJyYjhfck1NRTFRVGYwZWxvOEhKWlE?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 11,
+      "age_hours": 17,
       "score": 19
+    },
+    {
+      "headline": "2026 Heisman Trophy: Trinidad Chambliss takes lead in Polymarket odds after LSU win",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXhpeVR4aXVxOF9UNjdHS04wdmIwSHU1b3ZtZTJKaWtJR0RJWjBDR093dmZnejBxVG03d3JDeUF6VDFMb3N2bHp4ZXZrNmp5RHlPS1hHQTd1aTlxTDNUZ0hjOHdvdDlUMnozQk0xUk1LQ25zVjVyc0hNNjhac25mN2twby1QZ29xX1h6cjJrWnhmaVN5Rzk0U2RndHlGTEpQbGlMaTVlZDFISWJ4?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 4,
+      "score": 18
+    },
+    {
+      "headline": "Ole Miss gets cathartic win vs. Lane Kiffin, LSU: How Trinidad Chambliss came through",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOExPeDQ4NHBZTnZjSFJoek1WcG5uc3hyXzhVZ0RhZU1TeVRqTEJzbjh2MkFuUnB4N3AweVBpQzJaS2N2N1N1aUJPMDRGWjZZa0hSM0RoemtZSWJhSWZFODJYNFlxZXNvT3EwNTVRM3NFcG51YlkxOXkwUlR5dGNITjlGQ3ZqMjFBWWVfTUk4Q19FOUJiSGc?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 2,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -1325,16 +1423,21 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 28,
+          "pct": 30,
           "tracked": true
         },
         {
-          "name": "Dante Moore",
-          "pct": 13,
+          "name": "Trinidad Chambliss",
+          "pct": 18,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
+          "pct": 17,
+          "tracked": true
+        },
+        {
+          "name": "Dante Moore",
           "pct": 13,
           "tracked": true
         },
@@ -1349,11 +1452,6 @@
           "tracked": false
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 9,
-          "tracked": true
-        },
-        {
           "name": "Drew Mestemaker",
           "pct": 4,
           "tracked": true
@@ -1364,7 +1462,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 8,
+      "field_pct": 0,
       "field_count": 13
     },
     {
@@ -1374,7 +1472,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 38,
+          "pct": 37,
           "tracked": false
         },
         {
@@ -1384,7 +1482,7 @@
         },
         {
           "name": "Tennessee",
-          "pct": 18,
+          "pct": 19,
           "tracked": false
         },
         {
@@ -1423,46 +1521,46 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 23,
+          "pct": 25,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 18,
+          "pct": 24,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 10,
+          "pct": 9,
+          "tracked": false
+        },
+        {
+          "name": "Jadan Baugh",
+          "pct": 9,
+          "tracked": false
+        },
+        {
+          "name": "Malachi Toney",
+          "pct": 7,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 10,
+          "pct": 6,
           "tracked": true
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 9,
-          "tracked": true
-        },
-        {
-          "name": "Malachi Toney",
-          "pct": 8,
-          "tracked": false
         },
         {
           "name": "Kamario Taylor",
-          "pct": 8,
+          "pct": 6,
           "tracked": false
         },
         {
-          "name": "Julian Sayin",
-          "pct": 4,
+          "name": "Arch Manning",
+          "pct": 5,
           "tracked": true
         }
       ],
-      "field_pct": 10,
+      "field_pct": 9,
       "field_count": 31
     }
   ],
