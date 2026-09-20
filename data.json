@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T08:11:34.627704+00:00",
+  "updated_at": "2026-09-20T17:17:33.913461+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1268,7 +1268,19 @@
         "score": "42-17",
         "label": "W 42-17 vs Northern Illinois"
       },
-      "game": null,
+      "game": {
+        "cmp": 31,
+        "att": 34,
+        "pass_yds": 325,
+        "pass_td": 4,
+        "int": 0,
+        "qbr": "92.7",
+        "rush_att": 6,
+        "rush_yds": 4,
+        "rush_td": 1,
+        "comp_pct": 91.2,
+        "ypa": 9.6
+      },
       "next_game": {
         "event_id": "401856804",
         "week": 4,
@@ -1319,37 +1331,75 @@
           "result": "L",
           "score": "17-28",
           "date": "2026-09-12T19:30:00.000Z"
+        },
+        {
+          "cmp": 31,
+          "att": 34,
+          "pass_yds": 325,
+          "pass_td": 4,
+          "int": 0,
+          "qbr": "92.7",
+          "rush_att": 6,
+          "rush_yds": 4,
+          "rush_td": 1,
+          "comp_pct": 91.2,
+          "ypa": 9.6,
+          "event_id": "401856793",
+          "week": 3,
+          "opponent": "Northern Illinois",
+          "home_away": "vs",
+          "result": "W",
+          "score": "42-17",
+          "date": "2026-09-20T02:30:00.000Z"
         }
       ],
       "season": {
-        "games": 2,
-        "record": "1-1",
-        "cmp": 45,
-        "att": 60,
-        "comp_pct": 75.0,
-        "pass_yds": 492,
-        "ypa": 8.2,
-        "pass_td": 3,
+        "games": 3,
+        "record": "2-1",
+        "cmp": 76,
+        "att": 94,
+        "comp_pct": 80.9,
+        "pass_yds": 817,
+        "ypa": 8.7,
+        "pass_td": 7,
         "int": 1,
-        "td_int": "3-1",
-        "rush_yds": 62,
-        "rush_td": 1,
-        "total_td": 4,
-        "ypg": 246,
-        "rating": 157.0,
+        "td_int": "7-1",
+        "rush_yds": 66,
+        "rush_td": 2,
+        "total_td": 9,
+        "ypg": 272,
+        "rating": 176.3,
         "epa_per_play": null
       }
     }
   ],
   "news": [
     {
+      "headline": "Trinidad Chambliss boosts his stock, WR class looks loaded: Week 3 NFL Draft reactions",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMWVuakFTUFZ0WHh6UXNrODhQVG9nRXJTck53ZUFWQ0FLQ1pCWGtqUTR5NTNrOXhnQlhiTE54aFR3Sm11SU9ZMnhtbTFRaHJjYlVaOWVlU2pidmIyNEVVbVduWlVYRFNUWi1ZTENfcGVQM3h1NzdzWTI5Umt4Nmg5a1RKR0JlRkpmcDA1X3pUVFQ1OWstWmZV?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 8,
+      "score": 22
+    },
+    {
       "headline": "LSU removes QB Sam Leavitt from injury report ahead of Ole Miss showdown",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5cWFoRXZpMU5jajNEby1RYWprNHpYRzNXam1BQWtnTXMzYW5UemtsWUw3bEJIYktDUnVnSWQ1NnRWSlppOTNNMFFFaEVjS2VrbFo4ejBzQWVfWnNzNTBoTmh3a3R0MHNQMmtZUEZLcXdDTElOWG13azREYWdHWE4yRjJsZFhFSktKTks4TTktZkkySGc?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 18,
-      "score": 23
+      "age_hours": 27,
+      "score": 19
+    },
+    {
+      "headline": "Trinidad Chambliss surges to Heisman favorite after leading Ole Miss past LSU",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjh4b0pZYVQ0SG5tYm1UNmp4bzRpd2hhNm5jM3JjazZMbm8wb2c2SUdSekUycEVzY0V0d3R0eEpTNVJDb2tPLXdka2pzR2FucXpweWJLenlMenMyMU83MjFZc1pWV0l5S3J2WHB2QWxDVHgyaVpPQTBxT2dUQU1uTTdiOE5BM2tUREdJX21SQkwwM1dGYnptSjZhWFNUdw?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 13,
+      "score": 18
     },
     {
       "headline": "Trinidad Chambliss is a legit 2027 NFL Draft prospect, with or without Lane Kiffin",
@@ -1357,53 +1407,26 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmdPVjUyMHJiTzZOQTFEaVJBdUl0LUVreUlCSExsMVJOcFRkUnp3NDc0bDd2bHh4SW9LdHFRVVhhUTB5UGN6N3RWdUttMTRRTm90TjlDZG9wV0hVUjBNWHZ3YWw2SUlMVzBrdEhVbHltb2hmaXoyVW9RZ0dJczZHSTBzYlVhQW1TV25abGVvQ3pmSW8zVUVnYjY3RVRyZndELVRmUzJkbw?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 18,
-      "score": 22
-    },
-    {
-      "headline": "Sam Leavitt upgraded from doubtful to questionable ahead of LSU-Ole Miss showdown",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWk5qb2JQc1NuRm1zTS1vWWd0Szg0bzhURWpnSWhrN2sxR2lkZHl3cUFXMFNVUnB5M2xFalRVRFhkWm04c1NBVFlHYTlHV1g0Mks3TldYZzVNYXkySkQ4dHlCNC01NzJIOHVMNzU5ejVsbW1CdlBkaHZwa0RJalM3ZVZ4TW5hTFQ3ZEVkS0pNU1NicUtp?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 18,
-      "score": 21
-    },
-    {
-      "headline": "Sam Leavitt injury update: Lane Kiffin addresses LSU QB's status on game day vs. Ole Miss",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVdiQVZ1VW5UM3VyanRvSzRfd0otUGM2RzBCUHdMYzFndWU1QWR1UDdHT2hpZlV1MmU2WHc3a1BYdUY5bFVOR0VhU093a3k5eHBERkdHWEQ5UlNDeEN0eXVqVjdIV2FEYWdBQXpnTEZoc2tGTUc4VUgzcU5Eb3JRLTRPbkJ3clktWjA2aEVrTkpzbTlPcVNvSmIzM19NTnAxMjNKSmR0aFZ3X0lPMWRpOA?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 18,
-      "score": 21
-    },
-    {
-      "headline": "As Jeremiah Smith breaks Ohio State record, was Buckeyes\u2019 rout of Kent State satisfying?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekJFcnkySVFiMjY3ODNHcUxQeUF1OERuekJaT2tkOVphY1dRbmlQVDFueGNlcThTNThtTlR4SXNjZVZYQjJ0NG5CdTk3ZWtpZmY4RVlBMHc5eXpGUjZXWXEzZjN0U1Z0U2NHdUgtY09kUDhuTkticmhIRXU2UjktU0ExX3RQLU5KcGRTUTZSdzMtczBOQVl0bGRUcw?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 9,
-      "score": 19
-    },
-    {
-      "headline": "Nick Saban says don't buy into Sam Leavitt injury story",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdFBwZ0pyOEk5TFEzRGl6VHJ0eVAwLVBfVHdDRW5rMnZIbXFTQ0hNanIySHhmUWM3NzJMR3dDTmFwY1p4S1VJeDlnTmxncUZqbzhWeGx2ZnN3Y1IxT3ZjT094WURzak5wOHRKVlc5SFFSZGNVdk5Hc0RSaThmU24zYURscVFubHEtUnJOMnIwY0JpTDg0ZnlkM3VDc3VaeTdzN2I3bEJxVU0wY2lhd05KU3FWTVpldzhSNnJGVmJyYjhfck1NRTFRVGYwZWxvOEhKWlE?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 17,
-      "score": 19
-    },
-    {
-      "headline": "2026 Heisman Trophy: Trinidad Chambliss takes lead in Polymarket odds after LSU win",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXhpeVR4aXVxOF9UNjdHS04wdmIwSHU1b3ZtZTJKaWtJR0RJWjBDR093dmZnejBxVG03d3JDeUF6VDFMb3N2bHp4ZXZrNmp5RHlPS1hHQTd1aTlxTDNUZ0hjOHdvdDlUMnozQk0xUk1LQ25zVjVyc0hNNjhac25mN2twby1QZ29xX1h6cjJrWnhmaVN5Rzk0U2RndHlGTEpQbGlMaTVlZDFISWJ4?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 4,
+      "age_hours": 27,
       "score": 18
+    },
+    {
+      "headline": "2026 Heisman Trophy Odds (Trinidad Chambliss Skyrockets to Favorite; Keelon Russell, Kamario Taylor Rising)",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1cyaHJsYzhkZGtOZ0VoU2VJMmx3V0pYeklXLWdQWXZ3QlNrTW1LMERMMGkteGUwanpTVHRza3ZDTkRwb0ozcUFkRGNuNnpPZkxQaWR1b1dPM01JSnNLZDM4N3c4RS1SWVpDakN3d25CYTdGTVRWaDdoVmNBTXpudG9xOTVsbnhrSWdlS1NFaURPdG1aenVOX3dqM3ZjUmg0bVZEcEVBZkVmRDh1MHg5VXRHTU1lZlg2akd2NExoNlU4UDJ3dnZPLWRn?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 2,
+      "score": 18
+    },
+    {
+      "headline": "Ole Miss has Trinidad Chambliss. It doesn\u2019t need Lane Kiffin",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlhxRmM0NkRqSVVGWVR4MmZfanNVUE81a2ktN2hrdnEtSGYzRng1UllMZzFtREN4NkpVMnlBQlBwU3BFaURLc3ZsbUxKODBvaGIyeEtsbDZobnZWa1lFYTA1T0szejUtMHV5UksyY0I2RHF1RGlyMG51SDJpU3Qzc0VWcUROQ1RtdmJid3J5SlBqN3VnemI5b21IUXI?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 3,
+      "score": 17
     },
     {
       "headline": "Ole Miss gets cathartic win vs. Lane Kiffin, LSU: How Trinidad Chambliss came through",
@@ -1411,7 +1434,16 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOExPeDQ4NHBZTnZjSFJoek1WcG5uc3hyXzhVZ0RhZU1TeVRqTEJzbjh2MkFuUnB4N3AweVBpQzJaS2N2N1N1aUJPMDRGWjZZa0hSM0RoemtZSWJhSWZFODJYNFlxZXNvT3EwNTVRM3NFcG51YlkxOXkwUlR5dGNITjlGQ3ZqMjFBWWVfTUk4Q19FOUJiSGc?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 2,
+      "age_hours": 11,
+      "score": 17
+    },
+    {
+      "headline": "\u2018Trinidad Chambliss\u2019 Heisman Trophy Game,\u2019 \u2018QB1 in the 2027 NFL Draft and It Isn\u2019t Close\u2019 \u2014 Analysts React to Ole Miss QB \u2018Dominating\u2019 LSU",
+      "source": "Yahoo Sports",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1lxY2dwaWV4c0c4ZTRNYUdabUNjek15elpHVFVVSVdoVmlTNlJYNEViS1AyWVhaTlI2SGxmMTZ3dFd5Vkw2bzhidXBoM1luLWEtYUZkWEJBRmpXYmFvM1RNOVBONy13ZG94SzZPdVJvdGNvSnlOV0ozS3VOZzRBV21NRURlcVFIRmpRNXd1amk?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 13,
       "score": 17
     }
   ],
@@ -1423,12 +1455,7 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 30,
-          "tracked": true
-        },
-        {
-          "name": "Trinidad Chambliss",
-          "pct": 18,
+          "pct": 29,
           "tracked": true
         },
         {
@@ -1438,11 +1465,16 @@
         },
         {
           "name": "Dante Moore",
-          "pct": 13,
+          "pct": 14,
           "tracked": true
         },
         {
           "name": "CJ Carr",
+          "pct": 13,
+          "tracked": true
+        },
+        {
+          "name": "Trinidad Chambliss",
           "pct": 13,
           "tracked": true
         },
@@ -1453,7 +1485,7 @@
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 4,
+          "pct": 7,
           "tracked": true
         },
         {
@@ -1472,22 +1504,22 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 37,
+          "pct": 36,
           "tracked": false
         },
         {
           "name": "Cleveland",
-          "pct": 21,
-          "tracked": false
-        },
-        {
-          "name": "Tennessee",
-          "pct": 19,
+          "pct": 24,
           "tracked": false
         },
         {
           "name": "Green Bay",
           "pct": 17,
+          "tracked": false
+        },
+        {
+          "name": "Tennessee",
+          "pct": 11,
           "tracked": false
         },
         {
@@ -1520,28 +1552,23 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "Darian Mensah",
-          "pct": 25,
-          "tracked": true
-        },
-        {
           "name": "Trinidad Chambliss",
           "pct": 24,
           "tracked": true
         },
         {
+          "name": "Darian Mensah",
+          "pct": 20,
+          "tracked": true
+        },
+        {
+          "name": "Kamario Taylor",
+          "pct": 10,
+          "tracked": false
+        },
+        {
           "name": "Jeremiah Smith",
-          "pct": 9,
-          "tracked": false
-        },
-        {
-          "name": "Jadan Baugh",
-          "pct": 9,
-          "tracked": false
-        },
-        {
-          "name": "Malachi Toney",
-          "pct": 7,
+          "pct": 8,
           "tracked": false
         },
         {
@@ -1550,8 +1577,13 @@
           "tracked": true
         },
         {
-          "name": "Kamario Taylor",
-          "pct": 6,
+          "name": "Gunner Stockton",
+          "pct": 5,
+          "tracked": false
+        },
+        {
+          "name": "Malachi Toney",
+          "pct": 5,
           "tracked": false
         },
         {
@@ -1560,7 +1592,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 9,
+      "field_pct": 17,
       "field_count": 31
     }
   ],
