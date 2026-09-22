@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T03:30:20.389119+00:00",
+  "updated_at": "2026-09-22T16:21:04.352800+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1375,13 +1375,13 @@
   ],
   "news": [
     {
-      "headline": "Notre Dame football injury report vs. Purdue: Two starters remain out, another questionable",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNG1YQWl3eEFPUHFCZ3dTelZiMExTcXY1bnk0cEQ2d0U3OF9PNTJaSFJvdXk0Mi1vV090ejFONGJvSHhYVGxhaDVKd0Y3bXQ1bXFaa1ZqZDU5ckliQlZ4UnlGTEo3V2V3R3psLV9MNTF0T3Z2VWlQZXhvbjc3RWwwVVdwU2lRZzJQYm1lTWpPdXE4Z3FUeTR0VFlwczJINF9odVFqa2hHYlU0aUNmSlNhWUYwbXlac1I1VUhsdG9KeENNS1R2OHRjcHV5Y0QwTlJFSHNfZQ?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 7,
-      "score": 25
+      "headline": "Heisman of Week 3: Ole Miss' Trinidad Chambliss states case",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEJWaTNKU2tXbE5YMXRaX2h6OUxrUWtCVFhMNmw1V05zeWc1bmlNZXNCOFNtb0tfOXNpXzF0Zi1kVVRuODQ0MHMwMW00X1FLMk5RQS1JVFJTaVh1TG4temlzRDBYbkZPU3RqTGw4TFpFWmFmLU1IbHM1QjdlVzkyeHU4X09RMTE0OTZHejlueHJxNXNGN2dQNG1VRERBZEVRS1otSzU1TV8xUHhOdGRRZXN3?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 5,
+      "score": 20
     },
     {
       "headline": "Heisman Trophy odds: Trinidad Chambliss takes top spot after Ole Miss\u2019 big win vs. LSU",
@@ -1389,7 +1389,16 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2FFWFdFQTVmbHRKSklvRzZDcWpoOUNmWlNMZDdzU1lNZElYdjB6VjBvem04SElfQ3gwMzE2WWFPS0VBVE9GUTlkcm8wSzE1ZlRoMEJBR0ZQa2EzSjBybnpkYlZMdXVtUXNHQmdvSFdFazdyUWE2cE93QXNPc19FWDVSc0x1VF94VktIT0xlRmc0NFNUX3c?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 10,
+      "age_hours": 3,
+      "score": 20
+    },
+    {
+      "headline": "Looking at the Heisman and CFP odds: How much of a contender is Ole Miss after Week 3?",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1F2NGJ0Y0RRMUtJbmpIb0ZMY0ZYQWVZa1hyaDNRV1d4SnVjb1ZKSEc0REZLQ1VhTVctODd6UG4tQl9nQWExNTBEZVEzc2xLajdycTg1NXYxOVU5SGZubzZXMm1ycno2QnBtTnRncUJ5YWVrSEd4MHVlUG5WdEFRMUppblNndzlnYkhza0FNejQ3bXVQSHJSbmUwaDk4YV9xZVIxMjU2cHFucGZIOWphQWM4bw?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 6,
       "score": 20
     },
     {
@@ -1398,52 +1407,43 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5cWFoRXZpMU5jajNEby1RYWprNHpYRzNXam1BQWtnTXMzYW5UemtsWUw3bEJIYktDUnVnSWQ1NnRWSlppOTNNMFFFaEVjS2VrbFo4ejBzQWVfWnNzNTBoTmh3a3R0MHNQMmtZUEZLcXdDTElOWG13azREYWdHWE4yRjJsZFhFSktKTks4TTktZkkySGc?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 38,
+      "age_hours": 50,
       "score": 19
     },
     {
-      "headline": "Trinidad Chambliss is a legit 2027 NFL Draft prospect, with or without Lane Kiffin",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmdPVjUyMHJiTzZOQTFEaVJBdUl0LUVreUlCSExsMVJOcFRkUnp3NDc0bDd2bHh4SW9LdHFRVVhhUTB5UGN6N3RWdUttMTRRTm90TjlDZG9wV0hVUjBNWHZ3YWw2SUlMVzBrdEhVbHltb2hmaXoyVW9RZ0dJczZHSTBzYlVhQW1TV25abGVvQ3pmSW8zVUVnYjY3RVRyZndELVRmUzJkbw?oc=5",
+      "headline": "How Ole Miss' Trinidad Chambliss can buck the trend of short starting QBs in NFL",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjhaVkxSZUVBb0NBQm53V1BqZXZWRW10X3puQ3BkaDBMVzJ0YkdFb1JOVWdDSU1teGQzaEdLa0drOERzbXdsVXZEMEljXzY0aGRYZk9CU3dFUTd1QzNpWVE2T2dIMk9CNHBaNnZONnZFVWRORzltUzg1Nmg2dzNrWFNTRkMtYVliU1pwYg?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 65,
-      "score": 18
+      "age_hours": 4,
+      "score": 17
     },
     {
-      "headline": "Dante Moore\u2019s Heisman Odds Send Mixed Signal Before USC Game",
+      "headline": "20 college football thoughts from Week 3: Ole Miss\u2019 win for the ages and a Music City miscue",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGNtTDVFbWs0SzF0QTRIaUdrNUROTXZtMGl4Z2hYdGVVbU1fYjdPSTVYNjR5a2JkTUZmTVdITHg2TUxKazBMVU1qTnRBUmp4aFZvc2dwMGFuZkxpRDlVeFVSU2w2bnBtSzhXNFV1QkIzZ1BkVDJrWE45R01JdkR4aUtrMjZJLVhrM1NTZHVrMk1wZWFHZVZlV3RaMGNGNEZIUVNWbQ?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 14,
+      "score": 17
+    },
+    {
+      "headline": "Where Miami Football Ranks After Injury Riddled Win at Wake Forest",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDZQNW1xU3F1NEd5dmZzbFFBNEpTeVZQZVM0NjB5RWFxOFg5amtPbFdhSFlLUzZwNHE0S3Q1cUo3ME42UmlZMmlsb0RqMlRidmRiajZnT1VWV1BDZGRuRm0ycUYxMDJJczFpZDJteFk4SXU4TTZpS1BHOHlra1RPd3llTFU2azVydEVzTUVKS2UyWWxQUUpNV2xNLU0?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 15,
-      "score": 18
-    },
-    {
-      "headline": "College football takeaways: Lasting impressions from Week 3",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHM4NUtERHh2a1NXNmNidjZSNFhaUDAxbHNRcTl2MHVTU25RZjhURGJoMk9pRFNRdWZCQldKVkJTVDUtOU9DMXp6NTBUSWQ2cVE0bl91RTFrYjlJdFp5MEhZT1doclNGWTdlZEJ3WUpLZTMzWTZCeWZxb21wLXhDV0hLdndvQVF2VkZvRGpFYmxGbGYzSWpQRGFOZmI1a3dJc1l4bDV0elI2eVZjak95NUdTbXVyQlZiZ216YllDUzB0bkt2eVVNQg?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 15,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTZvcDQ0Q2JUVWVKa3g3Y0twcmJOVGQ1WTQ4RVRYX01rYzBBelh6SmxJRmE4MkI2VXE3ZUJiQnNFWXYtOWJ4dF95VjF2ZlZuQkpITUt2YWZETlMwSGxmNDdKOW0zMHpwWVl4UF9QWExDNzJ6cDBjRXB3THVrLWVRM0k3bC1abzQ3eTQwbmlLR0tFb3drTXV0cFJneWZIYnBCcGhjZU8xc19YYnFF?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 43,
       "score": 17
     },
     {
-      "headline": "CFB Week 3 Superlatives: Ole Miss' Revenge, Jeremiah Smith's Record And CFP Impacts",
-      "source": "FOX Sports",
-      "domain": "foxsports.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1pFNldvQlZ6bThHZ3Z0dEZPMk1QclpjbkpVM2I2YVhSQWpSQVJrWXBOUWNCSTZDRlRlMEZDZXZQQzZfYUZSYWNDdUFkbTRvV0pQUVJtaEZ6YkVxN2FlaWNPQzNUUVd4YWM4TzFBRm9meGFSVmRSZDREbGh4bDRadDFEU3JHdEFib0pQQVlrbXgxZmFHT0c1bzhGRkM5cXFzQzdLdmVlT3NBUDJ5a3lfQzNzdkZnb241?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 12,
-      "score": 17
-    },
-    {
-      "headline": "Ole Miss-LSU lived up to the hype. Here are the most memorable things we saw in Oxford",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajcwQ2VnSzdQN0J6QUFhbzVMbTQ0TktLOTZYSGFNMmpLa3ZKcmtkUVNfdldOMVRHQ0JuaE9UTkhLdlRKRXpHTnplZzVQZGlXRFByZmpUUGNlTGtVNzhpZW1WN1VlT3lISXpLVTVTU21JVzIwZnB3b1REQXRONjZ3STVLS0lyajA2MnozZ0VRVWhxUUJ0?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 17,
+      "headline": "Texas vs Ohio State pregame observations: A changed routine, huge NFL presence and an Arch Manning nugget",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQzY4SVo1TkdkbXVCQ1N2SkMxckdsTUswZ1l4bGdDOUFxb0sxQU1ibldyVmxtVnlCUC1LSlNaVkNLT3ptS2R0ZWdyYU10d0JVSi1xVFlBenJULU4yWTFUdktHZURZSVl4YkxlZGEwR3FiN1h0LTIyOEJMTWo1OFJTQldoWW5LTS1Ob2VuT2Jwd1FQY0dZckQxV29sS1BpdGZicDY3eURiODIydjdORTAzZTVObWNjZkFvRDh0U0tvd2JlRlJ0VTk2dHc4MV9qdmxqNU5nX3ZhOGZ6bXFJV1VJazV5U1owdktWMVE4N2x1bw?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 15,
       "score": 17
     }
   ],
@@ -1480,7 +1480,7 @@
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 11,
+          "pct": 10,
           "tracked": false
         },
         {
@@ -1494,7 +1494,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 1,
       "field_count": 13
     },
     {
@@ -1513,6 +1513,11 @@
           "tracked": false
         },
         {
+          "name": "Atlanta",
+          "pct": 13,
+          "tracked": false
+        },
+        {
           "name": "Tennessee",
           "pct": 11,
           "tracked": false
@@ -1523,13 +1528,8 @@
           "tracked": false
         },
         {
-          "name": "Arizona",
-          "pct": 6,
-          "tracked": false
-        },
-        {
-          "name": "Atlanta",
-          "pct": 6,
+          "name": "Washington",
+          "pct": 8,
           "tracked": false
         },
         {
@@ -1538,12 +1538,12 @@
           "tracked": false
         },
         {
-          "name": "Las Vegas",
+          "name": "Arizona",
           "pct": 3,
           "tracked": false
         }
       ],
-      "field_pct": 2,
+      "field_pct": 0,
       "field_count": 24
     },
     {
@@ -1553,22 +1553,22 @@
       "candidates": [
         {
           "name": "Trinidad Chambliss",
-          "pct": 18,
+          "pct": 19,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
-          "pct": 17,
+          "pct": 16,
           "tracked": true
         },
         {
           "name": "Kamario Taylor",
-          "pct": 10,
+          "pct": 11,
           "tracked": false
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 9,
+          "pct": 10,
           "tracked": false
         },
         {
@@ -1577,12 +1577,7 @@
           "tracked": true
         },
         {
-          "name": "Jadan Baugh",
-          "pct": 7,
-          "tracked": false
-        },
-        {
-          "name": "Malachi Toney",
+          "name": "Gunner Stockton",
           "pct": 5,
           "tracked": false
         },
@@ -1590,6 +1585,11 @@
           "name": "CJ Carr",
           "pct": 5,
           "tracked": true
+        },
+        {
+          "name": "Jadan Baugh",
+          "pct": 5,
+          "tracked": false
         }
       ],
       "field_pct": 21,
