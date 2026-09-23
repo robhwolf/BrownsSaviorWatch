@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T20:55:52.097870+00:00",
+  "updated_at": "2026-09-23T03:30:41.067561+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -228,31 +228,10 @@
         "color": "#007030"
       },
       "status": {
-        "event_id": "401858455",
-        "week": 3,
-        "opponent": "Portland State",
-        "opponent_id": 2502,
-        "home_away": "vs",
-        "kickoff": "2026-09-19T02:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "84-0",
-        "label": "W 84-0 vs Portland State"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 19,
-        "att": 23,
-        "pass_yds": 280,
-        "pass_td": 4,
-        "int": 0,
-        "rush_att": 1,
-        "rush_yds": -3,
-        "rush_td": 0,
-        "comp_pct": 82.6,
-        "ypa": 12.2
-      },
+      "game": null,
       "next_game": {
         "event_id": "401858469",
         "week": 4,
@@ -483,31 +462,10 @@
         "color": "#f47321"
       },
       "status": {
-        "event_id": "401858226",
-        "week": 3,
-        "opponent": "Wake Forest",
-        "opponent_id": 154,
-        "home_away": "at",
-        "kickoff": "2026-09-18T23:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "33-20",
-        "label": "W 33-20 at Wake Forest"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 30,
-        "att": 34,
-        "pass_yds": 220,
-        "pass_td": 3,
-        "int": 0,
-        "rush_att": 2,
-        "rush_yds": 5,
-        "rush_td": 0,
-        "comp_pct": 88.2,
-        "ypa": 6.5
-      },
+      "game": null,
       "next_game": {
         "event_id": "401858238",
         "week": 4,
@@ -1380,7 +1338,25 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcE5sNkVPaWR0RjVzSUx6RlNKMXhkZnh2ZmlnNDQ0OUFsZjBJU0tyVkV0SElEX3ZfMXYwNldWbXMxT1pqSFc0aFE5V3B4OUZGaWtVNEEtWTRqWjVLRUdBb05CblhYWGpaQW1mbTFRSzhiWkZfVFlhZXZvNnFhTFc4QTVtNDhBeW9JanVJZ3F0VWg2SmI5YlhtYzBPYw?oc=5",
       "player": "Dante Moore",
+      "age_hours": 13,
+      "score": 21
+    },
+    {
+      "headline": "Arch\u2019s Setbacks, Texas\u2019 Explosive Play Problem & Simmons Injury Update | IT Q&A",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSC16TDBsb0F2bDhQR0pSVGhwT3JObmV5TTlBdkhVOWFlRV9kOHotYWFEQ3FseERLU3hQLWVlVmNfRWhuQm5pRjVoVXlaVlFtdmYtMkM2Uk1QOWFRSm5PRzdDaFowNlFYUnJKSzcyR3l6OFFhVTNZZEU2azZ1Si1DY3V5X2J0WmtocUV2Z3pNeW4tMTg3UkxYeHNuODRSS1BkWENsU3VObHY2V0VqMEc1bmF0TW9ZWnBUckxF?oc=5",
+      "player": "Arch Manning",
       "age_hours": 6,
+      "score": 21
+    },
+    {
+      "headline": "Meet Landen Clark: The overlooked QB who could be LSU's answer against Ole Miss amid Sam Leavitt's injury",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYmRCRWhYUjNoVzRQMkNJanlnaS0xYnptVmo3dGU1cXVTMWo0WEZnU1BSWVE4TnZRMHpWcmFIWTNzZzRNYUR3ZmNmdUloQml2NWFRV2J6SmdXUDUyekhpdm9VbXlxNmtQQXVZNWJIWURRLU5lU1I3TEFoUWtlSEFHOGxNWU02Qm11UWtNek9FbjJwSUdBSGs0aHRRUjB6d3A0NWR1QmozYWF4WXlZSkppWjVndFU4QV94cFFmMXRFc1BuRFpVc0hkTUJUeUtjNkJwUHRscDZlOTlTVldIclFRaUFjUW1VTlQ4Ti1J?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 3,
       "score": 21
     },
     {
@@ -1389,16 +1365,16 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEJWaTNKU2tXbE5YMXRaX2h6OUxrUWtCVFhMNmw1V05zeWc1bmlNZXNCOFNtb0tfOXNpXzF0Zi1kVVRuODQ0MHMwMW00X1FLMk5RQS1JVFJTaVh1TG4temlzRDBYbkZPU3RqTGw4TFpFWmFmLU1IbHM1QjdlVzkyeHU4X09RMTE0OTZHejlueHJxNXNGN2dQNG1VRERBZEVRS1otSzU1TV8xUHhOdGRRZXN3?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 10,
+      "age_hours": 17,
       "score": 20
     },
     {
       "headline": "Heisman Trophy odds: Trinidad Chambliss takes top spot after Ole Miss\u2019 big win vs. LSU",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2FFWFdFQTVmbHRKSklvRzZDcWpoOUNmWlNMZDdzU1lNZElYdjB6VjBvem04SElfQ3gwMzE2WWFPS0VBVE9GUTlkcm8wSzE1ZlRoMEJBR0ZQa2EzSjBybnpkYlZMdXVtUXNHQmdvSFdFazdyUWE2cE93QXNPc19FWDVSc0x1VF94VktIT0xlRmc0NFNUX3c?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 7,
+      "age_hours": 14,
       "score": 20
     },
     {
@@ -1407,7 +1383,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wVXJjdVlxZUdCb3JmNWlYQ2lrTDJncnk3a2pDeW5adHE4RkZScUhPaFMxY1A1bkV5MmM0TEVvWUNlNF9BaW5Pb2ZIbGoxY0JzeXREQzdnd2stcGs?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 3,
+      "age_hours": 9,
       "score": 20
     },
     {
@@ -1416,35 +1392,17 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1F2NGJ0Y0RRMUtJbmpIb0ZMY0ZYQWVZa1hyaDNRV1d4SnVjb1ZKSEc0REZLQ1VhTVctODd6UG4tQl9nQWExNTBEZVEzc2xLajdycTg1NXYxOVU5SGZubzZXMm1ycno2QnBtTnRncUJ5YWVrSEd4MHVlUG5WdEFRMUppblNndzlnYkhza0FNejQ3bXVQSHJSbmUwaDk4YV9xZVIxMjU2cHFucGZIOWphQWM4bw?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 10,
+      "age_hours": 17,
       "score": 20
     },
     {
       "headline": "LSU removes QB Sam Leavitt from injury report ahead of Ole Miss showdown",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5cWFoRXZpMU5jajNEby1RYWprNHpYRzNXam1BQWtnTXMzYW5UemtsWUw3bEJIYktDUnVnSWQ1NnRWSlppOTNNMFFFaEVjS2VrbFo4ejBzQWVfWnNzNTBoTmh3a3R0MHNQMmtZUEZLcXdDTElOWG13azREYWdHWE4yRjJsZFhFSktKTks4TTktZkkySGc?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 62,
+      "age_hours": 69,
       "score": 19
-    },
-    {
-      "headline": "How Ole Miss' Trinidad Chambliss can buck the trend of short starting QBs in NFL",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjhaVkxSZUVBb0NBQm53V1BqZXZWRW10X3puQ3BkaDBMVzJ0YkdFb1JOVWdDSU1teGQzaEdLa0drOERzbXdsVXZEMEljXzY0aGRYZk9CU3dFUTd1QzNpWVE2T2dIMk9CNHBaNnZONnZFVWRORzltUzg1Nmg2dzNrWFNTRkMtYVliU1pwYg?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 9,
-      "score": 17
-    },
-    {
-      "headline": "20 college football thoughts from Week 3: Ole Miss\u2019 win for the ages and a Music City miscue",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGNtTDVFbWs0SzF0QTRIaUdrNUROTXZtMGl4Z2hYdGVVbU1fYjdPSTVYNjR5a2JkTUZmTVdITHg2TUxKazBMVU1qTnRBUmp4aFZvc2dwMGFuZkxpRDlVeFVSU2w2bnBtSzhXNFV1QkIzZ1BkVDJrWE45R01JdkR4aUtrMjZJLVhrM1NTZHVrMk1wZWFHZVZlV3RaMGNGNEZIUVNWbQ?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 19,
-      "score": 17
     }
   ],
   "kalshi": [
@@ -1455,12 +1413,12 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 32,
+          "pct": 31,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 14,
+          "pct": 15,
           "tracked": true
         },
         {
@@ -1475,7 +1433,7 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 12,
+          "pct": 11,
           "tracked": true
         },
         {
@@ -1494,7 +1452,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 1,
       "field_count": 13
     },
     {
@@ -1558,7 +1516,7 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 16,
+          "pct": 17,
           "tracked": true
         },
         {
@@ -1572,27 +1530,27 @@
           "tracked": false
         },
         {
+          "name": "CJ Carr",
+          "pct": 8,
+          "tracked": true
+        },
+        {
           "name": "Arch Manning",
           "pct": 7,
           "tracked": true
         },
         {
-          "name": "CJ Carr",
+          "name": "Gunner Stockton",
           "pct": 5,
-          "tracked": true
+          "tracked": false
         },
         {
           "name": "Jadan Baugh",
           "pct": 5,
           "tracked": false
-        },
-        {
-          "name": "Julian Sayin",
-          "pct": 4,
-          "tracked": true
         }
       ],
-      "field_pct": 22,
+      "field_pct": 17,
       "field_count": 31
     }
   ],
@@ -1656,7 +1614,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 10,
+    "games_matched": 8,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
