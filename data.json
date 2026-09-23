@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T16:11:14.494971+00:00",
+  "updated_at": "2026-09-23T21:08:10.728862+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1073,31 +1073,10 @@
         "color": "#990000"
       },
       "status": {
-        "event_id": "401858457",
-        "week": 3,
-        "opponent": "Rutgers",
-        "opponent_id": 164,
-        "home_away": "at",
-        "kickoff": "2026-09-19T19:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "42-35",
-        "label": "W 42-35 at Rutgers"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 20,
-        "att": 32,
-        "pass_yds": 277,
-        "pass_td": 2,
-        "int": 0,
-        "rush_att": 2,
-        "rush_yds": 10,
-        "rush_td": 0,
-        "comp_pct": 62.5,
-        "ypa": 8.7
-      },
+      "game": null,
       "next_game": {
         "event_id": "401858469",
         "week": 4,
@@ -1320,48 +1299,30 @@
   ],
   "news": [
     {
-      "headline": "Arch\u2019s Setbacks, Texas\u2019 Explosive Play Problem & Simmons Injury Update | IT Q&A",
-      "source": "on3.com",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSC16TDBsb0F2bDhQR0pSVGhwT3JObmV5TTlBdkhVOWFlRV9kOHotYWFEQ3FseERLU3hQLWVlVmNfRWhuQm5pRjVoVXlaVlFtdmYtMkM2Uk1QOWFRSm5PRzdDaFowNlFYUnJKSzcyR3l6OFFhVTNZZEU2azZ1Si1DY3V5X2J0WmtocUV2Z3pNeW4tMTg3UkxYeHNuODRSS1BkWENsU3VObHY2V0VqMEc1bmF0TW9ZWnBUckxF?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 18,
-      "score": 21
-    },
-    {
-      "headline": "Could Trinidad Chambliss WIN THE HEISMAN?! Josh Pate weighs in",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wVXJjdVlxZUdCb3JmNWlYQ2lrTDJncnk3a2pDeW5adHE4RkZScUhPaFMxY1A1bkV5MmM0TEVvWUNlNF9BaW5Pb2ZIbGoxY0JzeXREQzdnd2stcGs?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 22,
-      "score": 20
-    },
-    {
       "headline": "Tale of the Tape: Jayden Maiava, Dante Moore clash in battle of star QBs in NFL Draft when USC faces Oregon",
       "source": "CBS Sports",
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN21PclRZZS1aN1hCR0NZckozeHhQTXpaTHo4UG1xejJ5QnVJZ05mckJjTmhkR3BETEVDM2NsUURfanY0ODhWVjM5cDFOV3JiQm1jeTBpS1ZBdHJiSkZ1eEVzYkRaaEI2dWtBd285MFp5NXAtNjRLZ2Q5VV9TQ0V5Ql9oU0tZUnNkeVV5aWtxNGhkdFNVa0gzU29FTUdXZGhfdWh6WkU4ZlZBeUdRT05WWTlR?oc=5",
       "player": "Dante Moore",
-      "age_hours": 0,
+      "age_hours": 2,
       "score": 20
     },
     {
       "headline": "Newsstand: Six Notre Dame stars make Bleacher Report's updated 2027 NFL Draft big board",
-      "source": "on3.com",
+      "source": "On3",
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUHR2djJKMU1UYnBkWDRPX3F1OGh0dWQ3YXY0N1JnRnFyNDByekRXU1RmeGcxczdoTENiZy1UMUpjRkZDbS1sb0FXbjBNZUlfOHR3Vk9ZZGtnVVRKcG8tUDN0UUxpR3RmR2tjQ2lYcUg3OFc1eHBydDVPczRVanJXZWFjeHZlc1QzUFFFcXNZZy1EMDBvT0hkM191ODA5TElCZ1I5SDVFZFhCVXRXemE3aDUySTN4SHY1T1JEbjZJQUpIc0ZSUjBFM1UwYjNhNUZJZmx0TjFqOFJWYVk?oc=5",
       "player": "CJ Carr",
-      "age_hours": 5,
+      "age_hours": 10,
       "score": 20
     },
     {
-      "headline": "Heisman Rankings After Week 3: A Clear Favorite Emerges for College Football\u2019s Top Honor",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2M2MldrZFVQRHQ4R09mdEx3b1F4TFpadFVUVEpjSmZYMzVJVDVkSXZsUU1pV2ZnaEdvem5jaUxUYnRwR240RW1JM2FCLUE1V3BNUktmUVp1SFNlUGloQU9pelM0X2N0YldEME9SX3JqNjkzSzMxTjJRMTdMWFY1X1ZKZ3BiVTVWZ1E?oc=5",
+      "headline": "2026 Heisman Trophy: Trinidad Chambliss takes lead in Polymarket odds after Week 3",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1dDYlpIbktreW5kb0d3bmVHOVV6MWRKTEZQMTZiMi1nOFJIbjJtZ3JLTlVJMURkem9heWs3VFpsMFdhdWEzNzNEbkRPUlVIU0V6UExWNUpnYmVkdC02VFJuYkxJUW5nWXZWbGhrQk0yTHJaME91Q3ZYM280eGRmTVBmTTJOVmJDMEpzVGtTRzA0c3BWYi1KRkhBT2dGN044WTFHVFBpOTYxajA?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 5,
+      "age_hours": 6,
       "score": 18
     },
     {
@@ -1370,7 +1331,7 @@
       "domain": "247sports.com",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZTBsbjJKZVMteE1mNEZZUGFCdWxyZUlIMDhtVW8zVkhXZ3hTZTNSMHpWMFZBS0F4Q3BzR1pYa3RQNXdnM3BHNjE2VWNsWFpwZFZrOWp6bTZqamsxdWxod19wajV5WVF5NkJ1UFJ6ckVwa3ZCUEdFaG5ieGZuY2tJcTVBcm9PNU5GUDJNNHJlMUNrNktiWmJjbE5ZcGE2UVM0emdHSENmcHFOTVpHY280MXpzemlmZFV6bURub2ZpRGJtMnpDU20tbFRYUFBRa1dGaUtpMzVOQktGRklyQlYxek55bkg2Q3c1d2dpSGE1NTRYRFBPazE2d2wyTmNjS2dVNkFnNC1iUFZBOFZHbnc?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 17,
+      "age_hours": 22,
       "score": 18
     },
     {
@@ -1379,7 +1340,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUW5oZkNQdnlGRnNycVRmcHNFUXFRY2tuRXBfemo1TDI3M3hEUDFLSGVJYkR3TnNRMUtkekJGNGM2X0FUZ2ZoeXlORG9WbUt6QkN6WlRDQjBBaTFIUEFYM1NJZzl4UktlX1ZkYXJlRF9HbE12QkhUQ0Z2THJQWVJsLTZ2NmthOE9GT1ZtaGpjZjB1dms?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 4,
+      "age_hours": 9,
       "score": 17
     },
     {
@@ -1388,7 +1349,25 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcE5sNkVPaWR0RjVzSUx6RlNKMXhkZnh2ZmlnNDQ0OUFsZjBJU0tyVkV0SElEX3ZfMXYwNldWbXMxT1pqSFc0aFE5V3B4OUZGaWtVNEEtWTRqWjVLRUdBb05CblhYWGpaQW1mbTFRSzhiWkZfVFlhZXZvNnFhTFc4QTVtNDhBeW9JanVJZ3F0VWg2SmI5YlhtYzBPYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 26,
+      "age_hours": 31,
+      "score": 17
+    },
+    {
+      "headline": "Where Miami Football Ranks After Injury Riddled Win at Wake Forest",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTZvcDQ0Q2JUVWVKa3g3Y0twcmJOVGQ1WTQ4RVRYX01rYzBBelh6SmxJRmE4MkI2VXE3ZUJiQnNFWXYtOWJ4dF95VjF2ZlZuQkpITUt2YWZETlMwSGxmNDdKOW0zMHpwWVl4UF9QWExDNzJ6cDBjRXB3THVrLWVRM0k3bC1abzQ3eTQwbmlLR0tFb3drTXV0cFJneWZIYnBCcGhjZU8xc19YYnFF?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 72,
+      "score": 17
+    },
+    {
+      "headline": "The Week 4 college football games to stream: Texas-Tennessee in Manning Bowl, Oregon-USC",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmpMVjhUUGZjanAtS0V5dEY5SGdjTGxhRU9qUllCNlZzVGQ3Q0kwaDJRNllCRFpjQjYxOXZzcHJ3Q2ZnTFRtZVdUMVdYejVfNjRHa0JuVHdrUUJUU2VhZW5aUU01eERreWNvdHdsaGw2SDNuUEJwT19JYTJIb3NxSWNMTjdSTVFZOTdLLV9KNDZBbmltZnFlWDRIa01oblk4aHllYkFURVFJNXNsY3Q1b0l3?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 10,
       "score": 17
     }
   ],
@@ -1404,12 +1383,17 @@
           "tracked": true
         },
         {
-          "name": "CJ Carr",
-          "pct": 13,
+          "name": "Trinidad Chambliss",
+          "pct": 17,
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
+          "name": "Jeremiah Smith",
+          "pct": 13,
+          "tracked": false
+        },
+        {
+          "name": "CJ Carr",
           "pct": 13,
           "tracked": true
         },
@@ -1417,11 +1401,6 @@
           "name": "Dante Moore",
           "pct": 12,
           "tracked": true
-        },
-        {
-          "name": "Jeremiah Smith",
-          "pct": 11,
-          "tracked": false
         },
         {
           "name": "Darian Mensah",
@@ -1439,7 +1418,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 10,
+      "field_pct": 4,
       "field_count": 13
     },
     {
@@ -1449,7 +1428,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 42,
+          "pct": 38,
           "tracked": false
         },
         {
@@ -1459,7 +1438,7 @@
         },
         {
           "name": "Atlanta",
-          "pct": 12,
+          "pct": 13,
           "tracked": false
         },
         {
@@ -1513,17 +1492,17 @@
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 9,
+          "pct": 8,
           "tracked": false
         },
         {
           "name": "Arch Manning",
-          "pct": 7,
+          "pct": 8,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 6,
+          "pct": 8,
           "tracked": true
         },
         {
@@ -1532,12 +1511,12 @@
           "tracked": false
         },
         {
-          "name": "Jayden Maiava",
+          "name": "Malachi Toney",
           "pct": 4,
-          "tracked": true
+          "tracked": false
         }
       ],
-      "field_pct": 19,
+      "field_pct": 17,
       "field_count": 31
     }
   ],
@@ -1601,7 +1580,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 8,
+    "games_matched": 7,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
