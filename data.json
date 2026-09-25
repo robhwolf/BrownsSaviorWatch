@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T16:38:29.584728+00:00",
+  "updated_at": "2026-09-25T21:07:59.733372+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1249,7 +1249,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLV9IeWIzcnpjdHBhQUQ2N2x5cmdtSlJHRENMMTV5UDlfQ2U0MHR5Vy1tdHdMMjdBaHQ0MUl6N253c01QSkJuM1ByN1dTdGtnMGxiQjJkM0RuLXFaR0Uzc1FzbzhwSjh2bTRLTlhjYXc2SktOREJTM3RnbFlxOU5hbGV6a1FyUFJwZElBSlpWTTJmb3V3R2h2S25oVXlLbjhpckxqTF94Y3JfUW8?oc=5",
       "player": "Arch Manning",
-      "age_hours": 4,
+      "age_hours": 8,
+      "score": 21
+    },
+    {
+      "headline": "Nathan Robinson's Injury Status vs. Texas Football",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeVN3N1FKV3pZZnF4RGJvcWNpUVlmY05URURoS2FSOEU3Y3ZfUU9qMmR3WVE5YmtsTHdzVUJiVUlNTERLNUkyZzJUSXNwSnhrT19UMS0walllQjdma0pQX3Y1UERBdFlaV1BWcXJlV2Y1QjRTSTFaNTBSdkEyYVlGVTB6a2R2d3g5VzdDb1F5Uk5ocVU5aXNQOE9ONEZiQTNISHZWaUxkTnRhZklJ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 23,
       "score": 21
     },
     {
@@ -1258,17 +1267,17 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFFodnlCNXAwZFpIQkl3TG9vVHVYTVZjU3lVM21nR2ZqSmdjbE9QbUg4MTZSTGVZSGhKUGZuT2YtT3FEd0FyT24zMS1iR3FmTjdHRjQyYU16VnVtYkJ4NTNud2pMeUExNmdMNGo0MGJjR2FnS1VXTHkxSjhyLU11T21hbi14c2dicXFPT3YzdWU5dEhSM0Q4SjliQTRaSGU2VWJnalJR?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 5,
+      "age_hours": 9,
       "score": 21
     },
     {
-      "headline": "Oklahoma State NFL Draft Stock Watch: Where Drew Mestemaker Must Overcome Mountaineers",
+      "headline": "Has the CJ Carr Heisman Trophy Discussion Already Lost Juice? Not So Fast",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGJBV1hNVS1Xbms3NThOSmR2X3I3WTFXNmFnQlppbWFraUJKOHFqbnhUZF9aUzBBY25GT29RU2VheW1UdUNtVkp6NXFTQjZMa19QeFkyTjBtRDJ4X1ViY2N4Q0NxTlVWN1pwTzBqZ05TcFN2SmVqR05vU1oxeC1iUElVcGdkcmJGRnZ5N0NSWlNRSW9FUHROaE9XeFFqMGVpeGZPcXU5S3g0ZlZ4ZW9raHlqeXN2c2RUVzRUU3BqZElrQkt1SnBSMA?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 23,
-      "score": 20
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGhjRzFHRk4yX01uZDhVclpiRjEyd2N2Yy1UTEw3REdxNFBXT0ZqdlgxZldRYjhXLW41ZXhJLXRlSXN5TTVtVEpqTEkwdnQzYTc3MEZRQ3JlU01uaDB3NXFTMDIwY3JHUmZseURaVnZKTjcwT0lCMHFHZlhHR1FoWGdUN2NRQQ?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 3,
+      "score": 18
     },
     {
       "headline": "Arch Manning, Dante Moore and more: NFL Draft prospects under the microscope in Week 4",
@@ -1276,16 +1285,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT2JFOVd6TkdCa3hvWjQ5NG4ta2VDbVlPeENFUUZFWkd2STZial93YkV5WmxfTTkwV3dVaFlTd2l2TW1lMHJrY2ZJOV80RXVja19ka0V6MUhUbko2WlhxeVVGaXdCRTNid1NtYkluT1VpVENSY05jSFYtVENuc3dzYnlPN1BQM3A0QzJ5S1htaFh0MkE?oc=5",
       "player": "Arch Manning",
-      "age_hours": 30,
-      "score": 18
-    },
-    {
-      "headline": "Daniel Jeremiah says Jayden Maiava will get more draft talk than Dante Moore if USC beats Oregon",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEpVOGRpTVh1dlpVSVY0OThuNktIVHd5a19rUTVKUTdqUV9SNHRlbTBPTHgzZXdkdHBxZnlWTWJySWNQZjNsSjhxMlBpNml6dVNxS0RJN0NXR0RNZ0xLU3YxYjdXSTNDc3A0bld0M1lJNTNoaHdPczdLVHhXOG54VmdWSndBVWpuT3M3azgxbkJ1VlBybk1mbUtWdXFqUEk1VnM4amc5eV9mbk5ZV0o2WHk0cnQ0Tm4wMnRz?oc=5",
-      "player": "Jayden Maiava",
-      "age_hours": 20,
+      "age_hours": 35,
       "score": 18
     },
     {
@@ -1294,16 +1294,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjh1UnNpSFZ0ZWtXbzVBZV9weHFvWXpRSG1ZR3lSaTRGR3RlNkFkVzU2aG1oVjZ4UWJ3cUN6T2dKNUl1RDdiWnVOdk96NEV2RV9QNVpJNE9EWkMxa2hGT3hPdkdBOFM1Z2UxYTFSeEJwa25Dal9JM1l5S0FIbFpHR0dVZVRlc2ZIY0FEd3pnNHNnb3Uxa0hjcFJKSmp5cWtmLWpjNl9wNDN6STlWdmc?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 19,
-      "score": 17
-    },
-    {
-      "headline": "Can Notre Dame calm fans down with a sweat-free win vs. Purdue? And more Irish questions",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEtXaUJPbzNZZGJkVGxDQ0ZITmdORGt6cDNleFlhMGdkUUUtanhOOVE2bndIX1ZCcFBPaTRDS2Z6TGZPdVBoajQzZ216N2RJVVlUVVBWdkpmMmN6U1MxOGlBWG0zcmN0Q3hFZ3BURFVRM0djUWxTem9ubjdDZVZDRTRLdzl0Vl92YkQ5RzNVSmx2VDA3Z2NpN3NRVQ?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 7,
+      "age_hours": 24,
       "score": 17
     },
     {
@@ -1312,7 +1303,16 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVJvSWtSR01HamtNYmtaRjJDQjg1b3daZ2E3U2JfTnplUUt6YUlqS3VqbGVpZ3dCZ0VwNWlad0o5eTFGaHQwcWhTT29XQ200THpmdjdiM1VtWU9HZG5UcDBJZ1RTc0M3SC1vRUlENUFoVjdwUFVPUTF3R3dINmloWlJtak16UUczcHFnWGNyZEJ6NWc2V19maGNoV1ZRUWRKQU9KY1BxZy1VZzlBM3lCeTlUT0JFbzNNSmRTSXVDUQ?oc=5",
       "player": "Arch Manning",
-      "age_hours": 7,
+      "age_hours": 11,
+      "score": 17
+    },
+    {
+      "headline": "Peyton Manning is Tennessee\u2019s most famous alum. What happens when Arch and Texas visit?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVlOQUNBcndUR1ZMa2NtNzgxZ09taklnRjhPUV9yM05VMFRkY2xoZ0lDQWFTYUk5cEVOdTQtT1hTSHlVVzlUazctQkx0a2h5UzJlU0h4djVldTd0eWpPMTRSR1gyNnZvT05vMU84YjFDcGVoYkpMcDdYWUxCcFhKUDlXSnNVbkZNTWZIM0haUE1zdEhuN0w3eGJaZw?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 11,
       "score": 17
     }
   ],
@@ -1324,17 +1324,17 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 30,
+          "pct": 22,
+          "tracked": true
+        },
+        {
+          "name": "CJ Carr",
+          "pct": 22,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
           "pct": 15,
-          "tracked": true
-        },
-        {
-          "name": "CJ Carr",
-          "pct": 14,
           "tracked": true
         },
         {
@@ -1373,7 +1373,12 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 53,
+          "pct": 58,
+          "tracked": false
+        },
+        {
+          "name": "Tennessee",
+          "pct": 19,
           "tracked": false
         },
         {
@@ -1393,17 +1398,12 @@
         },
         {
           "name": "New York G",
-          "pct": 8,
+          "pct": 7,
           "tracked": false
         },
         {
           "name": "San Francisco",
-          "pct": 6,
-          "tracked": false
-        },
-        {
-          "name": "Tennessee",
-          "pct": 6,
+          "pct": 5,
           "tracked": false
         },
         {
@@ -1427,23 +1427,18 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 17,
+          "pct": 14,
           "tracked": true
         },
         {
           "name": "Kamario Taylor",
-          "pct": 10,
+          "pct": 11,
           "tracked": false
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 9,
+          "pct": 8,
           "tracked": false
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 7,
-          "tracked": true
         },
         {
           "name": "CJ Carr",
@@ -1451,17 +1446,22 @@
           "tracked": true
         },
         {
-          "name": "Jadan Baugh",
+          "name": "Gunner Stockton",
           "pct": 5,
           "tracked": false
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 4,
+          "name": "Arch Manning",
+          "pct": 5,
+          "tracked": true
+        },
+        {
+          "name": "Jadan Baugh",
+          "pct": 5,
           "tracked": false
         }
       ],
-      "field_pct": 21,
+      "field_pct": 25,
       "field_count": 32
     }
   ],
