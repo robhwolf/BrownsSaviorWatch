@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T21:11:14.118297+00:00",
+  "updated_at": "2026-09-25T03:38:09.613795+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1249,17 +1249,8 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT2JFOVd6TkdCa3hvWjQ5NG4ta2VDbVlPeENFUUZFWkd2STZial93YkV5WmxfTTkwV3dVaFlTd2l2TW1lMHJrY2ZJOV80RXVja19ka0V6MUhUbko2WlhxeVVGaXdCRTNid1NtYkluT1VpVENSY05jSFYtVENuc3dzYnlPN1BQM3A0QzJ5S1htaFh0MkE?oc=5",
       "player": "Arch Manning",
-      "age_hours": 11,
+      "age_hours": 17,
       "score": 22
-    },
-    {
-      "headline": "Where Kewan Lacy Lands on First Injury Report for Ole Miss vs. Florida",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTlTUE10Zy1wa1FMRTVvWC1XV0c0MjFraDhYa3dubm9HQ2FMSHQ3Q1BqQ3JtRE5WRWtwZldLV3dmdmRfb3d0OW1kZ2tHZEVVcjY2ZFhWTmpiZWY4WmpvSHF1T2EtRm1WZGVNVmlrbG9lS3hzWjAwdmNSZUUyWUMtZTdTNVNGZWJiX2RmV0hIOFRoUkNJejJCaDBmYnV3SFRlRnJzaDhrZVFCZDRUdW1XVm4tUQ?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 21,
-      "score": 21
     },
     {
       "headline": "3 Storylines To Watch Out For in Texas vs. Tennessee",
@@ -1267,17 +1258,44 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEZabDJRV1FoWEFOa1YxV2owTnk4SmJrNkdQcnJ0QXd6Ql9oaXlTd3d5WFRuNHVVQWVSTUQ5ZzNDb05aQ2JqNzkwdE56SEY0QmtlTkdLZXZrMlYwRG9mZ1dtR0dhSFFsbFQzS3JISG1DbFNvZXd0bTJUc0dsTzA2cWh0amw1MnEzVWxiWnVyMXZyMlFXQ182OA?oc=5",
       "player": "Arch Manning",
-      "age_hours": 9,
+      "age_hours": 16,
+      "score": 21
+    },
+    {
+      "headline": "Nathan Robinson's Injury Status vs. Texas Football",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeVN3N1FKV3pZZnF4RGJvcWNpUVlmY05URURoS2FSOEU3Y3ZfUU9qMmR3WVE5YmtsTHdzVUJiVUlNTERLNUkyZzJUSXNwSnhrT19UMS0walllQjdma0pQX3Y1UERBdFlaV1BWcXJlV2Y1QjRTSTFaNTBSdkEyYVlGVTB6a2R2d3g5VzdDb1F5Uk5ocVU5aXNQOE9ONEZiQTNISHZWaUxkTnRhZklJ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 6,
       "score": 21
     },
     {
       "headline": "Trinidad Chambliss Is The Best QB In College Football. What's His NFL Draft Ceiling?",
-      "source": "FOX Sports",
+      "source": "foxsports.com",
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXNvamZMbkJheW4ya0xINzZZMjkwM1c5d0U0dTNGWlBhNXdNajJ0THc3Y0lYWEhMTjM3TGprd3hDT0piZTUzUGZEQnVmNVhhTWZQbmQxdXdGVGJZb1FRUWFHQVVVRXE1cjk2Slp2Y0xINFI4VkpGcjAwekVIbjNvX2FlSnFYZk11U3Q3ZEQxTnVEUi1YNUQySzZOZndSQlVZS25NaTZ2UU5sUldtY3fSAa4BQVVfeXFMTk1zYkpsUUlocklzNDUtQ2hzNWt3SXRTS1RYb0MwTUFZcjhBTFI5Mmt1ZGxseEJsbGlwbzhmd2JWMkEwZkQzMTRUcGxLd0R4R21PSkJEMU45WG5xd1hjMjlRdTBWSEdFZi1ZdXlPdGRCNkV3c2I4elVEcU1DaEpZVlhRWXE5VlBldzNJaTVvZ3J5RWktU2E2RTJZXzNWUkd4eURKWmNqVGNMdEJaQ1NR?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 9,
+      "age_hours": 16,
       "score": 20
+    },
+    {
+      "headline": "Oklahoma State NFL Draft Stock Watch: Where Drew Mestemaker Must Overcome Mountaineers",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGJBV1hNVS1Xbms3NThOSmR2X3I3WTFXNmFnQlppbWFraUJKOHFqbnhUZF9aUzBBY25GT29RU2VheW1UdUNtVkp6NXFTQjZMa19QeFkyTjBtRDJ4X1ViY2N4Q0NxTlVWN1pwTzBqZ05TcFN2SmVqR05vU1oxeC1iUElVcGdkcmJGRnZ5N0NSWlNRSW9FUHROaE9XeFFqMGVpeGZPcXU5S3g0ZlZ4ZW9raHlqeXN2c2RUVzRUU3BqZElrQkt1SnBSMA?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 10,
+      "score": 20
+    },
+    {
+      "headline": "Nathan Robinson, Javin Gordon remain questionable on Tennessee injury report vs Texas",
+      "source": "Knoxville News Sentinel",
+      "domain": "knoxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMTVrRmZNWGVKUFo5WEtWcFBwOXpyRzgzenB0ZUlGOEtMSkZRVXZwVDhla0pMTUdfVVdVMHF6WjRJUk16SFRURGY0R1VJcGVGOHVUNUN4Yk9HUWlOSGFXNGVjbkViV3IzTnNLcEJrbHdldmNNTnBvUXBERzkzV2g4OEpCcnFLRjVGeGJKVGh4S1M1VVNYUzFKMzNDV3Nlc3U0S1NfSEstN09ZdEcwMmxxbHJYdUVuaXRQNGNpVDBieUFhamlJQm5NalBwcWJSVng1dGlmQk54bW40cHVfWVFhT0QtcEhaSHZySFBqNGN5TWlmNTViU1E3b0NaLVF2Rk0?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 3,
+      "score": 19
     },
     {
       "headline": "Jayden Maiava\u2019s Remarkable Rise From Hawai\u02bbi to Heisman Contender Is Rooted in \u02bbOhana",
@@ -1285,35 +1303,17 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGJycmdEWWp0bWRTMzgwSlQ2enZLRE5vUXZYQmdBRnVYemkwZlJlS3VPamM3Z0hndmlqbDZfVl94Z0lTSFRFejBReEVJQ0xER040UDZpWnF4V29oRk15dHZEemt2Z1h3U2lLRnQ2dzczZ2VITldzSGFZSUtNMDNpZmN2a3dkbnYtMzl5eFpiTU1CeDFXNDVIODJ0dnZLNnlp?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 10,
+      "age_hours": 17,
       "score": 18
     },
     {
-      "headline": "'Stop overthinking it:' What surveyed NFL scouts said about Trinidad Chambliss' first-round potential",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOGs5LXh1UDc5dFUzaVhnVWhyYUJYQlA4aDFEejRCeXJBVHFfdEw1ckpkMXdLNXhkeUFyV3hsWi1XblBFWXdZZTNOV3ZWYkxMUy1IWU5UMmllazVzZnJMMnpsZW04OVFZbG5CZ3Q1N2lsWEdreDI1dUJsREZ2aXZUUXZ5dWx2ai14UEVxVjA1YWdFSUlBVnRDeXlVZTFoVHNac3c?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 5,
-      "score": 17
-    },
-    {
-      "headline": "Trinidad Chambliss NFL Draft projection: Why Ole Miss' Heisman favorite is flying up first-round boards",
-      "source": "Yahoo Sports",
-      "domain": "sports.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRnJWMTFzUC1QOXJUUWdUUVZUam94cFowMHFTaEx0WDBaMzFabGJRZFZkYWRQai1UOEFxODBPSGhNTnZpVVRnNXh4RTVlcGRLa0RJelNVYURGekVnMnBaZmNMb29kTEZZVHFnc0VvdFkyUDdOaEFEejFfSWhIQ2pndTluamdfWGNYS3dXZS1uOWx1dw?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 14,
-      "score": 17
-    },
-    {
-      "headline": "What\u2019s wrong with Oregon? Five early problem areas for the preseason No. 2 team",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHQ2RjZoWXlIemc1OFIyZ1JXaGVkYUk2M29kS1F2SDZWazdoSGdlWlNXNnlTVFdKclZfMU41Q2FOQ2lUMHZvRHBoX1ZfOVJ0WUdaMkxZeWRYRmhSM1NtSEdKVkY1M2xZQUlaVzd2RnktUUhJWE85TmN4N0tRUm80cjRnSTJzSDh1SDFqd3pia2VocTd2?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 9,
-      "score": 17
+      "headline": "Daniel Jeremiah says Jayden Maiava will get more draft talk than Dante Moore if USC beats Oregon",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEpVOGRpTVh1dlpVSVY0OThuNktIVHd5a19rUTVKUTdqUV9SNHRlbTBPTHgzZXdkdHBxZnlWTWJySWNQZjNsSjhxMlBpNml6dVNxS0RJN0NXR0RNZ0xLU3YxYjdXSTNDc3A0bld0M1lJNTNoaHdPczdLVHhXOG54VmdWSndBVWpuT3M3azgxbkJ1VlBybk1mbUtWdXFqUEk1VnM4amc5eV9mbk5ZV0o2WHk0cnQ0Tm4wMnRz?oc=5",
+      "player": "Jayden Maiava",
+      "age_hours": 7,
+      "score": 18
     }
   ],
   "kalshi": [
@@ -1324,7 +1324,7 @@
       "candidates": [
         {
           "name": "Arch Manning",
-          "pct": 30,
+          "pct": 27,
           "tracked": true
         },
         {
@@ -1333,14 +1333,14 @@
           "tracked": true
         },
         {
+          "name": "CJ Carr",
+          "pct": 14,
+          "tracked": true
+        },
+        {
           "name": "Jeremiah Smith",
           "pct": 13,
           "tracked": false
-        },
-        {
-          "name": "CJ Carr",
-          "pct": 13,
-          "tracked": true
         },
         {
           "name": "Dante Moore",
@@ -1363,7 +1363,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 2,
       "field_count": 13
     },
     {
@@ -1373,7 +1373,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 48,
+          "pct": 54,
           "tracked": false
         },
         {
@@ -1382,8 +1382,8 @@
           "tracked": false
         },
         {
-          "name": "Tennessee",
-          "pct": 9,
+          "name": "Arizona",
+          "pct": 12,
           "tracked": false
         },
         {
@@ -1402,13 +1402,13 @@
           "tracked": false
         },
         {
-          "name": "Arizona",
-          "pct": 5,
+          "name": "Tennessee",
+          "pct": 6,
           "tracked": false
         },
         {
           "name": "Atlanta",
-          "pct": 5,
+          "pct": 4,
           "tracked": false
         }
       ],
@@ -1421,12 +1421,12 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "Darian Mensah",
-          "pct": 17,
+          "name": "Trinidad Chambliss",
+          "pct": 21,
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
+          "name": "Darian Mensah",
           "pct": 16,
           "tracked": true
         },
@@ -1441,8 +1441,13 @@
           "tracked": false
         },
         {
+          "name": "Arch Manning",
+          "pct": 7,
+          "tracked": true
+        },
+        {
           "name": "CJ Carr",
-          "pct": 8,
+          "pct": 7,
           "tracked": true
         },
         {
@@ -1451,17 +1456,12 @@
           "tracked": false
         },
         {
-          "name": "Arch Manning",
-          "pct": 5,
-          "tracked": true
-        },
-        {
           "name": "Josh Hoover",
           "pct": 4,
           "tracked": false
         }
       ],
-      "field_pct": 27,
+      "field_pct": 22,
       "field_count": 32
     }
   ],
