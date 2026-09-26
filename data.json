@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T02:55:26.632832+00:00",
+  "updated_at": "2026-09-26T08:13:35.976326+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1249,7 +1249,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLV9IeWIzcnpjdHBhQUQ2N2x5cmdtSlJHRENMMTV5UDlfQ2U0MHR5Vy1tdHdMMjdBaHQ0MUl6N253c01QSkJuM1ByN1dTdGtnMGxiQjJkM0RuLXFaR0Uzc1FzbzhwSjh2bTRLTlhjYXc2SktOREJTM3RnbFlxOU5hbGV6a1FyUFJwZElBSlpWTTJmb3V3R2h2S25oVXlLbjhpckxqTF94Y3JfUW8?oc=5",
       "player": "Arch Manning",
-      "age_hours": 14,
+      "age_hours": 19,
       "score": 21
     },
     {
@@ -1258,26 +1258,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFFodnlCNXAwZFpIQkl3TG9vVHVYTVZjU3lVM21nR2ZqSmdjbE9QbUg4MTZSTGVZSGhKUGZuT2YtT3FEd0FyT24zMS1iR3FmTjdHRjQyYU16VnVtYkJ4NTNud2pMeUExNmdMNGo0MGJjR2FnS1VXTHkxSjhyLU11T21hbi14c2dicXFPT3YzdWU5dEhSM0Q4SjliQTRaSGU2VWJnalJR?oc=5",
       "player": "Sam Leavitt",
-      "age_hours": 15,
+      "age_hours": 20,
       "score": 21
-    },
-    {
-      "headline": "USC Trojans Long Injury Report Looms Large Before Oregon Game",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1ZFWkp0anVtWUdaY1ZtWDF1UTgwOTJiN2FsSTZ3dzFBWmczTUs0Q3hrbFVucU1jMFg1WjFzenVzUWI1S2VUQWh6cmlwSkRlWnVyc25iZm9HcFZUaDB5VHlzcG5JUzhJVUh4RDQyeDdjc3pRUUJoUGJXcHI1eW5OOUp0Z01feFliY0tZd2VOd29lcGFsdk5nVk5qdDRad0JwOUE?oc=5",
-      "player": "Jayden Maiava",
-      "age_hours": 3,
-      "score": 21
-    },
-    {
-      "headline": "Nathan Robinson, Javin Gordon still questionable on Tennessee injury report vs Texas",
-      "source": "Knoxville News Sentinel",
-      "domain": "knoxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX3NuM1ZrblpHRzgydUZtMGJJUjVVVmZ4N1ZGVGh5Ni1ORDZUWlZOYXppdHBIZ2dmdWVMNVd5OW1tREZ5X3dGWXR5ZF9ybVA5ZGhvZk1uZ2FrYmRKWVBkQk5pZTRGYk52VzFtLXFFTFVvbFQwbXdaYVhlalNDWHZKMEk0TjBYNllJT1cwWkJUSmpPd0tJcml5UWxrYnVtX2M4NkVKSTJGeHh2ZkRtanZ6Q0lKbnc4X1hPQkxmbzk0eEQzLTdrQkVoem91bmstbG90M2p4Y1dIT3NNcEJoVmdRRjNCX0ZYU1ZxYUsyZ2VkNVpXZXFlYkdGa1RwY29wN0E?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 3,
-      "score": 19
     },
     {
       "headline": "Fantasy College Football Picks on DraftKings for Week 4's Main DFS Slate",
@@ -1285,7 +1267,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmlZNUp5V0xyZjBXZG5QUm5DNndKRk8zLTB3RHBXbFBlVkJwMVZLNTBkXzVGTGxGQTRabU5QWl94cEVOZDg5Wm5sZ2lodnAzMEM0YWpKempsMUt0VzVrbDBvU2F2UnZtTlRIZFN6SEpmcFJrN1pZTTIyVEs4endhUUJKcjBhcUljQnBwNkF2T25lelRFUnMyQTR3WFRuRThUd1dTaA?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 2,
+      "age_hours": 7,
       "score": 18
     },
     {
@@ -1294,7 +1276,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGhjRzFHRk4yX01uZDhVclpiRjEyd2N2Yy1UTEw3REdxNFBXT0ZqdlgxZldRYjhXLW41ZXhJLXRlSXN5TTVtVEpqTEkwdnQzYTc3MEZRQ3JlU01uaDB3NXFTMDIwY3JHUmZseURaVnZKTjcwT0lCMHFHZlhHR1FoWGdUN2NRQQ?oc=5",
       "player": "CJ Carr",
-      "age_hours": 9,
+      "age_hours": 14,
       "score": 18
     },
     {
@@ -1303,16 +1285,34 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT2JFOVd6TkdCa3hvWjQ5NG4ta2VDbVlPeENFUUZFWkd2STZial93YkV5WmxfTTkwV3dVaFlTd2l2TW1lMHJrY2ZJOV80RXVja19ka0V6MUhUbko2WlhxeVVGaXdCRTNid1NtYkluT1VpVENSY05jSFYtVENuc3dzYnlPN1BQM3A0QzJ5S1htaFh0MkE?oc=5",
       "player": "Arch Manning",
-      "age_hours": 40,
+      "age_hours": 46,
       "score": 18
     },
     {
       "headline": "Drew Mestemaker goes airborne for wild Oklahoma State TD",
       "source": "ESPN",
       "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd08xZ01JanVNS1ZlWENqRDlReVN2amd0SU9NUXVTbDJJYk5hNk94Z3lub2tGVU5hVWpPTGk4RGVBNldYV3NmOXByVDh5OE5oaE96RVVwVHF1WDFNVzR2QkZtYWJ5anRHUDZ4OUViQjNBTjkyX05WR3c2ZXNQaUxfMVVPdjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qLWdfd21GSkFNQjRPclE1Z2o5SW1uc2lSaU9OZnQ2MUxEOWhGX0M1RFBfSk9FT1J4WXVTUlBRNkFqbXhjVjZTUFhrVTRoN0dyN0VoelRPelNQZDEtYTdvX1p6Y3RETldfMUE?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 6,
+      "age_hours": 11,
+      "score": 17
+    },
+    {
+      "headline": "The Arch Manning rage spiral won\u2019t stop, and it\u2019s absolutely infuriating",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVJvSWtSR01HamtNYmtaRjJDQjg1b3daZ2E3U2JfTnplUUt6YUlqS3VqbGVpZ3dCZ0VwNWlad0o5eTFGaHQwcWhTT29XQ200THpmdjdiM1VtWU9HZG5UcDBJZ1RTc0M3SC1vRUlENUFoVjdwUFVPUTF3R3dINmloWlJtak16UUczcHFnWGNyZEJ6NWc2V19maGNoV1ZRUWRKQU9KY1BxZy1VZzlBM3lCeTlUT0JFbzNNSmRTSXVDUQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 22,
+      "score": 17
+    },
+    {
+      "headline": "3 Storylines To Watch Out For in Texas vs. Tennessee",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEZabDJRV1FoWEFOa1YxV2owTnk4SmJrNkdQcnJ0QXd6Ql9oaXlTd3d5WFRuNHVVQWVSTUQ5ZzNDb05aQ2JqNzkwdE56SEY0QmtlTkdLZXZrMlYwRG9mZ1dtR0dhSFFsbFQzS3JISG1DbFNvZXd0bTJUc0dsTzA2cWh0amw1MnEzVWxiWnVyMXZyMlFXQ182OA?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 44,
       "score": 17
     }
   ],
@@ -1329,7 +1329,7 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 18,
+          "pct": 17,
           "tracked": true
         },
         {
@@ -1338,14 +1338,14 @@
           "tracked": true
         },
         {
+          "name": "Darian Mensah",
+          "pct": 13,
+          "tracked": true
+        },
+        {
           "name": "Jeremiah Smith",
           "pct": 12,
           "tracked": false
-        },
-        {
-          "name": "Darian Mensah",
-          "pct": 11,
-          "tracked": true
         },
         {
           "name": "Dante Moore",
@@ -1363,7 +1363,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 4,
+      "field_pct": 3,
       "field_count": 13
     },
     {
@@ -1373,7 +1373,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 52,
+          "pct": 53,
           "tracked": false
         },
         {
@@ -1392,6 +1392,11 @@
           "tracked": false
         },
         {
+          "name": "Arizona",
+          "pct": 7,
+          "tracked": false
+        },
+        {
           "name": "New York G",
           "pct": 7,
           "tracked": false
@@ -1404,11 +1409,6 @@
         {
           "name": "San Francisco",
           "pct": 5,
-          "tracked": false
-        },
-        {
-          "name": "Arizona",
-          "pct": 4,
           "tracked": false
         }
       ],
@@ -1431,13 +1431,13 @@
           "tracked": true
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 9,
+          "name": "Kamario Taylor",
+          "pct": 10,
           "tracked": false
         },
         {
-          "name": "Kamario Taylor",
-          "pct": 9,
+          "name": "Jeremiah Smith",
+          "pct": 8,
           "tracked": false
         },
         {
@@ -1456,12 +1456,12 @@
           "tracked": false
         },
         {
-          "name": "Jadan Baugh",
-          "pct": 5,
-          "tracked": false
+          "name": "Julian Sayin",
+          "pct": 4,
+          "tracked": true
         }
       ],
-      "field_pct": 21,
+      "field_pct": 22,
       "field_count": 32
     }
   ],
