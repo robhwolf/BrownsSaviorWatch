@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T08:13:35.976326+00:00",
+  "updated_at": "2026-09-26T18:09:35.060346+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -344,16 +344,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858467",
-        "week": 4,
-        "opponent": "Purdue",
-        "opponent_id": 2509,
+        "event_id": "401858250",
+        "week": 5,
+        "opponent": "North Carolina",
+        "opponent_id": 153,
         "home_away": "at",
-        "kickoff": "2026-09-26T18:00:00.000Z",
-        "tbd": false,
+        "kickoff": "2026-10-03T04:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Purdue"
+        "label": "at North Carolina"
       },
       "log": [
         {
@@ -573,16 +573,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858465",
-        "week": 4,
-        "opponent": "Illinois",
-        "opponent_id": 356,
-        "home_away": "vs",
-        "kickoff": "2026-09-26T16:00:00.000Z",
+        "event_id": "401858473",
+        "week": 5,
+        "opponent": "Iowa",
+        "opponent_id": 2294,
+        "home_away": "at",
+        "kickoff": "2026-10-03T19:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Illinois"
+        "label": "at Iowa"
       },
       "log": [
         {
@@ -805,16 +805,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856704",
-        "week": 4,
-        "opponent": "Tennessee",
-        "opponent_id": 2633,
+        "event_id": "401856717",
+        "week": 6,
+        "opponent": "Oklahoma",
+        "opponent_id": 201,
         "home_away": "at",
-        "kickoff": "2026-09-26T16:00:00.000Z",
+        "kickoff": "2026-10-10T19:30:00.000Z",
         "tbd": false,
-        "neutral": false,
+        "neutral": true,
         "state": "scheduled",
-        "label": "at Tennessee"
+        "label": "at Oklahoma"
       },
       "log": [
         {
@@ -1244,31 +1244,13 @@
   ],
   "news": [
     {
-      "headline": "No. 1 Texas vs. No. 14 Tennessee: How to Watch, Odds, Injuries, and More",
+      "headline": "USC Trojans Long Injury Report Looms Large Before Oregon Game",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLV9IeWIzcnpjdHBhQUQ2N2x5cmdtSlJHRENMMTV5UDlfQ2U0MHR5Vy1tdHdMMjdBaHQ0MUl6N253c01QSkJuM1ByN1dTdGtnMGxiQjJkM0RuLXFaR0Uzc1FzbzhwSjh2bTRLTlhjYXc2SktOREJTM3RnbFlxOU5hbGV6a1FyUFJwZElBSlpWTTJmb3V3R2h2S25oVXlLbjhpckxqTF94Y3JfUW8?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 19,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1ZFWkp0anVtWUdaY1ZtWDF1UTgwOTJiN2FsSTZ3dzFBWmczTUs0Q3hrbFVucU1jMFg1WjFzenVzUWI1S2VUQWh6cmlwSkRlWnVyc25iZm9HcFZUaDB5VHlzcG5JUzhJVUh4RDQyeDdjc3pRUUJoUGJXcHI1eW5OOUp0Z01feFliY0tZd2VOd29lcGFsdk5nVk5qdDRad0JwOUE?oc=5",
+      "player": "Jayden Maiava",
+      "age_hours": 18,
       "score": 21
-    },
-    {
-      "headline": "No. 10 LSU vs. No. 23 Texas A&M: How to Watch, Odds, Injuries, and More",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFFodnlCNXAwZFpIQkl3TG9vVHVYTVZjU3lVM21nR2ZqSmdjbE9QbUg4MTZSTGVZSGhKUGZuT2YtT3FEd0FyT24zMS1iR3FmTjdHRjQyYU16VnVtYkJ4NTNud2pMeUExNmdMNGo0MGJjR2FnS1VXTHkxSjhyLU11T21hbi14c2dicXFPT3YzdWU5dEhSM0Q4SjliQTRaSGU2VWJnalJR?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 20,
-      "score": 21
-    },
-    {
-      "headline": "Fantasy College Football Picks on DraftKings for Week 4's Main DFS Slate",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmlZNUp5V0xyZjBXZG5QUm5DNndKRk8zLTB3RHBXbFBlVkJwMVZLNTBkXzVGTGxGQTRabU5QWl94cEVOZDg5Wm5sZ2lodnAzMEM0YWpKempsMUt0VzVrbDBvU2F2UnZtTlRIZFN6SEpmcFJrN1pZTTIyVEs4endhUUJKcjBhcUljQnBwNkF2T25lelRFUnMyQTR3WFRuRThUd1dTaA?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 7,
-      "score": 18
     },
     {
       "headline": "Has the CJ Carr Heisman Trophy Discussion Already Lost Juice? Not So Fast",
@@ -1276,44 +1258,62 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGhjRzFHRk4yX01uZDhVclpiRjEyd2N2Yy1UTEw3REdxNFBXT0ZqdlgxZldRYjhXLW41ZXhJLXRlSXN5TTVtVEpqTEkwdnQzYTc3MEZRQ3JlU01uaDB3NXFTMDIwY3JHUmZseURaVnZKTjcwT0lCMHFHZlhHR1FoWGdUN2NRQQ?oc=5",
       "player": "CJ Carr",
-      "age_hours": 14,
+      "age_hours": 24,
       "score": 18
     },
     {
-      "headline": "Arch Manning, Dante Moore and more: NFL Draft prospects under the microscope in Week 4 - The Athletic",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT2JFOVd6TkdCa3hvWjQ5NG4ta2VDbVlPeENFUUZFWkd2STZial93YkV5WmxfTTkwV3dVaFlTd2l2TW1lMHJrY2ZJOV80RXVja19ka0V6MUhUbko2WlhxeVVGaXdCRTNid1NtYkluT1VpVENSY05jSFYtVENuc3dzYnlPN1BQM3A0QzJ5S1htaFh0MkE?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 46,
-      "score": 18
+      "headline": "Ole Miss RB Kewan Lacy not expected to play vs. Florida",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEtZcXZLdmtvYkVXTC1YMHVtZjhtSUVmSnBseTh4dTZKQng2Y0dVaFpER3Vnc180UjJMVjR1RTIwRXl3THZWeDA4QmlwSkZ2VFZsTFcwMlhHeVJGQVV4UjJISHFhMWRLR3o4d3ZPdWpHeFdxRXRJem5jN3RpRFF4bVdGdFpmRHdsaGRWVWgzaFZmYXNLaS1uU0IzOEhsQ3NWaXpSaXp6b0VBZTVDSmc?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 5,
+      "score": 17
     },
     {
       "headline": "Drew Mestemaker goes airborne for wild Oklahoma State TD",
       "source": "ESPN",
       "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qLWdfd21GSkFNQjRPclE1Z2o5SW1uc2lSaU9OZnQ2MUxEOWhGX0M1RFBfSk9FT1J4WXVTUlBRNkFqbXhjVjZTUFhrVTRoN0dyN0VoelRPelNQZDEtYTdvX1p6Y3RETldfMUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd08xZ01JanVNS1ZlWENqRDlReVN2amd0SU9NUXVTbDJJYk5hNk94Z3lub2tGVU5hVWpPTGk4RGVBNldYV3NmOXByVDh5OE5oaE96RVVwVHF1WDFNVzR2QkZtYWJ5anRHUDZ4OUViQjNBTjkyX05WR3c2ZXNQaUxfMVVPdjA?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 11,
+      "age_hours": 21,
       "score": 17
     },
     {
-      "headline": "The Arch Manning rage spiral won\u2019t stop, and it\u2019s absolutely infuriating",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVJvSWtSR01HamtNYmtaRjJDQjg1b3daZ2E3U2JfTnplUUt6YUlqS3VqbGVpZ3dCZ0VwNWlad0o5eTFGaHQwcWhTT29XQ200THpmdjdiM1VtWU9HZG5UcDBJZ1RTc0M3SC1vRUlENUFoVjdwUFVPUTF3R3dINmloWlJtak16UUczcHFnWGNyZEJ6NWc2V19maGNoV1ZRUWRKQU9KY1BxZy1VZzlBM3lCeTlUT0JFbzNNSmRTSXVDUQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 22,
-      "score": 17
-    },
-    {
-      "headline": "3 Storylines To Watch Out For in Texas vs. Tennessee",
+      "headline": "No. 10 LSU vs. No. 23 Texas A&M: How to Watch, Odds, Injuries, and More",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEZabDJRV1FoWEFOa1YxV2owTnk4SmJrNkdQcnJ0QXd6Ql9oaXlTd3d5WFRuNHVVQWVSTUQ5ZzNDb05aQ2JqNzkwdE56SEY0QmtlTkdLZXZrMlYwRG9mZ1dtR0dhSFFsbFQzS3JISG1DbFNvZXd0bTJUc0dsTzA2cWh0amw1MnEzVWxiWnVyMXZyMlFXQ182OA?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 44,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFFodnlCNXAwZFpIQkl3TG9vVHVYTVZjU3lVM21nR2ZqSmdjbE9QbUg4MTZSTGVZSGhKUGZuT2YtT3FEd0FyT24zMS1iR3FmTjdHRjQyYU16VnVtYkJ4NTNud2pMeUExNmdMNGo0MGJjR2FnS1VXTHkxSjhyLU11T21hbi14c2dicXFPT3YzdWU5dEhSM0Q4SjliQTRaSGU2VWJnalJR?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 30,
       "score": 17
+    },
+    {
+      "headline": "Trinidad Chambliss Is The Best QB In College Football. What's His NFL Draft Ceiling?",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXNvamZMbkJheW4ya0xINzZZMjkwM1c5d0U0dTNGWlBhNXdNajJ0THc3Y0lYWEhMTjM3TGprd3hDT0piZTUzUGZEQnVmNVhhTWZQbmQxdXdGVGJZb1FRUWFHQVVVRXE1cjk2Slp2Y0xINFI4VkpGcjAwekVIbjNvX2FlSnFYZk11U3Q3ZEQxTnVEUi1YNUQySzZOZndSQlVZS25NaTZ2UU5sUldtY3fSAa4BQVVfeXFMTk1zYkpsUUlocklzNDUtQ2hzNWt3SXRTS1RYb0MwTUFZcjhBTFI5Mmt1ZGxseEJsbGlwbzhmd2JWMkEwZkQzMTRUcGxLd0R4R21PSkJEMU45WG5xd1hjMjlRdTBWSEdFZi1ZdXlPdGRCNkV3c2I4elVEcU1DaEpZVlhRWXE5VlBldzNJaTVvZ3J5RWktU2E2RTJZXzNWUkd4eURKWmNqVGNMdEJaQ1NR?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 54,
+      "score": 16
+    },
+    {
+      "headline": "Tale of the Tape: Jayden Maiava, Dante Moore clash in battle of star QBs in NFL Draft when USC faces Oregon",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN21PclRZZS1aN1hCR0NZckozeHhQTXpaTHo4UG1xejJ5QnVJZ05mckJjTmhkR3BETEVDM2NsUURfanY0ODhWVjM5cDFOV3JiQm1jeTBpS1ZBdHJiSkZ1eEVzYkRaaEI2dWtBd285MFp5NXAtNjRLZ2Q5VV9TQ0V5Ql9oU0tZUnNkeVV5aWtxNGhkdFNVa0gzU29FTUdXZGhfdWh6WkU4ZlZBeUdRT05WWTlR?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 71,
+      "score": 16
+    },
+    {
+      "headline": "LSU removes QB Sam Leavitt from injury report ahead of Ole Miss showdown",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5cWFoRXZpMU5jajNEby1RYWprNHpYRzNXam1BQWtnTXMzYW5UemtsWUw3bEJIYktDUnVnSWQ1NnRWSlppOTNNMFFFaEVjS2VrbFo4ejBzQWVfWnNzNTBoTmh3a3R0MHNQMmtZUEZLcXdDTElOWG13azREYWdHWE4yRjJsZFhFSktKTks4TTktZkkySGc?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 155,
+      "score": 16
     }
   ],
   "kalshi": [
@@ -1324,12 +1324,7 @@
       "candidates": [
         {
           "name": "CJ Carr",
-          "pct": 22,
-          "tracked": true
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 17,
+          "pct": 18,
           "tracked": true
         },
         {
@@ -1338,23 +1333,28 @@
           "tracked": true
         },
         {
+          "name": "Jeremiah Smith",
+          "pct": 14,
+          "tracked": false
+        },
+        {
           "name": "Darian Mensah",
           "pct": 13,
           "tracked": true
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 12,
-          "tracked": false
+          "name": "Arch Manning",
+          "pct": 9,
+          "tracked": true
         },
         {
           "name": "Dante Moore",
-          "pct": 10,
+          "pct": 8,
           "tracked": true
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 5,
+          "pct": 6,
           "tracked": true
         },
         {
@@ -1363,7 +1363,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 3,
+      "field_pct": 14,
       "field_count": 13
     },
     {
@@ -1373,7 +1373,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 53,
+          "pct": 57,
           "tracked": false
         },
         {
@@ -1392,11 +1392,6 @@
           "tracked": false
         },
         {
-          "name": "Arizona",
-          "pct": 7,
-          "tracked": false
-        },
-        {
           "name": "New York G",
           "pct": 7,
           "tracked": false
@@ -1410,6 +1405,11 @@
           "name": "San Francisco",
           "pct": 5,
           "tracked": false
+        },
+        {
+          "name": "Arizona",
+          "pct": 4,
+          "tracked": false
         }
       ],
       "field_pct": 0,
@@ -1422,33 +1422,28 @@
       "candidates": [
         {
           "name": "Trinidad Chambliss",
-          "pct": 19,
+          "pct": 20,
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
+          "name": "Jeremiah Smith",
           "pct": 18,
+          "tracked": false
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 16,
           "tracked": true
         },
         {
           "name": "Kamario Taylor",
-          "pct": 10,
+          "pct": 12,
           "tracked": false
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 8,
+          "name": "Jadan Baugh",
+          "pct": 9,
           "tracked": false
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 7,
-          "tracked": true
-        },
-        {
-          "name": "CJ Carr",
-          "pct": 7,
-          "tracked": true
         },
         {
           "name": "Gunner Stockton",
@@ -1456,12 +1451,17 @@
           "tracked": false
         },
         {
+          "name": "CJ Carr",
+          "pct": 5,
+          "tracked": true
+        },
+        {
           "name": "Julian Sayin",
           "pct": 4,
           "tracked": true
         }
       ],
-      "field_pct": 22,
+      "field_pct": 11,
       "field_count": 32
     }
   ],
