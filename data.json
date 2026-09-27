@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T03:05:12.332689+00:00",
+  "updated_at": "2026-09-27T09:43:10.077407+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -255,10 +255,23 @@
         "kickoff": "2026-09-26T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at USC"
+        "state": "final",
+        "result": "W",
+        "score": "41-27",
+        "label": "W 41-27 at USC"
       },
-      "game": null,
+      "game": {
+        "cmp": 8,
+        "att": 10,
+        "pass_yds": 77,
+        "pass_td": 0,
+        "int": 0,
+        "rush_att": 1,
+        "rush_yds": 10,
+        "rush_td": 0,
+        "comp_pct": 80.0,
+        "ypa": 7.7
+      },
       "next_game": {
         "event_id": "401858484",
         "week": 6,
@@ -328,24 +341,43 @@
           "result": "W",
           "score": "84-0",
           "date": "2026-09-19T02:30:00.000Z"
+        },
+        {
+          "cmp": 8,
+          "att": 10,
+          "pass_yds": 77,
+          "pass_td": 0,
+          "int": 0,
+          "rush_att": 1,
+          "rush_yds": 10,
+          "rush_td": 0,
+          "comp_pct": 80.0,
+          "ypa": 7.7,
+          "event_id": "401858469",
+          "week": 4,
+          "opponent": "USC",
+          "home_away": "at",
+          "result": "W",
+          "score": "41-27",
+          "date": "2026-09-26T23:30:00.000Z"
         }
       ],
       "season": {
-        "games": 3,
-        "record": "2-1",
-        "cmp": 61,
-        "att": 89,
-        "comp_pct": 68.5,
-        "pass_yds": 849,
-        "ypa": 9.5,
+        "games": 4,
+        "record": "3-1",
+        "cmp": 69,
+        "att": 99,
+        "comp_pct": 69.7,
+        "pass_yds": 926,
+        "ypa": 9.4,
         "pass_td": 9,
         "int": 0,
         "td_int": "9-0",
-        "rush_yds": -17,
+        "rush_yds": -7,
         "rush_td": 0,
         "total_td": 9,
-        "ypg": 283,
-        "rating": 182.0,
+        "ypg": 232,
+        "rating": 178.3,
         "epa_per_play": null
       }
     },
@@ -383,8 +415,8 @@
         "opponent": "North Carolina",
         "opponent_id": 153,
         "home_away": "at",
-        "kickoff": "2026-10-03T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-03T16:00:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "at North Carolina"
@@ -528,8 +560,8 @@
         "opponent": "Clemson",
         "opponent_id": 228,
         "home_away": "at",
-        "kickoff": "2026-10-03T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-03T23:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "at Clemson"
@@ -1045,10 +1077,23 @@
         "kickoff": "2026-09-26T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Texas A&M"
+        "state": "final",
+        "result": "W",
+        "score": "35-6",
+        "label": "W 35-6 vs Texas A&M"
       },
-      "game": null,
+      "game": {
+        "cmp": 17,
+        "att": 23,
+        "pass_yds": 312,
+        "pass_td": 2,
+        "int": 1,
+        "rush_att": 5,
+        "rush_yds": 22,
+        "rush_td": 0,
+        "comp_pct": 73.9,
+        "ypa": 13.6
+      },
       "next_game": {
         "event_id": "401856706",
         "week": 5,
@@ -1118,24 +1163,43 @@
           "result": "L",
           "score": "24-32",
           "date": "2026-09-19T23:30:00.000Z"
+        },
+        {
+          "cmp": 17,
+          "att": 23,
+          "pass_yds": 312,
+          "pass_td": 2,
+          "int": 1,
+          "rush_att": 5,
+          "rush_yds": 22,
+          "rush_td": 0,
+          "comp_pct": 73.9,
+          "ypa": 13.6,
+          "event_id": "401856702",
+          "week": 4,
+          "opponent": "Texas A&M",
+          "home_away": "vs",
+          "result": "W",
+          "score": "35-6",
+          "date": "2026-09-26T23:30:00.000Z"
         }
       ],
       "season": {
-        "games": 3,
-        "record": "2-1",
-        "cmp": 57,
-        "att": 93,
-        "comp_pct": 61.3,
-        "pass_yds": 732,
-        "ypa": 7.9,
-        "pass_td": 3,
-        "int": 5,
-        "td_int": "3-5",
-        "rush_yds": 198,
+        "games": 4,
+        "record": "3-1",
+        "cmp": 74,
+        "att": 116,
+        "comp_pct": 63.8,
+        "pass_yds": 1044,
+        "ypa": 9.0,
+        "pass_td": 5,
+        "int": 6,
+        "td_int": "5-6",
+        "rush_yds": 220,
         "rush_td": 6,
-        "total_td": 9,
-        "ypg": 244,
-        "rating": 127.3,
+        "total_td": 11,
+        "ypg": 261,
+        "rating": 143.3,
         "epa_per_play": null
       }
     },
@@ -1161,10 +1225,23 @@
         "kickoff": "2026-09-26T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Oregon"
+        "state": "final",
+        "result": "L",
+        "score": "27-41",
+        "label": "L 27-41 vs Oregon"
       },
-      "game": null,
+      "game": {
+        "cmp": 23,
+        "att": 42,
+        "pass_yds": 326,
+        "pass_td": 2,
+        "int": 1,
+        "rush_att": 6,
+        "rush_yds": 1,
+        "rush_td": 1,
+        "comp_pct": 54.8,
+        "ypa": 7.8
+      },
       "next_game": {
         "event_id": "401858478",
         "week": 5,
@@ -1232,24 +1309,43 @@
           "result": "W",
           "score": "42-35",
           "date": "2026-09-19T19:30:00.000Z"
+        },
+        {
+          "cmp": 23,
+          "att": 42,
+          "pass_yds": 326,
+          "pass_td": 2,
+          "int": 1,
+          "rush_att": 6,
+          "rush_yds": 1,
+          "rush_td": 1,
+          "comp_pct": 54.8,
+          "ypa": 7.8,
+          "event_id": "401858469",
+          "week": 4,
+          "opponent": "Oregon",
+          "home_away": "vs",
+          "result": "L",
+          "score": "27-41",
+          "date": "2026-09-26T23:30:00.000Z"
         }
       ],
       "season": {
-        "games": 3,
-        "record": "3-0",
-        "cmp": 64,
-        "att": 90,
-        "comp_pct": 71.1,
-        "pass_yds": 824,
-        "ypa": 9.2,
-        "pass_td": 9,
-        "int": 1,
-        "td_int": "9-1",
-        "rush_yds": 1,
-        "rush_td": 1,
-        "total_td": 10,
-        "ypg": 275,
-        "rating": 178.8,
+        "games": 4,
+        "record": "3-1",
+        "cmp": 87,
+        "att": 132,
+        "comp_pct": 65.9,
+        "pass_yds": 1150,
+        "ypa": 8.7,
+        "pass_td": 11,
+        "int": 2,
+        "td_int": "11-2",
+        "rush_yds": 2,
+        "rush_td": 2,
+        "total_td": 13,
+        "ypg": 288,
+        "rating": 163.6,
         "epa_per_play": null
       }
     },
@@ -1275,10 +1371,23 @@
         "kickoff": "2026-09-26T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Washington State"
+        "state": "final",
+        "result": "W",
+        "score": "34-24",
+        "label": "W 34-24 at Washington State"
       },
-      "game": null,
+      "game": {
+        "cmp": 22,
+        "att": 36,
+        "pass_yds": 297,
+        "pass_td": 4,
+        "int": 1,
+        "rush_att": 11,
+        "rush_yds": 20,
+        "rush_td": 0,
+        "comp_pct": 61.1,
+        "ypa": 8.2
+      },
       "next_game": {
         "event_id": "401856820",
         "week": 5,
@@ -1349,43 +1458,80 @@
           "result": "W",
           "score": "42-17",
           "date": "2026-09-20T02:30:00.000Z"
+        },
+        {
+          "cmp": 22,
+          "att": 36,
+          "pass_yds": 297,
+          "pass_td": 4,
+          "int": 1,
+          "rush_att": 11,
+          "rush_yds": 20,
+          "rush_td": 0,
+          "comp_pct": 61.1,
+          "ypa": 8.2,
+          "event_id": "401856804",
+          "week": 4,
+          "opponent": "Washington State",
+          "home_away": "at",
+          "result": "W",
+          "score": "34-24",
+          "date": "2026-09-26T23:30:00.000Z"
         }
       ],
       "season": {
-        "games": 3,
-        "record": "2-1",
-        "cmp": 76,
-        "att": 94,
-        "comp_pct": 80.9,
-        "pass_yds": 817,
-        "ypa": 8.7,
-        "pass_td": 7,
-        "int": 1,
-        "td_int": "7-1",
-        "rush_yds": 66,
+        "games": 4,
+        "record": "3-1",
+        "cmp": 98,
+        "att": 130,
+        "comp_pct": 75.4,
+        "pass_yds": 1114,
+        "ypa": 8.6,
+        "pass_td": 11,
+        "int": 2,
+        "td_int": "11-2",
+        "rush_yds": 86,
         "rush_td": 2,
-        "total_td": 9,
-        "ypg": 272,
-        "rating": 176.3,
+        "total_td": 13,
+        "ypg": 278,
+        "rating": 172.2,
         "epa_per_play": null
       }
     }
   ],
   "news": [
     {
+      "headline": "Raiola steps in for injured Moore, rallies Oregon past USC",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzJmNlo1RTYzTXZMRnNVUnNuTmRkZUZPSWg5blFDRDZDa3luQ1ByMlp4bHdZUXdPNWVOdUJ1b2E2eUVvaDJOemRfR1ptQTdNVGtXWUVjcU0xajMzMUtvTXAzbVlSUXhhZG9kM0R5bVdqRzhNd0F5LUZ6VFRiQUYxYi1yRVdDLXR3VzhQajgtTkQwRlBTX3NEb3NxaWkteUZvazlTelBn?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 6,
+      "score": 23
+    },
+    {
       "headline": "What did Saturday\u2019s Texas win mean for Colin Simmons\u2019, Arch Manning\u2019s NFL Draft stock?",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbXNBdGxCcWQyQ0JiaXdkcHpsYnZCZFJvNWFnUVFyTWx5VFhleDNnZmg4TnhzcDN2TVBrR0sxdEhubVM1Szh6bUZkbWpfVkk5S29jVnhsaTU1czkwX0xwX0NrSnFtUHEyQzVxOUdZTGdUUDZpMDRMQzFzZjBlV3NMUEl6Tk5jM01JZlRKWVlma0l2NG10ZzUxcw?oc=5",
       "player": "Arch Manning",
-      "age_hours": 7,
+      "age_hours": 13,
       "score": 22
     },
     {
-      "headline": "College Football Week 4 Live Scores, Updates: Oregon QB Dante Moore Injured; Wisconsin Upsets Penn State",
+      "headline": "College Football Week 4 Takeaways: Dylan Raiola Leads Oregon Past USC After Dante Moore Injured",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMUjVOdzJkNmx5UUs3VGZQTzR4ZF81clRtdXF2VEZYbENIX1RPQzVEbFcwakJ5eVBCVFNObGdjZFpvZlVOUGJIOEQ4VG9ibWp6eEN3UFcyR0RvcDAyVWIwN3hWNXB2VV9CbmY0bDVqc3BCMV81bG9mRm5pMXc?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 6,
+      "score": 21
+    },
+    {
+      "headline": "Oregon's Dylan Raiola Speaks Candidly on Beating USC After Dante Moore\u2019s Injury",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSy12Z3ZZNFdWaE5STzQxaXFDV3dWRnBOSlhLQm14dnNqcERSRWxGRmVUNUJoOG82M1kxc0F2VXNmYk0zV2Z6Mld6STdvLU85RVZwcDhNdlk5dHQxcFFYdGtZZG9IdjNiVUUyNFZybXJvSkMwYlhOLTFKbElBRl9pUnJxZ3I2cl9vZ0hnZ0d0WnN1emw2cENrbGdEOHNwZUNUR0czLWI4STM0TDF0MXhRN2tsUjZIV1oycW9hVW91N0E?oc=5",
       "player": "Dante Moore",
       "age_hours": 3,
       "score": 21
@@ -1396,53 +1542,35 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWtDTzhyTjF1eXRQUThDRVpYeWplN3g1R1F5Rm9LM2MydVR2SXNKU3VpeVZZWVlLU0VRcTg0ZFNkNnpwaXRXTnRmTERhS21xOFZac1d5dHVWcmVVVm9Cc2hPVTJ5eUQ0U3oxaE1pY0N0NFVIVmFYRFZSSHVRZ0V1ZEFmTlRvT1Y0dE1Kc1RJZ2dTeGJ4aHVjQ2wxNXlJcHppY1ozdg?oc=5",
       "player": "Dante Moore",
-      "age_hours": 2,
+      "age_hours": 8,
       "score": 21
     },
     {
-      "headline": "Who is Oregon backup QB? Dylan Raiola forced into action after Dante Moore injury",
+      "headline": "Dylan Raiola rallies Oregon past USC after Dante Moore injury",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUdRUm9pejFGU0x6Z21YRUpPVzlTb3E5RGJOT2p4WEJuWXpXdzYzdDBhdlF0anZzdUpqYjNJdjV5Z1hRSmtRMjdIZ1doSDZXMl9yM3NtN25TTnBJQVZ5dTBtUjJHLTdkVTZtdlBZUUliY3VsX01xcF9keG9jZzVzTUdZd09iNUdUTnRvTi1yZTgzRndEM1NLbmszNXF3UFlxcUJ6cHRybmxSQ1p6T0RF?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 5,
+      "score": 21
+    },
+    {
+      "headline": "Oregon rallies around Dante Moore after injury, turns anger into second-half response at USC",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWmRaTVhtTmgtRW42ajBaQTE2RmhMaXV3SzM5WVJwUnMwUjZwUkNmTk11U3U1d0RpcG9EOFk2N2NUa1dpVDByTHBob3oyWG9FaUIyZWYxLVVlbWs1V1JlTEU1RnMyTGtvWmdXSlNVandCRGQtcVZWdHJLLUVvQXhpNUhPanNacjBReE90ZWtBUWY2a1BMOWl2VVlhbzhySGMzY3lENTN3QjN2UTZuSHMtMm5DUmlxcml6ZEw4S094RkF2eGo2c2x4ZzN1dU5zclhQY0J6N1Q2blFaU05reW03UA?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
+      "score": 21
+    },
+    {
+      "headline": "Who is Oregon backup QB? Dylan Raiola steps up after Dante Moore injury",
       "source": "USA Today",
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYnhvSENmZ1lVWU9jRHc1MjN0cE5XWmc5UXNsXzVNeVVKWVVHdTF2WW13Q0hyY01ncW9DLVdoV0tKMHBtWEVWV3Z0Z0dZY2d0YlJNSWpoQ19ad2pzeldJbktTREl2S1NqRmhkT1BOLWFmOEw2alRScTlDMW51cjRvNEhqSnpBU1Y3YWRmS1pCZ0FxTkl3WU1Va3ZCZTM5ZE92RV9WajZtZnVJWDhIaFY4MXZWQXhESE5WOWRjQUREOExMN2lFMW1EMHk5ZzZHd3lzYkpGeW9WWi10Mm9NOVJZZk02RFY?oc=5",
       "player": "Dante Moore",
-      "age_hours": 2,
+      "age_hours": 6,
       "score": 19
-    },
-    {
-      "headline": "Dante Moore injury reaction: 'One of the dirtiest hits you\u2019ll ever see'",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFVzTEQ2UnlTTElHRk43SDIzaGdHN1VsdDVYMU1iOW1LZ0FLWVlTbkE0NFA1U0t6ckpXbVRrSF9NS3dmbVRPYVhVWVpqVnFGQzR4dS1WTHlrNVpUY1VJX1FwZzR0TU4tZGFJdzNaeGE2R21RVVE4b3NxYk9aVThDQng3RmFYRW5RcGJwMkg5Xzkyb3hhajNldEREYUFFV3VNYmx5V01zUmZnUnRsT0JGUWNMX0FSaUg4VWN6RzhmZURUUmJyU3FZT3pqbFZBV2wwbXdLNDFR?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 2,
-      "score": 19
-    },
-    {
-      "headline": "Daniel on Ole Miss' Chambliss: 'He's the best player in the country'",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmRDgtdGI1elNqUnR3MlRZMF8tLVdvb1RiNHpGNWF1V3NVT2psdEZ5QjZwTHpnQ3F4VXpZeHExQXphdWFwTVBGOEpSaWQwT0NrMkJPWW5sSWYwcWs?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 11,
-      "score": 17
-    },
-    {
-      "headline": "Golding questions Ole Miss after 'butt whupping' at Florida",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0JZLTl1TFNsZkdiSi0wZllYZGs1aS1Ld29KWmhJcHBuY2x1Ql9EbTNHcEJ4Wm5tcFN5djdNUGN3b0ZNSkFoUTFmc01Hdmh5ZlhZNjUyekNsZGFNdElZM3VDb3hlbFVoX01DUmtuMmFiUjk5RXc0MjdibV9fZkhzb3NvbEl1c0cxc3BURHdWMS1iU3hGaUdjMlRYNVRuQTQ2b0NJV0NMTGxiRlhNZEFsMg?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 4,
-      "score": 17
-    },
-    {
-      "headline": "Ole Miss RB Kewan Lacy (shoulder) ruled out vs. Florida",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEtZcXZLdmtvYkVXTC1YMHVtZjhtSUVmSnBseTh4dTZKQng2Y0dVaFpER3Vnc180UjJMVjR1RTIwRXl3THZWeDA4QmlwSkZ2VFZsTFcwMlhHeVJGQVV4UjJISHFhMWRLR3o4d3ZPdWpHeFdxRXRJem5jN3RpRFF4bVdGdFpmRHdsaGRWVWgzaFZmYXNLaS1uU0IzOEhsQ3NWaXpSaXp6b0VBZTVDSmc?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 14,
-      "score": 17
     }
   ],
   "kalshi": [
@@ -1452,14 +1580,19 @@
       "url": "https://kalshi.com/markets/kxnfldraftpick/nfl-draft-pick/kxnfldraftpick-27-1",
       "candidates": [
         {
-          "name": "Jeremiah Smith",
-          "pct": 19,
-          "tracked": false
+          "name": "Drew Mestemaker",
+          "pct": 23,
+          "tracked": true
         },
         {
           "name": "Arch Manning",
-          "pct": 18,
+          "pct": 20,
           "tracked": true
+        },
+        {
+          "name": "Jeremiah Smith",
+          "pct": 19,
+          "tracked": false
         },
         {
           "name": "CJ Carr",
@@ -1477,22 +1610,17 @@
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 8,
-          "tracked": true
-        },
-        {
           "name": "Dante Moore",
           "pct": 4,
           "tracked": true
         },
         {
-          "name": "Jayden Maiava",
-          "pct": 4,
-          "tracked": true
+          "name": "LaNorris Sellers",
+          "pct": 3,
+          "tracked": false
         }
       ],
-      "field_pct": 7,
+      "field_pct": 0,
       "field_count": 13
     },
     {
@@ -1556,13 +1684,13 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 20,
+          "pct": 19,
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 9,
-          "tracked": true
+          "name": "Kamario Taylor",
+          "pct": 11,
+          "tracked": false
         },
         {
           "name": "Jadan Baugh",
@@ -1571,13 +1699,13 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 8,
+          "pct": 7,
           "tracked": true
         },
         {
-          "name": "Kamario Taylor",
-          "pct": 8,
-          "tracked": false
+          "name": "Trinidad Chambliss",
+          "pct": 6,
+          "tracked": true
         },
         {
           "name": "Keelon Russell",
@@ -1585,13 +1713,13 @@
           "tracked": false
         },
         {
-          "name": "Malachi Toney",
-          "pct": 5,
-          "tracked": false
+          "name": "Arch Manning",
+          "pct": 4,
+          "tracked": true
         }
       ],
-      "field_pct": 11,
-      "field_count": 32
+      "field_pct": 14,
+      "field_count": 33
     }
   ],
   "references": {
