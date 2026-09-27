@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T09:43:10.077407+00:00",
+  "updated_at": "2026-09-27T18:02:44.972880+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -827,7 +827,19 @@
         "score": "41-24",
         "label": "W 41-24 at West Virginia"
       },
-      "game": null,
+      "game": {
+        "cmp": 20,
+        "att": 27,
+        "pass_yds": 389,
+        "pass_td": 3,
+        "int": 1,
+        "qbr": "86.5",
+        "rush_att": 1,
+        "rush_yds": 0,
+        "rush_td": 0,
+        "comp_pct": 74.1,
+        "ypa": 14.4
+      },
       "next_game": {
         "event_id": "401856824",
         "week": 6,
@@ -897,24 +909,44 @@
           "result": "W",
           "score": "59-0",
           "date": "2026-09-19T23:00:00.000Z"
+        },
+        {
+          "cmp": 20,
+          "att": 27,
+          "pass_yds": 389,
+          "pass_td": 3,
+          "int": 1,
+          "qbr": "86.5",
+          "rush_att": 1,
+          "rush_yds": 0,
+          "rush_td": 0,
+          "comp_pct": 74.1,
+          "ypa": 14.4,
+          "event_id": "401856881",
+          "week": 4,
+          "opponent": "West Virginia",
+          "home_away": "at",
+          "result": "W",
+          "score": "41-24",
+          "date": "2026-09-26T23:00:00.000Z"
         }
       ],
       "season": {
-        "games": 3,
-        "record": "2-1",
-        "cmp": 75,
-        "att": 114,
-        "comp_pct": 65.8,
-        "pass_yds": 882,
-        "ypa": 7.7,
-        "pass_td": 8,
-        "int": 4,
-        "td_int": "8-4",
+        "games": 4,
+        "record": "3-1",
+        "cmp": 95,
+        "att": 141,
+        "comp_pct": 67.4,
+        "pass_yds": 1271,
+        "ypa": 9.0,
+        "pass_td": 11,
+        "int": 5,
+        "td_int": "11-5",
         "rush_yds": 106,
         "rush_td": 1,
-        "total_td": 9,
-        "ypg": 294,
-        "rating": 146.9,
+        "total_td": 12,
+        "ypg": 318,
+        "rating": 161.7,
         "epa_per_play": null
       }
     },
@@ -1501,12 +1533,21 @@
   ],
   "news": [
     {
-      "headline": "Raiola steps in for injured Moore, rallies Oregon past USC",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzJmNlo1RTYzTXZMRnNVUnNuTmRkZUZPSWg5blFDRDZDa3luQ1ByMlp4bHdZUXdPNWVOdUJ1b2E2eUVvaDJOemRfR1ptQTdNVGtXWUVjcU0xajMzMUtvTXAzbVlSUXhhZG9kM0R5bVdqRzhNd0F5LUZ6VFRiQUYxYi1yRVdDLXR3VzhQajgtTkQwRlBTX3NEb3NxaWkteUZvazlTelBn?oc=5",
+      "headline": "Dante Moore injury update: QB suffered a concussion against USC, expected to return later this season",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUY0blpPN0YxbFhzQ1FKYldWMTNPSFJVaXVMbEV5YXRDczlUVko5MHZTRlptV1RBZi1sSXZZNV81RXFIX2ZRWkFEU0pPR0lOTnRscklMYTBsLVV0TDlFYzYtUDhQdWVLcDRhbldYalFKaDVEelFkVTBFeGpQZTZYN25vd1pPYm5WbEVQdERwc2o5aEN1ZDZhYTQ0NzlRSkNi?oc=5",
       "player": "Dante Moore",
-      "age_hours": 6,
+      "age_hours": 2,
+      "score": 27
+    },
+    {
+      "headline": "How Oregon turned emotion after Dante Moore\u2019s injury into a signature win at USC",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPejU3d0lVLVpmQlh1T2FQQ2h0cmJrRUFmTk9mMFFHMDNjZTJpTWRSOUdhbEEtRm5NREFxd0ZvaUZuVkJJMW5kdkRsRlpLRU1zLVVjdkJzM2hYelRzbVVLczl4U1BIa3dfY1d4OHVsUlNPREZJMzRxdFFNWE9GS0RXaGthWEVOZmZxME1nRVBodFhsQQ?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 5,
       "score": 23
     },
     {
@@ -1515,16 +1556,25 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbXNBdGxCcWQyQ0JiaXdkcHpsYnZCZFJvNWFnUVFyTWx5VFhleDNnZmg4TnhzcDN2TVBrR0sxdEhubVM1Szh6bUZkbWpfVkk5S29jVnhsaTU1czkwX0xwX0NrSnFtUHEyQzVxOUdZTGdUUDZpMDRMQzFzZjBlV3NMUEl6Tk5jM01JZlRKWVlma0l2NG10ZzUxcw?oc=5",
       "player": "Arch Manning",
-      "age_hours": 13,
+      "age_hours": 22,
       "score": 22
     },
     {
-      "headline": "College Football Week 4 Takeaways: Dylan Raiola Leads Oregon Past USC After Dante Moore Injured",
+      "headline": "Dante Moore injury update: Major concussion news after scary USC hit",
+      "source": "sports.yahoo.com",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXB3ZWFWSEJfeDJuc2tQR0hTWVVqc3dCQXlJRmVoRllfeXNyZzE1cHM4cGVsNm0xZGd5ZWg1NGxVWFB1Y0lVc1E2NzRrdTMyemxzbmpJSngxNEY1T0d5Ny1BMlFkSkJpRlgtNFhJRnE1TVkwSnRUS25TRmNTV3J5WHEzT2ZaZjAzMlFYSg?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 2,
+      "score": 21
+    },
+    {
+      "headline": "Dante Moore Injury Update Brings Encouraging News After Oregon\u2019s Win Over USC",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMUjVOdzJkNmx5UUs3VGZQTzR4ZF81clRtdXF2VEZYbENIX1RPQzVEbFcwakJ5eVBCVFNObGdjZFpvZlVOUGJIOEQ4VG9ibWp6eEN3UFcyR0RvcDAyVWIwN3hWNXB2VV9CbmY0bDVqc3BCMV81bG9mRm5pMXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjFrVC1pVGhxNndWZ2wxLUxIX2tnRmlyR2NNb2FPcFFwS2t5VmR5SmJtQWNPUktTSjRodENnRVNvcXFkSDFHUEhKRHA0YVM3eXJCb3hUOEFVZFR3elgtYkwwMldlUE93ODM3NF9KLVBDZ0g1YWtaeGFyRndtUVZZTVM1WnNNcm93Tzlta2xhVU14OE9MaU84X1RaZU5IY3VlM3c?oc=5",
       "player": "Dante Moore",
-      "age_hours": 6,
+      "age_hours": 3,
       "score": 21
     },
     {
@@ -1533,7 +1583,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSy12Z3ZZNFdWaE5STzQxaXFDV3dWRnBOSlhLQm14dnNqcERSRWxGRmVUNUJoOG82M1kxc0F2VXNmYk0zV2Z6Mld6STdvLU85RVZwcDhNdlk5dHQxcFFYdGtZZG9IdjNiVUUyNFZybXJvSkMwYlhOLTFKbElBRl9pUnJxZ3I2cl9vZ0hnZ0d0WnN1emw2cENrbGdEOHNwZUNUR0czLWI4STM0TDF0MXhRN2tsUjZIV1oycW9hVW91N0E?oc=5",
       "player": "Dante Moore",
-      "age_hours": 3,
+      "age_hours": 12,
+      "score": 21
+    },
+    {
+      "headline": "Oregon news: Dante Moore's scary concussion injury comes with silver lining",
+      "source": "sports.yahoo.com",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzVwdWM1azZQckxJczlRU1ZpSjh3dEh0T3pWcVJKY2w1emdUb0E4al9UUmRqS2R3RWFha3NKekpKUVpZV0dmdk5VQ3g2UzMwZ25vWXdpbDljRENTQlVBc2sxNHdGVmZwd21rMWNvUS0tOTEyWXVBTTc0dEROekZreExZS3kwZw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 2,
       "score": 21
     },
     {
@@ -1542,35 +1601,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWtDTzhyTjF1eXRQUThDRVpYeWplN3g1R1F5Rm9LM2MydVR2SXNKU3VpeVZZWVlLU0VRcTg0ZFNkNnpwaXRXTnRmTERhS21xOFZac1d5dHVWcmVVVm9Cc2hPVTJ5eUQ0U3oxaE1pY0N0NFVIVmFYRFZSSHVRZ0V1ZEFmTlRvT1Y0dE1Kc1RJZ2dTeGJ4aHVjQ2wxNXlJcHppY1ozdg?oc=5",
       "player": "Dante Moore",
-      "age_hours": 8,
+      "age_hours": 17,
       "score": 21
-    },
-    {
-      "headline": "Dylan Raiola rallies Oregon past USC after Dante Moore injury",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUdRUm9pejFGU0x6Z21YRUpPVzlTb3E5RGJOT2p4WEJuWXpXdzYzdDBhdlF0anZzdUpqYjNJdjV5Z1hRSmtRMjdIZ1doSDZXMl9yM3NtN25TTnBJQVZ5dTBtUjJHLTdkVTZtdlBZUUliY3VsX01xcF9keG9jZzVzTUdZd09iNUdUTnRvTi1yZTgzRndEM1NLbmszNXF3UFlxcUJ6cHRybmxSQ1p6T0RF?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 5,
-      "score": 21
-    },
-    {
-      "headline": "Oregon rallies around Dante Moore after injury, turns anger into second-half response at USC",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWmRaTVhtTmgtRW42ajBaQTE2RmhMaXV3SzM5WVJwUnMwUjZwUkNmTk11U3U1d0RpcG9EOFk2N2NUa1dpVDByTHBob3oyWG9FaUIyZWYxLVVlbWs1V1JlTEU1RnMyTGtvWmdXSlNVandCRGQtcVZWdHJLLUVvQXhpNUhPanNacjBReE90ZWtBUWY2a1BMOWl2VVlhbzhySGMzY3lENTN3QjN2UTZuSHMtMm5DUmlxcml6ZEw4S094RkF2eGo2c2x4ZzN1dU5zclhQY0J6N1Q2blFaU05reW03UA?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 3,
-      "score": 21
-    },
-    {
-      "headline": "Who is Oregon backup QB? Dylan Raiola steps up after Dante Moore injury",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYnhvSENmZ1lVWU9jRHc1MjN0cE5XWmc5UXNsXzVNeVVKWVVHdTF2WW13Q0hyY01ncW9DLVdoV0tKMHBtWEVWV3Z0Z0dZY2d0YlJNSWpoQ19ad2pzeldJbktTREl2S1NqRmhkT1BOLWFmOEw2alRScTlDMW51cjRvNEhqSnpBU1Y3YWRmS1pCZ0FxTkl3WU1Va3ZCZTM5ZE92RV9WajZtZnVJWDhIaFY4MXZWQXhESE5WOWRjQUREOExMN2lFMW1EMHk5ZzZHd3lzYkpGeW9WWi10Mm9NOVJZZk02RFY?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 6,
-      "score": 19
     }
   ],
   "kalshi": [
@@ -1591,12 +1623,12 @@
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 19,
+          "pct": 20,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 16,
+          "pct": 17,
           "tracked": true
         },
         {
@@ -1606,18 +1638,18 @@
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 12,
-          "tracked": true
-        },
-        {
-          "name": "Dante Moore",
-          "pct": 4,
+          "pct": 11,
           "tracked": true
         },
         {
           "name": "LaNorris Sellers",
           "pct": 3,
           "tracked": false
+        },
+        {
+          "name": "Dante Moore",
+          "pct": 2,
+          "tracked": true
         }
       ],
       "field_pct": 0,
@@ -1630,7 +1662,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 47,
+          "pct": 38,
           "tracked": false
         },
         {
@@ -1669,7 +1701,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 6,
       "field_count": 24
     },
     {
@@ -1679,12 +1711,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 24,
+          "pct": 25,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 19,
+          "pct": 20,
           "tracked": true
         },
         {
@@ -1698,27 +1730,27 @@
           "tracked": false
         },
         {
-          "name": "CJ Carr",
+          "name": "Trinidad Chambliss",
           "pct": 7,
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 6,
-          "tracked": true
-        },
-        {
           "name": "Keelon Russell",
-          "pct": 6,
+          "pct": 7,
           "tracked": false
         },
         {
-          "name": "Arch Manning",
-          "pct": 4,
+          "name": "CJ Carr",
+          "pct": 6,
           "tracked": true
+        },
+        {
+          "name": "Gunner Stockton",
+          "pct": 4,
+          "tracked": false
         }
       ],
-      "field_pct": 14,
+      "field_pct": 11,
       "field_count": 33
     }
   ],
