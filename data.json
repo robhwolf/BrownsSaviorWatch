@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T04:27:16.730070+00:00",
+  "updated_at": "2026-09-29T17:42:43.600950+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -130,8 +130,8 @@
         "opponent": "Vanderbilt",
         "opponent_id": 238,
         "home_away": "at",
-        "kickoff": "2026-10-10T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-10T19:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "at Vanderbilt"
@@ -278,8 +278,8 @@
         "opponent": "UCLA",
         "opponent_id": 26,
         "home_away": "vs",
-        "kickoff": "2026-10-10T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-10T19:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs UCLA"
@@ -846,8 +846,8 @@
         "opponent": "UCF",
         "opponent_id": 2116,
         "home_away": "vs",
-        "kickoff": "2026-10-10T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-10T16:00:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs UCF"
@@ -1533,76 +1533,76 @@
   ],
   "news": [
     {
+      "headline": "Dante Moore suffered concussion, but no additional injuries on hit that sent him to hospital",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpKbFdVZlJzNjVJNVZwempQbGcwcEMtSTFIaV91bm92T2dBaHpLZXNYS3d0SFMwazlYQTBZZ1NISldObzFfbEN3dUdocTU0VkhGR2R6NElyQWE3RVVycDV5Zlp5UXRCUGVTd1pPbVMxcmhDVVBIRGNEcVJJTms0UUhYcE9uc3hDTnJ1X1RmOEZ1YjJIc0JmMjVfVQ?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 21,
+      "score": 29
+    },
+    {
+      "headline": "Dan Lanning Gets Real on How Oregon Must 'Protect' Dante Moore Before Injury Return",
+      "source": "si.com",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWloM0RuN1VIMHVNLW5tX0NCOHVxekJHUmZQT3Noc3pRTlRxZVE5cUJwVmpmQy1TckZFMkM5ZDJQeEZtQVUxaTNwTHAxV2hxQnFSOUMwdWtvWXZyYWs5eGoyZVVvVlF0UHAzeUEydnFXZk5hejZBbG0yRk5rVmdIZXVBU3RycEViNUs3RGthMmNJMGJqaW1DOXk2cUdhbGVReE8xdWh2TGtTRTVsN1NURg?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 19,
+      "score": 21
+    },
+    {
       "headline": "Dante Moore injury update: Oregon QB suffers concussion, no additional injuries",
       "source": "USA Today",
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSng3TE1yaS03UEN5QllzS3BQSm9KcHoydGgxRHhEMFBLSW9ZZkt6NjhFMmp6b19qblFWQ0loZkN6LW9qRVJXdUxDWUwwQmxpSnE4NEpuRWZ4YWd1UDZsVHVPLWZ4RjYteTlmcDNYbnRVTDktLWlYOVNodnJuZExqVEZjemNWWEVtc3Y5cXlxUlBYblNjX3dqN3ZVVHRLU1dqYnlnQkdscDI2OVNvUXFZbmVwOTNTSURnUTV2czJvanVacXVnTGlKRHdVMFpGMlVoN2xQLTRwRmh5aG5E?oc=5",
       "player": "Dante Moore",
-      "age_hours": 11,
-      "score": 25
-    },
-    {
-      "headline": "How patience paid off for Dylan Raiola, Oregon as ex-Nebraska QB steps up for Ducks after Dante Moore injury",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYk1HaDlwalgyb0NFMDhZcTRPX2hoMnJfcFlIUVMzczd0bDBEeFp5ZjNkR3RyS3o3dHVZMnA1bzE3MmJJUFM4N004bTNhb0VRbFVmT0Z2RnFxdUdNV3dlNkxPTnJUbDU2VWI0VUNUSE1Nc1ZFME4wVkpmSXhYMmFnQkIwT1dXaXVwbVFCUjEyeWNiNURlNVBSamFLY0g?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 11,
-      "score": 21
-    },
-    {
-      "headline": "Urban Meyer Reacts to USC's Desman Stephens II Suspension After Dante Moore Injury",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGc4aUx0SHpNVDlBV0ZOd0V1M1lGeE50VWlIWERPR3l2dVpqU2lKbmhQNUdsUnRMWWdqQWJrOWNRU2txYVBleGRzY2IwV09fQ1FYLUNjZ1RzYmNZTU5JUGtlbTdGRVdtLU1PWW5XOWtMS2x0UkYzd21MRE9CbkkyU3o1UHdFWFlfQ2hQMTFtMFJaRFhCV2ZGNzdBbnFIWGpxczNMZkRfYVlkbzJvMEtYY1FwNWF2ZVNHc2YtNUN6WGZKQQ?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 3,
-      "score": 21
-    },
-    {
-      "headline": "Dan Lanning Gets Real on How Oregon Must 'Protect' Dante Moore Before Injury Return",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWloM0RuN1VIMHVNLW5tX0NCOHVxekJHUmZQT3Noc3pRTlRxZVE5cUJwVmpmQy1TckZFMkM5ZDJQeEZtQVUxaTNwTHAxV2hxQnFSOUMwdWtvWXZyYWs5eGoyZVVvVlF0UHAzeUEydnFXZk5hejZBbG0yRk5rVmdIZXVBU3RycEViNUs3RGthMmNJMGJqaW1DOXk2cUdhbGVReE8xdWh2TGtTRTVsN1NURg?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 6,
+      "age_hours": 24,
       "score": 21
     },
     {
       "headline": "Dante Moore Delivers Heartfelt Message to Ducks Fans After Injury",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUYyOTJLakNSSHIwMk9tTkFQejFsMk9FeDJ3QVBoMXlBMEtkcHhTdkU2QVpDcjJCVjdROW1sLVI1LXJVTnlMNnVYQm9ZVFhMbGRRNGxjSUFXWC1Ic2pCQkdwTTdpRW8zZk1TUng3djFOY2xhVXJmTFBNZE0xdDEwSWV5bWNvV1BhckZ5WHU3X3dER3lUcVpQYnFwbEtFYTJndVl6aFJ6djRrQQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 8,
+      "age_hours": 22,
       "score": 21
     },
     {
-      "headline": "Viral Photo Tells Different Side of USC's Reaction to Dante Moore Injury",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGFmdnFGX2tMWEo1cUJOZkdYeFdHdk5JNHI4U0JrUGhwbVY2V1dzVVdTbG1SQ3ZpdFBrTVFMVDdfZm1KeVNTdG9QQ21wVmdYWlM3UWhya1ZZSEVLd2hmMWZzRnpvWEticTA1c3BiRWpUYW1nVEVfeENTMXBVSHV3V0NFRGZtU0d5WHpjRll1QlVZdHo3dWZiaTdVSVJLbkNrcGJwVlBqSHdoLU1iYWhmOTFB?oc=5",
+      "headline": "2027 NFL Draft Shock Meter: Could Julian Sayin, Dante Moore -- among other top QBs -- return?",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcG5kRi1DaThOOFN6OVM5NDVsZGROamQtcWRNVUZfWXVxTnRkSzNJOUZZek0wNFFMY3JaWHd5QkZwbUVTY0FQY0RhdDJqT1c3a3c0VlZqbkF6Qlhwd3RmVW5HYXpIUkRtT2piQmhiSEJZZmV2YlpvMzFUeUk5WnBIcXhySlF1R0NjY0JRcDd0MXA4Rmt1N3FkbWw0dWE2NHVsbGdlaTFDUkFMOFNVMjk0eg?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 17,
+      "score": 20
+    },
+    {
+      "headline": "Raiola steps in for injured Moore, rallies Oregon past USC",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzJmNlo1RTYzTXZMRnNVUnNuTmRkZUZPSWg5blFDRDZDa3luQ1ByMlp4bHdZUXdPNWVOdUJ1b2E2eUVvaDJOemRfR1ptQTdNVGtXWUVjcU0xajMzMUtvTXAzbVlSUXhhZG9kM0R5bVdqRzhNd0F5LUZ6VFRiQUYxYi1yRVdDLXR3VzhQajgtTkQwRlBTX3NEb3NxaWkteUZvazlTelBn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 8,
-      "score": 21
+      "age_hours": 62,
+      "score": 19
     },
     {
-      "headline": "Steve Sarkisian updates injury status of Hollywood Smothers, Cam Coleman as Texas football enters bye",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbjE3b2lZTWlIWXBVNUxpOG9vYWk2U1VwTXU4dG15Z19WRG5CbFJPci1Tc2Z0WWhhQlBkRUFIQ0tpSFdvMzRUcTQzRWNZX2JDZFhJWGpCZGhnV1Q5YS1FUnBkdFNpWHZ0dGluU0xPY2M3dGhYaXZkUkFvWHFJajFrV2lBb3BDRzVYYmJBMVVhU2hpQmVERVFsUUF6RTFHQzJFbGVUVGN5aDZMV0lPTlNITE8wcm8tWXhxVWVJNkM2amVvcXd0bXNPNXVSUlMzdDVHeHlCMm1jd1pWZGZrcXY0a0lFWF9TNlZOUVEtdA?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 11,
-      "score": 21
+      "headline": "Dante Moore makes first statement since injury: 'I\u2019ll be back soon'",
+      "source": "USA Today",
+      "domain": "usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdjlKMVJIV2tQaGNFbDdRZzZLRXZLUFdTYlZUci1Bd0V2YzVZUnBuY0VUWi1QR0ZRcmNsdXc1TTBDQ3NZWGUzcC1zY2F0ZW0wTzhaODFNS21DSjBsZjZ0LXhralhJS2YzTThMbTQtdHRnYVNxd1VIRGhkWnZWWlhXZFVZenBpaTM0cGgyS1BnZ1BpSUhmS0o0cjV2a1prYUpIbk8yYjBGVFBzbTVEd0RYVU8wZ0VmRzdYRzRV?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 22,
+      "score": 19
     },
     {
-      "headline": "The Quick Hitters: Lane Kiffin talks Harlem Berry\u2019s growth, LSU\u2019s injury bug and Sam Leavitt status",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaFlOc3FrZ2pSLWdWV1AzeVpXVDlvZTJ2VWVfMzk5WHFVb3JkQ2l0R3lMU185Qi1SUTZ0UWRhSWg1MW9GYkJxSHpOcC1qb1JQaUJZQkdWVkdFZEtaMlRjX2xZT3E5N2pDNHJHUzZ6NHpBUUFBRC1MR1NTRnhxU3VCUGh5WEcyTlBmaWlZZkEyazZJeG5zMVMwNzNlM2hBM1IzdmJ5ck1VaUNPWHBUYmhEVnU3YlFsNVQ3blMtX05nSjcxVFpjbWNvbWZIbjhYSC1HNzNMbnVrenlGQ3hMb2dsRzdzSmlncS03Mng4YUNMRC1wUGtHVmc?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 10,
-      "score": 21
+      "headline": "USC suspends LB Stephens one game after hit on Oregon QB Moore",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWhDa0lfOU04M2dHU0FuNEt0b3Z5QWJub29XZXJLaXRXbVhsUmxYa21PeElMWkRfMUg2Zng5ZmtrY0l2R1RZOEkyMVY3SWJzWEliREpFSmFveUFvRU1HN242WDhwbXhmVHlGbERtYTkwSkUyYTRJeTk0UVRKcHhleVRxanFWY2MybnN3c1V6dURmLVdSc0VTM1VPSm92VTh1TW5KRWk4R0NXWWFNRmd0Uw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 47,
+      "score": 18
     }
   ],
   "kalshi": [
@@ -1613,17 +1613,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 24,
+          "pct": 22,
           "tracked": false
         },
         {
-          "name": "CJ Carr",
+          "name": "Arch Manning",
           "pct": 16,
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 14,
+          "name": "CJ Carr",
+          "pct": 16,
           "tracked": true
         },
         {
@@ -1637,22 +1637,22 @@
           "tracked": true
         },
         {
+          "name": "Dante Moore",
+          "pct": 7,
+          "tracked": true
+        },
+        {
           "name": "Drew Mestemaker",
-          "pct": 8,
+          "pct": 7,
           "tracked": true
         },
         {
           "name": "LaNorris Sellers",
           "pct": 3,
           "tracked": false
-        },
-        {
-          "name": "Dante Moore",
-          "pct": 2,
-          "tracked": true
         }
       ],
-      "field_pct": 12,
+      "field_pct": 8,
       "field_count": 13
     },
     {
@@ -1662,7 +1662,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 54,
+          "pct": 53,
           "tracked": false
         },
         {
@@ -1673,6 +1673,11 @@
         {
           "name": "Carolina",
           "pct": 8,
+          "tracked": false
+        },
+        {
+          "name": "Arizona",
+          "pct": 5,
           "tracked": false
         },
         {
@@ -1694,11 +1699,6 @@
           "name": "San Francisco",
           "pct": 5,
           "tracked": false
-        },
-        {
-          "name": "Arizona",
-          "pct": 4,
-          "tracked": false
         }
       ],
       "field_pct": 0,
@@ -1716,12 +1716,12 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 20,
+          "pct": 17,
           "tracked": true
         },
         {
           "name": "Kamario Taylor",
-          "pct": 13,
+          "pct": 12,
           "tracked": false
         },
         {
@@ -1731,7 +1731,7 @@
         },
         {
           "name": "Keelon Russell",
-          "pct": 7,
+          "pct": 8,
           "tracked": false
         },
         {
@@ -1745,12 +1745,12 @@
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
+          "name": "Malachi Toney",
           "pct": 4,
-          "tracked": true
+          "tracked": false
         }
       ],
-      "field_pct": 10,
+      "field_pct": 13,
       "field_count": 33
     }
   ],
