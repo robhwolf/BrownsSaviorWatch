@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:39:42.418083+00:00",
+  "updated_at": "2026-09-30T21:54:29.993799+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -99,31 +99,10 @@
         "color": "#13294b"
       },
       "status": {
-        "event_id": "401856699",
-        "week": 4,
-        "opponent": "Florida",
-        "opponent_id": 57,
-        "home_away": "at",
-        "kickoff": "2026-09-26T19:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "L",
-        "score": "28-52",
-        "label": "L 28-52 at Florida"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 25,
-        "att": 34,
-        "pass_yds": 298,
-        "pass_td": 1,
-        "int": 1,
-        "rush_att": 7,
-        "rush_yds": 44,
-        "rush_td": 2,
-        "comp_pct": 73.5,
-        "ypa": 8.8
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856718",
         "week": 6,
@@ -395,18 +374,16 @@
         "color": "#0c2340"
       },
       "status": {
-        "event_id": "401858467",
-        "week": 4,
-        "opponent": "Purdue",
-        "opponent_id": 2509,
+        "event_id": "401858250",
+        "week": 5,
+        "opponent": "North Carolina",
+        "opponent_id": 153,
         "home_away": "at",
-        "kickoff": "2026-09-26T18:00:00.000Z",
+        "kickoff": "2026-10-03T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "49-10",
-        "label": "W 49-10 at Purdue"
+        "state": "scheduled",
+        "label": "at North Carolina"
       },
       "game": null,
       "next_game": {
@@ -677,8 +654,16 @@
         "color": "#ba0c2f"
       },
       "status": {
-        "state": "idle",
-        "label": "No game this week"
+        "event_id": "401858473",
+        "week": 5,
+        "opponent": "Iowa",
+        "opponent_id": 2294,
+        "home_away": "at",
+        "kickoff": "2026-10-03T19:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "at Iowa"
       },
       "game": null,
       "next_game": {
@@ -1513,40 +1498,22 @@
   ],
   "news": [
     {
-      "headline": "Dante Moore suffered concussion, but no additional injuries on hit that sent him to hospital",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpKbFdVZlJzNjVJNVZwempQbGcwcEMtSTFIaV91bm92T2dBaHpLZXNYS3d0SFMwazlYQTBZZ1NISldObzFfbEN3dUdocTU0VkhGR2R6NElyQWE3RVVycDV5Zlp5UXRCUGVTd1pPbVMxcmhDVVBIRGNEcVJJTms0UUhYcE9uc3hDTnJ1X1RmOEZ1YjJIc0JmMjVfVQ?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 45,
-      "score": 25
-    },
-    {
-      "headline": "Oregon's Dante Moore Vows to 'Be Back Soon' in Injury Update After Concussion vs. USC",
-      "source": "Bleacher Report",
-      "domain": "bleacherreport.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUlxcGxBY1VFOTR0Z1hSSHphZmlJNnFaZ2FhSHdvaU43YU10bUwtbDUzVGJodmVQMFBBMkVEZXMwYXBOcnJ2bGVIcGJidkFSSXA2X0dnMWx3UVQzbWdMUnpBWkRKRUgwUDhEVFRZNnpBMkg5UmNabHhvSzNsXzA0eHFhVFV5NUEtSnd4bEgwX044eFlYSUlqTGFnRGVDZVdsWVRUQi1KNHZEUkF4QnE0cGVScy1RTkRRZEZYRg?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 23,
-      "score": 21
-    },
-    {
       "headline": "Dante Moore injury update: Oregon QB suffers concussion, no additional injuries",
       "source": "USA Today",
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSng3TE1yaS03UEN5QllzS3BQSm9KcHoydGgxRHhEMFBLSW9ZZkt6NjhFMmp6b19qblFWQ0loZkN6LW9qRVJXdUxDWUwwQmxpSnE4NEpuRWZ4YWd1UDZsVHVPLWZ4RjYteTlmcDNYbnRVTDktLWlYOVNodnJuZExqVEZjemNWWEVtc3Y5cXlxUlBYblNjX3dqN3ZVVHRLU1dqYnlnQkdscDI2OVNvUXFZbmVwOTNTSURnUTV2czJvanVacXVnTGlKRHdVMFpGMlVoN2xQLTRwRmh5aG5E?oc=5",
       "player": "Dante Moore",
-      "age_hours": 48,
+      "age_hours": 52,
       "score": 21
     },
     {
-      "headline": "NFL Draft news: Dante Moore bounces back from scary injury, goes top 10 in latest ClutchPoints 2027 NFL Mock Draft",
-      "source": "Yahoo Sports",
-      "domain": "sports.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa1VhUVB0TnFiQllvUmlMbzgyVnZ5T3FhS2IzNTJIM1owTUZBb19iTEFYbXdwb2QzSjRDOXh2SFZxb21tTW1sVXQwZWM2bkNNZ0h2a1FWdDlBdHd6dERPMUhQdFBwMDFBVGRsZkZjQVR1T28yalRSdGpEMTE5Sl8zZg?oc=5",
+      "headline": "Dante Moore injury update: Oregon QB 'doing well,' but no timetable for return",
+      "source": "USA Today",
+      "domain": "usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSlktSzF0bW8yb1JNdGVpSHpMejFDblR0RWNzaU0xUFlINW12ODUtOG9USk0wc18tbkhrYlhwb1dMQ3JvMGJhSUREd09DekUzOVRXWV9zREpzSENrdm1aMkdHWDRmVFo5M3V5eUE4ZklXTXVRTE51cGJhNzFlTFhGWS1haWZJWkdieEdnMnlCOU9ZZDRWaG5sem9jaU9wY0dhQUpIMUhrUXh5NUlsREpEOFVhbEIxX2JzdVBObnExN25uRlFQbEtr?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1,
-      "score": 20
+      "age_hours": 3,
+      "score": 19
     },
     {
       "headline": "Oregon quarterback Dante Moore sustains concussion from hit at USC",
@@ -1554,7 +1521,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
       "player": "Dante Moore",
-      "age_hours": 66,
+      "age_hours": 70,
       "score": 19
     },
     {
@@ -1563,7 +1530,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT21KS0Vubm44N3JQaFdyWkJMLTk3UmZTeEhYMTVXem4zakpZRUs0Q2NabWhnUW5fcW95aFpKU1ROb01JaktmbWVMeFBfV19VS2Z4Q3NYWFhiUGEzN3ozSzZVdjZodHFtOF95U3Axa3UxSXM1aUdIS081b2pMWGZZWFBmb0dzby1HT2QtcDZtOGtydFlSNy1FWlB4QlFyckVKbjFkdWVERjEtTk5MM09XdDBLUkZSUGI5THFMeXBVLWRZVE80ckpBZnozOXluWWMtTDFWSHV3?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 7,
+      "age_hours": 11,
       "score": 18
     },
     {
@@ -1572,7 +1539,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORi1VQU5fdTR6b184T3NMd0lOb2w3bnJSU1Y5T3FGNlAwREdtUHpKM0tZR2taUTkzX0tILXJnRzhSdXV4MENHeVBBWnp3WUtqaW9pQWxmR09YRE9ESThLb0ZzV2lTa0hndFJWdllGSTJrWlAwenkyTHdBT29XVkFsNmR0a3NLTFJzUWRrSEtiR0tCQUM5T2x3ZDZ2QXBTM3hwSEtfQjdn?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 18,
+      "age_hours": 22,
       "score": 18
     },
     {
@@ -1581,8 +1548,26 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjVWY1YtUGN1TE9pVV9rY3hKVFlWcUhkNG1WM002REgxWUVVcm16ckFCVURVc1pzckVHRy1vdFEyVEpPR0E4dWpZWHRhS0VMLVVQY015OWEwVVNSU1Eybi1wNFFnSlh3U2xhUGxod0RwSWhyQWZsT3dlVW80Z0E1YlJSWkRDWWs4T09GS2VHWkdmZmxpQi03NE9n?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 18,
+      "age_hours": 22,
       "score": 18
+    },
+    {
+      "headline": "Why Julian Sayin Will Be in the Heisman Conversation By the End of the Season",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ002cDB0UnZPcWcyZHh3VXk0LTFxSkF4Q1Nqel9LOW0zMlJna1AtanpsNWd0UXRFS0NaSjZLd2hEN0hxQUM0eVgtTzRmV2s4a25Za1dyeVVKNFlXcFZlcFF0NFdLbXVlZkdxbVhzZTAwUHhIQjlLLUYxN3JKRk5pNzRNYVE0MG9lUzZoZXdwUElXeUFaTTlpcTlTT2RjQk1udHFPX09weUtVcXFIT084UERFNno4eGVvMDFYNHhIeldFLVZEbUxuczlvWWQtc3phTUE?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 22,
+      "score": 18
+    },
+    {
+      "headline": "Trinidad Chambliss Is Chasing an Ole Miss QB Record That Has Stood For A Decade",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXJUc2ZMVGlrNW9zVk1aQ25Ja3BtdTBJX3Rzd28yZk1pMXhraEZtYWh0Vk1sd3hXa1VTNnl3djRuRWYwYVNDazhNM3BUNjZ5S0l6SThMcW5uZ1c0a3dNLTVMZnZneEVIN2U1S2tJbl9TdjRDSS11RW94bVptc3pzTnFiREJjLVlsTEZFQ3U5OFlaN1dvby01ODRWNVZjSjhibzhJOVp3QVJIZTNfU01CU1dDb3NnVkNiNlZrbHo0VlU?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 2,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -1593,22 +1578,22 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 24,
+          "pct": 25,
           "tracked": false
         },
         {
           "name": "Arch Manning",
-          "pct": 17,
-          "tracked": true
-        },
-        {
-          "name": "Darian Mensah",
-          "pct": 17,
+          "pct": 19,
           "tracked": true
         },
         {
           "name": "CJ Carr",
           "pct": 16,
+          "tracked": true
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 14,
           "tracked": true
         },
         {
@@ -1623,7 +1608,7 @@
         },
         {
           "name": "Dante Moore",
-          "pct": 6,
+          "pct": 7,
           "tracked": true
         },
         {
@@ -1641,6 +1626,11 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
+          "name": "Carolina",
+          "pct": 59,
+          "tracked": false
+        },
+        {
           "name": "Miami",
           "pct": 46,
           "tracked": false
@@ -1651,8 +1641,8 @@
           "tracked": false
         },
         {
-          "name": "Carolina",
-          "pct": 8,
+          "name": "Tampa Bay",
+          "pct": 7,
           "tracked": false
         },
         {
@@ -1673,11 +1663,6 @@
         {
           "name": "San Francisco",
           "pct": 5,
-          "tracked": false
-        },
-        {
-          "name": "New York J",
-          "pct": 4,
           "tracked": false
         }
       ],
@@ -1701,7 +1686,7 @@
         },
         {
           "name": "Kamario Taylor",
-          "pct": 11,
+          "pct": 12,
           "tracked": false
         },
         {
@@ -1710,27 +1695,27 @@
           "tracked": true
         },
         {
+          "name": "Jadan Baugh",
+          "pct": 9,
+          "tracked": false
+        },
+        {
           "name": "Keelon Russell",
           "pct": 8,
           "tracked": false
         },
         {
-          "name": "Jadan Baugh",
-          "pct": 6,
-          "tracked": false
-        },
-        {
           "name": "CJ Carr",
-          "pct": 5,
+          "pct": 6,
           "tracked": true
         },
         {
-          "name": "Malachi Toney",
-          "pct": 4,
+          "name": "Gunner Stockton",
+          "pct": 3,
           "tracked": false
         }
       ],
-      "field_pct": 12,
+      "field_pct": 8,
       "field_count": 33
     }
   ],
