@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T18:05:05.682110+00:00",
+  "updated_at": "2026-10-02T04:15:30.046094+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1408,7 +1408,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDdiVDZ1bEg4dGZkcEtqSEI3blJLN01KNE5uNDZWcGt0UXBzbGR6Ym53bmdOTzVFMTF5UFU0eDZZaWRzR1AxdUIyQ1ByczBYYkxlb0g0Q0k1eXNXdVhET0VSUGU4T2F3NkF2dHJndjVYeXBkX19OMGlOTDVndTJObk9wZmViMjMwcW9FNUJmOA?oc=5",
       "player": "CJ Carr",
-      "age_hours": 7,
+      "age_hours": 17,
       "score": 22
     },
     {
@@ -1417,35 +1417,17 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVRXLVZQMmFKYlJPbXV3UGNqTU1Nb1ZSTkthMENMZTFMWUF2RkswV2VxTEpmUFd3RU1LMW12elVIVFIyek5helpMZ0dlanZKU2VMQ2RHSHdRdm5fejVtQWNfMUJ0SmRLb3RZU0FLSFlQZmV3MGY0M2hoQXdqWm9qSGhFeVFTRzZMX0tGM3QyRS16Yl9Jc0EtX0pfMnRldw?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 8,
+      "age_hours": 18,
       "score": 22
     },
     {
-      "headline": "Dan Lanning Pulls Back the Curtain on Handling Emotions After Dante Moore Injury",
+      "headline": "Dan Lanning Clears the Air on Feelings Towards USC After Dante Moore Injury",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ25CR3RXX2NRZkp3OEJEWVg3QndhOFhNbk94VGtJOTlFTklIdUhmNl9fMGstR3pPemxKQ0JhdnZNb3JTSjdRS3R4ZVZmbllrUFctZ1hVbW5sX0JaZGl3c1ZBalFFN2pFTkpiOUhoMlczNnUzeEpmaFFIcUgtUktLd1FIb0NzWkdUdDE2M24tQmtlUERmOUEwRlc0VjJqVjA2MC1HdzN3d2tDUTZGNl9YajJZWkFiYWQyWmJMRVR1X0w?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmlvN1dkY2ZLenItcXBxM1dzVHMxblh5cF85UjMwamxEU2lpTzhfbllIRFdDd0xiei1GVWRUTjNvaF84b0JpS3VvdUphUVBTS04yWFpQYm96ZEsxVmlRSE5kbHhFUEh6a2pyMm5MXzR5MHplQ2tyYWVzYlIwSngxYWlkbTZvVEktVmIzMjVRUTVnbWFxRDV6MFlVZ2JoWUZ6ajNQOFA3T3BlODhJczBtdENmRQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 17,
+      "age_hours": 4,
       "score": 21
-    },
-    {
-      "headline": "Dante Moore injury update: Oregon QB 'doing well,' but no timetable for return",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSlktSzF0bW8yb1JNdGVpSHpMejFDblR0RWNzaU0xUFlINW12ODUtOG9USk0wc18tbkhrYlhwb1dMQ3JvMGJhSUREd09DekUzOVRXWV9zREpzSENrdm1aMkdHWDRmVFo5M3V5eUE4ZklXTXVRTE51cGJhNzFlTFhGWS1haWZJWkdieEdnMnlCOU9ZZDRWaG5sem9jaU9wY0dhQUpIMUhrUXh5NUlsREpEOFVhbEIxX2JzdVBObnExN25uRlFQbEtr?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 23,
-      "score": 19
-    },
-    {
-      "headline": "Jay Timmons is questionable for Iowa \u2014 here's the latest on Ohio State's injury report",
-      "source": "Cleveland.com",
-      "domain": "cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3RmRnV0WWw3WHo3c3liLVRORjRDT0lSRHpZSGpraTgyLXkyRi1uYVlXRUVBUHJ0QkpXMnhNNWZTYVNsTWRHV1U3SmZjVnMxVlNsNXBJOTF0anBZSXp6SVNvbEwwQjVqdVBnQjV5eEM2MUlsUjcxeDk3V2NUb24wNUZSRnE5NUZ4aDR5dmV2SllwU3ZXNHM3MGt1clBEbXFrRDhjS3dHZlVQSWMwX2xoRW5kLTQ0YU9vX2VB?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 18,
-      "score": 19
     },
     {
       "headline": "Dante Moore injury update: Oregon QB suffers concussion, no additional injuries",
@@ -1453,7 +1435,16 @@
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSng3TE1yaS03UEN5QllzS3BQSm9KcHoydGgxRHhEMFBLSW9ZZkt6NjhFMmp6b19qblFWQ0loZkN6LW9qRVJXdUxDWUwwQmxpSnE4NEpuRWZ4YWd1UDZsVHVPLWZ4RjYteTlmcDNYbnRVTDktLWlYOVNodnJuZExqVEZjemNWWEVtc3Y5cXlxUlBYblNjX3dqN3ZVVHRLU1dqYnlnQkdscDI2OVNvUXFZbmVwOTNTSURnUTV2czJvanVacXVnTGlKRHdVMFpGMlVoN2xQLTRwRmh5aG5E?oc=5",
       "player": "Dante Moore",
-      "age_hours": 73,
+      "age_hours": 83,
+      "score": 18
+    },
+    {
+      "headline": "Aaron Murray on Arch Manning: People are going to draft him because he has the last name",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0FnSGVuRVo1UVZOVGkxbXRDRXBPUjY3X1hZZlhyUmEzR01yR2ZTUEZmOGVZdVFwYnJnb283em4xWmxORHJ4M3hPR1RhSGlWRGlYdTRkUGtUNjVGcHNQZkNSdnBYdFc5SHEyNGE0Zm0zdFlDTExJT1VaNnRXTUp1d0NjNWFJUTFHcE5LNFBZYVlDbnFVMzI3WGNCU0F6Y05aTmtlVlFSaUw3ZEtaaEw4c1Y2QQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 8,
       "score": 18
     },
     {
@@ -1462,16 +1453,25 @@
       "domain": "bleacherreport.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUlxcGxBY1VFOTR0Z1hSSHphZmlJNnFaZ2FhSHdvaU43YU10bUwtbDUzVGJodmVQMFBBMkVEZXMwYXBOcnJ2bGVIcGJidkFSSXA2X0dnMWx3UVQzbWdMUnpBWkRKRUgwUDhEVFRZNnpBMkg5UmNabHhvSzNsXzA0eHFhVFV5NUEtSnd4bEgwX044eFlYSUlqTGFnRGVDZVdsWVRUQi1KNHZEUkF4QnE0cGVScy1RTkRRZEZYRg?oc=5",
       "player": "Dante Moore",
-      "age_hours": 48,
+      "age_hours": 58,
       "score": 17
     },
     {
-      "headline": "Urban Meyer Reacts to USC's Desman Stephens II Suspension After Dante Moore Injury",
+      "headline": "Dan Lanning Pulls Back the Curtain on Handling Emotions After Dante Moore Injury",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGc4aUx0SHpNVDlBV0ZOd0V1M1lGeE50VWlIWERPR3l2dVpqU2lKbmhQNUdsUnRMWWdqQWJrOWNRU2txYVBleGRzY2IwV09fQ1FYLUNjZ1RzYmNZTU5JUGtlbTdGRVdtLU1PWW5XOWtMS2x0UkYzd21MRE9CbkkyU3o1UHdFWFlfQ2hQMTFtMFJaRFhCV2ZGNzdBbnFIWGpxczNMZkRfYVlkbzJvMEtYY1FwNWF2ZVNHc2YtNUN6WGZKQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ25CR3RXX2NRZkp3OEJEWVg3QndhOFhNbk94VGtJOTlFTklIdUhmNl9fMGstR3pPemxKQ0JhdnZNb3JTSjdRS3R4ZVZmbllrUFctZ1hVbW5sX0JaZGl3c1ZBalFFN2pFTkpiOUhoMlczNnUzeEpmaFFIcUgtUktLd1FIb0NzWkdUdDE2M24tQmtlUERmOUEwRlc0VjJqVjA2MC1HdzN3d2tDUTZGNl9YajJZWkFiYWQyWmJMRVR1X0w?oc=5",
       "player": "Dante Moore",
-      "age_hours": 65,
+      "age_hours": 27,
+      "score": 17
+    },
+    {
+      "headline": "Ohio State doesn\u2019t need \u2018Money Manziel Julian.\u2019 But its QB answered Ryan Day\u2019s challenge",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2FhWDJSRHd4MllnaVhGeTQ5U25yVHBBeUw3V3ZRc1ZCRUNHbWEzT0IzQUE1THN2ODNtb2tuWHVhVGlvZHRnekI4SzFWdWpHdTdSckF2UldHZWEtVDNOeEw1aC1qWlhWUGdiNG5rZFFnaHlDaEhEX0o1SDJzOURDNURfcF9UZ1d6R1lHNklqNS1LUm8?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 18,
       "score": 17
     }
   ],
@@ -1482,14 +1482,14 @@
       "url": "https://kalshi.com/markets/kxnfldraftpick/nfl-draft-pick/kxnfldraftpick-27-1",
       "candidates": [
         {
+          "name": "Jeremiah Smith",
+          "pct": 24,
+          "tracked": false
+        },
+        {
           "name": "Drew Mestemaker",
           "pct": 24,
           "tracked": true
-        },
-        {
-          "name": "Jeremiah Smith",
-          "pct": 23,
-          "tracked": false
         },
         {
           "name": "Arch Manning",
@@ -1498,12 +1498,12 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 15,
+          "pct": 16,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
-          "pct": 12,
+          "pct": 13,
           "tracked": true
         },
         {
@@ -1537,12 +1537,12 @@
         },
         {
           "name": "Miami",
-          "pct": 53,
+          "pct": 48,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 22,
+          "pct": 25,
           "tracked": false
         },
         {
@@ -1591,7 +1591,7 @@
         },
         {
           "name": "Kamario Taylor",
-          "pct": 14,
+          "pct": 15,
           "tracked": false
         },
         {
@@ -1600,12 +1600,12 @@
           "tracked": true
         },
         {
-          "name": "Jadan Baugh",
-          "pct": 9,
+          "name": "Keelon Russell",
+          "pct": 8,
           "tracked": false
         },
         {
-          "name": "Keelon Russell",
+          "name": "Jadan Baugh",
           "pct": 8,
           "tracked": false
         },
@@ -1615,12 +1615,12 @@
           "tracked": true
         },
         {
-          "name": "Malachi Toney",
-          "pct": 4,
+          "name": "Gunner Stockton",
+          "pct": 3,
           "tracked": false
         }
       ],
-      "field_pct": 7,
+      "field_pct": 8,
       "field_count": 33
     }
   ],
