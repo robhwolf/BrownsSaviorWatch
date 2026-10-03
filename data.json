@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T09:34:33.825024+00:00",
+  "updated_at": "2026-10-03T18:25:22.941650+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -366,16 +366,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858250",
-        "week": 5,
-        "opponent": "North Carolina",
-        "opponent_id": 153,
-        "home_away": "at",
-        "kickoff": "2026-10-03T16:00:00.000Z",
+        "event_id": "401858257",
+        "week": 6,
+        "opponent": "Stanford",
+        "opponent_id": 24,
+        "home_away": "vs",
+        "kickoff": "2026-10-10T19:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at North Carolina"
+        "label": "vs Stanford"
       },
       "log": [
         {
@@ -1403,12 +1403,21 @@
   ],
   "news": [
     {
+      "headline": "Oregon Coach Dan Lanning Gives Positive Dante Moore Injury Update",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWtTQ1ZBX29kUmJsaERHZ1BFdXh5WTZHZ1F1dGFKY3JTNXdrNHhFQ3FEWlltOHFCYnRPTzdJRkNwb1lUdDVHa3FuYXFBNmpiQzZ4M1pXQjhvNG4yaWJEUWZod2pQNXdrR2VueEpiZ3ZyV2FMUUk2b3VFcWhkR09wWkZNZkw3cks5VVJDWTIzbkxjemxqbFlRaWViVDJtX2VrVHdHcGsxemt5UFnSAasBQVVfeXFMTklGU1E5cXRNVHYtYXAyTm5jOVpTMFN5LTNjUmNFZG5zUzFDcHdHWEN0b09NMlg1RE9OZ01mTjd1a0U4UEkyQ1A2OVBLVFF2aWxla01iRFFvOGE5dHBEYk44SFB1TFlTVUJTazRaSkw4cjI0WTlPc3FINlpOWnU2SHNRRWpWV0ROM1hydmZKS3ExYlpDaklYRUxYUDJfTDhpNUFqNDNkNjFidGh3?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 1,
+      "score": 21
+    },
+    {
       "headline": "10 Biggest Risers, Fallers In 2027 NFL Draft: Is QB Drew Mestemaker A First-Rounder?",
       "source": "FOX Sports",
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnlyUXFMemw4U3VqR3NYSzlVbE5QeTFtZGRETkZHV3hsS0w3dVlQSGdrcWZNajNvNTRPR0xVckI2Tndwc3NLOFVzRmhGS1dJVndfNWJUemkxX1BNVmtDQ0dHYm5pYVlPX2EyUkc3djBEaTBLSTExRHI4YU5FdlZkVzYtMmlMVm1FSlFTRnJRbUd1dHByQjE4R2VPRHpURzdwUEw1enFuclNtbXNxQ2VmNdIBsAFBVV95cUxOdjNUa21HNTNTQVZqWkNma1dOZk1JTnQ0YXZGOFRWc3BFMHM4NHhaUVc2dFJnNDhuZkVVYm9WbkNCUjhfQl9jOFNJb1gxTEZPOFpFOEw1bXNwdWFUelhYRDdXMFhnNHpBUGt0dmNIbkQwWFNsdDNqckExXzVlOEdMZi0zODlUaVRLanhzWWZSenRkUmJsU1BtYTNLWnM4eVl5bkQxRW9Bcnh3UkgxYUdXUA?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 15,
+      "age_hours": 24,
       "score": 20
     },
     {
@@ -1417,16 +1426,16 @@
       "domain": "sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU19hMjVCVmVxcUUwbVhSd3BkbFZIYWdoVHVsLXNDaTc1ODRfSHU1Z2x6U2Rvek5ZRGRrSFR2cFp4cUd2RlZZOVNWSTRoeDdMc0ZJUEViX21kenRDalFXbENvbzZPNTBNcUxNTVJ1UVZLSVB3VVlick5sY3RISFlkOGtHUUM4QlU?oc=5",
       "player": "Dante Moore",
-      "age_hours": 15,
+      "age_hours": 24,
       "score": 18
     },
     {
       "headline": "Dante Moore injury update: Oregon QB suffers concussion, no additional injuries",
-      "source": "USA Today",
+      "source": "usatoday.com",
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSng3TE1yaS03UEN5QllzS3BQSm9KcHoydGgxRHhEMFBLSW9ZZkt6NjhFMmp6b19qblFWQ0loZkN6LW9qRVJXdUxDWUwwQmxpSnE4NEpuRWZ4YWd1UDZsVHVPLWZ4RjYteTlmcDNYbnRVTDktLWlYOVNodnJuZExqVEZjemNWWEVtc3Y5cXlxUlBYblNjX3dqN3ZVVHRLU1dqYnlnQkdscDI2OVNvUXFZbmVwOTNTSURnUTV2czJvanVacXVnTGlKRHdVMFpGMlVoN2xQLTRwRmh5aG5E?oc=5",
       "player": "Dante Moore",
-      "age_hours": 112,
+      "age_hours": 121,
       "score": 18
     },
     {
@@ -1435,7 +1444,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDdiVDZ1bEg4dGZkcEtqSEI3blJLN01KNE5uNDZWcGt0UXBzbGR6Ym53bmdOTzVFMTF5UFU0eDZZaWRzR1AxdUIyQ1ByczBYYkxlb0g0Q0k1eXNXdVhET0VSUGU4T2F3NkF2dHJndjVYeXBkX19OMGlOTDVndTJObk9wZmViMjMwcW9FNUJmOA?oc=5",
       "player": "CJ Carr",
-      "age_hours": 47,
+      "age_hours": 55,
       "score": 18
     },
     {
@@ -1444,8 +1453,17 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVRXLVZQMmFKYlJPbXV3UGNqTU1Nb1ZSTkthMENMZTFMWUF2RkswV2VxTEpmUFd3RU1LMW12elVIVFIyek5helpMZ0dlanZKU2VMQ2RHSHdRdm5fejVtQWNfMUJ0SmRLb3RZU0FLSFlQZmV3MGY0M2hoQXdqWm9qSGhFeVFTRzZMX0tGM3QyRS16Yl9Jc0EtX0pfMnRldw?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 47,
+      "age_hours": 56,
       "score": 18
+    },
+    {
+      "headline": "Dan Lanning\u2019s Dante Moore Injury Comments Carry Bigger Meaning for Oregon",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYkNmbUc5S1U2aEIyNDRLOUdIeHZ6LU56TWtXZ1psREV1U2ZMZFJYdmt6THpaVmwxV3pmdnRaNURuUE1lSE1LV0dVNWcxT08tbGZBal9SV1hTemozQmdYNldmMF83b1AtV0xXRVVZejNPc21FYnNwQ0Fzd1ptakdxQzVvVm5uX0VMMVZWQjhHR2EwS3JPVkRtbFBqRHZxbXYySXNoakZ1ZjFVb2Y3TWZB?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 28,
+      "score": 17
     },
     {
       "headline": "Dan Lanning Clears the Air on Feelings Towards USC After Dante Moore Injury",
@@ -1453,25 +1471,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmlvN1dkY2ZLenItcXBxM1dzVHMxblh5cF85UjMwamxEU2lpTzhfbllIRFdDd0xiei1GVWRUTjNvaF84b0JpS3VvdUphUVBTS04yWFpQYm96ZEsxVmlRSE5kbHhFUEh6a2pyMm5MXzR5MHplQ2tyYWVzYlIwSngxYWlkbTZvVEktVmIzMjVRUTVnbWFxRDV6MFlVZ2JoWUZ6ajNQOFA3T3BlODhJczBtdENmRQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 34,
-      "score": 17
-    },
-    {
-      "headline": "Dan Lanning Pulls Back the Curtain on Handling Emotions After Dante Moore Injury",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ25CR3RXX2NRZkp3OEJEWVg3QndhOFhNbk94VGtJOTlFTklIdUhmNl9fMGstR3pPemxKQ0JhdnZNb3JTSjdRS3R4ZVZmbllrUFctZ1hVbW5sX0JaZGl3c1ZBalFFN2pFTkpiOUhoMlczNnUzeEpmaFFIcUgtUktLd1FIb0NzWkdUdDE2M24tQmtlUERmOUEwRlc0VjJqVjA2MC1HdzN3d2tDUTZGNl9YajJZWkFiYWQyWmJMRVR1X0w?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 57,
-      "score": 17
-    },
-    {
-      "headline": "Will UNC be trap game for Notre Dame or another chance for Irish to push for perfection?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY21pMWhxZVZCUEdadWN2T0tPNWtuWm5vc3RoRER4MTNtTk01QzM5d1dHVHdnN0lIYVFsdmNuNWN4eGVYbmNJcWdqZXRNYm5MYVNpbWlCZ3EwbUNQUlRPTlEzQnZQcmRYNUJhRWdqOUJUUlFUNG51V2dFbHBNQzl3c2J2MTlnQ3ZpRHpLTkdn?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 14,
+      "age_hours": 42,
       "score": 17
     }
   ],
@@ -1487,6 +1487,11 @@
           "tracked": false
         },
         {
+          "name": "CJ Carr",
+          "pct": 20,
+          "tracked": true
+        },
+        {
           "name": "Drew Mestemaker",
           "pct": 19,
           "tracked": true
@@ -1497,13 +1502,8 @@
           "tracked": true
         },
         {
-          "name": "CJ Carr",
-          "pct": 15,
-          "tracked": true
-        },
-        {
           "name": "Darian Mensah",
-          "pct": 13,
+          "pct": 12,
           "tracked": true
         },
         {
@@ -1532,17 +1532,12 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 52,
+          "pct": 47,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 24,
-          "tracked": false
-        },
-        {
-          "name": "Carolina",
-          "pct": 7,
+          "pct": 23,
           "tracked": false
         },
         {
@@ -1566,6 +1561,11 @@
           "tracked": false
         },
         {
+          "name": "Tampa Bay",
+          "pct": 5,
+          "tracked": false
+        },
+        {
           "name": "Atlanta",
           "pct": 4,
           "tracked": false
@@ -1581,17 +1581,22 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 25,
+          "pct": 24,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 18,
+          "pct": 19,
           "tracked": true
         },
         {
-          "name": "Kamario Taylor",
-          "pct": 15,
+          "name": "CJ Carr",
+          "pct": 12,
+          "tracked": true
+        },
+        {
+          "name": "Keelon Russell",
+          "pct": 12,
           "tracked": false
         },
         {
@@ -1605,22 +1610,17 @@
           "tracked": false
         },
         {
-          "name": "Keelon Russell",
-          "pct": 8,
-          "tracked": false
-        },
-        {
-          "name": "CJ Carr",
+          "name": "Kamario Taylor",
           "pct": 6,
-          "tracked": true
+          "tracked": false
         },
         {
-          "name": "Gunner Stockton",
+          "name": "Julian Sayin",
           "pct": 3,
-          "tracked": false
+          "tracked": true
         }
       ],
-      "field_pct": 7,
+      "field_pct": 6,
       "field_count": 33
     }
   ],
