@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T00:56:34.208335+00:00",
+  "updated_at": "2026-10-03T03:14:03.355745+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1403,13 +1403,13 @@
   ],
   "news": [
     {
-      "headline": "Texas Bye Week Intel: OU Focus, Players Return From Injury",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUlJRTEJPdHRzUUZEd25XVXdPeExWYjIzZDZhdWRENnR3RGR2ZTZnWW5DVTc0Rm5SX1pVa3FOV0VuejhweVlPR2Y0RzlzczctM2wtLVlKLUs2M0VNek1vVzE2d0s2LTJCZDZ4WUxZb1FMR0g0ZGJ6Q2RZNVE0cmlUQ0c1NWV2c1lTYUQtQ0JpOFBfS05WMG1CSjdrRFp1TmNPS2UwZC1Taw?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 23,
-      "score": 21
+      "headline": "Dante Moore suffered concussion, but no additional injuries on hit that sent him to hospital",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpKbFdVZlJzNjVJNVZwempQbGcwcEMtSTFIaV91bm92T2dBaHpLZXNYS3d0SFMwazlYQTBZZ1NISldObzFfbEN3dUdocTU0VkhGR2R6NElyQWE3RVVycDV5Zlp5UXRCUGVTd1pPbVMxcmhDVVBIRGNEcVJJTms0UUhYcE9uc3hDTnJ1X1RmOEZ1YjJIc0JmMjVfVQ?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 111,
+      "score": 22
     },
     {
       "headline": "10 Biggest Risers, Fallers In 2027 NFL Draft: Is QB Drew Mestemaker A First-Rounder?",
@@ -1417,7 +1417,7 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnlyUXFMemw4U3VqR3NYSzlVbE5QeTFtZGRETkZHV3hsS0w3dVlQSGdrcWZNajNvNTRPR0xVckI2Tndwc3NLOFVzRmhGS1dJVndfNWJUemkxX1BNVmtDQ0dHYm5pYVlPX2EyUkc3djBEaTBLSTExRHI4YU5FdlZkVzYtMmlMVm1FSlFTRnJRbUd1dHByQjE4R2VPRHpURzdwUEw1enFuclNtbXNxQ2VmNdIBsAFBVV95cUxOdjNUa21HNTNTQVZqWkNma1dOZk1JTnQ0YXZGOFRWc3BFMHM4NHhaUVc2dFJnNDhuZkVVYm9WbkNCUjhfQl9jOFNJb1gxTEZPOFpFOEw1bXNwdWFUelhYRDdXMFhnNHpBUGt0dmNIbkQwWFNsdDNqckExXzVlOEdMZi0zODlUaVRLanhzWWZSenRkUmJsU1BtYTNLWnM4eVl5bkQxRW9Bcnh3UkgxYUdXUA?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 6,
+      "age_hours": 9,
       "score": 20
     },
     {
@@ -1426,7 +1426,7 @@
       "domain": "sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU19hMjVCVmVxcUUwbVhSd3BkbFZIYWdoVHVsLXNDaTc1ODRfSHU1Z2x6U2Rvek5ZRGRrSFR2cFp4cUd2RlZZOVNWSTRoeDdMc0ZJUEViX21kenRDalFXbENvbzZPNTBNcUxNTVJ1UVZLSVB3VVlick5sY3RISFlkOGtHUUM4QlU?oc=5",
       "player": "Dante Moore",
-      "age_hours": 6,
+      "age_hours": 9,
       "score": 18
     },
     {
@@ -1435,7 +1435,7 @@
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSng3TE1yaS03UEN5QllzS3BQSm9KcHoydGgxRHhEMFBLSW9ZZkt6NjhFMmp6b19qblFWQ0loZkN6LW9qRVJXdUxDWUwwQmxpSnE4NEpuRWZ4YWd1UDZsVHVPLWZ4RjYteTlmcDNYbnRVTDktLWlYOVNodnJuZExqVEZjemNWWEVtc3Y5cXlxUlBYblNjX3dqN3ZVVHRLU1dqYnlnQkdscDI2OVNvUXFZbmVwOTNTSURnUTV2czJvanVacXVnTGlKRHdVMFpGMlVoN2xQLTRwRmh5aG5E?oc=5",
       "player": "Dante Moore",
-      "age_hours": 103,
+      "age_hours": 106,
       "score": 18
     },
     {
@@ -1444,7 +1444,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDdiVDZ1bEg4dGZkcEtqSEI3blJLN01KNE5uNDZWcGt0UXBzbGR6Ym53bmdOTzVFMTF5UFU0eDZZaWRzR1AxdUIyQ1ByczBYYkxlb0g0Q0k1eXNXdVhET0VSUGU4T2F3NkF2dHJndjVYeXBkX19OMGlOTDVndTJObk9wZmViMjMwcW9FNUJmOA?oc=5",
       "player": "CJ Carr",
-      "age_hours": 38,
+      "age_hours": 40,
       "score": 18
     },
     {
@@ -1453,7 +1453,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjVWY1YtUGN1TE9pVV9rY3hKVFlWcUhkNG1WM002REgxWUVVcm16ckFCVURVc1pzckVHRy1vdFEyVEpPR0E4dWpZWHRhS0VMLVVQY015OWEwVVNSU1Eybi1wNFFnSlh3U2xhUGxod0RwSWhyQWZsT3dlVW80Z0E1YlJSWkRDWWs4T09GS2VHWkdmZmxpQi03NE9n?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 5,
+      "age_hours": 7,
       "score": 18
     },
     {
@@ -1462,7 +1462,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVRXLVZQMmFKYlJPbXV3UGNqTU1Nb1ZSTkthMENMZTFMWUF2RkswV2VxTEpmUFd3RU1LMW12elVIVFIyek5helpMZ0dlanZKU2VMQ2RHSHdRdm5fejVtQWNfMUJ0SmRLb3RZU0FLSFlQZmV3MGY0M2hoQXdqWm9qSGhFeVFTRzZMX0tGM3QyRS16Yl9Jc0EtX0pfMnRldw?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 39,
+      "age_hours": 41,
       "score": 18
     },
     {
@@ -1471,7 +1471,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmlvN1dkY2ZLenItcXBxM1dzVHMxblh5cF85UjMwamxEU2lpTzhfbllIRFdDd0xiei1GVWRUTjNvaF84b0JpS3VvdUphUVBTS04yWFpQYm96ZEsxVmlRSE5kbHhFUEh6a2pyMm5MXzR5MHplQ2tyYWVzYlIwSngxYWlkbTZvVEktVmIzMjVRUTVnbWFxRDV6MFlVZ2JoWUZ6ajNQOFA3T3BlODhJczBtdENmRQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 25,
+      "age_hours": 27,
       "score": 17
     }
   ],
@@ -1591,12 +1591,12 @@
         },
         {
           "name": "Kamario Taylor",
-          "pct": 19,
+          "pct": 18,
           "tracked": false
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 10,
+          "pct": 9,
           "tracked": true
         },
         {
@@ -1620,7 +1620,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 1,
+      "field_pct": 3,
       "field_count": 33
     }
   ],
