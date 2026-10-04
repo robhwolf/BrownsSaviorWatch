@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T03:46:46.467642+00:00",
+  "updated_at": "2026-10-04T10:20:55.803451+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1440,10 +1440,23 @@
         "kickoff": "2026-10-04T03:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Cincinnati"
+        "state": "final",
+        "result": "W",
+        "score": "34-7",
+        "label": "W 34-7 vs Cincinnati"
       },
-      "game": null,
+      "game": {
+        "cmp": 25,
+        "att": 37,
+        "pass_yds": 284,
+        "pass_td": 2,
+        "int": 1,
+        "rush_att": 8,
+        "rush_yds": 17,
+        "rush_td": 1,
+        "comp_pct": 67.6,
+        "ypa": 7.7
+      },
       "next_game": {
         "event_id": "401856823",
         "week": 6,
@@ -1533,36 +1546,55 @@
           "result": "W",
           "score": "34-24",
           "date": "2026-09-26T23:30:00.000Z"
+        },
+        {
+          "cmp": 25,
+          "att": 37,
+          "pass_yds": 284,
+          "pass_td": 2,
+          "int": 1,
+          "rush_att": 8,
+          "rush_yds": 17,
+          "rush_td": 1,
+          "comp_pct": 67.6,
+          "ypa": 7.7,
+          "event_id": "401856820",
+          "week": 5,
+          "opponent": "Cincinnati",
+          "home_away": "vs",
+          "result": "W",
+          "score": "34-7",
+          "date": "2026-10-04T03:00:00.000Z"
         }
       ],
       "season": {
-        "games": 4,
-        "record": "3-1",
-        "cmp": 98,
-        "att": 130,
-        "comp_pct": 75.4,
-        "pass_yds": 1114,
-        "ypa": 8.6,
-        "pass_td": 11,
-        "int": 2,
-        "td_int": "11-2",
-        "rush_yds": 86,
-        "rush_td": 2,
-        "total_td": 13,
-        "ypg": 278,
-        "rating": 172.2,
+        "games": 5,
+        "record": "4-1",
+        "cmp": 123,
+        "att": 167,
+        "comp_pct": 73.7,
+        "pass_yds": 1398,
+        "ypa": 8.4,
+        "pass_td": 13,
+        "int": 3,
+        "td_int": "13-3",
+        "rush_yds": 103,
+        "rush_td": 3,
+        "total_td": 16,
+        "ypg": 280,
+        "rating": 166.1,
         "epa_per_play": null
       }
     }
   ],
   "news": [
     {
-      "headline": "Dante Moore suffered concussion, but no additional injuries on hit that sent him to hospital",
+      "headline": "Why Ohio State QB Julian Sayin is a difficult prospect to scout: NFL Draft reactions",
       "source": "The New York Times",
       "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpKbFdVZlJzNjVJNVZwempQbGcwcEMtSTFIaV91bm92T2dBaHpLZXNYS3d0SFMwazlYQTBZZ1NISldObzFfbEN3dUdocTU0VkhGR2R6NElyQWE3RVVycDV5Zlp5UXRCUGVTd1pPbVMxcmhDVVBIRGNEcVJJTms0UUhYcE9uc3hDTnJ1X1RmOEZ1YjJIc0JmMjVfVQ?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 135,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMG5rWDFLVUNyTXl0REItbXJwelNkSl9RQk1CRTYwX1p4VkJ3Q0ozaUpvTThPRDJ4N3NGWV9xYWEtUUpXOHFMWFo5WkdVT0NzMHFnN3RPU21qRzNBS3cwaFpOZ3hlTVQtQml3anBYdjNDYkI1LU55cWwxRkxvUkU1YTNndXkzSjRJXzFhSQ?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 4,
       "score": 22
     },
     {
@@ -1571,7 +1603,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnaWVIWm5WcE1LMlROeWVudjB4b2hsWW9xNkY1RlJ6Tm41Y1Z2ZEhyOHR6WDUyazN5a2hULXVkOVhlRXdTTHIzWGZ3S0tKOGdNSEY4dkpKbTg0Z0E?oc=5",
       "player": "CJ Carr",
-      "age_hours": 8,
+      "age_hours": 14,
       "score": 20
     },
     {
@@ -1580,7 +1612,7 @@
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSng3TE1yaS03UEN5QllzS3BQSm9KcHoydGgxRHhEMFBLSW9ZZkt6NjhFMmp6b19qblFWQ0loZkN6LW9qRVJXdUxDWUwwQmxpSnE4NEpuRWZ4YWd1UDZsVHVPLWZ4RjYteTlmcDNYbnRVTDktLWlYOVNodnJuZExqVEZjemNWWEVtc3Y5cXlxUlBYblNjX3dqN3ZVVHRLU1dqYnlnQkdscDI2OVNvUXFZbmVwOTNTSURnUTV2czJvanVacXVnTGlKRHdVMFpGMlVoN2xQLTRwRmh5aG5E?oc=5",
       "player": "Dante Moore",
-      "age_hours": 130,
+      "age_hours": 137,
       "score": 18
     },
     {
@@ -1589,7 +1621,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQTN1TGNBWFZXNUozYWxVLTg2bkwxMERFSDV3Y3ltYVlmTkhXQjhyYWtFTlE2cHp4Z1VuTGE5NFJ5T2kyY0FkZ3ZwTnFTb2U3TlFjQ0tJYmxMUE92TGt2Tl95bGQ0eG52QWtRb0I3UnlOUHptY1pkYkxYYUs1a0o1MVlYR2dvZHJuemlTWmRB?oc=5",
       "player": "CJ Carr",
-      "age_hours": 8,
+      "age_hours": 14,
       "score": 18
     },
     {
@@ -1598,16 +1630,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDdiVDZ1bEg4dGZkcEtqSEI3blJLN01KNE5uNDZWcGt0UXBzbGR6Ym53bmdOTzVFMTF5UFU0eDZZaWRzR1AxdUIyQ1ByczBYYkxlb0g0Q0k1eXNXdVhET0VSUGU4T2F3NkF2dHJndjVYeXBkX19OMGlOTDVndTJObk9wZmViMjMwcW9FNUJmOA?oc=5",
       "player": "CJ Carr",
-      "age_hours": 65,
-      "score": 18
-    },
-    {
-      "headline": "Who is rising up the 2027 NFL Draft boards? DJ McKinney, Drew Mestemaker and other transfers",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVRXLVZQMmFKYlJPbXV3UGNqTU1Nb1ZSTkthMENMZTFMWUF2RkswV2VxTEpmUFd3RU1LMW12elVIVFIyek5helpMZ0dlanZKU2VMQ2RHSHdRdm5fejVtQWNfMUJ0SmRLb3RZU0FLSFlQZmV3MGY0M2hoQXdqWm9qSGhFeVFTRzZMX0tGM3QyRS16Yl9Jc0EtX0pfMnRldw?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 66,
+      "age_hours": 71,
       "score": 18
     },
     {
@@ -1616,16 +1639,25 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmlvN1dkY2ZLenItcXBxM1dzVHMxblh5cF85UjMwamxEU2lpTzhfbllIRFdDd0xiei1GVWRUTjNvaF84b0JpS3VvdUphUVBTS04yWFpQYm96ZEsxVmlRSE5kbHhFUEh6a2pyMm5MXzR5MHplQ2tyYWVzYlIwSngxYWlkbTZvVEktVmIzMjVRUTVnbWFxRDV6MFlVZ2JoWUZ6ajNQOFA3T3BlODhJczBtdENmRQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 52,
+      "age_hours": 58,
       "score": 17
     },
     {
-      "headline": "Carr, ground game help No. 3 Notre Dame push past North Carolina 37-26 for 15th straight win",
+      "headline": "Notre Dame's CJ Carr DELIVERS on Pat McAfee's crossbar challenge",
       "source": "ESPN",
       "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyVFlzVjZ4SEVZTkFFYW84SHlHYnFLY3FiNHVsbEtvbjdlelJYSDdmaFFRTE1tWElMN0QxdFRZSHZqT1pxLUpfYXJwakozdkFTd1hwMkpzalhIQ2p3c1RaSzZiekk4OVl4cG9VcA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4TVl1LXJZbHA4YjZNanFOOUx1RjhtMk5JS2RfVWg2M1hFUjZULVlIam5UTVI4RzZ5Nkgwc3h4M1lhYTJ4ZFV0ZEoxNUwwOWZqdW9lNmVta3A?oc=5",
       "player": "CJ Carr",
-      "age_hours": 8,
+      "age_hours": 20,
+      "score": 17
+    },
+    {
+      "headline": "Imperfect Notre Dame still answered key question. So how far away is Bill Belichick\u2019s UNC?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2VVdF9mUjRGZThueFQ1UjZ5VlJsQnFXUU1Va0JJWHNXb3hwRTEwd1dfWkItZ2VOMGpFejZoaHNxeU9RaXd0OG1mQWc1bEUxa1JFX3c0RTJuZVlUcVZ6NU9WZElmSnNfaW1MQ1lodXFoR1BVcTZ0SmZtRVZoV2pBdVVxdFJvRnBRM1RfRDZNZXRIZw?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 7,
       "score": 17
     }
   ],
@@ -1686,7 +1718,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 47,
+          "pct": 46,
           "tracked": false
         },
         {
@@ -1695,8 +1727,8 @@
           "tracked": false
         },
         {
-          "name": "Arizona",
-          "pct": 5,
+          "name": "Carolina",
+          "pct": 7,
           "tracked": false
         },
         {
@@ -1720,12 +1752,12 @@
           "tracked": false
         },
         {
-          "name": "Cleveland",
+          "name": "Arizona",
           "pct": 3,
           "tracked": false
         }
       ],
-      "field_pct": 11,
+      "field_pct": 10,
       "field_count": 24
     },
     {
@@ -1735,12 +1767,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 46,
+          "pct": 47,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 18,
+          "pct": 14,
           "tracked": true
         },
         {
@@ -1764,17 +1796,17 @@
           "tracked": false
         },
         {
-          "name": "Malachi Toney",
+          "name": "Josh Hoover",
           "pct": 3,
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 3,
+          "name": "Julian Sayin",
+          "pct": 2,
           "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 4,
       "field_count": 33
     }
   ],
