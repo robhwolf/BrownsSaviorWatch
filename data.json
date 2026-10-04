@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T21:53:33.677508+00:00",
+  "updated_at": "2026-10-04T00:13:14.512702+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -530,16 +530,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858249",
-        "week": 5,
-        "opponent": "Clemson",
-        "opponent_id": 228,
-        "home_away": "at",
-        "kickoff": "2026-10-03T23:30:00.000Z",
-        "tbd": false,
+        "event_id": "401858263",
+        "week": 7,
+        "opponent": "Florida State",
+        "opponent_id": 52,
+        "home_away": "vs",
+        "kickoff": "2026-10-17T04:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Clemson"
+        "label": "vs Florida State"
       },
       "log": [
         {
@@ -660,10 +660,23 @@
         "kickoff": "2026-10-03T19:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Iowa"
+        "state": "final",
+        "result": "W",
+        "score": "31-14",
+        "label": "W 31-14 at Iowa"
       },
-      "game": null,
+      "game": {
+        "cmp": 20,
+        "att": 27,
+        "pass_yds": 324,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 9,
+        "rush_yds": -1,
+        "rush_td": 0,
+        "comp_pct": 74.1,
+        "ypa": 12.0
+      },
       "next_game": {
         "event_id": "401858483",
         "week": 6,
@@ -752,24 +765,43 @@
           "result": "W",
           "score": "42-19",
           "date": "2026-09-26T16:00:00.000Z"
+        },
+        {
+          "cmp": 20,
+          "att": 27,
+          "pass_yds": 324,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 9,
+          "rush_yds": -1,
+          "rush_td": 0,
+          "comp_pct": 74.1,
+          "ypa": 12.0,
+          "event_id": "401858473",
+          "week": 5,
+          "opponent": "Iowa",
+          "home_away": "at",
+          "result": "W",
+          "score": "31-14",
+          "date": "2026-10-03T19:30:00.000Z"
         }
       ],
       "season": {
-        "games": 4,
-        "record": "3-1",
-        "cmp": 83,
-        "att": 115,
-        "comp_pct": 72.2,
-        "pass_yds": 1206,
-        "ypa": 10.5,
-        "pass_td": 10,
+        "games": 5,
+        "record": "4-1",
+        "cmp": 103,
+        "att": 142,
+        "comp_pct": 72.5,
+        "pass_yds": 1530,
+        "ypa": 10.8,
+        "pass_td": 13,
         "int": 1,
-        "td_int": "10-1",
-        "rush_yds": 7,
+        "td_int": "13-1",
+        "rush_yds": 6,
         "rush_td": 2,
-        "total_td": 12,
-        "ypg": 302,
-        "rating": 187.2,
+        "total_td": 15,
+        "ypg": 306,
+        "rating": 191.8,
         "epa_per_play": null
       }
     },
@@ -1055,16 +1087,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856706",
-        "week": 5,
-        "opponent": "McNeese",
-        "opponent_id": 2377,
-        "home_away": "vs",
-        "kickoff": "2026-10-03T23:45:00.000Z",
+        "event_id": "401856715",
+        "week": 6,
+        "opponent": "Kentucky",
+        "opponent_id": 96,
+        "home_away": "at",
+        "kickoff": "2026-10-10T23:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs McNeese"
+        "label": "at Kentucky"
       },
       "log": [
         {
@@ -1190,16 +1222,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858478",
-        "week": 5,
-        "opponent": "Washington",
-        "opponent_id": 264,
-        "home_away": "vs",
-        "kickoff": "2026-10-03T23:30:00.000Z",
+        "event_id": "401858485",
+        "week": 6,
+        "opponent": "Penn State",
+        "opponent_id": 213,
+        "home_away": "at",
+        "kickoff": "2026-10-10T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Washington"
+        "label": "at Penn State"
       },
       "log": [
         {
@@ -1435,21 +1467,12 @@
   ],
   "news": [
     {
-      "headline": "Oregon Coach Dan Lanning Gives Positive Dante Moore Injury Update",
-      "source": "FOX Sports",
+      "headline": "Oregon's Dan Lanning Provides Update On Dante Moore Injury",
+      "source": "foxsports.com",
       "domain": "foxsports.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWtTQ1ZBX29kUmJsaERHZ1BFdXh5WTZHZ1F1dGFKY3JTNXdrNHhFQ3FEWlltOHFCYnRPTzdJRkNwb1lUdDVHa3FuYXFBNmpiQzZ4M1pXQjhvNG4yaWJEUWZod2pQNXdrR2VueEpiZ3ZyV2FMUUk2b3VFcWhkR09wWkZNZkw3cks5VVJDWTIzbkxjemxqbFlRaWViVDJtX2VrVHdHcGsxemt5UFnSAasBQVVfeXFMTklGU1E5cXRNVHYtYXAyTm5jOVpTMFN5LTNjUmNFZG5zUzFDcHdHWEN0b09NMlg1RE9OZ01mTjd1a0U4UEkyQ1A2OVBLVFF2aWxla01iRFFvOGE5dHBEYk44SFB1TFlTVUJTazRaSkw4cjI0WTlPc3FINlpOWnU2SHNRRWpWV0ROM1hydmZKS3ExYlpDaklYRUxYUDJfTDhpNUFqNDNkNjFidGh3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpRFJ5bkczbDZoOGJ4MzBGdk9YcDg2U0J4OGNNTjdFZWxXWDRDeTltRWFlWDhIcEUzbnAtN3lyUDY2QnNZU0o2VTBNTHo0LTJucFE4R00yZzNzUWlNbFZpRXNR?oc=5",
       "player": "Dante Moore",
-      "age_hours": 5,
-      "score": 21
-    },
-    {
-      "headline": "Major Changes to USC Trojans Injury Report Before Washington",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWjU0a21jVXo0bUg1MVNrZnMxRXVqUzFZcXpQX0NPMFhrTnV5cHlhSXVlUDl5NlZCR0xnVUphekRMdG84SThMMFF1d3VZaEgtdzRETTZMVEJXWUk0SUNtVFNwTlZkX0RaQUlvbTktS1JVaFhjWDlCaVlzLWNYUm96TW1ITzlkMTk3N3hIN3RsajZpbGZ5bFl4Qk4zZWpuQQ?oc=5",
-      "player": "Jayden Maiava",
-      "age_hours": 22,
+      "age_hours": 9,
       "score": 21
     },
     {
@@ -1458,7 +1481,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnaWVIWm5WcE1LMlROeWVudjB4b2hsWW9xNkY1RlJ6Tm41Y1Z2ZEhyOHR6WDUyazN5a2hULXVkOVhlRXdTTHIzWGZ3S0tKOGdNSEY4dkpKbTg0Z0E?oc=5",
       "player": "CJ Carr",
-      "age_hours": 2,
+      "age_hours": 4,
       "score": 20
     },
     {
@@ -1467,16 +1490,7 @@
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSng3TE1yaS03UEN5QllzS3BQSm9KcHoydGgxRHhEMFBLSW9ZZkt6NjhFMmp6b19qblFWQ0loZkN6LW9qRVJXdUxDWUwwQmxpSnE4NEpuRWZ4YWd1UDZsVHVPLWZ4RjYteTlmcDNYbnRVTDktLWlYOVNodnJuZExqVEZjemNWWEVtc3Y5cXlxUlBYblNjX3dqN3ZVVHRLU1dqYnlnQkdscDI2OVNvUXFZbmVwOTNTSURnUTV2czJvanVacXVnTGlKRHdVMFpGMlVoN2xQLTRwRmh5aG5E?oc=5",
       "player": "Dante Moore",
-      "age_hours": 124,
-      "score": 18
-    },
-    {
-      "headline": "Notre Dame earns soggy CFP style points as CJ Carr continues to quietly build Heisman case",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQTN1TGNBWFZXNUozYWxVLTg2bkwxMERFSDV3Y3ltYVlmTkhXQjhyYWtFTlE2cHp4Z1VuTGE5NFJ5T2kyY0FkZ3ZwTnFTb2U3TlFjQ0tJYmxMUE92TGt2Tl95bGQ0eG52QWtRb0I3UnlOUHptY1pkYkxYYUs1a0o1MVlYR2dvZHJuemlTWmRB?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 2,
+      "age_hours": 127,
       "score": 18
     },
     {
@@ -1485,7 +1499,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDdiVDZ1bEg4dGZkcEtqSEI3blJLN01KNE5uNDZWcGt0UXBzbGR6Ym53bmdOTzVFMTF5UFU0eDZZaWRzR1AxdUIyQ1ByczBYYkxlb0g0Q0k1eXNXdVhET0VSUGU4T2F3NkF2dHJndjVYeXBkX19OMGlOTDVndTJObk9wZmViMjMwcW9FNUJmOA?oc=5",
       "player": "CJ Carr",
-      "age_hours": 59,
+      "age_hours": 61,
       "score": 18
     },
     {
@@ -1494,7 +1508,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVRXLVZQMmFKYlJPbXV3UGNqTU1Nb1ZSTkthMENMZTFMWUF2RkswV2VxTEpmUFd3RU1LMW12elVIVFIyek5helpMZ0dlanZKU2VMQ2RHSHdRdm5fejVtQWNfMUJ0SmRLb3RZU0FLSFlQZmV3MGY0M2hoQXdqWm9qSGhFeVFTRzZMX0tGM3QyRS16Yl9Jc0EtX0pfMnRldw?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 60,
+      "age_hours": 62,
       "score": 18
     },
     {
@@ -1503,7 +1517,25 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmlvN1dkY2ZLenItcXBxM1dzVHMxblh5cF85UjMwamxEU2lpTzhfbllIRFdDd0xiei1GVWRUTjNvaF84b0JpS3VvdUphUVBTS04yWFpQYm96ZEsxVmlRSE5kbHhFUEh6a2pyMm5MXzR5MHplQ2tyYWVzYlIwSngxYWlkbTZvVEktVmIzMjVRUTVnbWFxRDV6MFlVZ2JoWUZ6ajNQOFA3T3BlODhJczBtdENmRQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 46,
+      "age_hours": 48,
+      "score": 17
+    },
+    {
+      "headline": "Dan Lanning Pulls Back the Curtain on Handling Emotions After Dante Moore Injury",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ25CR3RXX2NRZkp3OEJEWVg3QndhOFhNbk94VGtJOTlFTklIdUhmNl9fMGstR3pPemxKQ0JhdnZNb3JTSjdRS3R4ZVZmbllrUFctZ1hVbW5sX0JaZGl3c1ZBalFFN2pFTkpiOUhoMlczNnUzeEpmaFFIcUgtUktLd1FIb0NzWkdUdDE2M24tQmtlUERmOUEwRlc0VjJqVjA2MC1HdzN3d2tDUTZGNl9YajJZWkFiYWQyWmJMRVR1X0w?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 71,
+      "score": 17
+    },
+    {
+      "headline": "Imperfect Notre Dame still answered key question. So how far away is Bill Belichick\u2019s UNC?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2VVdF9mUjRGZThueFQ1UjZ5VlJsQnFXUU1Va0JJWHNXb3hwRTEwd1dfWkItZ2VOMGpFejZoaHNxeU9RaXd0OG1mQWc1bEUxa1JFX3c0RTJuZVlUcVZ6NU9WZElmSnNfaW1MQ1lodXFoR1BVcTZ0SmZtRVZoV2pBdVVxdFJvRnBRM1RfRDZNZXRIZw?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 3,
       "score": 17
     }
   ],
@@ -1515,7 +1547,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 28,
+          "pct": 34,
           "tracked": false
         },
         {
@@ -1525,16 +1557,16 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 17,
-          "tracked": true
-        },
-        {
-          "name": "Drew Mestemaker",
-          "pct": 13,
+          "pct": 18,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
+          "pct": 12,
+          "tracked": true
+        },
+        {
+          "name": "Drew Mestemaker",
           "pct": 12,
           "tracked": true
         },
@@ -1573,11 +1605,6 @@
           "tracked": false
         },
         {
-          "name": "New York J",
-          "pct": 7,
-          "tracked": false
-        },
-        {
           "name": "Arizona",
           "pct": 5,
           "tracked": false
@@ -1601,9 +1628,14 @@
           "name": "Atlanta",
           "pct": 4,
           "tracked": false
+        },
+        {
+          "name": "Cleveland",
+          "pct": 3,
+          "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 3,
       "field_count": 24
     },
     {
@@ -1613,12 +1645,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 31,
+          "pct": 42,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 18,
+          "pct": 19,
           "tracked": true
         },
         {
@@ -1628,18 +1660,13 @@
         },
         {
           "name": "Keelon Russell",
-          "pct": 10,
+          "pct": 8,
           "tracked": false
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 8,
+          "pct": 6,
           "tracked": true
-        },
-        {
-          "name": "Malachi Toney",
-          "pct": 5,
-          "tracked": false
         },
         {
           "name": "Gunner Stockton",
@@ -1647,12 +1674,17 @@
           "tracked": false
         },
         {
-          "name": "Julian Sayin",
+          "name": "Malachi Toney",
           "pct": 3,
+          "tracked": false
+        },
+        {
+          "name": "Julian Sayin",
+          "pct": 2,
           "tracked": true
         }
       ],
-      "field_pct": 8,
+      "field_pct": 3,
       "field_count": 33
     }
   ],
