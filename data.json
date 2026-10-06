@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T17:58:40.153019+00:00",
+  "updated_at": "2026-10-06T22:35:43.334605+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1594,7 +1594,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1,
+      "age_hours": 6,
       "score": 21
     },
     {
@@ -1603,17 +1603,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1gxSWpzNm9BY0k1MTRzSTd3XzdtUi1lcFpYQzNSalIzcUpxTTdWcDZySGRsX0xfNktEWjMxbWE3Qzc5d2pFMlJKVmJRQWl4VWZsdHEyaDRweWdPSnF4ZUxJNGswTFpVR19RVGJwcmNJazNlR1lNT1lWTDlac0FXak94TjVkOHpjc0plUXE3LW5qdU1FNDUtRjJOcDFodVk4YjVtRXZYRTA?oc=5",
       "player": "Dante Moore",
-      "age_hours": 15,
+      "age_hours": 20,
       "score": 21
-    },
-    {
-      "headline": "This player is flying under the radar as a Heisman favorite",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXFBY3d5ZlRiYXlUTTF0U1dPRjZEU2wzbkZxSDRTXzBYZUNURGRkOHU0cE1nbnRpT2w0SFVpc0FQOTBUcHNhRC1BNGxfdHFpb0o4RVliLU9reTdndTRVLTMwVEdaYllXOThRWWdwZzZObVdFZDhubGdDZmh2a2MxaTV5M3B6Q3VWaFJFZVBTSFE1ZmtGU2JDQlZhZzAzSzRRNFBmak5lbHhiWEsxNmZFdVJqV0VqOHFmY0l5b2ZDQzdpUVBRUmFVQnF3?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 6,
-      "score": 18
     },
     {
       "headline": "Why Ohio State QB Julian Sayin is a difficult prospect to scout: NFL Draft reactions - The Athletic",
@@ -1621,8 +1612,44 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMG5rWDFLVUNyTXl0REItbXJwelNkSl9RQk1CRTYwX1p4VkJ3Q0ozaUpvTThPRDJ4N3NGWV9xYWEtUUpXOHFMWFo5WkdVT0NzMHFnN3RPU21qRzNBS3cwaFpOZ3hlTVQtQml3anBYdjNDYkI1LU55cWwxRkxvUkU1YTNndXkzSjRJXzFhSQ?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 60,
+      "age_hours": 65,
       "score": 18
+    },
+    {
+      "headline": "This player is flying under the radar as a Heisman favorite",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXFBY3d5ZlRiYXlUTTF0U1dPRjZEU2wzbkZxSDRTXzBYZUNURGRkOHU0cE1nbnRpT2w0SFVpc0FQOTBUcHNhRC1BNGxfdHFpb0o4RVliLU9reTdndTRVLTMwVEdaYllXOThRWWdwZzZObVdFZDhubGdDZmh2a2MxaTV5M3B6Q3VWaFJFZVBTSFE1ZmtGU2JDQlZhZzAzSzRRNFBmak5lbHhiWEsxNmZFdVJqV0VqOHFmY0l5b2ZDQzdpUVBRUmFVQnF3?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 11,
+      "score": 18
+    },
+    {
+      "headline": "Dante Moore\u2019s Heisman Odds Change After Concussion",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1o2ODJTUzh6VFpWeThHMmIwanVtZDJMYXJNeGhUSXp1MW0xaHRleVlJSnExNWx4Q2J3djV1S2NCcU83RDFGV01EdHNwZWhlZXpMMlpPTVE1RUtiMUJBUTlJVUFtQzRMUVN1aEpfNmppdE9ydy13NXk4MjZyUF9Lb1VLaXlHeVFWeC1Va3Jn?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 100,
+      "score": 17
+    },
+    {
+      "headline": "College Football Playoff odds: Why Notre Dame and Miami are already viewed as near-locks",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJTWXNsck9ndy1icnJ3YnlBWnNteXp4d0hlbnNPdWlXejQtajJUa19iSGx5NkZWbDdfRE9hMVlaaU5wdWtPYkdzejdzU1FYNFVMTGI0U1owZ3VwZldvU1BxeXpiRTljZjFUUjBTZ2Ywc1JkMUhMT0ExOVJWV00yRXVsX1lqeWUtRG5yY0hvOUVYMDhLRGRLTDVRa2VlX1V2VldzUjRRenRRbW93cDZBWFlKMWl3UQ?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 8,
+      "score": 17
+    },
+    {
+      "headline": "How LSU is treating Sam Leavitt injury during the week",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzNwZlFjakdvclVUTE01MDhNVEtqUzVuVzNEWkhyaGxKcThjZGxndjFGREdyZXlwSUNOb0JxbXQ3RmRDU2JGRFBkdXZTWmxKRmxuUEVnS2RFeEwyaEdzelAyaVR3MkhmT3BGRl9ySE9SNU9UTDA2YWlSUzlUYk5ENGJQRjZCOFd2aVVmUUZCZkJ2R2dJQ0lUa3JXNHpLZw?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 28,
+      "score": 17
     },
     {
       "headline": "Oregon quarterback Dante Moore sustains concussion from hit at USC",
@@ -1630,25 +1657,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
       "player": "Dante Moore",
-      "age_hours": 227,
-      "score": 16
-    },
-    {
-      "headline": "Raiola steps in for injured Moore, rallies Oregon past USC",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzJmNlo1RTYzTXZMRnNVUnNuTmRkZUZPSWg5blFDRDZDa3luQ1ByMlp4bHdZUXdPNWVOdUJ1b2E2eUVvaDJOemRfR1ptQTdNVGtXWUVjcU0xajMzMUtvTXAzbVlSUXhhZG9kM0R5bVdqRzhNd0F5LUZ6VFRiQUYxYi1yRVdDLXR3VzhQajgtTkQwRlBTX3NEb3NxaWkteUZvazlTelBn?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 251,
-      "score": 16
-    },
-    {
-      "headline": "LSU removes QB Sam Leavitt from injury report ahead of Ole Miss showdown",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5cWFoRXZpMU5jajNEby1RYWprNHpYRzNXam1BQWtnTXMzYW5UemtsWUw3bEJIYktDUnVnSWQ1NnRWSlppOTNNMFFFaEVjS2VrbFo4ejBzQWVfWnNzNTBoTmh3a3R0MHNQMmtZUEZLcXdDTElOWG13azREYWdHWE4yRjJsZFhFSktKTks4TTktZkkySGc?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 395,
+      "age_hours": 232,
       "score": 16
     }
   ],
@@ -1664,8 +1673,8 @@
           "tracked": false
         },
         {
-          "name": "Arch Manning",
-          "pct": 16,
+          "name": "Drew Mestemaker",
+          "pct": 18,
           "tracked": true
         },
         {
@@ -1674,8 +1683,8 @@
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 13,
+          "name": "Arch Manning",
+          "pct": 14,
           "tracked": true
         },
         {
@@ -1685,7 +1694,7 @@
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 7,
+          "pct": 8,
           "tracked": true
         },
         {
@@ -1699,7 +1708,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 7,
+      "field_pct": 3,
       "field_count": 13
     },
     {
@@ -1709,12 +1718,12 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 48,
+          "pct": 47,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 22,
+          "pct": 35,
           "tracked": false
         },
         {
@@ -1758,17 +1767,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 49,
+          "pct": 47,
           "tracked": false
         },
         {
           "name": "Keelon Russell",
-          "pct": 13,
+          "pct": 11,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 12,
+          "pct": 10,
           "tracked": true
         },
         {
@@ -1778,13 +1787,13 @@
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 7,
+          "pct": 5,
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 3,
-          "tracked": true
+          "name": "Gunner Stockton",
+          "pct": 4,
+          "tracked": false
         },
         {
           "name": "Josh Hoover",
@@ -1797,7 +1806,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 1,
+      "field_pct": 8,
       "field_count": 38
     }
   ],
