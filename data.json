@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T04:31:37.818466+00:00",
+  "updated_at": "2026-10-07T18:28:48.251711+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -353,31 +353,10 @@
         "color": "#0c2340"
       },
       "status": {
-        "event_id": "401858250",
-        "week": 5,
-        "opponent": "North Carolina",
-        "opponent_id": 153,
-        "home_away": "at",
-        "kickoff": "2026-10-03T16:00:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "37-26",
-        "label": "W 37-26 at North Carolina"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 21,
-        "att": 29,
-        "pass_yds": 234,
-        "pass_td": 4,
-        "int": 0,
-        "rush_att": 4,
-        "rush_yds": 15,
-        "rush_td": 1,
-        "comp_pct": 72.4,
-        "ypa": 8.1
-      },
+      "game": null,
       "next_game": {
         "event_id": "401858257",
         "week": 6,
@@ -851,8 +830,16 @@
         "color": "#fe5c00"
       },
       "status": {
-        "state": "idle",
-        "label": "No game this week"
+        "event_id": "401856824",
+        "week": 6,
+        "opponent": "UCF",
+        "opponent_id": 2116,
+        "home_away": "vs",
+        "kickoff": "2026-10-10T16:00:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs UCF"
       },
       "game": null,
       "next_game": {
@@ -1589,13 +1576,13 @@
   ],
   "news": [
     {
-      "headline": "Dante Moore injury: Oregon star's return to practice opens the door for a QB dilemma vs. UCLA",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 12,
-      "score": 21
+      "headline": "2027 NFL mock draft: Jeremiah Smith at No. 1, CJ Carr first QB off the board - The Athletic",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWm5FREtrTy1UWWw2NldsdG5yOXdldXJKQnFhSF9rQl8yUERFYlFtN0FxZTN3MkxyZHFBckl6YWFWM19lTG5EN0JHZTdYYzRNczNXQnItSkM5T1BFTlkzR2dQbVlrTXRHeG5rNUVHdXplWU1Ha0tNWXBXSEtOR2VIN0JpR1hwSUtBejdN?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 4,
+      "score": 22
     },
     {
       "headline": "Heisman Rankings: Jeremiah Smith Overtakes Kamario Taylor On RGIII's List",
@@ -1603,26 +1590,17 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkp2cXgtV0txQVlqSkE0Qkc4QzJ1OEtvbVhydmFNQlpYQncxdjNOa3hXZDdBbzYtNHJVTW5aU2xwamp4ajdQR094bVZ5LVVkVDk5dmR1MEVoRTZLMzQwb0kxR3lSbk5Yd0NUNEtUOVUxWHh1N21HblZJRXVheDRaOVAzLUI4bFNOb1ozM1BJMzR6VmZkU2tjeFg1M2tMZW40UERNWkE0eUNvUi1pRER0cdIBsAFBVV95cUxPcF9DUUUyRXc3eVR1ckxTN0VmTEZhWXdZRng5Z1JDaXZ5VkhzSTBsS0tjbmdHWlVmYjl1b0xYN1VFMEV5U0VvZ2MxaU1MQXltRF9yN25Oc3AxZ0FrRDlHc2J3cGdYdXQ2RVZqR0p5TGxzV2dqTnhIQWlNMExNRjJFZFp1Q0hVRlozOHFTZjZmTGRzcjIzQks5cmppMGI4RXA5anlxeS1xWnFTdHJvZGEwdg?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 4,
+      "age_hours": 18,
       "score": 18
     },
     {
-      "headline": "Why Ohio State QB Julian Sayin is a difficult prospect to scout: NFL Draft reactions - The Athletic",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMG5rWDFLVUNyTXl0REItbXJwelNkSl9RQk1CRTYwX1p4VkJ3Q0ozaUpvTThPRDJ4N3NGWV9xYWEtUUpXOHFMWFo5WkdVT0NzMHFnN3RPU21qRzNBS3cwaFpOZ3hlTVQtQml3anBYdjNDYkI1LU55cWwxRkxvUkU1YTNndXkzSjRJXzFhSQ?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 71,
-      "score": 18
-    },
-    {
-      "headline": "This player is flying under the radar as a Heisman favorite",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXFBY3d5ZlRiYXlUTTF0U1dPRjZEU2wzbkZxSDRTXzBYZUNURGRkOHU0cE1nbnRpT2w0SFVpc0FQOTBUcHNhRC1BNGxfdHFpb0o4RVliLU9reTdndTRVLTMwVEdaYllXOThRWWdwZzZObVdFZDhubGdDZmh2a2MxaTV5M3B6Q3VWaFJFZVBTSFE1ZmtGU2JDQlZhZzAzSzRRNFBmak5lbHhiWEsxNmZFdVJqV0VqOHFmY0l5b2ZDQzdpUVBRUmFVQnF3?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 17,
-      "score": 18
+      "headline": "Dante Moore injury: Oregon star's return to practice opens the door for a QB dilemma vs. UCLA",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 26,
+      "score": 17
     },
     {
       "headline": "Dan Lanning Drops Dante Moore Injury Update Ahead of UCLA",
@@ -1630,7 +1608,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1gxSWpzNm9BY0k1MTRzSTd3XzdtUi1lcFpYQzNSalIzcUpxTTdWcDZySGRsX0xfNktEWjMxbWE3Qzc5d2pFMlJKVmJRQWl4VWZsdHEyaDRweWdPSnF4ZUxJNGswTFpVR19RVGJwcmNJazNlR1lNT1lWTDlac0FXak94TjVkOHpjc0plUXE3LW5qdU1FNDUtRjJOcDFodVk4YjVtRXZYRTA?oc=5",
       "player": "Dante Moore",
-      "age_hours": 25,
+      "age_hours": 40,
       "score": 17
     },
     {
@@ -1639,16 +1617,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1o2ODJTUzh6VFpWeThHMmIwanVtZDJMYXJNeGhUSXp1MW0xaHRleVlJSnExNWx4Q2J3djV1S2NCcU83RDFGV01EdHNwZWhlZXpMMlpPTVE1RUtiMUJBUTlJVUFtQzRMUVN1aEpfNmppdE9ydy13NXk4MjZyUF9Lb1VLaXlHeVFWeC1Va3Jn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 106,
-      "score": 17
-    },
-    {
-      "headline": "How LSU is treating Sam Leavitt injury during the week",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzNwZlFjakdvclVUTE01MDhNVEtqUzVuVzNEWkhyaGxKcThjZGxndjFGREdyZXlwSUNOb0JxbXQ3RmRDU2JGRFBkdXZTWmxKRmxuUEVnS2RFeEwyaEdzelAyaVR3MkhmT3BGRl9ySE9SNU9UTDA2YWlSUzlUYk5ENGJQRjZCOFd2aVVmUUZCZkJ2R2dJQ0lUa3JXNHpLZw?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 34,
+      "age_hours": 120,
       "score": 17
     },
     {
@@ -1657,7 +1626,25 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
       "player": "Dante Moore",
-      "age_hours": 238,
+      "age_hours": 251,
+      "score": 16
+    },
+    {
+      "headline": "Raiola steps in for injured Moore, rallies Oregon past USC",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzJmNlo1RTYzTXZMRnNVUnNuTmRkZUZPSWg5blFDRDZDa3luQ1ByMlp4bHdZUXdPNWVOdUJ1b2E2eUVvaDJOemRfR1ptQTdNVGtXWUVjcU0xajMzMUtvTXAzbVlSUXhhZG9kM0R5bVdqRzhNd0F5LUZ6VFRiQUYxYi1yRVdDLXR3VzhQajgtTkQwRlBTX3NEb3NxaWkteUZvazlTelBn?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 275,
+      "score": 16
+    },
+    {
+      "headline": "Why Heisman voters say Arch Manning is miles away from their ballot",
+      "source": "USA Today",
+      "domain": "usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWdUY1BUWXpaUWNHTW5tN3RuWGFrMFM1a0xNS1FvLTBERU12MVRCbjI2REtkeVgzaUd2Mk1wd1FHN1l2b1VxU0s1azR0ZW8tM0JNQmxsdGFTcGdKWGVQTUpiTGNYeGRlb3BVYVJRNU5WdGM2MkRzM1FFNGo0NXhrU1FEV2ZydUQyb0UxQ3NBR0RLVTRDd1ZVdjlyTzlnSFJSaFdDZXZobU83M2RlUzU3aXVrblZGUjh3SmVhQ2NDSGs1N0JuS2lrVlh3TS01V0prNXF6Ym8wUQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 9,
       "score": 16
     }
   ],
@@ -1669,17 +1656,22 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 29,
+          "pct": 26,
           "tracked": false
         },
         {
           "name": "Arch Manning",
-          "pct": 18,
+          "pct": 16,
           "tracked": true
         },
         {
           "name": "CJ Carr",
           "pct": 16,
+          "tracked": true
+        },
+        {
+          "name": "Trinidad Chambliss",
+          "pct": 12,
           "tracked": true
         },
         {
@@ -1693,13 +1685,8 @@
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 8,
-          "tracked": true
-        },
-        {
           "name": "Dante Moore",
-          "pct": 4,
+          "pct": 5,
           "tracked": true
         },
         {
@@ -1718,7 +1705,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 47,
+          "pct": 46,
           "tracked": false
         },
         {
@@ -1728,17 +1715,17 @@
         },
         {
           "name": "Tampa Bay",
-          "pct": 12,
+          "pct": 13,
+          "tracked": false
+        },
+        {
+          "name": "New York J",
+          "pct": 10,
           "tracked": false
         },
         {
           "name": "Carolina",
           "pct": 7,
-          "tracked": false
-        },
-        {
-          "name": "New York J",
-          "pct": 6,
           "tracked": false
         },
         {
@@ -1772,41 +1759,41 @@
         },
         {
           "name": "Keelon Russell",
-          "pct": 13,
+          "pct": 12,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 12,
+          "pct": 11,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 9,
+          "pct": 10,
+          "tracked": true
+        },
+        {
+          "name": "Trinidad Chambliss",
+          "pct": 5,
           "tracked": true
         },
         {
           "name": "Gunner Stockton",
-          "pct": 5,
-          "tracked": false
-        },
-        {
-          "name": "Trinidad Chambliss",
           "pct": 4,
-          "tracked": true
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 3,
-          "tracked": true
+          "tracked": false
         },
         {
           "name": "Josh Hoover",
           "pct": 3,
           "tracked": false
+        },
+        {
+          "name": "Kamario Taylor",
+          "pct": 3,
+          "tracked": false
         }
       ],
-      "field_pct": 3,
+      "field_pct": 4,
       "field_count": 38
     }
   ],
