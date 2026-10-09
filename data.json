@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T04:45:29.438284+00:00",
+  "updated_at": "2026-10-09T17:59:51.918552+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1543,17 +1543,44 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 29,
+      "age_hours": 42,
       "score": 23
+    },
+    {
+      "headline": "2027 NFL draft QB rankings: Arch Manning, Dante Moore, Drew Mestemaker in top 15",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9jV01jSlVPUUlXTWRMNUNaYU9YN0U4SDNGd1pOdmVPT0tRTFRHXzdaQWdIZ3RoV0xvc0YxbTcyRlo0eXRrUDVmNUNTLU95MEpYT1NaaWxKYUNsOFBkb1lheWc2Q3VycHc3YWhrWFU5RGNWR1BvaE8ycVhpV2YwOTdYSzk1YXhrLVdycDJGbkdjZVRmM0g3cEdTaUFJVXMwbHRDa19Ec2M1SjV1UUVkTw?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 8,
+      "score": 22
+    },
+    {
+      "headline": "Oregon Ducks Mailbag: Dante Moore Injury, Jamari Johnson and a Breakout Still Needed",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm9LbjU2UDBQbWFkT0EyWU1qRGFrVFoxZmtXSy0xaWdOWVNldlZqTFU0SXFsaW84SG9GS1VlZlFmZGhueTJmNTBMQndRUFJVbUlvZ3lHdlBwSXJCVTByU1l5TGE2UDcxaU1rTlFYYXNyUHdoSWZWLXh3akVHeURDbzVUcXViV3dvRDJIeTBNR0Yta0wtSWUwN09zQjdBSGFuZGY3RGN3RjEwNG5pNDZpMFpXbVdwQlA0VnRFZnJ3?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 5,
+      "score": 21
     },
     {
       "headline": "Oregon Ducks, Dante Moore Injury Report Takes Center Stage Before UCLA Bruins Test",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXJSZlV4Wll5RERVUkhPQ0tDX3VjeUNXcVlUaUtLT2tTeUVfVlN4NGVVTUUyLTlaR01VR2o2VkVVTWlDRE1rMTRZcFJjejBhR092NmRqYkNtT2NPNGdPZS0zR1I5Z3lvR2VuSXdxNWM3Uk1pRE4xV0xGQ1FqYVNyUUJSS3M0VWp5aWVBZzhGZXdXa2Nfalk5alhuQUNmcmV1NHAxMmo3ckJsZWQyMFdwZDhZSEluRWF5?oc=5",
-      "player": "Jayden Maiava",
-      "age_hours": 5,
+      "player": "Dante Moore",
+      "age_hours": 18,
       "score": 21
+    },
+    {
+      "headline": "Newsstand: NFL Draft analyst projects three Notre Dame players as first-round picks",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMU9CNFhLcXRFczE2bXhkYS1rT1NkcjFDQnlSQ0dsSjEzM1BpVVdkMEJna0RTMkNCQ0xjZFFzZ0g3aHNxbVRhQWVlV1BaeUdVN0hnYXhmUENYMDNpUVkzQmlUemFkbU11Ulc1Nl9MNUxPQ01QdGNQSzZTdDZ6N1RybVhkYlVIRkJUQ3lQOXVFZTExWERkNWstYVQ1ME9ENmJPcUNGbHc5eW04bFkxNlcydVlIR1I4VjJPcDJDeFBSS0c?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 7,
+      "score": 20
     },
     {
       "headline": "2027 NFL mock draft: Jeremiah Smith at No. 1, CJ Carr first QB off the board - The Athletic",
@@ -1561,7 +1588,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWm5FREtrTy1UWWw2NldsdG5yOXdldXJKQnFhSF9rQl8yUERFYlFtN0FxZTN3MkxyZHFBckl6YWFWM19lTG5EN0JHZTdYYzRNczNXQnItSkM5T1BFTlkzR2dQbVlrTXRHeG5rNUVHdXplWU1Ha0tNWXBXSEtOR2VIN0JpR1hwSUtBejdN?oc=5",
       "player": "CJ Carr",
-      "age_hours": 38,
+      "age_hours": 51,
       "score": 18
     },
     {
@@ -1570,7 +1597,7 @@
       "domain": "sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORTJKR19vSkF6bnhSdGhhRDg3ZnE0YnF1aUsxbk11Mmw3eWJXend5bE9NVWRCams3M1drVWNpMWtucnRBUk53NklLX1I5Q2FpVmdQMVliSWNmZ29RRW1PUS1qZkY1WTFJMXBiT1VTUjd2ZVcwRjE4UlR4clE5bXNfSGpOdFUwcjB2LXlDSzl1YXZxUDZDRi1CODlrdGY4U1YyMmItVUsyVlBQTXFyYWp4aGc5eXpGeDdtMlE3c3V5VTYxOF9NZlZFZFd5Vkp3YWY4dmlDcWRrRFhsNGRDTlFGd2daYXB1MGd1UV83WS1KNWNIbGpxcXE1Q3lVbVN6b0hPN2xiYjNVaG5JenM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 29,
+      "age_hours": 42,
       "score": 17
     },
     {
@@ -1579,34 +1606,7 @@
       "domain": "bleacherreport.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1AwZGVWdElvNVltelcwWUVjc0ZYa0ZJU2VtRjdWODNYWWp1WW9WZV80am01bGxwa2NzVjJXS1lsbEdzX3R1QVFOUWM2WW1CMXM0YkhGQW9CLVZOaUlqbUJOTEF1aUtKTjZjallIeUpPZ2FfNXZDX1lUTE10Rms2SFR5NXJ5VWNwb0dfeEZUZmU5UVMtdXVtdjlDb3YtSnJmRWw0ZkpFdm9tVktTTF9kcjM0eExiVTljV0dXaXNlQ1lTTWVXM2VWTlFNcw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 32,
-      "score": 17
-    },
-    {
-      "headline": "Dante Moore\u2019s Injury Return Gets a Cautious Outlook From Pete Thamel",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzNMcENwVF91T20xUlhYVkpUZlQxREpqYndYcDRvbmpiMHVNU1VzcXg1dXJKcnRRLVFUVkw2OGEwRjdtUFVrVExrVi1PSWVJT1lGMmxWdmptaVNra1YxaE5ZV3oxWE1Qb2gwblZZbEVfbnRTdFdRUlZHZU1FQjNGd1FLQ2xtX3UzUFM0c29kRkJaRm1Pa2drVElFWGxucHBHMW1XWWctODhjYzY4N19vSg?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 33,
-      "score": 17
-    },
-    {
-      "headline": "Dylan Raiola Shares an Emotional Reunion After Dante Moore\u2019s Injury",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkFJRzE5ckw5cGJidzNWWFlUZF9ma0pKMXVLRDdSYkdpR2JIZ3o0T0JhNGVOMmJ3NDNKNUZZQ1l0bHROSkktMVRFaHhlWmxkNk5kQU9mWGl2RmNXd042OUpzTGxyU25sWHlDbjV0Nmt4cE9UUUg5S2dub3EwMHpsR1hCYnlaNkM0U21ZMjFxRXF1THgzN2QySnZNc0w0bU45?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 31,
-      "score": 17
-    },
-    {
-      "headline": "Oregon Ducks Injury Report Delivers Dante Moore News Before UCLA",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1lFQVJ2dUhwRG04a2doZ0tlVnYwZDRUVGt3aWlHdUJBREc1QXJSTUI0czZwYVN6T2FhMDdwZHRDLVpLYWMtb19BbUV6ZmptcF94YWktSXhtUVZrLTk2WkpiWXViTnp3QU5IUV9keTRmbDRrbURYSWlDZTkxZS1vUGpvRXJqeDhQS011M19UT1BjNV9EYkd1R1BWM2pWaDhSZWp6RDk3a0p0ZkE?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 29,
+      "age_hours": 45,
       "score": 17
     }
   ],
@@ -1618,22 +1618,22 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 31,
+          "pct": 37,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 17,
+          "pct": 16,
           "tracked": true
         },
         {
           "name": "Arch Manning",
-          "pct": 15,
+          "pct": 14,
           "tracked": true
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 12,
+          "pct": 14,
           "tracked": true
         },
         {
@@ -1657,8 +1657,8 @@
           "tracked": false
         }
       ],
-      "field_pct": 3,
-      "field_count": 13
+      "field_pct": 0,
+      "field_count": 14
     },
     {
       "key": "first_team_to_pick",
@@ -1667,17 +1667,12 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 47,
+          "pct": 45,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 23,
-          "tracked": false
-        },
-        {
-          "name": "New York J",
-          "pct": 10,
+          "pct": 21,
           "tracked": false
         },
         {
@@ -1686,8 +1681,8 @@
           "tracked": false
         },
         {
-          "name": "Arizona",
-          "pct": 5,
+          "name": "New York J",
+          "pct": 6,
           "tracked": false
         },
         {
@@ -1704,9 +1699,14 @@
           "name": "Tampa Bay",
           "pct": 5,
           "tracked": false
+        },
+        {
+          "name": "Arizona",
+          "pct": 4,
+          "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 2,
       "field_count": 24
     },
     {
@@ -1716,22 +1716,27 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 44,
-          "tracked": false
-        },
-        {
-          "name": "Keelon Russell",
-          "pct": 15,
+          "pct": 46,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 12,
+          "pct": 13,
           "tracked": true
+        },
+        {
+          "name": "Keelon Russell",
+          "pct": 11,
+          "tracked": false
         },
         {
           "name": "CJ Carr",
           "pct": 7,
+          "tracked": true
+        },
+        {
+          "name": "Trinidad Chambliss",
+          "pct": 5,
           "tracked": true
         },
         {
@@ -1740,22 +1745,17 @@
           "tracked": false
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 4,
-          "tracked": true
-        },
-        {
           "name": "Kamario Taylor",
           "pct": 4,
           "tracked": false
         },
         {
-          "name": "Julian Sayin",
-          "pct": 2,
+          "name": "Arch Manning",
+          "pct": 3,
           "tracked": true
         }
       ],
-      "field_pct": 8,
+      "field_pct": 7,
       "field_count": 38
     }
   ],
