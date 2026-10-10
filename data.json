@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T03:44:33.639452+00:00",
+  "updated_at": "2026-10-10T10:20:39.893656+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1543,17 +1543,8 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 52,
+      "age_hours": 58,
       "score": 23
-    },
-    {
-      "headline": "2027 NFL draft QB rankings: Arch Manning, Dante Moore, Drew Mestemaker in top 15",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9jV01jSlVPUUlXTWRMNUNaYU9YN0U4SDNGd1pOdmVPT0tRTFRHXzdaQWdIZ3RoV0xvc0YxbTcyRlo0eXRrUDVmNUNTLU95MEpYT1NaaWxKYUNsOFBkb1lheWc2Q3VycHc3YWhrWFU5RGNWR1BvaE8ycVhpV2YwOTdYSzk1YXhrLVdycDJGbkdjZVRmM0g3cEdTaUFJVXMwbHRDa19Ec2M1SjV1UUVkTw?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 17,
-      "score": 22
     },
     {
       "headline": "No. 9 Ole Miss vs. Vanderbilt: How to Watch, Odds, Injuries, and More",
@@ -1561,7 +1552,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2UycE9QUUI4Slh6NXZXOE9LWGdjdjUtaHVlN2xRRGxsbWdGTkNJTXVDQmhNNU05Rk5GTGpBNHdfVDdkS3JJVWxkem1YU0Z1dnJrS0lGTkVKUWdzLXBYQmxTZUQ3Yzg5VmplOGxvQTVZZ2VLRWtSSGlQeU5NQ0thSTVKZXBYcVNXY09LamhsR0hMZDZJb3c2X2JLcWp4djhxNmtiVzhXRDdkZEU?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 8,
+      "age_hours": 15,
       "score": 21
     },
     {
@@ -1570,7 +1561,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVJtd21kSGwxT0llV1NNNjZNR2NJc0pockxCRFlGNWpETjhGOFUzODRhbnRZY3prZFl1MTZHR2hqOFJncjNqeHlRRHVGT1dzMGVkcFFvZTFjM1hMSWZWemJvajdfa2ZZT0RNTXFaUmd2RVJQR0NFWlhHblRtUnVOQjZXVUFEY2kzMWJfZmZYWlRxZEFRSzBkMnlkWmJrVTJKZklqcEhFR3lkZ3J1UjR5VlI1VmY1QQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 3,
+      "age_hours": 10,
       "score": 21
     },
     {
@@ -1579,7 +1570,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm9LbjU2UDBQbWFkT0EyWU1qRGFrVFoxZmtXSy0xaWdOWVNldlZqTFU0SXFsaW84SG9GS1VlZlFmZGhueTJmNTBMQndRUFJVbUlvZ3lHdlBwSXJCVTByU1l5TGE2UDcxaU1rTlFYYXNyUHdoSWZWLXh3akVHeURDbzVUcXViV3dvRDJIeTBNR0Yta0wtSWUwN09zQjdBSGFuZGY3RGN3RjEwNG5pNDZpMFpXbVdwQlA0VnRFZnJ3?oc=5",
       "player": "Dante Moore",
-      "age_hours": 15,
+      "age_hours": 21,
       "score": 21
     },
     {
@@ -1588,17 +1579,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3VnRVVnWlh4MElXeTNzUTA4a3A3NGFia1N3bnYtWEV0U24xYzNXUnpBSFRUaFl5R1Nmck5admI1cTJCSk5hUHlBa2xGdTExWmphcS1NM0xER0tPZGxFWHdsQXgyX05DZFZNeXcxVTYxbEVoS1FMTC1PTWU1NFJLcnBzZDdyMW5jYWZSczdxM0Z4dnVvS3FyY2l6N0VfSGlSUHRDYlhXaEg4XzBR?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 3,
+      "age_hours": 10,
       "score": 21
-    },
-    {
-      "headline": "Newsstand: NFL Draft analyst projects three Notre Dame players as first-round picks",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMU9CNFhLcXRFczE2bXhkYS1rT1NkcjFDQnlSQ0dsSjEzM1BpVVdkMEJna0RTMkNCQ0xjZFFzZ0g3aHNxbVRhQWVlV1BaeUdVN0hnYXhmUENYMDNpUVkzQmlUemFkbU11Ulc1Nl9MNUxPQ01QdGNQSzZTdDZ6N1RybVhkYlVIRkJUQ3lQOXVFZTExWERkNWstYVQ1ME9ENmJPcUNGbHc5eW04bFkxNlcydVlIR1I4VjJPcDJDeFBSS0c?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 17,
-      "score": 20
     },
     {
       "headline": "David Pollack Predicts Elite Big 12 QB Will Be the No. 1 Pick in 2027 NFL Draft",
@@ -1606,8 +1588,26 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPakJDbUxrSW1HeTlINnRYUnpnb1J3TWZpMGNibUJTVmdFX2duTkxUX0YtZW5fV2hId2VEUFpGbEQyRUtMckl2a1lZdXdPNmJNWFlZNHZUSTVoTkFOb2R3blcwZTBuSUtVRDgwZldZNkVYNDJqM0tMLXV2SlJ2VVR4eFE1b3dQTS1XUkZlZ2kzeWlMZFFLbkJ1QnRnMW45R2U3OFZPTGtFbEtRM3F4Zk5yUzZGQXlNb1JqSlJsNzRfdzY3aEtYb0tBNkJkd19ObTVFVC1IUFJKblNUYnczSjM4dm96R0hEWHkySXJ6cHZxczh3YnpxVWhjQnFR?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 8,
+      "age_hours": 15,
       "score": 20
+    },
+    {
+      "headline": "7 2027 NFL Draft Prospects With the Most to Prove in Week 6",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajQyc3cya3lnYUs2Qmg4TjF4aGt4WGFWWE9yVEJLclBHY2JESGt4UUhrQVBCZW5wR2gtRVA5MENibHRxbkJuaTR4d2ZCTTdwUl84bTA2b3dISHZ6Q0VBMmgwWVFKcU1Bb01ua1E4bmx5RWhUZlBzRFVrbDRoa0hHLXRHU2ZWNHJyVkl2bnVKZmxCZTZkUzZ4Rk04TGVWZDQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 0,
+      "score": 20
+    },
+    {
+      "headline": "2027 NFL draft QB rankings: Arch Manning, Dante Moore, Drew Mestemaker in top 15",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9jV01jSlVPUUlXTWRMNUNaYU9YN0U4SDNGd1pOdmVPT0tRTFRHXzdaQWdIZ3RoV0xvc0YxbTcyRlo0eXRrUDVmNUNTLU95MEpYT1NaaWxKYUNsOFBkb1lheWc2Q3VycHc3YWhrWFU5RGNWR1BvaE8ycVhpV2YwOTdYSzk1YXhrLVdycDJGbkdjZVRmM0g3cEdTaUFJVXMwbHRDa19Ec2M1SjV1UUVkTw?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 24,
+      "score": 18
     }
   ],
   "kalshi": [
@@ -1618,7 +1618,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 30,
+          "pct": 31,
           "tracked": false
         },
         {
@@ -1628,12 +1628,12 @@
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 15,
+          "pct": 14,
           "tracked": true
         },
         {
           "name": "Arch Manning",
-          "pct": 12,
+          "pct": 13,
           "tracked": true
         },
         {
@@ -1657,7 +1657,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 1,
+      "field_pct": 0,
       "field_count": 14
     },
     {
@@ -1667,7 +1667,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 43,
+          "pct": 47,
           "tracked": false
         },
         {
@@ -1706,7 +1706,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 5,
+      "field_pct": 1,
       "field_count": 24
     },
     {
@@ -1716,17 +1716,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 45,
+          "pct": 47,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 14,
+          "pct": 12,
           "tracked": true
         },
         {
           "name": "Keelon Russell",
-          "pct": 11,
+          "pct": 12,
           "tracked": false
         },
         {
@@ -1745,17 +1745,17 @@
           "tracked": true
         },
         {
-          "name": "Kamario Taylor",
+          "name": "Arch Manning",
           "pct": 3,
-          "tracked": false
+          "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 2,
+          "name": "Drew Mestemaker",
+          "pct": 3,
           "tracked": true
         }
       ],
-      "field_pct": 9,
+      "field_pct": 7,
       "field_count": 38
     }
   ],
