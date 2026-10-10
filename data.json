@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T10:20:39.893656+00:00",
+  "updated_at": "2026-10-10T19:02:54.147947+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -833,16 +833,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856824",
-        "week": 6,
-        "opponent": "UCF",
-        "opponent_id": 2116,
-        "home_away": "vs",
-        "kickoff": "2026-10-10T16:00:00.000Z",
+        "event_id": "401856831",
+        "week": 7,
+        "opponent": "Houston",
+        "opponent_id": 248,
+        "home_away": "at",
+        "kickoff": "2026-10-17T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs UCF"
+        "label": "at Houston"
       },
       "log": [
         {
@@ -1407,16 +1407,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856823",
-        "week": 6,
-        "opponent": "West Virginia",
-        "opponent_id": 277,
-        "home_away": "at",
-        "kickoff": "2026-10-10T16:00:00.000Z",
-        "tbd": false,
+        "event_id": "401856838",
+        "week": 8,
+        "opponent": "Iowa State",
+        "opponent_id": 66,
+        "home_away": "vs",
+        "kickoff": "2026-10-24T04:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at West Virginia"
+        "label": "vs Iowa State"
       },
       "log": [
         {
@@ -1543,7 +1543,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 58,
+      "age_hours": 67,
       "score": 23
     },
     {
@@ -1552,7 +1552,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2UycE9QUUI4Slh6NXZXOE9LWGdjdjUtaHVlN2xRRGxsbWdGTkNJTXVDQmhNNU05Rk5GTGpBNHdfVDdkS3JJVWxkem1YU0Z1dnJrS0lGTkVKUWdzLXBYQmxTZUQ3Yzg5VmplOGxvQTVZZ2VLRWtSSGlQeU5NQ0thSTVKZXBYcVNXY09LamhsR0hMZDZJb3c2X2JLcWp4djhxNmtiVzhXRDdkZEU?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 15,
+      "age_hours": 24,
       "score": 21
     },
     {
@@ -1561,16 +1561,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVJtd21kSGwxT0llV1NNNjZNR2NJc0pockxCRFlGNWpETjhGOFUzODRhbnRZY3prZFl1MTZHR2hqOFJncjNqeHlRRHVGT1dzMGVkcFFvZTFjM1hMSWZWemJvajdfa2ZZT0RNTXFaUmd2RVJQR0NFWlhHblRtUnVOQjZXVUFEY2kzMWJfZmZYWlRxZEFRSzBkMnlkWmJrVTJKZklqcEhFR3lkZ3J1UjR5VlI1VmY1QQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 10,
-      "score": 21
-    },
-    {
-      "headline": "Oregon Ducks Mailbag: Dante Moore Injury, Jamari Johnson and a Breakout Still Needed",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm9LbjU2UDBQbWFkT0EyWU1qRGFrVFoxZmtXSy0xaWdOWVNldlZqTFU0SXFsaW84SG9GS1VlZlFmZGhueTJmNTBMQndRUFJVbUlvZ3lHdlBwSXJCVTByU1l5TGE2UDcxaU1rTlFYYXNyUHdoSWZWLXh3akVHeURDbzVUcXViV3dvRDJIeTBNR0Yta0wtSWUwN09zQjdBSGFuZGY3RGN3RjEwNG5pNDZpMFpXbVdwQlA0VnRFZnJ3?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 21,
+      "age_hours": 19,
       "score": 21
     },
     {
@@ -1579,7 +1570,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3VnRVVnWlh4MElXeTNzUTA4a3A3NGFia1N3bnYtWEV0U24xYzNXUnpBSFRUaFl5R1Nmck5admI1cTJCSk5hUHlBa2xGdTExWmphcS1NM0xER0tPZGxFWHdsQXgyX05DZFZNeXcxVTYxbEVoS1FMTC1PTWU1NFJLcnBzZDdyMW5jYWZSczdxM0Z4dnVvS3FyY2l6N0VfSGlSUHRDYlhXaEg4XzBR?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 10,
+      "age_hours": 19,
       "score": 21
     },
     {
@@ -1588,16 +1579,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPakJDbUxrSW1HeTlINnRYUnpnb1J3TWZpMGNibUJTVmdFX2duTkxUX0YtZW5fV2hId2VEUFpGbEQyRUtMckl2a1lZdXdPNmJNWFlZNHZUSTVoTkFOb2R3blcwZTBuSUtVRDgwZldZNkVYNDJqM0tMLXV2SlJ2VVR4eFE1b3dQTS1XUkZlZ2kzeWlMZFFLbkJ1QnRnMW45R2U3OFZPTGtFbEtRM3F4Zk5yUzZGQXlNb1JqSlJsNzRfdzY3aEtYb0tBNkJkd19ObTVFVC1IUFJKblNUYnczSjM4dm96R0hEWHkySXJ6cHZxczh3YnpxVWhjQnFR?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 15,
-      "score": 20
-    },
-    {
-      "headline": "7 2027 NFL Draft Prospects With the Most to Prove in Week 6",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajQyc3cya3lnYUs2Qmg4TjF4aGt4WGFWWE9yVEJLclBHY2JESGt4UUhrQVBCZW5wR2gtRVA5MENibHRxbkJuaTR4d2ZCTTdwUl84bTA2b3dISHZ6Q0VBMmgwWVFKcU1Bb01ua1E4bmx5RWhUZlBzRFVrbDRoa0hHLXRHU2ZWNHJyVkl2bnVKZmxCZTZkUzZ4Rk04TGVWZDQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 0,
+      "age_hours": 24,
       "score": 20
     },
     {
@@ -1606,8 +1588,26 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9jV01jSlVPUUlXTWRMNUNaYU9YN0U4SDNGd1pOdmVPT0tRTFRHXzdaQWdIZ3RoV0xvc0YxbTcyRlo0eXRrUDVmNUNTLU95MEpYT1NaaWxKYUNsOFBkb1lheWc2Q3VycHc3YWhrWFU5RGNWR1BvaE8ycVhpV2YwOTdYSzk1YXhrLVdycDJGbkdjZVRmM0g3cEdTaUFJVXMwbHRDa19Ec2M1SjV1UUVkTw?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 24,
+      "age_hours": 33,
       "score": 18
+    },
+    {
+      "headline": "Heisman Rankings: Jeremiah Smith Overtakes Kamario Taylor On RGIII's List",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkp2cXgtV0txQVlqSkE0Qkc4QzJ1OEtvbVhydmFNQlpYQncxdjNOa3hXZDdBbzYtNHJVTW5aU2xwamp4ajdQR094bVZ5LVVkVDk5dmR1MEVoRTZLMzQwb0kxR3lSbk5Yd0NUNEtUOVUxWHh1N21HblZJRXVheDRaOVAzLUI4bFNOb1ozM1BJMzR6VmZkU2tjeFg1M2tMZW40UERNWkE0eUNvUi1pRER0cdIBsAFBVV95cUxPcF9DUUUyRXc3eVR1ckxTN0VmTEZhWXdZRng5Z1JDaXZ5VkhzSTBsS0tjbmdHWlVmYjl1b0xYN1VFMEV5U0VvZ2MxaU1MQXltRF9yN25Oc3AxZ0FrRDlHc2J3cGdYdXQ2RVZqR0p5TGxzV2dqTnhIQWlNMExNRjJFZFp1Q0hVRlozOHFTZjZmTGRzcjIzQks5cmppMGI4RXA5anlxeS1xWnFTdHJvZGEwdg?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 20,
+      "score": 18
+    },
+    {
+      "headline": "Oregon QB Dante Moore out for No. 13 Ducks against No. 21 UCLA after head injury; Dylan Raiola to start",
+      "source": "Yahoo Sports",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORTJKR19vSkF6bnhSdGhhRDg3ZnE0YnF1aUsxbk11Mmw3eWJXend5bE9NVWRCams3M1drVWNpMWtucnRBUk53NklLX1I5Q2FpVmdQMVliSWNmZ29RRW1PUS1qZkY1WTFJMXBiT1VTUjd2ZVcwRjE4UlR4clE5bXNfSGpOdFUwcjB2LXlDSzl1YXZxUDZDRi1CODlrdGY4U1YyMmItVUsyVlBQTXFyYWp4aGc5eXpGeDdtMlE3c3V5VTYxOF9NZlZFZFd5Vkp3YWY4dmlDcWRrRFhsNGRDTlFGd2daYXB1MGd1UV83WS1KNWNIbGpxcXE1Q3lVbVN6b0hPN2xiYjNVaG5JenM?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 67,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -1622,18 +1622,18 @@
           "tracked": false
         },
         {
-          "name": "CJ Carr",
-          "pct": 16,
+          "name": "Drew Mestemaker",
+          "pct": 24,
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 14,
+          "name": "CJ Carr",
+          "pct": 15,
           "tracked": true
         },
         {
           "name": "Arch Manning",
-          "pct": 13,
+          "pct": 10,
           "tracked": true
         },
         {
@@ -1647,14 +1647,14 @@
           "tracked": true
         },
         {
-          "name": "Austin Simmons",
-          "pct": 5,
-          "tracked": false
+          "name": "Dante Moore",
+          "pct": 6,
+          "tracked": true
         },
         {
-          "name": "Dante Moore",
-          "pct": 3,
-          "tracked": true
+          "name": "Austin Simmons",
+          "pct": 6,
+          "tracked": false
         }
       ],
       "field_pct": 0,
@@ -1672,7 +1672,7 @@
         },
         {
           "name": "Tennessee",
-          "pct": 21,
+          "pct": 26,
           "tracked": false
         },
         {
@@ -1706,7 +1706,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 1,
+      "field_pct": 0,
       "field_count": 24
     },
     {
@@ -1716,7 +1716,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 47,
+          "pct": 48,
+          "tracked": false
+        },
+        {
+          "name": "Keelon Russell",
+          "pct": 15,
           "tracked": false
         },
         {
@@ -1725,18 +1730,13 @@
           "tracked": true
         },
         {
-          "name": "Keelon Russell",
-          "pct": 12,
-          "tracked": false
-        },
-        {
           "name": "CJ Carr",
           "pct": 8,
           "tracked": true
         },
         {
           "name": "Gunner Stockton",
-          "pct": 4,
+          "pct": 5,
           "tracked": false
         },
         {
@@ -1755,7 +1755,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 7,
+      "field_pct": 2,
       "field_count": 38
     }
   ],
