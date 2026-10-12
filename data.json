@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T04:31:55.678242+00:00",
+  "updated_at": "2026-10-12T20:57:08.093148+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -286,8 +286,8 @@
         "opponent": "Nebraska",
         "opponent_id": 158,
         "home_away": "vs",
-        "kickoff": "2026-10-17T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-18T03:00:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs Nebraska"
@@ -1801,43 +1801,34 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 100,
+      "age_hours": 117,
       "score": 20
     },
     {
-      "headline": "Ducks' Raiola benched as Lanning vows to review whole offense",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkhJclptU1YzSW43T0toeDQxVHMxa0FfV3pWdW1BNlpVa3BzV2xDcG55MVpJX1gyQ1dXMmkxb3VHLVJiQzBnM0JPYm11X1YxZHVaek5Ic3IzRnp0OTI1aHYxWDdHWFp3M244dWx4dUFUdHU3Yy1fSEItQ1NxamY1SXJNTWtzSkRYNDR4RFVRdGlMcElVUHl6WFNtUDBLLWoyOTVkeHlCeDNYRFU?oc=5",
+      "headline": "Heisman Trophy odds after Week 6: Can Darian Mensah, CJ Carr catch Jeremiah Smith?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVVldWpNSzlYVlZhWHFtRUpBTU5EeG9ZTDBOYmF2YjR6QnBsNGlpWXZRUmVyNUNFeWFXbnZmUzNGVGU2T2MtRlZ4dHNBNVg3V045WENOVldiMlN3LU9KZUtucUZiSm1mSmdjNTZOaG9oeEZQUk41WDFMN3BXd01HU2c0MU4yNUg4M2djY0FYNnBOVW1EZ3lZUW51M01EUXRp?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 7,
+      "score": 20
+    },
+    {
+      "headline": "2027 NFL Draft takeaways: Why isn\u2019t Texas QB Arch Manning improving?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1RWV01XWDlIT2NFb0lfM2dvYlYwdVBwWXh1WHhkeXlkOWs4OVg2cUFtbEhfaERaNEpMc3VrZzJvNmE1bXpETXB3cFNyc0hWWjYxMlFabjhjcHJCd0FCSzdQcUNkakRnM24ybkpmSjBOVTZjbEx3aGloaXcxSnFmdE81SDFZb1hNZ0lqSnJVcFpmX2wtRW8ydktFdw?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 36,
+      "score": 18
+    },
+    {
+      "headline": "Dylan Raiola Benched, Final Box Score Stats from Oregon's Loss to UCLA with Dante Moore Out Injured",
+      "source": "Bleacher Report",
+      "domain": "bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0hEVWxVdjA0UFZUcnl2Y3NKNE9tVlpEUzUwVE96c2ZQWU9VRkFsckxlLVRhZVh3eWZ3NklKb2tEYWJoemU0YXhlSHJ5Z2RuRkdERTFldGJ4TVI1SlV6Q0w5NkdTVjI2M1JVeEwwaGFYRzUwcTIwOURPTjM2VHVYMnJzQnN2NTRKcEI4SWhROWFpVTd4eU1DaDlZS0pmd05sY0U3RENaYXh6WE1YVl9lUnloWVBKLXhMNEF4OWNnWVQwMmF2YURTSA?oc=5",
       "player": "Dante Moore",
-      "age_hours": 29,
-      "score": 19
-    },
-    {
-      "headline": "2027 NFL draft QB rankings: Arch Manning, Dante Moore, Drew Mestemaker in top 15",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9jV01jSlVPUUlXTWRMNUNaYU9YN0U4SDNGd1pOdmVPT0tRTFRHXzdaQWdIZ3RoV0xvc0YxbTcyRlo0eXRrUDVmNUNTLU95MEpYT1NaaWxKYUNsOFBkb1lheWc2Q3VycHc3YWhrWFU5RGNWR1BvaE8ycVhpV2YwOTdYSzk1YXhrLVdycDJGbkdjZVRmM0g3cEdTaUFJVXMwbHRDa19Ec2M1SjV1UUVkTw?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 66,
-      "score": 18
-    },
-    {
-      "headline": "Heisman Trophy Odds Tracker 2026: Jeremiah Smith Lands Odds-On Status Into Week 7",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1FKWjk0TFJzNTVQTktXSnB1enFwZEYzQnpOVVBWNVZTQnVadzVuSDk1c1FXT2tyZEZVYnRrOXRUbjRadTNhMm1NRUVGajVLZTlWRlJpTGpqZGhkR0o4VmFpUE8taUdLdklJd2ExUm8xSkY0REdQNWItSGZkS2FTMlNiYzlvQ3hYZFBKbTU0ZXhTOGppM2llcUhzRGRXSzRFdklkZzhZYzNuTE1Ja1o5Zm91OHdUeTFKanhXaEdmc2JBUlQtdUVkbUlFNE90RWttYWJBckRFSk9aUzg?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 17,
-      "score": 18
-    },
-    {
-      "headline": "No. 9 Ole Miss vs. Vanderbilt: How to Watch, Odds, Injuries, and More",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2UycE9QUUI4Slh6NXZXOE9LWGdjdjUtaHVlN2xRRGxsbWdGTkNJTXVDQmhNNU05Rk5GTGpBNHdfVDdkS3JJVWxkem1YU0Z1dnJrS0lGTkVKUWdzLXBYQmxTZUQ3Yzg5VmplOGxvQTVZZ2VLRWtSSGlQeU5NQ0thSTVKZXBYcVNXY09LamhsR0hMZDZJb3c2X2JLcWp4djhxNmtiVzhXRDdkZEU?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 57,
+      "age_hours": 45,
       "score": 17
     },
     {
@@ -1846,16 +1837,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2pGdlVUZWk2R0YxdVM4X3RaaWhjbjZ5QnEtdmlVbmNGYVVjdmhnUC0xX0hZTlo4UV80RTk3TFhDRy10aXZWOHF1RjNYVVRuOGozQWd4VGRBWC1hM1BVUjBQOVhaMVItYl9MSkZNYjViTTVpX0ZQMUNDSVUyUHA4ZTBSUmVNUUJpcTN4Tl8wb0pHalJXMng3eDR1b2I?oc=5",
       "player": "Dante Moore",
-      "age_hours": 35,
-      "score": 17
-    },
-    {
-      "headline": "Oregon Ducks Mailbag: Dante Moore Injury, Jamari Johnson and a Breakout Still Needed",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm9LbjU2UDBQbWFkT0EyWU1qRGFrVFoxZmtXSy0xaWdOWVNldlZqTFU0SXFsaW84SG9GS1VlZlFmZGhueTJmNTBMQndRUFJVbUlvZ3lHdlBwSXJCVTByU1l5TGE2UDcxaU1rTlFYYXNyUHdoSWZWLXh3akVHeURDbzVUcXViV3dvRDJIeTBNR0Yta0wtSWUwN09zQjdBSGFuZGY3RGN3RjEwNG5pNDZpMFpXbVdwQlA0VnRFZnJ3?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 63,
+      "age_hours": 51,
       "score": 17
     },
     {
@@ -1864,7 +1846,25 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVJtd21kSGwxT0llV1NNNjZNR2NJc0pockxCRFlGNWpETjhGOFUzODRhbnRZY3prZFl1MTZHR2hqOFJncjNqeHlRRHVGT1dzMGVkcFFvZTFjM1hMSWZWemJvajdfa2ZZT0RNTXFaUmd2RVJQR0NFWlhHblRtUnVOQjZXVUFEY2kzMWJfZmZYWlRxZEFRSzBkMnlkWmJrVTJKZklqcEhFR3lkZ3J1UjR5VlI1VmY1QQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 52,
+      "age_hours": 69,
+      "score": 17
+    },
+    {
+      "headline": "Will Ohio State get revenge on Indiana? An expert\u2019s first look at a top-5 matchup",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeW8ySVZHR3dXbHJJRVNEblFLeHpHemc5dXpndGp3RzNaS3RzMEtnRHBmYWp6RjRyTXVNM2dvUTZIRXg2U3dnZW9WNGQzUzU5alh3X19aTTREQ2FKQ0djQkFYbmZSMG15cjE1emctMFdmenlSVmxQdEJFZFpfbUx6TmU0ZXR5TkNCUEhLcjdNM1NVdkdEeFVJallhXzA?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 10,
+      "score": 17
+    },
+    {
+      "headline": "Sarkisian: 'Manning' name leading to outsized criticism of Arch",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnFxaUV4TDUzMGJ0WGhPcUtGbnhISnFSUHQ1Zy00ZHRvZnFlVlZPWUZjdEtVRkJmVjdsc3R5V1hWUkRrRUFVWFVhNFZKeFhBODlmbERqcmRPTmNKeTZUbFR0S2w5blVVT181eUk0aFhncmlJVkVwQWN4ZFJpUW5WeU1LV2JfVFZ2N1QxVE9LdGtmd09TTlRxLWYwNDd0QmU5YkhqcQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 2,
       "score": 17
     }
   ],
@@ -1876,22 +1876,22 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 33,
+          "pct": 30,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 20,
+          "pct": 21,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 15,
+          "pct": 14,
           "tracked": true
         },
         {
           "name": "Arch Manning",
-          "pct": 14,
+          "pct": 13,
           "tracked": true
         },
         {
@@ -1901,12 +1901,12 @@
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 7,
+          "pct": 6,
           "tracked": true
         },
         {
           "name": "Austin Simmons",
-          "pct": 7,
+          "pct": 5,
           "tracked": false
         },
         {
@@ -1925,12 +1925,12 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 53,
+          "pct": 46,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 43,
+          "pct": 24,
           "tracked": false
         },
         {
@@ -1964,7 +1964,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 4,
       "field_count": 24
     },
     {
@@ -1974,12 +1974,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 55,
+          "pct": 56,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 12,
+          "pct": 10,
           "tracked": true
         },
         {
@@ -1988,18 +1988,18 @@
           "tracked": true
         },
         {
+          "name": "Gunner Stockton",
+          "pct": 6,
+          "tracked": false
+        },
+        {
           "name": "Trinidad Chambliss",
           "pct": 6,
           "tracked": true
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 5,
-          "tracked": false
-        },
-        {
           "name": "Keelon Russell",
-          "pct": 5,
+          "pct": 4,
           "tracked": false
         },
         {
@@ -2008,13 +2008,13 @@
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 2,
-          "tracked": true
+          "name": "Kamario Taylor",
+          "pct": 3,
+          "tracked": false
         }
       ],
       "field_pct": 4,
-      "field_count": 38
+      "field_count": 39
     }
   ],
   "references": {
