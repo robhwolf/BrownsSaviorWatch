@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T16:37:27.946244+00:00",
+  "updated_at": "2026-10-14T21:18:50.203201+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -99,31 +99,18 @@
         "color": "#13294b"
       },
       "status": {
-        "event_id": "401856718",
-        "week": 6,
-        "opponent": "Vanderbilt",
-        "opponent_id": 238,
-        "home_away": "at",
-        "kickoff": "2026-10-10T19:30:00.000Z",
+        "event_id": "401856721",
+        "week": 7,
+        "opponent": "Missouri",
+        "opponent_id": 142,
+        "home_away": "vs",
+        "kickoff": "2026-10-17T19:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "52-17",
-        "label": "W 52-17 at Vanderbilt"
+        "state": "scheduled",
+        "label": "vs Missouri"
       },
-      "game": {
-        "cmp": 20,
-        "att": 30,
-        "pass_yds": 213,
-        "pass_td": 3,
-        "int": 1,
-        "rush_att": 4,
-        "rush_yds": 5,
-        "rush_td": 1,
-        "comp_pct": 66.7,
-        "ypa": 7.1
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856721",
         "week": 7,
@@ -266,18 +253,8 @@
         "color": "#007030"
       },
       "status": {
-        "event_id": "401858484",
-        "week": 6,
-        "opponent": "UCLA",
-        "opponent_id": 26,
-        "home_away": "vs",
-        "kickoff": "2026-10-10T19:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "L",
-        "score": "15-17",
-        "label": "L 15-17 vs UCLA"
+        "state": "idle",
+        "label": "No game this week"
       },
       "game": null,
       "next_game": {
@@ -403,31 +380,10 @@
         "color": "#0c2340"
       },
       "status": {
-        "event_id": "401858257",
-        "week": 6,
-        "opponent": "Stanford",
-        "opponent_id": 24,
-        "home_away": "vs",
-        "kickoff": "2026-10-10T19:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "58-7",
-        "label": "W 58-7 vs Stanford"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 14,
-        "att": 20,
-        "pass_yds": 181,
-        "pass_td": 3,
-        "int": 0,
-        "rush_att": 5,
-        "rush_yds": 41,
-        "rush_td": 0,
-        "comp_pct": 70.0,
-        "ypa": 9.1
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856809",
         "week": 7,
@@ -732,31 +688,18 @@
         "color": "#ba0c2f"
       },
       "status": {
-        "event_id": "401858483",
-        "week": 6,
-        "opponent": "Maryland",
-        "opponent_id": 120,
-        "home_away": "vs",
-        "kickoff": "2026-10-10T20:15:00.000Z",
+        "event_id": "401858488",
+        "week": 7,
+        "opponent": "Indiana",
+        "opponent_id": 84,
+        "home_away": "at",
+        "kickoff": "2026-10-17T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "45-16",
-        "label": "W 45-16 vs Maryland"
+        "state": "scheduled",
+        "label": "at Indiana"
       },
-      "game": {
-        "cmp": 13,
-        "att": 21,
-        "pass_yds": 242,
-        "pass_td": 4,
-        "int": 1,
-        "rush_att": 7,
-        "rush_yds": 11,
-        "rush_td": 0,
-        "comp_pct": 61.9,
-        "ypa": 11.5
-      },
+      "game": null,
       "next_game": {
         "event_id": "401858488",
         "week": 7,
@@ -1065,31 +1008,18 @@
         "color": "#bf5700"
       },
       "status": {
-        "event_id": "401856717",
-        "week": 6,
-        "opponent": "Oklahoma",
-        "opponent_id": 201,
-        "home_away": "at",
-        "kickoff": "2026-10-10T19:30:00.000Z",
+        "event_id": "401856724",
+        "week": 7,
+        "opponent": "Florida",
+        "opponent_id": 57,
+        "home_away": "vs",
+        "kickoff": "2026-10-17T16:00:00.000Z",
         "tbd": false,
-        "neutral": true,
-        "state": "final",
-        "result": "L",
-        "score": "24-27",
-        "label": "L 24-27 at Oklahoma"
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Florida"
       },
-      "game": {
-        "cmp": 19,
-        "att": 31,
-        "pass_yds": 260,
-        "pass_td": 3,
-        "int": 2,
-        "rush_att": 7,
-        "rush_yds": 20,
-        "rush_td": 0,
-        "comp_pct": 61.3,
-        "ypa": 8.4
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856724",
         "week": 7,
@@ -1759,8 +1689,17 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnNveTJmOHNfNmY3ejFNX0Jwb0VocWV6Mjh0TWFTbFRfRmowcnQwaFl0UEZVeTMzVEdVLUNkQ1dSRDlxdjZJYWFzRkVvSjhFeFI0OW1abExtbmVFSXAwbTZ2TTQyam5TcG5KNnltb2ZuMTQ5Z3dzSlRHeUt1Rmd2UnoxZldvMzdlNW1mREpRQ3poM1pqMzQ1Y2RCMkNwNWpOUlE?oc=5",
       "player": "CJ Carr",
-      "age_hours": 7,
+      "age_hours": 11,
       "score": 22
+    },
+    {
+      "headline": "Dan Lanning Delivers Critical Dante Moore, Aaron Flowers Injury Updates",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEZKZllCQW5lbGljUWgwbDZGUGJNQWJrNmFneWpFSFBVQUVYNlRfa2tWWXlBOFpzU3VDOUgtSnlxaGZEeXhzc0U4ZEtod1VZamZnclJPT0xxVzE4X3E5OG1Xbl9XaXE5aUwzWVROWlFoOWlTZC1uZjFhcnRGaEtCV2ctQWVsVGVmdnpfS2ViYTJ2MjI1R1lhdU84VWlpZnB6OUEzenQwa2FYUkNzRTFveFBKQ29DVzRwTGFSNlFzcTJIZ3h0?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 1,
+      "score": 21
     },
     {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
@@ -1768,16 +1707,34 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 160,
+      "age_hours": 165,
       "score": 20
     },
     {
-      "headline": "2027 NFL Draft takeaways: Why isn\u2019t Texas QB Arch Manning improving?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1RWV01XWDlIT2NFb0lfM2dvYlYwdVBwWXh1WHhkeXlkOWs4OVg2cUFtbEhfaERaNEpMc3VrZzJvNmE1bXpETXB3cFNyc0hWWjYxMlFabjhjcHJCd0FCSzdQcUNkakRnM24ybkpmSjBOVTZjbEx3aGloaXcxSnFmdE81SDFZb1hNZ0lqSnJVcFpmX2wtRW8ydktFdw?oc=5",
+      "headline": "Could returning to Texas for 2027 finally make Arch Manning a top-five NFL Draft pick?",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0ZvMzl4UzRjaFd1TWpsblNKanBWMzIxalNKcDRLaTc2TzRseGpuV28xcVB4V3AxWmJwbmlQY3h6cmZkbU1oSjlLaHlmSHppUWE4Wk95QlZqVDRhVFZsTjFTODF5bkVOb1Q5Y0l4WHdqQ0tNNUpHQkhZUHZoWmtuOExGWVZmQXNpcUJNR3pQVGFibzNVUkY1SlBB?oc=5",
       "player": "Arch Manning",
-      "age_hours": 25,
+      "age_hours": 3,
+      "score": 20
+    },
+    {
+      "headline": "\u2018Am I in the Right Place?\u2019 \u2014 Analyst Speculates on Arch Manning Entering Transfer Portal Instead of Declaring for 2027 NFL Draft",
+      "source": "Yahoo Sports",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTF2RWR3Sk9LdF9jM3FHRDVCWEt1aGxHY3pid3RwWXMwV0o1Z0x0VmM2TURNYjFZWDF3NlNPTUlLNmRzT0x0SklzejhfNWJDMFFSeDZVeWlQa3NFRTRCRDg3aXRMSWNkX3FiV21qQVNMdlBjdXRUN0UwNy1pdFVzY1JxcFdzaEVy?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 5,
+      "score": 19
+    },
+    {
+      "headline": "Heisman Trophy Index: Which WR Has the Advantage entering Week 7?",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnNhemg5VkVlRkVZMFYzbm5OeHNoQlJqRU1UMlpydzc1a3N1dEZkbFhwMXFSSEdDS1ZDMkJUWWIzaXpCRGNrVnduVmEyYm1rSFIwRFB0NDhScWNxZ1RUWkQ4YWtmZkZZeFl4NXdDb29RUWZUb1VmQk12YmJSTlJNVlo2dFpkZDdULWpQWEJ4WElENWU1cnRRWjNtNWs5XzN6SlpjdUp4bU9tT2h3ZUxKby1DaDAwQQ?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 3,
       "score": 18
     },
     {
@@ -1786,25 +1743,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWw2Q3VFX1d0bFB4RDdrQk1qVVhBNHBjRXB2b1VMVW9Gdl9YUkI4MXdCVWpudUNMbDlpNTBkc2tELXNJcHd1RHhESHJOcWRJT0UxZ0U5UmVYUkFoMDJCcTAyMlVxRnh4dEdJWlExbFRWSlk3aXhjQ3l5ekNkSXNyRDNId0NCQjdWNnlvY0lwYjlJRmhHVXY5eDRwVGFSMW05eWE5MjExakI?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 6,
-      "score": 17
-    },
-    {
-      "headline": "Is Steve Sarkisian safe at 9-3? Would Arch Manning have been better at Georgia? Mandel\u2019s Mailbag",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWhhTzdKS01MSzJLNmYxUmp3LVFMWWpKZmdzdDhHYkU5M3FQelFTRXBNWkdUUUFrMEpncGZwRFJPRUpxajBWVW1MUVlzaWVJZThrMGN2VjdFNWJxbFIzam90NWV4akd5STZvR0dQRVVvbzdSYmt1VV9WUTBYMlZOaW1NTHR4VXk0OVhiczlvYXo3S2V2UXBycVBONmE?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 7,
-      "score": 17
-    },
-    {
-      "headline": "Arch Manning has been \u2026 average. Plus: Biggest college football games left",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEpremR6SFhSNG53R1phRjYtOThhRUxRQWt5Tmt5RE5CZEhDUnh4ZS14eng5VkNNa2RMaFAzeFdkYjF1YUh5S0FzZXRBV2NET1g1Sk9BNEZPN1p3Z20zYmUtbHNqV09HS2NzbnZGeXNaMGEyVWozUEVmLU01ckpJS3NmRUdacXVpNVB3UTh0N3RwNzREU3FXYmtB?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 22,
+      "age_hours": 10,
       "score": 17
     },
     {
@@ -1813,16 +1752,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
       "player": "Dante Moore",
-      "age_hours": 418,
-      "score": 16
-    },
-    {
-      "headline": "Heisman Trophy odds after Week 6: Can Darian Mensah, CJ Carr catch Jeremiah Smith?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVVldWpNSzlYVlZhWHFtRUpBTU5EeG9ZTDBOYmF2YjR6QnBsNGlpWXZRUmVyNUNFeWFXbnZmUzNGVGU2T2MtRlZ4dHNBNVg3V045WENOVldiMlN3LU9KZUtucUZiSm1mSmdjNTZOaG9oeEZQUk41WDFMN3BXd01HU2c0MU4yNUg4M2djY0FYNnBOVW1EZ3lZUW51M01EUXRp?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 51,
+      "age_hours": 422,
       "score": 16
     }
   ],
@@ -1844,7 +1774,7 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 12,
+          "pct": 14,
           "tracked": true
         },
         {
@@ -1888,12 +1818,12 @@
         },
         {
           "name": "Tennessee",
-          "pct": 24,
+          "pct": 27,
           "tracked": false
         },
         {
           "name": "Arizona",
-          "pct": 6,
+          "pct": 9,
           "tracked": false
         },
         {
@@ -1912,17 +1842,17 @@
           "tracked": false
         },
         {
-          "name": "Washington",
-          "pct": 3,
+          "name": "Tampa Bay",
+          "pct": 5,
           "tracked": false
         },
         {
-          "name": "Atlanta",
-          "pct": 2,
+          "name": "Las Vegas",
+          "pct": 3,
           "tracked": false
         }
       ],
-      "field_pct": 4,
+      "field_pct": 0,
       "field_count": 24
     },
     {
@@ -1957,7 +1887,7 @@
         },
         {
           "name": "Gunner Stockton",
-          "pct": 5,
+          "pct": 4,
           "tracked": false
         },
         {
@@ -1966,12 +1896,12 @@
           "tracked": true
         },
         {
-          "name": "Josh Hoover",
-          "pct": 3,
+          "name": "Malachi Toney",
+          "pct": 2,
           "tracked": false
         }
       ],
-      "field_pct": 3,
+      "field_pct": 5,
       "field_count": 39
     }
   ],
@@ -2035,7 +1965,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 7,
+    "games_matched": 5,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
