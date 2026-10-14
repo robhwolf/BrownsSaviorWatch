@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T03:42:17.283439+00:00",
+  "updated_at": "2026-10-14T16:37:27.946244+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -918,31 +918,10 @@
         "color": "#fe5c00"
       },
       "status": {
-        "event_id": "401856824",
-        "week": 6,
-        "opponent": "UCF",
-        "opponent_id": 2116,
-        "home_away": "vs",
-        "kickoff": "2026-10-10T16:00:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "42-28",
-        "label": "W 42-28 vs UCF"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 19,
-        "att": 28,
-        "pass_yds": 304,
-        "pass_td": 2,
-        "int": 0,
-        "rush_att": 2,
-        "rush_yds": 2,
-        "rush_td": 1,
-        "comp_pct": 67.9,
-        "ypa": 10.9
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856831",
         "week": 7,
@@ -1467,8 +1446,8 @@
         "opponent": "Wisconsin",
         "opponent_id": 275,
         "home_away": "at",
-        "kickoff": "2026-10-24T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-24T23:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "at Wisconsin"
@@ -1620,31 +1599,10 @@
         "color": "#cc0033"
       },
       "status": {
-        "event_id": "401856823",
-        "week": 6,
-        "opponent": "West Virginia",
-        "opponent_id": 277,
-        "home_away": "at",
-        "kickoff": "2026-10-10T16:00:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "52-31",
-        "label": "W 52-31 at West Virginia"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 16,
-        "att": 23,
-        "pass_yds": 341,
-        "pass_td": 3,
-        "int": 1,
-        "rush_att": 3,
-        "rush_yds": 1,
-        "rush_td": 0,
-        "comp_pct": 69.6,
-        "ypa": 14.8
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856838",
         "week": 8,
@@ -1796,12 +1754,12 @@
   ],
   "news": [
     {
-      "headline": "2027 NFL Draft takeaways: Why isn\u2019t Texas QB Arch Manning improving?",
+      "headline": "2027 NFL Draft quarterbacks watch: CJ Carr, Darian Mensah rising; Arch Manning stumbling",
       "source": "The New York Times",
       "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1RWV01XWDlIT2NFb0lfM2dvYlYwdVBwWXh1WHhkeXlkOWs4OVg2cUFtbEhfaERaNEpMc3VrZzJvNmE1bXpETXB3cFNyc0hWWjYxMlFabjhjcHJCd0FCSzdQcUNkakRnM24ybkpmSjBOVTZjbEx3aGloaXcxSnFmdE81SDFZb1hNZ0lqSnJVcFpmX2wtRW8ydktFdw?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 12,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnNveTJmOHNfNmY3ejFNX0Jwb0VocWV6Mjh0TWFTbFRfRmowcnQwaFl0UEZVeTMzVEdVLUNkQ1dSRDlxdjZJYWFzRkVvSjhFeFI0OW1abExtbmVFSXAwbTZ2TTQyam5TcG5KNnltb2ZuMTQ5Z3dzSlRHeUt1Rmd2UnoxZldvMzdlNW1mREpRQ3poM1pqMzQ1Y2RCMkNwNWpOUlE?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 7,
       "score": 22
     },
     {
@@ -1810,25 +1768,34 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 148,
+      "age_hours": 160,
       "score": 20
     },
     {
-      "headline": "CJ Carr or Kenny Minchey? Notre Dame\u2019s dramatic 2025 QB competition had more than one winner",
+      "headline": "2027 NFL Draft takeaways: Why isn\u2019t Texas QB Arch Manning improving?",
       "source": "The New York Times",
       "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3BhZ1JuRWltZWg3ZHJkRTlsbGJHbnVSeUJsb0g5X242cXhqR2xTc3VzNEtBazM4bWplLWduLUhWTU5vVDZ3YVFRZGVlU3JBSXpXSVFzQnItSHNIdFZLZ3ZuSUJOdDN3QzVBVE8wU01kaWF0dlRRQ2U2NVBoRkJaZzBwQlJjYUFjdUVfUHJiMWVPVXBwLWJFT293?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 18,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1RWV01XWDlIT2NFb0lfM2dvYlYwdVBwWXh1WHhkeXlkOWs4OVg2cUFtbEhfaERaNEpMc3VrZzJvNmE1bXpETXB3cFNyc0hWWjYxMlFabjhjcHJCd0FCSzdQcUNkakRnM24ybkpmSjBOVTZjbEx3aGloaXcxSnFmdE81SDFZb1hNZ0lqSnJVcFpmX2wtRW8ydktFdw?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 25,
+      "score": 18
+    },
+    {
+      "headline": "How to bet Indiana-Ohio State: Two bets stand out as the Buckeyes head to Bloomington",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWw2Q3VFX1d0bFB4RDdrQk1qVVhBNHBjRXB2b1VMVW9Gdl9YUkI4MXdCVWpudUNMbDlpNTBkc2tELXNJcHd1RHhESHJOcWRJT0UxZ0U5UmVYUkFoMDJCcTAyMlVxRnh4dEdJWlExbFRWSlk3aXhjQ3l5ekNkSXNyRDNId0NCQjdWNnlvY0lwYjlJRmhHVXY5eDRwVGFSMW05eWE5MjExakI?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 6,
       "score": 17
     },
     {
-      "headline": "It\u2019s time to treat college football players like paid adults, including Arch Manning - The Athletic",
+      "headline": "Is Steve Sarkisian safe at 9-3? Would Arch Manning have been better at Georgia? Mandel\u2019s Mailbag",
       "source": "The New York Times",
       "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbDFSNGRjSUw2M0h5VUxUVXNnak15eUdhSndIb0tQNnQ5c2xFYUhZVmxQdFRQY2pFM3RxdEpUclhyRTJqcGtNODFRdVFGTXduNlBfVGM1VUFBUjlDcmkwY1ptTDlMQjBERk9MbnZFc1pqdnpzdHI4X1QtQmtjQXVUTksySUJBcTBzNVgta3Y1S1ZfYkpia0lBOEJVTzZDd0hVSWs4bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWhhTzdKS01MSzJLNmYxUmp3LVFMWWpKZmdzdDhHYkU5M3FQelFTRXBNWkdUUUFrMEpncGZwRFJPRUpxajBWVW1MUVlzaWVJZThrMGN2VjdFNWJxbFIzam90NWV4akd5STZvR0dQRVVvbzdSYmt1VV9WUTBYMlZOaW1NTHR4VXk0OVhiczlvYXo3S2V2UXBycVBONmE?oc=5",
       "player": "Arch Manning",
-      "age_hours": 15,
+      "age_hours": 7,
       "score": 17
     },
     {
@@ -1837,7 +1804,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEpremR6SFhSNG53R1phRjYtOThhRUxRQWt5Tmt5RE5CZEhDUnh4ZS14eng5VkNNa2RMaFAzeFdkYjF1YUh5S0FzZXRBV2NET1g1Sk9BNEZPN1p3Z20zYmUtbHNqV09HS2NzbnZGeXNaMGEyVWozUEVmLU01ckpJS3NmRUdacXVpNVB3UTh0N3RwNzREU3FXYmtB?oc=5",
       "player": "Arch Manning",
-      "age_hours": 9,
+      "age_hours": 22,
       "score": 17
     },
     {
@@ -1846,16 +1813,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
       "player": "Dante Moore",
-      "age_hours": 405,
-      "score": 16
-    },
-    {
-      "headline": "Raiola steps in for injured Moore, rallies Oregon past USC",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzJmNlo1RTYzTXZMRnNVUnNuTmRkZUZPSWg5blFDRDZDa3luQ1ByMlp4bHdZUXdPNWVOdUJ1b2E2eUVvaDJOemRfR1ptQTdNVGtXWUVjcU0xajMzMUtvTXAzbVlSUXhhZG9kM0R5bVdqRzhNd0F5LUZ6VFRiQUYxYi1yRVdDLXR3VzhQajgtTkQwRlBTX3NEb3NxaWkteUZvazlTelBn?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 429,
+      "age_hours": 418,
       "score": 16
     },
     {
@@ -1864,7 +1822,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVVldWpNSzlYVlZhWHFtRUpBTU5EeG9ZTDBOYmF2YjR6QnBsNGlpWXZRUmVyNUNFeWFXbnZmUzNGVGU2T2MtRlZ4dHNBNVg3V045WENOVldiMlN3LU9KZUtucUZiSm1mSmdjNTZOaG9oeEZQUk41WDFMN3BXd01HU2c0MU4yNUg4M2djY0FYNnBOVW1EZ3lZUW51M01EUXRp?oc=5",
       "player": "CJ Carr",
-      "age_hours": 38,
+      "age_hours": 51,
       "score": 16
     }
   ],
@@ -1876,7 +1834,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 40,
+          "pct": 37,
           "tracked": false
         },
         {
@@ -1886,17 +1844,17 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 14,
-          "tracked": true
-        },
-        {
-          "name": "Darian Mensah",
-          "pct": 10,
+          "pct": 12,
           "tracked": true
         },
         {
           "name": "Arch Manning",
-          "pct": 7,
+          "pct": 10,
+          "tracked": true
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 9,
           "tracked": true
         },
         {
@@ -1930,12 +1888,12 @@
         },
         {
           "name": "Tennessee",
-          "pct": 25,
+          "pct": 24,
           "tracked": false
         },
         {
           "name": "Arizona",
-          "pct": 7,
+          "pct": 6,
           "tracked": false
         },
         {
@@ -1964,7 +1922,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 2,
+      "field_pct": 4,
       "field_count": 24
     },
     {
@@ -1993,24 +1951,24 @@
           "tracked": true
         },
         {
+          "name": "Keelon Russell",
+          "pct": 6,
+          "tracked": false
+        },
+        {
           "name": "Gunner Stockton",
           "pct": 5,
-          "tracked": false
-        },
-        {
-          "name": "Keelon Russell",
-          "pct": 5,
-          "tracked": false
-        },
-        {
-          "name": "Jesse Legree",
-          "pct": 4,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
           "pct": 3,
           "tracked": true
+        },
+        {
+          "name": "Josh Hoover",
+          "pct": 3,
+          "tracked": false
         }
       ],
       "field_pct": 3,
@@ -2077,7 +2035,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 9,
+    "games_matched": 7,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
