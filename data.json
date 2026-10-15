@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T21:18:50.203201+00:00",
+  "updated_at": "2026-10-15T03:23:35.240632+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -253,8 +253,16 @@
         "color": "#007030"
       },
       "status": {
-        "state": "idle",
-        "label": "No game this week"
+        "event_id": "401858492",
+        "week": 7,
+        "opponent": "Nebraska",
+        "opponent_id": 158,
+        "home_away": "vs",
+        "kickoff": "2026-10-18T03:00:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Nebraska"
       },
       "game": null,
       "next_game": {
@@ -380,8 +388,16 @@
         "color": "#0c2340"
       },
       "status": {
-        "state": "idle",
-        "label": "No game this week"
+        "event_id": "401856809",
+        "week": 7,
+        "opponent": "BYU",
+        "opponent_id": 252,
+        "home_away": "at",
+        "kickoff": "2026-10-17T23:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "at BYU"
       },
       "game": null,
       "next_game": {
@@ -542,8 +558,16 @@
         "color": "#f47321"
       },
       "status": {
-        "state": "idle",
-        "label": "No game this week"
+        "event_id": "401858263",
+        "week": 7,
+        "opponent": "Florida State",
+        "opponent_id": 52,
+        "home_away": "vs",
+        "kickoff": "2026-10-17T23:00:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "vs Florida State"
       },
       "game": null,
       "next_game": {
@@ -861,8 +885,16 @@
         "color": "#fe5c00"
       },
       "status": {
-        "state": "idle",
-        "label": "No game this week"
+        "event_id": "401856831",
+        "week": 7,
+        "opponent": "Houston",
+        "opponent_id": 248,
+        "home_away": "at",
+        "kickoff": "2026-10-17T23:30:00.000Z",
+        "tbd": false,
+        "neutral": false,
+        "state": "scheduled",
+        "label": "at Houston"
       },
       "game": null,
       "next_game": {
@@ -1162,31 +1194,18 @@
         "color": "#461d7c"
       },
       "status": {
-        "event_id": "401856715",
-        "week": 6,
-        "opponent": "Kentucky",
-        "opponent_id": 96,
-        "home_away": "at",
-        "kickoff": "2026-10-10T23:00:00.000Z",
+        "event_id": "401856720",
+        "week": 7,
+        "opponent": "Mississippi State",
+        "opponent_id": 344,
+        "home_away": "vs",
+        "kickoff": "2026-10-17T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "L",
-        "score": "34-35",
-        "label": "L 34-35 at Kentucky"
+        "state": "scheduled",
+        "label": "vs Mississippi State"
       },
-      "game": {
-        "cmp": 25,
-        "att": 34,
-        "pass_yds": 275,
-        "pass_td": 2,
-        "int": 1,
-        "rush_att": 15,
-        "rush_yds": 39,
-        "rush_td": 1,
-        "comp_pct": 73.5,
-        "ypa": 8.1
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856720",
         "week": 7,
@@ -1345,31 +1364,10 @@
         "color": "#990000"
       },
       "status": {
-        "event_id": "401858485",
-        "week": 6,
-        "opponent": "Penn State",
-        "opponent_id": 213,
-        "home_away": "at",
-        "kickoff": "2026-10-10T23:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "31-23",
-        "label": "W 31-23 at Penn State"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 21,
-        "att": 33,
-        "pass_yds": 301,
-        "pass_td": 3,
-        "int": 0,
-        "rush_att": 2,
-        "rush_yds": -1,
-        "rush_td": 0,
-        "comp_pct": 63.6,
-        "ypa": 9.1
-      },
+      "game": null,
       "next_game": {
         "event_id": "401858500",
         "week": 8,
@@ -1689,8 +1687,26 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnNveTJmOHNfNmY3ejFNX0Jwb0VocWV6Mjh0TWFTbFRfRmowcnQwaFl0UEZVeTMzVEdVLUNkQ1dSRDlxdjZJYWFzRkVvSjhFeFI0OW1abExtbmVFSXAwbTZ2TTQyam5TcG5KNnltb2ZuMTQ5Z3dzSlRHeUt1Rmd2UnoxZldvMzdlNW1mREpRQ3poM1pqMzQ1Y2RCMkNwNWpOUlE?oc=5",
       "player": "CJ Carr",
-      "age_hours": 11,
+      "age_hours": 17,
       "score": 22
+    },
+    {
+      "headline": "Dante Moore\u2019s Status Isn\u2019t Oregon\u2019s Only Concern on Latest Injury Report",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQy1ULW1tQUVOeV9ub0cyZlNyUXRTaUUta2xQeWVkTXRiR0ZGSklOVHJpR3JNQk53TzhES2wtdTRKcFE3VG5IYlpadWhEV3RBNlZ1Wjlzemd1SkNZaGwwVEVyaXoyNXNNMjBfTl9UNXd3QVZqcGV5MVNuaTFVY3JMdzFMRlZrUnlsa1hFQk1xSndJUDEwNmhIRWdmS3Q?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
+      "score": 21
+    },
+    {
+      "headline": "Oregon QB Dante Moore ruled out vs. Nebraska with injury",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTlOVEhyOVRvNFhPRVNaNVhmZmkzZDJDUWp3OEowVW1PbGEyNmxncGlPV1p4UEkwYWFpdHhTZl9aOHUzVGdXai1zaHU2QU5sY1VTbTRiQS1HUHdlNFJxcTV4TWFUdHR5V01OOThUYnBrX0UwVnI1eHMxU0F0cVJLbFdYcEcyTlVZ?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
+      "score": 21
     },
     {
       "headline": "Dan Lanning Delivers Critical Dante Moore, Aaron Flowers Injury Updates",
@@ -1698,7 +1714,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEZKZllCQW5lbGljUWgwbDZGUGJNQWJrNmFneWpFSFBVQUVYNlRfa2tWWXlBOFpzU3VDOUgtSnlxaGZEeXhzc0U4ZEtod1VZamZnclJPT0xxVzE4X3E5OG1Xbl9XaXE5aUwzWVROWlFoOWlTZC1uZjFhcnRGaEtCV2ctQWVsVGVmdnpfS2ViYTJ2MjI1R1lhdU84VWlpZnB6OUEzenQwa2FYUkNzRTFveFBKQ29DVzRwTGFSNlFzcTJIZ3h0?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1,
+      "age_hours": 7,
+      "score": 21
+    },
+    {
+      "headline": "Dante Moore injury update: Oregon QB ruled out with concussion vs Nebraska",
+      "source": "Yahoo Sports",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ1AwRU5odjdEWHI3d1p3YUtVR2VtWUhtRG45OTk0TjFlSXdmc0hvQUwxS2REWWFKV3hZRGZ2SzVFNXdKUHIxZm5mcHI4RFdWTmwyeFpEeE4zVTRDWVVUM3ZTVFNqVnBzZmNIOTd1SnhWRW5SV0VzVkRhTXBkc1Q2ZURWOA?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
       "score": 21
     },
     {
@@ -1707,7 +1732,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 165,
+      "age_hours": 171,
       "score": 20
     },
     {
@@ -1716,44 +1741,17 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0ZvMzl4UzRjaFd1TWpsblNKanBWMzIxalNKcDRLaTc2TzRseGpuV28xcVB4V3AxWmJwbmlQY3h6cmZkbU1oSjlLaHlmSHppUWE4Wk95QlZqVDRhVFZsTjFTODF5bkVOb1Q5Y0l4WHdqQ0tNNUpHQkhZUHZoWmtuOExGWVZmQXNpcUJNR3pQVGFibzNVUkY1SlBB?oc=5",
       "player": "Arch Manning",
-      "age_hours": 3,
+      "age_hours": 9,
       "score": 20
     },
     {
-      "headline": "\u2018Am I in the Right Place?\u2019 \u2014 Analyst Speculates on Arch Manning Entering Transfer Portal Instead of Declaring for 2027 NFL Draft",
-      "source": "Yahoo Sports",
-      "domain": "sports.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTF2RWR3Sk9LdF9jM3FHRDVCWEt1aGxHY3pid3RwWXMwV0o1Z0x0VmM2TURNYjFZWDF3NlNPTUlLNmRzT0x0SklzejhfNWJDMFFSeDZVeWlQa3NFRTRCRDg3aXRMSWNkX3FiV21qQVNMdlBjdXRUN0UwNy1pdFVzY1JxcFdzaEVy?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 5,
-      "score": 19
-    },
-    {
-      "headline": "Heisman Trophy Index: Which WR Has the Advantage entering Week 7?",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnNhemg5VkVlRkVZMFYzbm5OeHNoQlJqRU1UMlpydzc1a3N1dEZkbFhwMXFSSEdDS1ZDMkJUWWIzaXpCRGNrVnduVmEyYm1rSFIwRFB0NDhScWNxZ1RUWkQ4YWtmZkZZeFl4NXdDb29RUWZUb1VmQk12YmJSTlJNVlo2dFpkZDdULWpQWEJ4WElENWU1cnRRWjNtNWs5XzN6SlpjdUp4bU9tT2h3ZUxKby1DaDAwQQ?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 3,
-      "score": 18
-    },
-    {
-      "headline": "How to bet Indiana-Ohio State: Two bets stand out as the Buckeyes head to Bloomington",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWw2Q3VFX1d0bFB4RDdrQk1qVVhBNHBjRXB2b1VMVW9Gdl9YUkI4MXdCVWpudUNMbDlpNTBkc2tELXNJcHd1RHhESHJOcWRJT0UxZ0U5UmVYUkFoMDJCcTAyMlVxRnh4dEdJWlExbFRWSlk3aXhjQ3l5ekNkSXNyRDNId0NCQjdWNnlvY0lwYjlJRmhHVXY5eDRwVGFSMW05eWE5MjExakI?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 10,
-      "score": 17
-    },
-    {
-      "headline": "Oregon quarterback Dante Moore sustains concussion from hit at USC",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
+      "headline": "Oregon rules out Dante Moore for Nebraska game, Evan Stewart questionable",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ0xEbGJrSFl5blo3dk9FalNtRkw0bFdGeDhoQnM5ZkJMWVZrZGNwM09nSFM3RlBNSU12Z2Z2Q3ppZV93WHBlM1ROOE1od3h1cEFGLXpEX1dpSXZRWEJUeGRyOVc4bUNLcEFTbGlPSUZZMzQ3SWpzMjRvTFdYN19lYkJaSzJKSXpaeWZZMi1BSG85Q2RYaXo0a1pQSGlnOWZiNEtDTjJTdDBtUkRneHRZWmgtRlVhT25OMmhpODNFQjZnTzQ4a3hJYzNfMlpvUDdyTFFPSUJLYUdmTkhKRWJKODBOQ1U3TGZ1bnJadHVFTFA5YkdUOHc?oc=5",
       "player": "Dante Moore",
-      "age_hours": 422,
-      "score": 16
+      "age_hours": 3,
+      "score": 19
     }
   ],
   "kalshi": [
@@ -1764,12 +1762,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 37,
+          "pct": 40,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 22,
+          "pct": 23,
           "tracked": true
         },
         {
@@ -1813,7 +1811,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 45,
+          "pct": 41,
           "tracked": false
         },
         {
@@ -1823,7 +1821,7 @@
         },
         {
           "name": "Arizona",
-          "pct": 9,
+          "pct": 8,
           "tracked": false
         },
         {
@@ -1862,12 +1860,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 54,
+          "pct": 55,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 12,
+          "pct": 10,
           "tracked": true
         },
         {
@@ -1887,7 +1885,7 @@
         },
         {
           "name": "Gunner Stockton",
-          "pct": 4,
+          "pct": 5,
           "tracked": false
         },
         {
@@ -1896,12 +1894,12 @@
           "tracked": true
         },
         {
-          "name": "Malachi Toney",
-          "pct": 2,
+          "name": "Josh Hoover",
+          "pct": 3,
           "tracked": false
         }
       ],
-      "field_pct": 5,
+      "field_pct": 4,
       "field_count": 39
     }
   ],
@@ -1965,7 +1963,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 5,
+    "games_matched": 8,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
