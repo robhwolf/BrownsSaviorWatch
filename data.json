@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T21:51:02.258200+00:00",
+  "updated_at": "2026-10-17T23:36:58.156967+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -107,10 +107,23 @@
         "kickoff": "2026-10-17T19:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Missouri"
+        "state": "final",
+        "result": "W",
+        "score": "31-3",
+        "label": "W 31-3 vs Missouri"
       },
-      "game": null,
+      "game": {
+        "cmp": 20,
+        "att": 36,
+        "pass_yds": 241,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 4,
+        "rush_yds": 14,
+        "rush_td": 1,
+        "comp_pct": 55.6,
+        "ypa": 6.7
+      },
       "next_game": {
         "event_id": "401856732",
         "week": 8,
@@ -218,24 +231,43 @@
           "result": "W",
           "score": "52-17",
           "date": "2026-10-10T19:30:00.000Z"
+        },
+        {
+          "cmp": 20,
+          "att": 36,
+          "pass_yds": 241,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 4,
+          "rush_yds": 14,
+          "rush_td": 1,
+          "comp_pct": 55.6,
+          "ypa": 6.7,
+          "event_id": "401856721",
+          "week": 7,
+          "opponent": "Missouri",
+          "home_away": "vs",
+          "result": "W",
+          "score": "31-3",
+          "date": "2026-10-17T19:30:00.000Z"
         }
       ],
       "season": {
-        "games": 5,
-        "record": "4-1",
-        "cmp": 122,
-        "att": 174,
-        "comp_pct": 70.1,
-        "pass_yds": 1435,
-        "ypa": 8.2,
-        "pass_td": 11,
+        "games": 6,
+        "record": "5-1",
+        "cmp": 142,
+        "att": 210,
+        "comp_pct": 67.6,
+        "pass_yds": 1676,
+        "ypa": 8.0,
+        "pass_td": 14,
         "int": 4,
-        "td_int": "11-4",
-        "rush_yds": 103,
-        "rush_td": 5,
-        "total_td": 16,
-        "ypg": 287,
-        "rating": 155.7,
+        "td_int": "14-4",
+        "rush_yds": 117,
+        "rush_td": 6,
+        "total_td": 20,
+        "ypg": 279,
+        "rating": 152.8,
         "epa_per_play": null
       }
     },
@@ -401,16 +433,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856809",
-        "week": 7,
-        "opponent": "BYU",
-        "opponent_id": 252,
+        "event_id": "401859185",
+        "week": 9,
+        "opponent": "Navy",
+        "opponent_id": 2426,
         "home_away": "at",
-        "kickoff": "2026-10-17T23:30:00.000Z",
+        "kickoff": "2026-10-31T16:00:00.000Z",
         "tbd": false,
-        "neutral": false,
+        "neutral": true,
         "state": "scheduled",
-        "label": "at BYU"
+        "label": "at Navy"
       },
       "log": [
         {
@@ -571,16 +603,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858263",
-        "week": 7,
-        "opponent": "Florida State",
-        "opponent_id": 52,
+        "event_id": "401858274",
+        "week": 8,
+        "opponent": "Pittsburgh",
+        "opponent_id": 221,
         "home_away": "vs",
-        "kickoff": "2026-10-17T23:00:00.000Z",
+        "kickoff": "2026-10-24T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Florida State"
+        "label": "vs Pittsburgh"
       },
       "log": [
         {
@@ -930,16 +962,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856831",
-        "week": 7,
-        "opponent": "Houston",
-        "opponent_id": 248,
-        "home_away": "at",
-        "kickoff": "2026-10-17T23:30:00.000Z",
-        "tbd": false,
+        "event_id": "401856836",
+        "week": 8,
+        "opponent": "Colorado",
+        "opponent_id": 38,
+        "home_away": "vs",
+        "kickoff": "2026-10-24T04:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Houston"
+        "label": "vs Colorado"
       },
       "log": [
         {
@@ -1783,17 +1815,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 8,
+      "age_hours": 9,
       "score": 26
-    },
-    {
-      "headline": "Ohio State ends Indiana\u2019s 22-game win streak by a single step; Julian Sayin injured",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaU9TRmdqUmJfejVWaHNVc1F3aDJqcFljMXd4Q0dsNzFXQjFFMUdKMzhXR2IweFhlckhJVEVYcVl1UlRDanc4M2s5UGJzT2tnWTFQZFdKaTlfSUJfQi0yUUwzbG5BRVY2NV9LWlFqSElqM2tvd20xRUpoMmNZamtHUkZCQkNvQVE1WW1KVnQ4aVNxNVJGNTU5WnBR?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 1,
-      "score": 23
     },
     {
       "headline": "Ohio State QB Julian Sayin out 'several weeks' with shoulder injury",
@@ -1801,7 +1824,16 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHNWTVREOTAxTnFnSllXclh0ZmxHaE5qSDhSMnF5Ny02Q0htb214T1VTOGtlUU9iYkNkdnQ3dDg0SnN5YXRXT3BlRmFqYWhSQWJxUExhUWxhbEhseFBTSDctRUdsVTg3UDJjTEdlUWVnZ2daOW80XzNSVjJXTURtdjNQdm5Eckl1QmpiUmFWemtrUUNCN09WUnlJR3VBMGRFcXJzQlJHdDhXRmdXTUE?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 0,
+      "age_hours": 2,
+      "score": 23
+    },
+    {
+      "headline": "Sam Leavitt throws for 4 TDs as LSU routs injury-depleted Mississippi State",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzZXQXBRLUFsV2MwYXdwWDFHYmU4ak8wM3ctSlh4YUZ1S2xyS3JqTU5xdFNmYzFncXFMTHNWWVVlM0JodElqX0wzMjE1VmYxTnRIamVlbUtZS0VNS3hpalZpVUNCNlBpMVZoZlVhdmlVT3o4WWYyS2dDU1NHdXJOcGY5VmFkeUxCRmZ4R0Zlb1RTS3FlNFZOLWFQbHBvc215cFhCOUNHS2R4SHB1N0E?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 4,
       "score": 23
     },
     {
@@ -1810,7 +1842,34 @@
       "domain": "bleacherreport.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFlOc3AzaDdGcXNZeVQ0ZF9FRjRGVGNVSDB6a3paa2Y1VEpRNGdjLWJiZmRqNlpMUE9mUVNmQllzSGtjU0dhazRzMnBVVjFsdklpa3VNX3NfbHQ4MnFsdi12cDNEa3hTeDB5RUJ1UmxSTGNDdk1qMUhrV210TzBmSm1LT0NTUzZzYWZqX05yUzNPc1ZUN0FHbDhrTW1Wa0lNV2Npa2pZWEVDWTFwLVUyX05vTWwwY2dLWjFOTHUwNnhsZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 20,
+      "age_hours": 22,
+      "score": 21
+    },
+    {
+      "headline": "Michigan quarterback Bryce Underwood benched and replaced by Tommy Carr against Penn State",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2pZRkpoUUhlRXVTZUdxQi1KMkw4YV95U2lTZndRVWRVS3phT2ZfT0YxZUlzLXlVRkZzaE9VcGpMektWS2s2c1Voc3pjTGEyQ3hBNmtCQUpKSWM0VjlGNEJKUnY0b0lXazYzQWdSaEdrZVNTX3EyUVFSYkowMURTeGpldnpTWHpmbldmRHdhRmFsbk1zVnRZRXZPZ3FIdFVta0pnYXNwdFM4ZW96dnZ6amNRTGZ2VkZWX1hPSEhyTXFpN2t4V2kwTw?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 2,
+      "score": 21
+    },
+    {
+      "headline": "Julian Sayin Injury: What We Know About Ohio State's Star Quarterback",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3R4VW43b3VaOXZWbkhhZnF1dEJOS3p2Vk5oTlVxT0JhRWVZQlhrY0tpS25uZ2o5WFZIM014UkFSMVRuVlI3NnhiSzVTMjE2WEhjQzN2RC1RRGR4WkY5elcyeGFfdmw3U3k2clZZOEVqUTNURlk3anh3OEZlOUZJT0ZkMC1Eenl5RDFEbGdOV1dfLUhXTW5yT1ZNOURKVlpMMkxj0gGjAUFVX3lxTE9iSzBRdGx5TGEyenJiaU83Q3o2UzVjR1pKSXQyUWVhdzRZTE8xUTBqZXBTbHRjbXFUeThRVWR6a3VoVnJETGhCZzZMRGNFVm5zdnRuS0Z6N2lDY2pNdTNjM3RjME1aUkdhODRsOUtxbjNGaERuQ3dwM2xNblYzdkhDRjZQS0hvOTYzOVlEdGdjSUFTSVktWnhSNWNlMFo2Ykc2V0k?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 4,
+      "score": 21
+    },
+    {
+      "headline": "Ohio State QB Julian Sayin to miss 'several weeks' after suffering injury in win vs. Indiana",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2p1WEhCelpjNFVLV2dUdFpmT08yQlhidUpJN1FwQmx6Tl9MY05jbFp2TWlBX1RSTnhFeDY4OThhRlQ4eGtTWUlJMVRHQjRTQ2JnSTgwNFNRRC1TSGR0VEFIWHBsQXdmLXZFdVhRSzdxckc4WE9GWlg4NXpXVnE2eVozOWZlS001amdPUXREcmhCSXdL?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 2,
       "score": 21
     },
     {
@@ -1819,34 +1878,7 @@
       "domain": "al.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSzFZOTVhNGdGdm83Yzh6OU0xZGZQTm9tbE9FZ1k0ejRWS2tvbGd0anlzMmpKUlJrbGRuQ3JnSFdROERINGxObUJnMXBJYmtTQkY3a2p3X2p0TVlma3VPOGc2dXpOeENrTGhXczVqUlBHaU92UEtnUkp4WEdpTlNsT3I5dUd5RHN3dVRLTWNkS0ZmWnlwVzBrUVN0SXJETDh4QktZNkt5dXZlaHNBelB4ZzluZmdKbXlOZmtKa3kyaFRaNktoY2c?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 1,
-      "score": 21
-    },
-    {
-      "headline": "Ohio State QB Julian Sayin leaves Indiana game with injury, goes to locker room",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdndLMDBXWnM5akVDQ0o2RjVIX2tFd0lvUUxpYlhDcUZTU0JFQ2s2UlNrSGhLeXZDRTlRX0dzZ0t5WGVva1lEc1loc2dic2JjSkF5V2Z6TElSdTZuRnRMVWNvRmRRWC1PT0wwb19STVBjb0N0X3A1MVk4MHgzb3BLcHB2WEJweGRIR0lqbWstZTM1QXdSMk1BTm1uNnpveG8wTzFlZGpEdw?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 2,
-      "score": 21
-    },
-    {
-      "headline": "Ryan Day: Julian Sayin will 'probably be out several weeks' with injury suffered vs. Indiana",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHV5QVFkSkZQUHRVWkVrWUdWSDlsT0VXUXY1S0JIakRWdlBYdjBmOVdYTUpVTVcxMzJKaGJKUFVjekFoQTRQMzN6YlBGaXA2bnkxbTdEWEhfZ3JOUDZiLUFXZ0YyclRSYVFod3d0MUE5QmZiWE5QR19yOFhGZ0o0eW96RTBZVDNTOXZSaDFhMGlqbUhoRFhOWUdqSS1VNHd4Q3FVdWdVWQ?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 1,
-      "score": 21
-    },
-    {
-      "headline": "Ohio State survived Indiana, but Julian Sayin's injury may decide the Buckeyes' season",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE5LZGdyLTBLWWZvMDc5TXU2Vzc5ZC1TNGVvRWZTdVV4dkt0WjZIQ05VUlVYeXR2OTVtYmhVMWFrNDY2LUlTamprcnFUN092RlhTa2c4T0FNY0dmM1VHTnpuRlVuQ3hxX29TNmZQejNyV3VTRVFmWU83RjZac2pQN1ozR1lzRmxGd1VtbG9ZbGVOYzRLZ25yLVdSYktSN0YycnR2T3AteGNlbW1QUXJj?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 1,
+      "age_hours": 3,
       "score": 21
     }
   ],
@@ -1863,7 +1895,7 @@
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 29,
+          "pct": 31,
           "tracked": true
         },
         {
@@ -1956,22 +1988,32 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 35,
+          "pct": 46,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 24,
+          "pct": 17,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 16,
+          "pct": 13,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
+          "pct": 7,
+          "tracked": true
+        },
+        {
+          "name": "Jesse Legree",
           "pct": 5,
+          "tracked": false
+        },
+        {
+          "name": "Drew Mestemaker",
+          "pct": 4,
           "tracked": true
         },
         {
@@ -1980,22 +2022,12 @@
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 3,
-          "tracked": true
-        },
-        {
-          "name": "Keelon Russell",
-          "pct": 3,
-          "tracked": false
-        },
-        {
-          "name": "Jesse Legree",
-          "pct": 3,
+          "name": "Malachi Toney",
+          "pct": 2,
           "tracked": false
         }
       ],
-      "field_pct": 8,
+      "field_pct": 3,
       "field_count": 39
     }
   ],
