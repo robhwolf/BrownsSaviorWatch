@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T07:23:50.749665+00:00",
+  "updated_at": "2026-10-17T17:36:37.496929+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -725,16 +725,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858488",
-        "week": 7,
-        "opponent": "Indiana",
-        "opponent_id": 84,
+        "event_id": "401858509",
+        "week": 9,
+        "opponent": "USC",
+        "opponent_id": 30,
         "home_away": "at",
-        "kickoff": "2026-10-17T16:00:00.000Z",
-        "tbd": false,
+        "kickoff": "2026-10-31T04:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Indiana"
+        "label": "at USC"
       },
       "log": [
         {
@@ -1053,16 +1053,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856724",
-        "week": 7,
-        "opponent": "Florida",
-        "opponent_id": 57,
+        "event_id": "401856732",
+        "week": 8,
+        "opponent": "Ole Miss",
+        "opponent_id": 145,
         "home_away": "vs",
-        "kickoff": "2026-10-17T16:00:00.000Z",
+        "kickoff": "2026-10-24T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Florida"
+        "label": "vs Ole Miss"
       },
       "log": [
         {
@@ -1207,16 +1207,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856720",
-        "week": 7,
-        "opponent": "Mississippi State",
-        "opponent_id": 344,
-        "home_away": "vs",
-        "kickoff": "2026-10-17T16:00:00.000Z",
+        "event_id": "401856728",
+        "week": 8,
+        "opponent": "Auburn",
+        "opponent_id": 2,
+        "home_away": "at",
+        "kickoff": "2026-10-24T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Mississippi State"
+        "label": "at Auburn"
       },
       "log": [
         {
@@ -1682,13 +1682,13 @@
   ],
   "news": [
     {
-      "headline": "Drew Mestemaker is the 2027 NFL Draft\u2019s new QB1. What else have we learned about this class?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXVhdDNMZDRrbWEyejNIcUh4LURmd3BUSDdDQzh5OHd2Uk9JTnNzcGRGdDFaRFFRMnZpVnczTUU2Mkd5blFwLXBHaFM2ZGxlbjRMNVZhZVowS2dsTTJGNkVOMWs3MjNITDh0N0wtQVFmTnpGeXJaSWxZMmNxeXRwZDMzQmg1d1BrVktTQ1BJRFpqb21QZ3V0dFl6R3dHNVV1?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 20,
-      "score": 22
+      "headline": "Dante Moore\u2019s NFL Draft Stock Takes a Turn Amid Injury Absence",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
+      "score": 26
     },
     {
       "headline": "Dylan Raiola Benched Despite Dante Moore Injury in New Rumors Ahead of Oregon vs. UCLA",
@@ -1696,26 +1696,8 @@
       "domain": "bleacherreport.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFlOc3AzaDdGcXNZeVQ0ZF9FRjRGVGNVSDB6a3paa2Y1VEpRNGdjLWJiZmRqNlpMUE9mUVNmQllzSGtjU0dhazRzMnBVVjFsdklpa3VNX3NfbHQ4MnFsdi12cDNEa3hTeDB5RUJ1UmxSTGNDdk1qMUhrV210TzBmSm1LT0NTUzZzYWZqX05yUzNPc1ZUN0FHbDhrTW1Wa0lNV2Npa2pZWEVDWTFwLVUyX05vTWwwY2dLWjFOTHUwNnhsZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 5,
+      "age_hours": 16,
       "score": 21
-    },
-    {
-      "headline": "No. 7 Texas vs. Florida: How to Watch, Odds, Injury Report, and More",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXJQYkQwMXVkb1Q3UGtQaWFTT0dXUEtGTERLVXcwWUZKVzBjclRqYVdBMUhiZjZyamZxYWNEa0tvdm41QVY5V0szX2NUNlp6c2FmVHpBcmNudWl0aTZJS3Znc0dNcTZXM0ZkTzBxaGdtYk9rTUkyWS0teHNYNTg5TWRzWHQ4ZVMxREtZcFZuMTBVRTJveGlINDdtN3NuTlB6cV9IcDNrQQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 18,
-      "score": 21
-    },
-    {
-      "headline": "Oregon's Dante Moore Gets Promising NFL Draft Prediction Despite Tough Injury",
-      "source": "Yahoo Sports",
-      "domain": "sports.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWJ2bFJVbVc1b0lCSEMtMVB6RXFQc05KMnpWdDU0RWJjQ085WmRSMWlfbTh5UDNRM2dfaEMwT0hRdFdMd1RnUUhISHRIUnpJY3lDdmZSdUVFQWhEWloyeWlCSFJvb3diTjI1UkpXTUhFaThFNjFWWWxXdE9vVFF0LUFTS0hna21nSFRJ?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 19,
-      "score": 20
     },
     {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
@@ -1723,35 +1705,53 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 240,
+      "age_hours": 251,
       "score": 20
     },
     {
-      "headline": "7 College Football Quarterbacks Who Should Stay in School Ahead of 2027 NFL Draft",
+      "headline": "Arch Manning, Drew Mestemaker Headline 8 2027 NFL Draft Prospects to Watch in Week 7",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWk9HN0JkSkNEZk5sVTJ0aVQ4eXlYcDVGbFMyU1lKRDlxckoxNEU5YllLRHZydkdVSjhCVk9tQ1pxNTVJNjl1YkVPUTQ2dTFOQUlCRnVNRFRKRFdtbGxvWTFPeGl5TG8zY0lhMFcwSmJkRzJ2YzlmTkRtT1BtUjdaYjAwM2NBZzRNUkFUbHlPQ1YtX2VKRk94TllTMkM2TC12VXBRUFJaczVXMjktMXdicmdlZUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeG9VRldxQ2NFT0s0ZnBVNHRVcnB2XzFvRGFlNDQwVlRVeHRrUWNUcHRhUkptNk41V3FXNEg0ZzBDQzlwQVkxX0Rxbl9TTFhkMGpKb0gyZm5DbVlSdGtPdGNUbUdYRURMNHI5Ti1HZWpZU2dncENlZkdaRl9YczNsU1dIczAzWGxxOXo2eEhEbm1ZNHhrTGt5eWNldnVKUms1ZDZ6bVloeDdPZ1FERWU5NU5XLWlDNzdZOFgyaEQtQQ?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 19,
+      "age_hours": 8,
       "score": 20
     },
     {
-      "headline": "2027 NFL Draft: Scout\u2019s Take on Arch Manning, Plus Will Echoles Critiques EA Sports Portrayal",
+      "headline": "Drew Mestemaker is the 2027 NFL Draft\u2019s new QB1. What else have we learned about this class?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXVhdDNMZDRrbWEyejNIcUh4LURmd3BUSDdDQzh5OHd2Uk9JTnNzcGRGdDFaRFFRMnZpVnczTUU2Mkd5blFwLXBHaFM2ZGxlbjRMNVZhZVowS2dsTTJGNkVOMWs3MjNITDh0N0wtQVFmTnpGeXJaSWxZMmNxeXRwZDMzQmg1d1BrVktTQ1BJRFpqb21QZ3V0dFl6R3dHNVV1?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 55,
+      "score": 18
+    },
+    {
+      "headline": "Dante Moore\u2019s Status Isn\u2019t Oregon\u2019s Only Concern on Latest Injury Report",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQVZlNjdoSUNjdXA4Qy1UY2Q4SzFNdVBWTTZqTDc4NVozdzRjakZLcE1KQkZFVS1DM2ZWZS1jNnh5eHZzTTFNVlFSWVFLS1haWldoaDZ3NUFieVFOSWtGNGUzRFVOLWJEU3FWcUUxZDRZQ1htdVJNWDBQbnRBUlloVGhB?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 22,
-      "score": 20
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQy1ULW1tQUVOeV9ub0cyZlNyUXRTaUUta2xQeWVkTXRiR0ZGSklOVHJpR3JNQk53TzhES2wtdTRKcFE3VG5IYlpadWhEV3RBNlZ1Wjlzemd1SkNZaGwwVEVyaXoyNXNNMjBfTl9UNXd3QVZqcGV5MVNuaTFVY3JMdzFMRlZrUnlsa1hFQk1xSndJUDEwNmhIRWdmS3Q?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 66,
+      "score": 17
     },
     {
-      "headline": "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclBDbjhoMDF4NlVrQW5DZFdKZXhLSWRsTEg5N0xqV1pfZ1lkQVJGMmxSUFNKeXFTMUgtNnoxcWZWYXh6SUdkLUt4NjRpOUZQc3hYaHJRQU1OXzR3enE3bi1sS3E3MFB4V2g0WUs5WWJZcmstM3RWLUcxNVcwU2o5LVBuZHdiTGNnU3FCdW5ZY09wa1VhdEk0TVhwQ0M4Y1hZMWpuUG9CUEZfaGFo?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 45,
-      "score": 18
+      "headline": "Dan Lanning Delivers Critical Dante Moore, Aaron Flowers Injury Updates",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEZKZllCQW5lbGljUWgwbDZGUGJNQWJrNmFneWpFSFBVQUVYNlRfa2tWWXlBOFpzU3VDOUgtSnlxaGZEeXhzc0U4ZEtod1VZamZnclJPT0xxVzE4X3E5OG1Xbl9XaXE5aUwzWVROWlFoOWlTZC1uZjFhcnRGaEtCV2ctQWVsVGVmdnpfS2ViYTJ2MjI1R1lhdU84VWlpZnB6OUEzenQwa2FYUkNzRTFveFBKQ29DVzRwTGFSNlFzcTJIZ3h0?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 69,
+      "score": 17
+    },
+    {
+      "headline": "Dante Moore injury update: Oregon QB ruled out with concussion vs Nebraska",
+      "source": "Yahoo Sports",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ1AwRU5odjdEWHI3d1p3YUtVR2VtWUhtRG45OTk0TjFlSXdmc0hvQUwxS2REWWFKV3hZRGZ2SzVFNXdKUHIxZm5mcHI4RFdWTmwyeFpEeE4zVTRDWVVUM3ZTVFNqVnBzZmNIOTd1SnhWRW5SV0VzVkRhTXBkc1Q2ZURWOA?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 65,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -1762,12 +1762,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 37,
+          "pct": 41,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 32,
+          "pct": 29,
           "tracked": true
         },
         {
@@ -1777,7 +1777,7 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 8,
+          "pct": 9,
           "tracked": true
         },
         {
@@ -1811,7 +1811,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 45,
+          "pct": 37,
           "tracked": false
         },
         {
@@ -1860,17 +1860,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 55,
+          "pct": 47,
           "tracked": false
         },
         {
-          "name": "Darian Mensah",
-          "pct": 11,
+          "name": "CJ Carr",
+          "pct": 19,
           "tracked": true
         },
         {
-          "name": "CJ Carr",
-          "pct": 7,
+          "name": "Darian Mensah",
+          "pct": 18,
           "tracked": true
         },
         {
@@ -1884,11 +1884,6 @@
           "tracked": true
         },
         {
-          "name": "Keelon Russell",
-          "pct": 4,
-          "tracked": false
-        },
-        {
           "name": "Drew Mestemaker",
           "pct": 3,
           "tracked": true
@@ -1897,9 +1892,14 @@
           "name": "Josh Hoover",
           "pct": 3,
           "tracked": false
+        },
+        {
+          "name": "Keelon Russell",
+          "pct": 3,
+          "tracked": false
         }
       ],
-      "field_pct": 5,
+      "field_pct": 0,
       "field_count": 39
     }
   ],
