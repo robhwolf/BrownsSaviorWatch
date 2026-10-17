@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T19:49:08.011596+00:00",
+  "updated_at": "2026-10-17T21:51:02.258200+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -720,10 +720,23 @@
         "kickoff": "2026-10-17T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Indiana"
+        "state": "final",
+        "result": "W",
+        "score": "19-15",
+        "label": "W 19-15 at Indiana"
       },
-      "game": null,
+      "game": {
+        "cmp": 15,
+        "att": 29,
+        "pass_yds": 235,
+        "pass_td": 2,
+        "int": 2,
+        "rush_att": 5,
+        "rush_yds": -26,
+        "rush_td": 0,
+        "comp_pct": 51.7,
+        "ypa": 8.1
+      },
       "next_game": {
         "event_id": "401858509",
         "week": 9,
@@ -850,24 +863,43 @@
           "result": "W",
           "score": "45-16",
           "date": "2026-10-10T20:15:00.000Z"
+        },
+        {
+          "cmp": 15,
+          "att": 29,
+          "pass_yds": 235,
+          "pass_td": 2,
+          "int": 2,
+          "rush_att": 5,
+          "rush_yds": -26,
+          "rush_td": 0,
+          "comp_pct": 51.7,
+          "ypa": 8.1,
+          "event_id": "401858488",
+          "week": 7,
+          "opponent": "Indiana",
+          "home_away": "at",
+          "result": "W",
+          "score": "19-15",
+          "date": "2026-10-17T16:00:00.000Z"
         }
       ],
       "season": {
-        "games": 6,
-        "record": "5-1",
-        "cmp": 116,
-        "att": 163,
-        "comp_pct": 71.2,
-        "pass_yds": 1772,
-        "ypa": 10.9,
-        "pass_td": 17,
-        "int": 2,
-        "td_int": "17-2",
-        "rush_yds": 17,
+        "games": 7,
+        "record": "6-1",
+        "cmp": 131,
+        "att": 192,
+        "comp_pct": 68.2,
+        "pass_yds": 2007,
+        "ypa": 10.5,
+        "pass_td": 19,
+        "int": 4,
+        "td_int": "19-4",
+        "rush_yds": -9,
         "rush_td": 2,
-        "total_td": 19,
-        "ypg": 295,
-        "rating": 194.4,
+        "total_td": 21,
+        "ypg": 287,
+        "rating": 184.5,
         "epa_per_play": null
       }
     },
@@ -1746,12 +1778,48 @@
   ],
   "news": [
     {
+      "headline": "Dante Moore\u2019s NFL Draft Stock Takes a Turn Amid Injury Absence",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 8,
+      "score": 26
+    },
+    {
+      "headline": "Ohio State ends Indiana\u2019s 22-game win streak by a single step; Julian Sayin injured",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaU9TRmdqUmJfejVWaHNVc1F3aDJqcFljMXd4Q0dsNzFXQjFFMUdKMzhXR2IweFhlckhJVEVYcVl1UlRDanc4M2s5UGJzT2tnWTFQZFdKaTlfSUJfQi0yUUwzbG5BRVY2NV9LWlFqSElqM2tvd20xRUpoMmNZamtHUkZCQkNvQVE1WW1KVnQ4aVNxNVJGNTU5WnBR?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 1,
+      "score": 23
+    },
+    {
+      "headline": "Ohio State QB Julian Sayin out 'several weeks' with shoulder injury",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHNWTVREOTAxTnFnSllXclh0ZmxHaE5qSDhSMnF5Ny02Q0htb214T1VTOGtlUU9iYkNkdnQ3dDg0SnN5YXRXT3BlRmFqYWhSQWJxUExhUWxhbEhseFBTSDctRUdsVTg3UDJjTEdlUWVnZ2daOW80XzNSVjJXTURtdjNQdm5Eckl1QmpiUmFWemtrUUNCN09WUnlJR3VBMGRFcXJzQlJHdDhXRmdXTUE?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 0,
+      "score": 23
+    },
+    {
       "headline": "Dylan Raiola Benched Despite Dante Moore Injury in New Rumors Ahead of Oregon vs. UCLA",
       "source": "Bleacher Report",
       "domain": "bleacherreport.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFlOc3AzaDdGcXNZeVQ0ZF9FRjRGVGNVSDB6a3paa2Y1VEpRNGdjLWJiZmRqNlpMUE9mUVNmQllzSGtjU0dhazRzMnBVVjFsdklpa3VNX3NfbHQ4MnFsdi12cDNEa3hTeDB5RUJ1UmxSTGNDdk1qMUhrV210TzBmSm1LT0NTUzZzYWZqX05yUzNPc1ZUN0FHbDhrTW1Wa0lNV2Npa2pZWEVDWTFwLVUyX05vTWwwY2dLWjFOTHUwNnhsZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 18,
+      "age_hours": 20,
+      "score": 21
+    },
+    {
+      "headline": "Ohio State\u2019s Julian Sayin out for \u2018several weeks\u2019 after injury against Indiana; What we know",
+      "source": "AL.com",
+      "domain": "al.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSzFZOTVhNGdGdm83Yzh6OU0xZGZQTm9tbE9FZ1k0ejRWS2tvbGd0anlzMmpKUlJrbGRuQ3JnSFdROERINGxObUJnMXBJYmtTQkY3a2p3X2p0TVlma3VPOGc2dXpOeENrTGhXczVqUlBHaU92UEtnUkp4WEdpTlNsT3I5dUd5RHN3dVRLTWNkS0ZmWnlwVzBrUVN0SXJETDh4QktZNkt5dXZlaHNBelB4ZzluZmdKbXlOZmtKa3kyaFRaNktoY2c?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 1,
       "score": 21
     },
     {
@@ -1760,62 +1828,26 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdndLMDBXWnM5akVDQ0o2RjVIX2tFd0lvUUxpYlhDcUZTU0JFQ2s2UlNrSGhLeXZDRTlRX0dzZ0t5WGVva1lEc1loc2dic2JjSkF5V2Z6TElSdTZuRnRMVWNvRmRRWC1PT0wwb19STVBjb0N0X3A1MVk4MHgzb3BLcHB2WEJweGRIR0lqbWstZTM1QXdSMk1BTm1uNnpveG8wTzFlZGpEdw?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 0,
+      "age_hours": 2,
       "score": 21
     },
     {
-      "headline": "Dante Moore's NFL Draft Stock Takes a Turn Amid Injury Absence",
-      "source": "Yahoo Sports",
-      "domain": "sports.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1hXM1g3SXByTDI1TUpETkc5M2JmczZQSm83cDEySDdhUjZoTEZFZUkxb0RFak9YNUZ6VWVIYXFiNHhZY01nTFN5TUNXQjBCTkNhMTF4emxPNnhiSFJjdkJvRjE2YUNMaWJXeWZZSmg0bmE2N0ZWekVtSU1XdFdnMUs4aw?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 5,
-      "score": 20
+      "headline": "Ryan Day: Julian Sayin will 'probably be out several weeks' with injury suffered vs. Indiana",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHV5QVFkSkZQUHRVWkVrWUdWSDlsT0VXUXY1S0JIakRWdlBYdjBmOVdYTUpVTVcxMzJKaGJKUFVjekFoQTRQMzN6YlBGaXA2bnkxbTdEWEhfZ3JOUDZiLUFXZ0YyclRSYVFod3d0MUE5QmZiWE5QR19yOFhGZ0o0eW96RTBZVDNTOXZSaDFhMGlqbUhoRFhOWUdqSS1VNHd4Q3FVdWdVWQ?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 1,
+      "score": 21
     },
     {
-      "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
+      "headline": "Ohio State survived Indiana, but Julian Sayin's injury may decide the Buckeyes' season",
       "source": "CBS Sports",
       "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 253,
-      "score": 20
-    },
-    {
-      "headline": "Arch Manning, Drew Mestemaker Headline 8 2027 NFL Draft Prospects to Watch in Week 7",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeG9VRldxQ2NFT0s0ZnBVNHRVcnB2XzFvRGFlNDQwVlRVeHRrUWNUcHRhUkptNk41V3FXNEg0ZzBDQzlwQVkxX0Rxbl9TTFhkMGpKb0gyZm5DbVlSdGtPdGNUbUdYRURMNHI5Ti1HZWpZU2dncENlZkdaRl9YczNsU1dIczAzWGxxOXo2eEhEbm1ZNHhrTGt5eWNldnVKUms1ZDZ6bVloeDdPZ1FERWU5NU5XLWlDNzdZOFgyaEQtQQ?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 10,
-      "score": 20
-    },
-    {
-      "headline": "Julian Sayin injury updates: Ohio State QB's arm in sling vs Indiana",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEF6d2JpdkU4bzJMTFdfUTJnZzBQMjNzT0pNR2kzcTBWR25uUzdLOE9FTzZJT21tY2FSdFlTV1dXUUxsUnhDLVBNQVd3NUV5Z1JUUU9BNFFoZTdybW5MSXozQWpEcEl4NjRraVpseFg5bUtFa3JrV1Y2cS1SWHZJRV9NQkJZcEdpX1RjdlhEYzhVdm8yZ0xSaklLVk1ZcVlqRTNPMTU5S01IWVpBdXB3Q0tpUTVuaTVVMW0yTlZ6SVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE5LZGdyLTBLWWZvMDc5TXU2Vzc5ZC1TNGVvRWZTdVV4dkt0WjZIQ05VUlVYeXR2OTVtYmhVMWFrNDY2LUlTamprcnFUN092RlhTa2c4T0FNY0dmM1VHTnpuRlVuQ3hxX29TNmZQejNyV3VTRVFmWU83RjZac2pQN1ozR1lzRmxGd1VtbG9ZbGVOYzRLZ25yLVdSYktSN0YycnR2T3AteGNlbW1QUXJj?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 0,
-      "score": 19
-    },
-    {
-      "headline": "Drew Mestemaker is the 2027 NFL Draft\u2019s new QB1. What else have we learned about this class?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXVhdDNMZDRrbWEyejNIcUh4LURmd3BUSDdDQzh5OHd2Uk9JTnNzcGRGdDFaRFFRMnZpVnczTUU2Mkd5blFwLXBHaFM2ZGxlbjRMNVZhZVowS2dsTTJGNkVOMWs3MjNITDh0N0wtQVFmTnpGeXJaSWxZMmNxeXRwZDMzQmg1d1BrVktTQ1BJRFpqb21QZ3V0dFl6R3dHNVV1?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 58,
-      "score": 18
-    },
-    {
-      "headline": "Dante Moore\u2019s Status Isn\u2019t Oregon\u2019s Only Concern on Latest Injury Report",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQy1ULW1tQUVOeV9ub0cyZlNyUXRTaUUta2xQeWVkTXRiR0ZGSklOVHJpR3JNQk53TzhES2wtdTRKcFE3VG5IYlpadWhEV3RBNlZ1Wjlzemd1SkNZaGwwVEVyaXoyNXNNMjBfTl9UNXd3QVZqcGV5MVNuaTFVY3JMdzFMRlZrUnlsa1hFQk1xSndJUDEwNmhIRWdmS3Q?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 68,
-      "score": 17
+      "age_hours": 1,
+      "score": 21
     }
   ],
   "kalshi": [
@@ -1826,7 +1858,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 41,
+          "pct": 38,
           "tracked": false
         },
         {
@@ -1841,7 +1873,7 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 8,
+          "pct": 7,
           "tracked": true
         },
         {
@@ -1880,7 +1912,7 @@
         },
         {
           "name": "Tennessee",
-          "pct": 37,
+          "pct": 27,
           "tracked": false
         },
         {
@@ -1914,7 +1946,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 6,
       "field_count": 24
     },
     {
@@ -1924,46 +1956,46 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 40,
+          "pct": 35,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 21,
+          "pct": 24,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 15,
+          "pct": 16,
+          "tracked": true
+        },
+        {
+          "name": "Trinidad Chambliss",
+          "pct": 5,
           "tracked": true
         },
         {
           "name": "Gunner Stockton",
-          "pct": 8,
+          "pct": 3,
           "tracked": false
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 7,
+          "name": "Drew Mestemaker",
+          "pct": 3,
           "tracked": true
         },
         {
           "name": "Keelon Russell",
-          "pct": 5,
+          "pct": 3,
           "tracked": false
         },
         {
-          "name": "Malachi Toney",
-          "pct": 2,
-          "tracked": false
-        },
-        {
-          "name": "Kamario Taylor",
-          "pct": 2,
+          "name": "Jesse Legree",
+          "pct": 3,
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 8,
       "field_count": 39
     }
   ],
