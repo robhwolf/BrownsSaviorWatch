@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T03:25:58.944084+00:00",
+  "updated_at": "2026-10-19T18:22:47.273467+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -305,8 +305,8 @@
         "opponent": "Illinois",
         "opponent_id": 356,
         "home_away": "at",
-        "kickoff": "2026-10-24T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-24T19:00:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "at Illinois"
@@ -1046,8 +1046,8 @@
         "opponent": "Colorado",
         "opponent_id": 38,
         "home_away": "vs",
-        "kickoff": "2026-10-24T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-24T23:00:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs Colorado"
@@ -1763,8 +1763,8 @@
         "opponent": "Iowa State",
         "opponent_id": 66,
         "home_away": "vs",
-        "kickoff": "2026-10-24T04:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-10-24T23:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs Iowa State"
@@ -1913,7 +1913,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 37,
+      "age_hours": 52,
       "score": 22
     },
     {
@@ -1922,16 +1922,16 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeURfVFBVQnI4cDF3aUQzY0dJR1U1QkU5MG9TN1NqUFRPenVfM1AydWVOZVNKU2FWUkh2djdtZ3RxemY2REREdzlBeWRpRzcyTnkxZFlBM2o0Rmk2OTNmNzVIcFVJVFRlSG05MGE3cE9hSzREMmtsVkpJRXRqOVR4TGlxT0dCR0xxLXJ1S3JxUkEwNTZ1NEE?oc=5",
       "player": "CJ Carr",
-      "age_hours": 16,
+      "age_hours": 6,
       "score": 22
     },
     {
-      "headline": "College football Week 7 overreactions: Big changes needed at Texas, Ohio State can survive Sayin injury",
+      "headline": "College football injury panic meter: Assessing Julian Sayin, Colin Simmons as Week 7 sends superstars to shelf",
       "source": "CBS Sports",
       "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeDBCUmk5d1IweF9mS081dEpxa0FZSTlacnFoWVBWSTUtNm5nWmJyZ19XbE5Bc25XTFR6SjFERURPSF9LdUFWa0xPSzBtdlFpWGwtcVZCakM1RklBa2p2OTlBSkpOQUhoSnFRZllEZk82SEh4aHhSeVVzRk1QcUE2QXpjQVZUaTgwX2ZWWUFJLVhLQ2U1UXIxZ09xWkktSW9IVXF5WFBTVmtfOEtXWkFxVVE3X1JtWWtJZUx1MFk2MkVTWGlIRGpCT0gybjgtNzVpTFVXQm41d3ltbklXVV9NN3NxR2ZTMEdJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMmVTay0zamdiQ1FQaEtiWGNDY3JvSnNmNENTS1RCQjlOUzdTZkppaXJKRFpGYk1ld0R3cjNGYVRaSGk5ci0xX3RrWjY3UDdTTUJTb2M5NXowX1RVU0prNl96R3lNUUs3OU9DdmFZWmxZTW1DU1BlSndiTFQzOHBHQU41MTJycGlfTWVNQlV6TWpDdEZpYkxibGhOc0M2cXlTWFVrUFlPOU5Tb3UwR2lRcmNYY3E5Z0hnamlxbXpQWTRSYjhZU01INmdnT0lXNU0zSjhvbldoblRvbHVQcEZVaWxlZnN0d0d3czlKU29B?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 21,
+      "age_hours": 4,
       "score": 21
     },
     {
@@ -1940,7 +1940,7 @@
       "domain": "247sports.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbnFLc0RZSUlscDM3bWJvalNTSW5UbVFxUHJVOTFaSEU4SUtSNWVmZ0x0OTN2TTAxYlFlcEM3Um9iU3JjWjMwUmRkM2lJTGxLLVlkU3pXOGhHU2RmQWg5R1hXSllzcWU2NE1ObDdNOHFBRzlTOHNLNlJNSkRaWVJQRHRROUxlLXRpT1RpLUkyeXplYi1kQjBXeDQ5a2FuNXZ3V05FY0wxc0pPS2tYTVM3X3lNWWxZZUV0Y241MFV0MmtKVzlOOVBfS0xXbzVhR2FqOWV1ZEUtUklhOFE?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 2,
+      "age_hours": 17,
       "score": 21
     },
     {
@@ -1949,34 +1949,34 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 284,
+      "age_hours": 299,
       "score": 20
     },
     {
-      "headline": "McCready: 10 Weekend Thoughts -- A 24-team CFP, Ole Miss makes move, Chambliss' Heisman hopes and more",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOelVOSGx2VV9jamRpZXZKVjFSRUNnanJiWElQNnc3UVJLLWRNWVI5NS10b3BWUFNvS2NVSDh2WklsNUxnb2RuQnlQbzVocG1qRTRidzU1Ym5peHlXbzgzRjVhYkFQZkhIX0l1WnU5cm9HNFpNTlFrNWRDblNyMEFlOUJpc3NQU3o5WDlZcUZYUWR4T1BrMkxzZlNLd1dnNUlkdHNGRzFUd1NqVE56RG82dk5DRGxrVTVfWW5FeVlERXZSZ1I1c2NPNFlCSUtMY3lMNnozdzZIUUV0eExjOVhaV3pQellUUW9v?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 7,
-      "score": 18
-    },
-    {
-      "headline": "2026 Heisman Trophy Odds (Darian Mensah, Jesse Legree, Bear Bachmeier Rising; Jeremiah Smith\u2019s Lead Shortens)",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3dZNklPb1ZqbnF4NWRwaTI2Y3JEZXYwOEpyMTRZc21yTVprWUZlMEwzTVhxQTRjQVdIZ18wOXYwQWFDUTVyUzZBNUFJOUNYdWJDd2FGS0hnSEQxVlRSbEV5VjlCdEVpLW05M1ZIVzlMemItUEVZSWdnbzVMcHhYdTVORkVlaVpnN2FRUEpGSFg0MUgzaXdmVEJuN1lJa2h3bUpwdXlBNzNfSC1NODNZbXVyYTIwcERhUGFXRV9YQ09wc1dlTlA3dm9R?oc=5",
+      "headline": "Heisman Trophy odds: Darian Mensah, Trinidad Chambliss close in on Jeremiah Smith",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeENCWVpzOUZkU0xmRjFVZDZWWFhYSjhLTkRnYkUySmI5QnRLWWEwR0ZHUWIzVkpabVh2Sk15U2ZndTZfU01HQ1d5WEc2R0NIdTR5Yll3d1A4Mm1GWVRUV2FVb3JnTndhdkhVZXc3RXZUSkcwUVB5N2lTT3h4MkVJb1lMQURUNms2RGctY2ZCTTZCOTBaQUItV2NwSQ?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 12,
-      "score": 18
+      "age_hours": 3,
+      "score": 20
     },
     {
-      "headline": "Dylan Raiola Benched Despite Dante Moore Injury in New Rumors Ahead of Oregon vs. UCLA",
-      "source": "Bleacher Report",
-      "domain": "bleacherreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFlOc3AzaDdGcXNZeVQ0ZF9FRjRGVGNVSDB6a3paa2Y1VEpRNGdjLWJiZmRqNlpMUE9mUVNmQllzSGtjU0dhazRzMnBVVjFsdklpa3VNX3NfbHQ4MnFsdi12cDNEa3hTeDB5RUJ1UmxSTGNDdk1qMUhrV210TzBmSm1LT0NTUzZzYWZqX05yUzNPc1ZUN0FHbDhrTW1Wa0lNV2Npa2pZWEVDWTFwLVUyX05vTWwwY2dLWjFOTHUwNnhsZw?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 49,
+      "headline": "Ohio State QB Julian Sayin out 'several weeks' with shoulder injury",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHNWTVREOTAxTnFnSllXclh0ZmxHaE5qSDhSMnF5Ny02Q0htb214T1VTOGtlUU9iYkNkdnQ3dDg0SnN5YXRXT3BlRmFqYWhSQWJxUExhUWxhbEhseFBTSDctRUdsVTg3UDJjTEdlUWVnZ2daOW80XzNSVjJXTURtdjNQdm5Eckl1QmpiUmFWemtrUUNCN09WUnlJR3VBMGRFcXJzQlJHdDhXRmdXTUE?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 45,
+      "score": 19
+    },
+    {
+      "headline": "College football odds Week 8: Texas favored against Ole Miss; BYU, Indiana face tricky road games",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXBRMVpZdmJTVEp4MUhQdENwNmRfdk9GeG1SRnJwVzNRZWpHa2JpX3BGNzRsa0llbzZaZTN0Qzh0WGJEalJTck5DVjcxTEJYU3Q0MWZyTHZZOWltNFdKYjBRRXBSd1VkZGhIa003bzc3bUl3X0VMaXJ4MzVkcng3aFdvSk5QVkY1ZlVHNF9Lek1GSTNXYklheGZWRVdId3BISERVaTRyYzllZl9FS0E?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 2,
       "score": 17
     }
   ],
@@ -1988,17 +1988,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 40,
+          "pct": 34,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 31,
+          "pct": 25,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 13,
+          "pct": 12,
           "tracked": true
         },
         {
@@ -2008,12 +2008,12 @@
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 7,
+          "pct": 6,
           "tracked": true
         },
         {
           "name": "Arch Manning",
-          "pct": 6,
+          "pct": 5,
           "tracked": true
         },
         {
@@ -2027,7 +2027,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 7,
       "field_count": 14
     },
     {
@@ -2037,12 +2037,12 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 40,
+          "pct": 44,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 29,
+          "pct": 14,
           "tracked": false
         },
         {
@@ -2071,12 +2071,12 @@
           "tracked": false
         },
         {
-          "name": "Las Vegas",
+          "name": "Washington",
           "pct": 3,
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 11,
       "field_count": 24
     },
     {
@@ -2086,27 +2086,27 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 48,
+          "pct": 44,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 16,
+          "pct": 22,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 11,
+          "pct": 13,
           "tracked": true
         },
         {
           "name": "Malachi Toney",
-          "pct": 5,
+          "pct": 6,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 5,
+          "pct": 4,
           "tracked": true
         },
         {
@@ -2120,13 +2120,13 @@
           "tracked": false
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 2,
-          "tracked": false
+          "name": "Julian Sayin",
+          "pct": 1,
+          "tracked": true
         }
       ],
-      "field_pct": 6,
-      "field_count": 39
+      "field_pct": 3,
+      "field_count": 40
     }
   ],
   "references": {
