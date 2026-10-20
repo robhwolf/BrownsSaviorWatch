@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T16:24:27.480509+00:00",
+  "updated_at": "2026-10-20T21:17:36.193889+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1913,7 +1913,25 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDZvcDZleXBucWRISEdvNVlGNHRCa0R1NEczWUs4a1l1bUJsOVExZHRmS0I3X3o1bEZYX3VoekVHUjVwNUt4a1JZdDZ2cWRmZWNGdGNmMFN3NzFJVHk1LWxxUHI2VXZ3Y0swSmZQU2YxWkptLXJ3MEFYeWFEckJqZHRlUlFQUTlBek9vSGlRQnAtSFRUak1BQV80c2pQb1otX05oQTdhVWhWczZpV0hMT0JR?oc=5",
       "player": "Dante Moore",
-      "age_hours": 13,
+      "age_hours": 17,
+      "score": 21
+    },
+    {
+      "headline": "Tom Fornelli's College Football Power Ratings: Ohio State falls from No. 1 amid Julian Sayin injury",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGRiUEFadkFTWVNUYVlLLXBLbkZwYkp3aWRIeXJQLVZ4anlsMzZ2WUhmVnU4MlE0VzdURWd4WEZLdlBqT1FhQjE3anFqN1JxQjRqcHR1SGRoRGVMd1BmVXdnOEVmRHQ5ejlDb3g3SnFyUjQ4Qy1CWDB5TXJkRmJ6LS1yN3FDd1dxZWZCcjM4QlcwcXp6UU5uSDRDNGQzenM4Qk85QjI0dWFZcU9jck1z?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 7,
+      "score": 21
+    },
+    {
+      "headline": "Ohio State waiting on testing on Julian Sayin's injury; Luke Fahey 'going to be thrust into a bigger role'",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWU1DY3FyUjA1VGFvRUpSaU1acDBzWW94QVVhODR5ZGU2dVVuOHNfUnNVRFJWLUh4bVZxZVQtbFJPYnQtcHExNENZVUFlSnZDbkp2SjBTZVlqSzlfZTJjUERmWFJVNHpNQlhwNU9oRXdFNFNGb2lISUlFRlJTeEpUYWthWWN2dllZajRkWnVGRFo1ZzRGUnhPNTFRZFBnckstUDExdFVOcHpfWjZCMHNKd1RZTUpIZGF1dUxqZ0NGeWJvbWp3U0E5Zw?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 5,
       "score": 21
     },
     {
@@ -1922,16 +1940,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0NybGZ2VF9ockQyYjBuVnU4TWhGV1RUMWRPN0lJNzYxTV92eVRBX3g5Ykk1Z1ljelNKWGZzcDlnV3RrVGJqVXIzbnBnanJDNGpOWnRBaFBKSVZVdWh5YUlRRVl4a1VFQWkwOTVOdWEwby1LSVdHMkpFNzlvaG1pNnVIVjhiSnV5elV5RUt1aVpsdXRoZ05CbjIzckI3Q0VqM1RLaVQ0c3YtRXhjdWJaeHRtYkk?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 19,
-      "score": 21
-    },
-    {
-      "headline": "Ohio State waiting on testing on Julian Sayin's injury; Luke Fahey 'going to be thrust into a bigger role'",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX3FqWnB3LW02andmdFZrRkxKZVNRaE5OQWNBaDlCZmt0VndFY2NreHNKbGF3MnRMb2VqWWNJZnFpbDhBanBJbV9GZTRCWFBlVURiWG83d0hINFVpc3BfTFhnOFVrTkNsR0NoSmxPbWVqQ21hV3R4WWNIc2RUX1BwVUZqYlFFNXQ3WWs4UGlDdUk5YzVlNGM1VTVYYmoyU2RlZ29IWGtwVmw4VUVzdjhITXpEbXRObDV1d29MZWZFT29lTzBRbExvWkhsaVFvZ2hJZFRxNEstZjAwdjRBdTNFY1VUOHVKbmJfYm5tNGFsanlRSERkM2k1MXZaWGNJMWdW?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 17,
+      "age_hours": 24,
       "score": 21
     },
     {
@@ -1940,17 +1949,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVV1Z1F3TDNlcXBXUnZKZXhwak9FNDJHeTIzNzRuWW4yUHlTUUhyaWNvc3N6VjZFWDZRdkR2dHI2Zzhuajh4NTY0XzdlTFY5c3BOZjc1bnBlbG9ZZE5reVJZQXFha1FLdWxMcXZSRlNtNmdPTnBKanZQc1VNeEg3TjVqYkpvY3VUbzVNSFE3ZzVTOTFEa0c3cloyQ3BlWkVJeUdOcG56Q3BybnM3Y0NIeGZSRERPOS10NG1qWFNfTERlZw?oc=5",
       "player": "Arch Manning",
-      "age_hours": 2,
+      "age_hours": 7,
       "score": 21
-    },
-    {
-      "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 321,
-      "score": 20
     },
     {
       "headline": "Dante Moore\u2019s NFL Draft Stock Takes a Turn Amid Injury Absence",
@@ -1958,26 +1958,26 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 74,
+      "age_hours": 79,
       "score": 19
     },
     {
-      "headline": "Could Trinidad Chambliss become Ole Miss\u2019 first Heisman winner?",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmhDLVY5bDBsT1RjbkFZa2x4ekpKTUNJNG5QN2wteXUtaTZYa2FoZ1hKdHFMbHdUell6S0lubXdXSUFPbUlBN1d1VU0xN3lGbjRSN1lxazdxeU1JV1FaNWRNRldkQnVZc1A4RWNEdFhxTjBwb0xQdm1lTjZLbnI4ZlJXVkgzZlVQYkJvUHlVOUhnM2FrM3lacFpSaVVpWVhwLUNDcWVJV0NYc011Tmc?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 14,
-      "score": 18
-    },
-    {
-      "headline": "Dante Moore injury update: Oregon QB ruled out with concussion vs Nebraska",
+      "headline": "Julian Sayin injury update: Ryan Day confirms Ohio State QB to miss several weeks",
       "source": "USA Today",
       "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWZzalhoTXRyYUtaY3U2TWxWTUtZVXdTd0tVeDVLb2VqSXdEckw5ZnFKZXV4Wnh0VnV1ZWdtcXdMb1doSGVENWVoZjV1ZWc1bVJINzdhN2lvTWluY2hqSXNRa1pYQWRySVNEemJhZ1RzMHhwaU9Rdk0zS0pKd2IxVHpQY2Eyb25DUGVmVHE1RXhvZkZHVDVRZnVKNmxHajJhdndGNTFZWDU3X19JM3JtNGVVVjE4bHFSbm13dUljXzRYRi1wRnp6SG00SG5mc1k?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 136,
-      "score": 18
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVXVKSmpWd3BDVUpzcnpqVDZEd0Y5Z0d0UmczSElxaGNYelZUc1g1YlAwdDI5TmotUXB1aWRmbmNQM2Yzc1lOVFBsNkJTWjFqVXRpUV9DYTVPc2pjdTg3bFNpZXg3M1VydUN1UXNDeDd3eUJpVGZqaGxacXZ6RnB3em5OY3E4LTlCbHQ5ZHlaeU52RnE5VURITHB6YkNhT2h5OGx4NUtWcXFValpxSXRuaUVKSnFtQzhKWkZQdHFUUGE?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 7,
+      "score": 19
+    },
+    {
+      "headline": "Ohio State QB Julian Sayin out 'several weeks' with shoulder injury",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHNWTVREOTAxTnFnSllXclh0ZmxHaE5qSDhSMnF5Ny02Q0htb214T1VTOGtlUU9iYkNkdnQ3dDg0SnN5YXRXT3BlRmFqYWhSQWJxUExhUWxhbEhseFBTSDctRUdsVTg3UDJjTEdlUWVnZ2daOW80XzNSVjJXTURtdjNQdm5Eckl1QmpiUmFWemtrUUNCN09WUnlJR3VBMGRFcXJzQlJHdDhXRmdXTUE?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 72,
+      "score": 19
     }
   ],
   "kalshi": [
@@ -1988,12 +1988,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 42,
+          "pct": 40,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 35,
+          "pct": 39,
           "tracked": false
         },
         {
@@ -2037,17 +2037,17 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 43,
+          "pct": 46,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 18,
+          "pct": 19,
           "tracked": false
         },
         {
           "name": "Los Angeles C",
-          "pct": 15,
+          "pct": 9,
           "tracked": false
         },
         {
@@ -2076,7 +2076,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 1,
       "field_count": 24
     },
     {
@@ -2086,12 +2086,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 44,
+          "pct": 45,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 23,
+          "pct": 21,
           "tracked": true
         },
         {
@@ -2101,13 +2101,8 @@
         },
         {
           "name": "Malachi Toney",
-          "pct": 4,
+          "pct": 5,
           "tracked": false
-        },
-        {
-          "name": "CJ Carr",
-          "pct": 4,
-          "tracked": true
         },
         {
           "name": "Jesse Legree",
@@ -2115,17 +2110,22 @@
           "tracked": false
         },
         {
+          "name": "CJ Carr",
+          "pct": 3,
+          "tracked": true
+        },
+        {
           "name": "Bear Bachmeier",
           "pct": 3,
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 2,
+          "name": "Julian Sayin",
+          "pct": 1,
           "tracked": true
         }
       ],
-      "field_pct": 3,
+      "field_pct": 5,
       "field_count": 40
     }
   ],
