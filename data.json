@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T18:22:47.273467+00:00",
+  "updated_at": "2026-10-20T03:35:19.564839+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1913,17 +1913,17 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 52,
+      "age_hours": 61,
       "score": 22
     },
     {
-      "headline": "2027 NFL Draft takeaways: How did CJ Carr, Drew Mestemaker perform in Week 7 losses?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeURfVFBVQnI4cDF3aUQzY0dJR1U1QkU5MG9TN1NqUFRPenVfM1AydWVOZVNKU2FWUkh2djdtZ3RxemY2REREdzlBeWRpRzcyTnkxZFlBM2o0Rmk2OTNmNzVIcFVJVFRlSG05MGE3cE9hSzREMmtsVkpJRXRqOVR4TGlxT0dCR0xxLXJ1S3JxUkEwNTZ1NEE?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 6,
-      "score": 22
+      "headline": "Coach Bret Bielema Divulges How Injuries Reshape Oregon vs. Illinois",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNEpUQXNmTW5kMGNER0c3ZWFWSjJXV1dRNmMtY0ZCXzNMVnpfdW9iN3luRFBfREw0X3RFT0hrYXZtdjAxTEF5cGNDR05rSWRxbnJhai0xaWl6TGo3cjdGa2thNjVxVUZReHA0cEd1cDN6bDFVbzZ6RFIyNU9ta2xjdkszQmgyODVDZjIzZWlROFVJV0dWUTJhRHdscDZENHNwaWxIV3FVWFNxWEM0alR2a2FfMUttcmFuOWxtT2tPSEduV1U?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 4,
+      "score": 21
     },
     {
       "headline": "College football injury panic meter: Assessing Julian Sayin, Colin Simmons as Week 7 sends superstars to shelf",
@@ -1931,17 +1931,35 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMmVTay0zamdiQ1FQaEtiWGNDY3JvSnNmNENTS1RCQjlOUzdTZkppaXJKRFpGYk1ld0R3cjNGYVRaSGk5ci0xX3RrWjY3UDdTTUJTb2M5NXowX1RVU0prNl96R3lNUUs3OU9DdmFZWmxZTW1DU1BlSndiTFQzOHBHQU41MTJycGlfTWVNQlV6TWpDdEZpYkxibGhOc0M2cXlTWFVrUFlPOU5Tb3UwR2lRcmNYY3E5Z0hnamlxbXpQWTRSYjhZU01INmdnT0lXNU0zSjhvbldoblRvbHVQcEZVaWxlZnN0d0d3czlKU29B?oc=5",
       "player": "Julian Sayin",
+      "age_hours": 14,
+      "score": 21
+    },
+    {
+      "headline": "Ohio State waiting on testing on Julian Sayin's injury; Luke Fahey 'going to be thrust into a bigger role'",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX3FqWnB3LW02andmdFZrRkxKZVNRaE5OQWNBaDlCZmt0VndFY2NreHNKbGF3MnRMb2VqWWNJZnFpbDhBanBJbV9GZTRCWFBlVURiWG83d0hINFVpc3BfTFhnOFVrTkNsR0NoSmxPbWVqQ21hV3R4WWNIc2RUX1BwVUZqYlFFNXQ3WWs4UGlDdUk5YzVlNGM1VTVYYmoyU2RlZ29IWGtwVmw4VUVzdjhITXpEbXRObDV1d29MZWZFT29lTzBRbExvWkhsaVFvZ2hJZFRxNEstZjAwdjRBdTNFY1VUOHVKbmJfYm5tNGFsanlRSERkM2k1MXZaWGNJMWdW?oc=5",
+      "player": "Julian Sayin",
       "age_hours": 4,
       "score": 21
     },
     {
-      "headline": "Ohio State QB Julian Sayin's injury potentially tilts Halloween matchup with USC",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbnFLc0RZSUlscDM3bWJvalNTSW5UbVFxUHJVOTFaSEU4SUtSNWVmZ0x0OTN2TTAxYlFlcEM3Um9iU3JjWjMwUmRkM2lJTGxLLVlkU3pXOGhHU2RmQWg5R1hXSllzcWU2NE1ObDdNOHFBRzlTOHNLNlJNSkRaWVJQRHRROUxlLXRpT1RpLUkyeXplYi1kQjBXeDQ5a2FuNXZ3V05FY0wxc0pPS2tYTVM3X3lNWWxZZUV0Y241MFV0MmtKVzlOOVBfS0xXbzVhR2FqOWV1ZEUtUklhOFE?oc=5",
+      "headline": "Full-length Replay: Ohio State's Nightmare: Why The Julian Sayin Injury Changes Everything",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UQ21JNGl4X0tCOFhtQlBQOWJGTGFCQkJyQUZuYmgxS2duVTdNQmg4bnBzYm0xTjZWV0lZaGtWTV9SbzE1M1F0Vm14cUxtYWZtWGdtTTdxYncwbXRka1lVYjRSYw?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 17,
+      "age_hours": 3,
       "score": 21
+    },
+    {
+      "headline": "Heisman Trophy odds: Darian Mensah, Trinidad Chambliss close in on Jeremiah Smith",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeENCWVpzOUZkU0xmRjFVZDZWWFhYSjhLTkRnYkUySmI5QnRLWWEwR0ZHUWIzVkpabVh2Sk15U2ZndTZfU01HQ1d5WEc2R0NIdTR5Yll3d1A4Mm1GWVRUV2FVb3JnTndhdkhVZXc3RXZUSkcwUVB5N2lTT3h4MkVJb1lMQURUNms2RGctY2ZCTTZCOTBaQUItV2NwSQ?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 12,
+      "score": 20
     },
     {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
@@ -1949,35 +1967,17 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 299,
+      "age_hours": 309,
       "score": 20
     },
     {
-      "headline": "Heisman Trophy odds: Darian Mensah, Trinidad Chambliss close in on Jeremiah Smith",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeENCWVpzOUZkU0xmRjFVZDZWWFhYSjhLTkRnYkUySmI5QnRLWWEwR0ZHUWIzVkpabVh2Sk15U2ZndTZfU01HQ1d5WEc2R0NIdTR5Yll3d1A4Mm1GWVRUV2FVb3JnTndhdkhVZXc3RXZUSkcwUVB5N2lTT3h4MkVJb1lMQURUNms2RGctY2ZCTTZCOTBaQUItV2NwSQ?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 3,
+      "headline": "Mel Kiper Jr. calls for Arch Manning to return to college rather than declare for NFL Draft",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWEFMcl9wTjN0czdrUXFXcmNfMDAtVk01WXBtSHJsSzNzaHU3d0l3cXFiSnlCaFZWXzcxNTBBdVVzeFlFN3hmOC1kUEJhaFJOdUN3aW42VThtNzIxQUs0dlVPams2YzlRRFExOS02cHpXSDNtQ005dkxILTdXZVoxSjE1QW16NlhYbzNITzlvNnM0ZzVXN3gyS1FXRm1QelBPU2VLTg?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 7,
       "score": 20
-    },
-    {
-      "headline": "Ohio State QB Julian Sayin out 'several weeks' with shoulder injury",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHNWTVREOTAxTnFnSllXclh0ZmxHaE5qSDhSMnF5Ny02Q0htb214T1VTOGtlUU9iYkNkdnQ3dDg0SnN5YXRXT3BlRmFqYWhSQWJxUExhUWxhbEhseFBTSDctRUdsVTg3UDJjTEdlUWVnZ2daOW80XzNSVjJXTURtdjNQdm5Eckl1QmpiUmFWemtrUUNCN09WUnlJR3VBMGRFcXJzQlJHdDhXRmdXTUE?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 45,
-      "score": 19
-    },
-    {
-      "headline": "College football odds Week 8: Texas favored against Ole Miss; BYU, Indiana face tricky road games",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXBRMVpZdmJTVEp4MUhQdENwNmRfdk9GeG1SRnJwVzNRZWpHa2JpX3BGNzRsa0llbzZaZTN0Qzh0WGJEalJTck5DVjcxTEJYU3Q0MWZyTHZZOWltNFdKYjBRRXBSd1VkZGhIa003bzc3bUl3X0VMaXJ4MzVkcng3aFdvSk5QVkY1ZlVHNF9Lek1GSTNXYklheGZWRVdId3BISERVaTRyYzllZl9FS0E?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 2,
-      "score": 17
     }
   ],
   "kalshi": [
@@ -1988,17 +1988,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 34,
+          "pct": 30,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 25,
+          "pct": 19,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 12,
+          "pct": 13,
           "tracked": true
         },
         {
@@ -2007,13 +2007,13 @@
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
+          "name": "Arch Manning",
           "pct": 6,
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 5,
+          "name": "Trinidad Chambliss",
+          "pct": 6,
           "tracked": true
         },
         {
@@ -2027,7 +2027,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 7,
+      "field_pct": 15,
       "field_count": 14
     },
     {
@@ -2037,27 +2037,22 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 44,
+          "pct": 42,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 14,
-          "tracked": false
-        },
-        {
-          "name": "Arizona",
-          "pct": 8,
+          "pct": 18,
           "tracked": false
         },
         {
           "name": "Los Angeles C",
-          "pct": 5,
+          "pct": 8,
           "tracked": false
         },
         {
           "name": "New York J",
-          "pct": 5,
+          "pct": 6,
           "tracked": false
         },
         {
@@ -2066,17 +2061,22 @@
           "tracked": false
         },
         {
-          "name": "Tampa Bay",
-          "pct": 5,
+          "name": "Arizona",
+          "pct": 4,
           "tracked": false
         },
         {
-          "name": "Washington",
-          "pct": 3,
+          "name": "Philadelphia",
+          "pct": 4,
+          "tracked": false
+        },
+        {
+          "name": "Tampa Bay",
+          "pct": 4,
           "tracked": false
         }
       ],
-      "field_pct": 11,
+      "field_pct": 9,
       "field_count": 24
     },
     {
@@ -2091,17 +2091,17 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 22,
+          "pct": 21,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 13,
+          "pct": 12,
           "tracked": true
         },
         {
           "name": "Malachi Toney",
-          "pct": 6,
+          "pct": 7,
           "tracked": false
         },
         {
@@ -2120,8 +2120,8 @@
           "tracked": false
         },
         {
-          "name": "Julian Sayin",
-          "pct": 1,
+          "name": "Drew Mestemaker",
+          "pct": 2,
           "tracked": true
         }
       ],
