@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T16:40:46.509101+00:00",
+  "updated_at": "2026-10-21T21:17:31.420986+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -99,31 +99,10 @@
         "color": "#13294b"
       },
       "status": {
-        "event_id": "401856721",
-        "week": 7,
-        "opponent": "Missouri",
-        "opponent_id": 142,
-        "home_away": "vs",
-        "kickoff": "2026-10-17T19:30:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "31-3",
-        "label": "W 31-3 vs Missouri"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 20,
-        "att": 36,
-        "pass_yds": 241,
-        "pass_td": 3,
-        "int": 0,
-        "rush_att": 4,
-        "rush_yds": 14,
-        "rush_td": 1,
-        "comp_pct": 55.6,
-        "ypa": 6.7
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856732",
         "week": 8,
@@ -1858,7 +1837,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
       "player": "Dante Moore",
-      "age_hours": 2,
+      "age_hours": 7,
       "score": 26
     },
     {
@@ -1867,8 +1846,17 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpKbFdVZlJzNjVJNVZwempQbGcwcEMtSTFIaV91bm92T2dBaHpLZXNYS3d0SFMwazlYQTBZZ1NISldObzFfbEN3dUdocTU0VkhGR2R6NElyQWE3RVVycDV5Zlp5UXRCUGVTd1pPbVMxcmhDVVBIRGNEcVJJTms0UUhYcE9uc3hDTnJ1X1RmOEZ1YjJIc0JmMjVfVQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 562,
+      "age_hours": 566,
       "score": 22
+    },
+    {
+      "headline": "Ohio State Football Mailbag: Julian Sayin\u2019s Injury Timeline, Chris Henry Jr.\u2019s Usage and the Fahey-St. Clair Debate",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeDNYdEx3c21OTXJGa2lpalZXaGFmd190TndDSFZGLVRaTHJyb0MwTEdjWU56V0lPT1dzWjVUZDVTMTJUcWhKUjlGYTlUZXBnTEYya25PRGFzbXJjOHg2ai1jRXRWb2FienVKV2ZmUVN0NkxZR1VDeDBCUUlpTWlFNVhKaThSclRJOFZoMnpiY05HTzJkM2RJMEU1bi1FVy1jV3UxWU1MTUxtUnNHM0c3amNjemQ5M2REMmNGb28wMjdPaVRRMk9mbW0xZVdTbmhCZktVcTl0MDhjZnc0MjNCUWMwRy1idENxdVVJSDdtTjBLVlg0TXkyQkl1S1lmTlE?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 5,
+      "score": 21
     },
     {
       "headline": "Julian Sayin Injury: What We Know About Ohio State's Star Quarterback",
@@ -1876,7 +1864,25 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3R4VW43b3VaOXZWbkhhZnF1dEJOS3p2Vk5oTlVxT0JhRWVZQlhrY0tpS25uZ2o5WFZIM014UkFSMVRuVlI3NnhiSzVTMjE2WEhjQzN2RC1RRGR4WkY5elcyeGFfdmw3U3k2clZZOEVqUTNURlk3anh3OEZlOUZJT0ZkMC1Eenl5RDFEbGdOV1dfLUhXTW5yT1ZNOURKVlpMMkxj0gGjAUFVX3lxTE9iSzBRdGx5TGEyenJiaU83Q3o2UzVjR1pKSXQyUWVhdzRZTE8xUTBqZXBTbHRjbXFUeThRVWR6a3VoVnJETGhCZzZMRGNFVm5zdnRuS0Z6N2lDY2pNdTNjM3RjME1aUkdhODRsOUtxbjNGaERuQ3dwM2xNblYzdkhDRjZQS0hvOTYzOVlEdGdjSUFTSVktWnhSNWNlMFo2Ykc2V0k?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 17,
+      "age_hours": 22,
+      "score": 21
+    },
+    {
+      "headline": "USC Trojans Face New Ohio State Mystery After Julian Sayin Injury",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnhjZHktMzBaT0d4bWVkcG5ZRnBPeGlwVEFTbzlXdXFjN3FfN3hrNy1YY3BfSzNNTnRLNXAyMFZJSmtGckVycEFWbHpxUDFoZFlNYzM2T2xhWjlVeTFWWTlQd1l2bFBHb1BsbzlOS1N6OXhWS3QwZE9mWGpOX2lYYktzd1lQaHgyWEpCR0x1Nk1yNzZwZ1MxYmRDcHJXZE9aLS1fUi1wSnI3NHM?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 3,
+      "score": 21
+    },
+    {
+      "headline": "Ryan Day on Julian Sayin's injury, Luke Fahey taking the reins",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFZ6NXFENGNKMUw2WkRyWWxTRVlKWTRvZGY4TU5qdGpDOGlXd1hzV3JScG84d0w2STc2YUUwZ3hYNnczTEVBaWVhOFl3b0hKOUdQS3haZ1lNRG5zeW56c2tiQW1xMzYxdW9ScnJVYThteVJ3bXZxTkVpUnhnSzVIRWUyd0gxUk1fenE0T2FNaUhRUEZ4UWNJRFFfYzkzd3hv?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 8,
       "score": 21
     },
     {
@@ -1885,26 +1891,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM0VIMERfV2xXeHM2cmJ2VXNqR25qeTJFZi1hdDE0RkFqXzJYbENNQkRhWnhLNHR0ejluZ3dRcV9tYUJGZXJUcDEtb0VtbVlCdHQ4OEJ1UHhTWDZVd3Y5ZHlkNldadmhac3E0TWotaS15bnlrQ2RiMU1Ha3AxUHdPQlBKMjNfR3BuRkc2R1U1enA4NGdESzZTcjdZdXVnRE0yY0FsSEVYMG9lZ0x5SlFhUVppdGhPaS1oMGI2NGp0ZFhqbDJWYU05ZXUyeFpuRlB2Q2liOXFDWjBJVHVubGFPQ25pR0RHQQ?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 4,
+      "age_hours": 8,
       "score": 20
-    },
-    {
-      "headline": "Dante Moore\u2019s NFL Draft Stock Takes a Turn Amid Injury Absence",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 98,
-      "score": 19
-    },
-    {
-      "headline": "Dante Moore injury update: Oregon QB ruled out with concussion vs Nebraska",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWZzalhoTXRyYUtaY3U2TWxWTUtZVXdTd0tVeDVLb2VqSXdEckw5ZnFKZXV4Wnh0VnV1ZWdtcXdMb1doSGVENWVoZjV1ZWc1bVJINzdhN2lvTWluY2hqSXNRa1pYQWRySVNEemJhZ1RzMHhwaU9Rdk0zS0pKd2IxVHpQY2Eyb25DUGVmVHE1RXhvZkZHVDVRZnVKNmxHajJhdndGNTFZWDU3X19JM3JtNGVVVjE4bHFSbm13dUljXzRYRi1wRnp6SG00SG5mc1k?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 160,
-      "score": 18
     },
     {
       "headline": "Heisman Watch: Jeremiah Smith Remains the Favorite, But Must Overcome Julian Sayin\u2019s Injury",
@@ -1912,17 +1900,8 @@
       "domain": "elevenwarriors.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWt0NUJROVNfRldNa05EcVgzRzRYUE9BZzh1TU0tS19UWmtlNG02emxEY1BmTG9YSV8ydlZqY0p0S2laVDA5RGhOaWc3eHNHdXVtNFhBM0duZ0ZkeDJhbEdwYUJjZWVlejh0aE9nYmZPOXA1UXdoa1AyR3ZlRGp5cDZsSmcxcmVOenVlYWFtRDJ1X0pYbldmeEk0cVZMejU2VGFBMkJTU3FUcVFCNWhjY2pLS3BzU29jLXgyV1pYQkNKMXJXVFMzS3ZoLTVfM2licTJuQTVqTG5sTDExUE1QU3h6ajJEZw?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 0,
+      "age_hours": 5,
       "score": 18
-    },
-    {
-      "headline": "Texas-Ole Miss best bets: Chambliss, Manning and more keys to the SEC showdown",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRUU1VE1qdVNjNHZScS1HLWEtdEd3cEZCVXpwa2x2Vl9LQU1jZ0lWbldTbW1PRkNNNkV0U2Jud3dKdU5SNTNJOEU0RVhCdDJMS2V1YmZDckJkV1FqYmhvRkdrU2syNmRUTlpFcTQ3c002MXJTTFEySHBiWUljdjdsMHhyMjlZdDFmOEo3RWU1R3RrSVpyXzlZRDBiNTBGbi1CckNz?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 6,
-      "score": 17
     }
   ],
   "kalshi": [
@@ -1932,23 +1911,18 @@
       "url": "https://kalshi.com/markets/kxnfldraftpick/nfl-draft-pick/kxnfldraftpick-27-1",
       "candidates": [
         {
+          "name": "Drew Mestemaker",
+          "pct": 37,
+          "tracked": true
+        },
+        {
           "name": "Jeremiah Smith",
-          "pct": 39,
+          "pct": 36,
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 35,
-          "tracked": true
-        },
-        {
           "name": "CJ Carr",
-          "pct": 12,
-          "tracked": true
-        },
-        {
-          "name": "Trinidad Chambliss",
-          "pct": 12,
+          "pct": 11,
           "tracked": true
         },
         {
@@ -1957,17 +1931,22 @@
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 6,
+          "name": "Trinidad Chambliss",
+          "pct": 7,
           "tracked": true
         },
         {
-          "name": "Lincoln Kienholz",
-          "pct": 2,
+          "name": "Arch Manning",
+          "pct": 5,
+          "tracked": true
+        },
+        {
+          "name": "LaNorris Sellers",
+          "pct": 3,
           "tracked": false
         },
         {
-          "name": "Austin Simmons",
+          "name": "Lincoln Kienholz",
           "pct": 2,
           "tracked": false
         }
@@ -1992,12 +1971,12 @@
         },
         {
           "name": "Los Angeles C",
-          "pct": 14,
+          "pct": 13,
           "tracked": false
         },
         {
           "name": "New York J",
-          "pct": 6,
+          "pct": 5,
           "tracked": false
         },
         {
@@ -2031,7 +2010,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 42,
+          "pct": 41,
           "tracked": false
         },
         {
@@ -2041,7 +2020,7 @@
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 8,
+          "pct": 11,
           "tracked": true
         },
         {
@@ -2065,12 +2044,12 @@
           "tracked": false
         },
         {
-          "name": "Gunner Stockton",
+          "name": "Jayden Maiava",
           "pct": 2,
-          "tracked": false
+          "tracked": true
         }
       ],
-      "field_pct": 8,
+      "field_pct": 6,
       "field_count": 40
     }
   ],
@@ -2134,7 +2113,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 6,
+    "games_matched": 5,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
