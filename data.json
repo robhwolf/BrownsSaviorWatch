@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T03:28:12.064884+00:00",
+  "updated_at": "2026-10-21T16:40:46.509101+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -810,31 +810,10 @@
         "color": "#ba0c2f"
       },
       "status": {
-        "event_id": "401858488",
-        "week": 7,
-        "opponent": "Indiana",
-        "opponent_id": 84,
-        "home_away": "at",
-        "kickoff": "2026-10-17T16:00:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "19-15",
-        "label": "W 19-15 at Indiana"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 15,
-        "att": 29,
-        "pass_yds": 235,
-        "pass_td": 2,
-        "int": 2,
-        "rush_att": 5,
-        "rush_yds": -26,
-        "rush_td": 0,
-        "comp_pct": 51.7,
-        "ypa": 8.1
-      },
+      "game": null,
       "next_game": {
         "event_id": "401858509",
         "week": 9,
@@ -1202,31 +1181,10 @@
         "color": "#bf5700"
       },
       "status": {
-        "event_id": "401856724",
-        "week": 7,
-        "opponent": "Florida",
-        "opponent_id": 57,
-        "home_away": "vs",
-        "kickoff": "2026-10-17T16:00:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "L",
-        "score": "24-27",
-        "label": "L 24-27 vs Florida"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 14,
-        "att": 20,
-        "pass_yds": 173,
-        "pass_td": 1,
-        "int": 0,
-        "rush_att": 10,
-        "rush_yds": 0,
-        "rush_td": 0,
-        "comp_pct": 70.0,
-        "ypa": 8.7
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856732",
         "week": 8,
@@ -1388,31 +1346,18 @@
         "color": "#461d7c"
       },
       "status": {
-        "event_id": "401856720",
-        "week": 7,
-        "opponent": "Mississippi State",
-        "opponent_id": 344,
-        "home_away": "vs",
-        "kickoff": "2026-10-17T16:00:00.000Z",
+        "event_id": "401856728",
+        "week": 8,
+        "opponent": "Auburn",
+        "opponent_id": 2,
+        "home_away": "at",
+        "kickoff": "2026-10-24T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "31-0",
-        "label": "W 31-0 vs Mississippi State"
+        "state": "scheduled",
+        "label": "at Auburn"
       },
-      "game": {
-        "cmp": 31,
-        "att": 38,
-        "pass_yds": 289,
-        "pass_td": 4,
-        "int": 0,
-        "rush_att": 4,
-        "rush_yds": 11,
-        "rush_td": 0,
-        "comp_pct": 81.6,
-        "ypa": 7.6
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856728",
         "week": 8,
@@ -1908,13 +1853,22 @@
   ],
   "news": [
     {
-      "headline": "Dante Moore Injury Question Goes Unanswered by Dan Lanning Ahead of Illinois",
+      "headline": "What Dante Moore\u2019s Injury Return Could Mean for His NFL Draft Stock",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDZvcDZleXBucWRISEdvNVlGNHRCa0R1NEczWUs4a1l1bUJsOVExZHRmS0I3X3o1bEZYX3VoekVHUjVwNUt4a1JZdDZ2cWRmZWNGdGNmMFN3NzFJVHk1LWxxUHI2VXZ3Y0swSmZQU2YxWkptLXJ3MEFYeWFEckJqZHRlUlFQUTlBek9vSGlRQnAtSFRUak1BQV80c2pQb1otX05oQTdhVWhWczZpV0hMT0JR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
       "player": "Dante Moore",
-      "age_hours": 24,
-      "score": 21
+      "age_hours": 2,
+      "score": 26
+    },
+    {
+      "headline": "Dante Moore suffered concussion, but no additional injuries on hit that sent him to hospital",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpKbFdVZlJzNjVJNVZwempQbGcwcEMtSTFIaV91bm92T2dBaHpLZXNYS3d0SFMwazlYQTBZZ1NISldObzFfbEN3dUdocTU0VkhGR2R6NElyQWE3RVVycDV5Zlp5UXRCUGVTd1pPbVMxcmhDVVBIRGNEcVJJTms0UUhYcE9uc3hDTnJ1X1RmOEZ1YjJIc0JmMjVfVQ?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 562,
+      "score": 22
     },
     {
       "headline": "Julian Sayin Injury: What We Know About Ohio State's Star Quarterback",
@@ -1922,26 +1876,17 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3R4VW43b3VaOXZWbkhhZnF1dEJOS3p2Vk5oTlVxT0JhRWVZQlhrY0tpS25uZ2o5WFZIM014UkFSMVRuVlI3NnhiSzVTMjE2WEhjQzN2RC1RRGR4WkY5elcyeGFfdmw3U3k2clZZOEVqUTNURlk3anh3OEZlOUZJT0ZkMC1Eenl5RDFEbGdOV1dfLUhXTW5yT1ZNOURKVlpMMkxj0gGjAUFVX3lxTE9iSzBRdGx5TGEyenJiaU83Q3o2UzVjR1pKSXQyUWVhdzRZTE8xUTBqZXBTbHRjbXFUeThRVWR6a3VoVnJETGhCZzZMRGNFVm5zdnRuS0Z6N2lDY2pNdTNjM3RjME1aUkdhODRsOUtxbjNGaERuQ3dwM2xNblYzdkhDRjZQS0hvOTYzOVlEdGdjSUFTSVktWnhSNWNlMFo2Ykc2V0k?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 4,
+      "age_hours": 17,
       "score": 21
     },
     {
-      "headline": "Ryan Day on Julian Sayin's injury, Luke Fahey taking the reins",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0k3REVNMnoxMkQ1NDQtQjVUQi1maFhGeGxXOHpmalNpcEtyWFNiU3doYVpwZ3Y1U1FjNmdveDN4dWhvb2JDVWdjbXdwRHQxaDVYSDN5cUVsYkJ5N3JOaFo5LWQxMVdEaVdTZ3Ixa01TcnFhR25kNnlNbU8ydDI3U0lpTmFmUXdJXzFGYjZUcWt3cGtYTTBjSGdITGxmNk52QXNhTy1zUmcwZzFtRGZydWZlSWFJZXlqRGJGZ1NRMWNlYU5pYWpzRXg3NGNsUzM2cUlWRV9WVQ?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 3,
-      "score": 21
-    },
-    {
-      "headline": "Josh Pate Questions Why Texas Hasn't Benched Arch Manning After Florida Loss",
+      "headline": "Ohio State NFL Draft Stock Watch: What Happens to Julian Sayin\u2019s Draft Chances Moving Forward",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVV1Z1F3TDNlcXBXUnZKZXhwak9FNDJHeTIzNzRuWW4yUHlTUUhyaWNvc3N6VjZFWDZRdkR2dHI2Zzhuajh4NTY0XzdlTFY5c3BOZjc1bnBlbG9ZZE5reVJZQXFha1FLdWxMcXZSRlNtNmdPTnBKanZQc1VNeEg3TjVqYkpvY3VUbzVNSFE3ZzVTOTFEa0c3cloyQ3BlWkVJeUdOcG56Q3BybnM3Y0NIeGZSRERPOS10NG1qWFNfTERlZw?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 13,
-      "score": 21
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM0VIMERfV2xXeHM2cmJ2VXNqR25qeTJFZi1hdDE0RkFqXzJYbENNQkRhWnhLNHR0ejluZ3dRcV9tYUJGZXJUcDEtb0VtbVlCdHQ4OEJ1UHhTWDZVd3Y5ZHlkNldadmhac3E0TWotaS15bnlrQ2RiMU1Ha3AxUHdPQlBKMjNfR3BuRkc2R1U1enA4NGdESzZTcjdZdXVnRE0yY0FsSEVYMG9lZ0x5SlFhUVppdGhPaS1oMGI2NGp0ZFhqbDJWYU05ZXUyeFpuRlB2Q2liOXFDWjBJVHVubGFPQ25pR0RHQQ?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 4,
+      "score": 20
     },
     {
       "headline": "Dante Moore\u2019s NFL Draft Stock Takes a Turn Amid Injury Absence",
@@ -1949,7 +1894,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 85,
+      "age_hours": 98,
       "score": 19
     },
     {
@@ -1958,26 +1903,26 @@
       "domain": "usatoday.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWZzalhoTXRyYUtaY3U2TWxWTUtZVXdTd0tVeDVLb2VqSXdEckw5ZnFKZXV4Wnh0VnV1ZWdtcXdMb1doSGVENWVoZjV1ZWc1bVJINzdhN2lvTWluY2hqSXNRa1pYQWRySVNEemJhZ1RzMHhwaU9Rdk0zS0pKd2IxVHpQY2Eyb25DUGVmVHE1RXhvZkZHVDVRZnVKNmxHajJhdndGNTFZWDU3X19JM3JtNGVVVjE4bHFSbm13dUljXzRYRi1wRnp6SG00SG5mc1k?oc=5",
       "player": "Dante Moore",
-      "age_hours": 147,
+      "age_hours": 160,
       "score": 18
     },
     {
-      "headline": "2027 NFL Draft takeaways: How did CJ Carr, Drew Mestemaker perform in Week 7 losses?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeURfVFBVQnI4cDF3aUQzY0dJR1U1QkU5MG9TN1NqUFRPenVfM1AydWVOZVNKU2FWUkh2djdtZ3RxemY2REREdzlBeWRpRzcyTnkxZFlBM2o0Rmk2OTNmNzVIcFVJVFRlSG05MGE3cE9hSzREMmtsVkpJRXRqOVR4TGlxT0dCR0xxLXJ1S3JxUkEwNTZ1NEE?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 65,
-      "score": 18
-    },
-    {
-      "headline": "Were do Ohio State, Jeremiah Smith stand in championship, Heisman odds after Sayin injury?",
-      "source": "Land-Grant Holy Land",
-      "domain": "landgrantholyland.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc1JjTkNMbUJlc1JWdTUyTW04ZDJyRW1XNUFxN0s2cUxGdGxiWTFhUTJoM0JHekpsMVpXT1lNdllnX0N0YlpZb1FrRzJZTmF5ZmlPcEVrdHpEQ2R6eXVVUGlJX2t4SmUxTmhyZnFIeDkxSDZoU2V2ZHZjQ0ljLTF0Sy1FWkt2Xzd4UUxlb0REbC1wTC13TEdGQlNYY0lNSVUta3ZoYkQ2eGJ1OHp0NVpzS084RlRIUmJqS0piTkdHeURldk5HcGQwSHJSZ05YNkZLaXZzYkhLUnJqdUc5MTBCYTV3?oc=5",
+      "headline": "Heisman Watch: Jeremiah Smith Remains the Favorite, But Must Overcome Julian Sayin\u2019s Injury",
+      "source": "Eleven Warriors",
+      "domain": "elevenwarriors.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWt0NUJROVNfRldNa05EcVgzRzRYUE9BZzh1TU0tS19UWmtlNG02emxEY1BmTG9YSV8ydlZqY0p0S2laVDA5RGhOaWc3eHNHdXVtNFhBM0duZ0ZkeDJhbEdwYUJjZWVlejh0aE9nYmZPOXA1UXdoa1AyR3ZlRGp5cDZsSmcxcmVOenVlYWFtRDJ1X0pYbldmeEk0cVZMejU2VGFBMkJTU3FUcVFCNWhjY2pLS3BzU29jLXgyV1pYQkNKMXJXVFMzS3ZoLTVfM2licTJuQTVqTG5sTDExUE1QU3h6ajJEZw?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 10,
+      "age_hours": 0,
       "score": 18
+    },
+    {
+      "headline": "Texas-Ole Miss best bets: Chambliss, Manning and more keys to the SEC showdown",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRUU1VE1qdVNjNHZScS1HLWEtdEd3cEZCVXpwa2x2Vl9LQU1jZ0lWbldTbW1PRkNNNkV0U2Jud3dKdU5SNTNJOEU0RVhCdDJMS2V1YmZDckJkV1FqYmhvRkdrU2syNmRUTlpFcTQ3c002MXJTTFEySHBiWUljdjdsMHhyMjlZdDFmOEo3RWU1R3RrSVpyXzlZRDBiNTBGbi1CckNz?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 6,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -1988,12 +1933,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 40,
+          "pct": 39,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 40,
+          "pct": 35,
           "tracked": true
         },
         {
@@ -2002,18 +1947,18 @@
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 5,
+          "name": "Trinidad Chambliss",
+          "pct": 12,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
-          "pct": 5,
+          "pct": 7,
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 3,
+          "name": "Arch Manning",
+          "pct": 6,
           "tracked": true
         },
         {
@@ -2022,9 +1967,9 @@
           "tracked": false
         },
         {
-          "name": "Dante Moore",
-          "pct": 1,
-          "tracked": true
+          "name": "Austin Simmons",
+          "pct": 2,
+          "tracked": false
         }
       ],
       "field_pct": 0,
@@ -2086,7 +2031,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 44,
+          "pct": 42,
           "tracked": false
         },
         {
@@ -2095,13 +2040,18 @@
           "tracked": true
         },
         {
+          "name": "Trinidad Chambliss",
+          "pct": 8,
+          "tracked": true
+        },
+        {
           "name": "Malachi Toney",
-          "pct": 7,
+          "pct": 6,
           "tracked": false
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 7,
+          "name": "CJ Carr",
+          "pct": 4,
           "tracked": true
         },
         {
@@ -2110,22 +2060,17 @@
           "tracked": false
         },
         {
-          "name": "Jayden Maiava",
-          "pct": 3,
-          "tracked": true
-        },
-        {
-          "name": "CJ Carr",
-          "pct": 3,
-          "tracked": true
-        },
-        {
           "name": "Bear Bachmeier",
           "pct": 3,
           "tracked": false
+        },
+        {
+          "name": "Gunner Stockton",
+          "pct": 2,
+          "tracked": false
         }
       ],
-      "field_pct": 6,
+      "field_pct": 8,
       "field_count": 40
     }
   ],
@@ -2189,7 +2134,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 8,
+    "games_matched": 6,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
