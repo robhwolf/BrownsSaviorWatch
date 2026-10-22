@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T16:41:30.262956+00:00",
+  "updated_at": "2026-10-22T21:13:40.760645+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1815,12 +1815,21 @@
   ],
   "news": [
     {
+      "headline": "Oregon QB Dante Moore listed as out for Saturday\u2019s game vs. Illinois - The Athletic",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUhNdDhlOVg2ZkRvYmgydkpyZUxSV2ZrTUQ3ZjlGWEZrbGNPbWY3eUdDNUhwZ3NTNThfdkQ1UGc0NVAwN0Q3S281ZlZVcXVkRU5zT0VYRllRT05idGlyczVLU2txS0Q5dTNOaDdEVUtsWVhRSmZrM0hqQnRVa2JJZU1BNVZRRm5MYml2R19iZTFqUEo5SnFCc01rdw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 20,
+      "score": 23
+    },
+    {
       "headline": "What Dante Moore\u2019s Injury Return Could Mean for His NFL Draft Stock",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
       "player": "Dante Moore",
-      "age_hours": 26,
+      "age_hours": 31,
       "score": 22
     },
     {
@@ -1829,7 +1838,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpKbFdVZlJzNjVJNVZwempQbGcwcEMtSTFIaV91bm92T2dBaHpLZXNYS3d0SFMwazlYQTBZZ1NISldObzFfbEN3dUdocTU0VkhGR2R6NElyQWE3RVVycDV5Zlp5UXRCUGVTd1pPbVMxcmhDVVBIRGNEcVJJTms0UUhYcE9uc3hDTnJ1X1RmOEZ1YjJIc0JmMjVfVQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 586,
+      "age_hours": 590,
       "score": 22
     },
     {
@@ -1838,7 +1847,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2Q2QzV4N3g1dXo5X1pOeTU0VU1zOVdVeHl1a3o2NWFRbENoV0gxN2JnMDBBRU42LVE2REdSS1EzZS0xTFplM21GQm1yRlF5QkdOZG9zdG1KV2NkaXBFbWU3a0I2RWl4ZDNPODJ4QnoyUnRtMURWcVc5bzR4NHFBZnNJaDBNQmtLb2VRZW90SldFQWdUVUlobEl1eHJaZFFNM0JmN1RhMzh3LXg0QUd1cE1XNHdUaDNuLXNXejdhRjhtRUE?oc=5",
       "player": "Dante Moore",
-      "age_hours": 17,
+      "age_hours": 21,
       "score": 21
     },
     {
@@ -1847,16 +1856,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcS10ZjRTWjhGZDVUTTNQWEQ3Z201dHFQWVZ4WFBrczJIb0Nld0ZGX3ZqYkUzSFpaMVRBcjYtMDNLZk5TOXZQV000TWJGZlpUTHRueXM1bVZvMmVBMU1uRFR2UzMzX1BXNjdmNlloU1FOUzliNGR6QkdYXzFkMEZ1Y1lxUUt6bnBmSUFLem9hN3QxNjZPU2UwMm9XTjdKSlRJLWZWV2FJWU1EWHRTeTRycUNqZmc2TUl4WUE?oc=5",
       "player": "Dante Moore",
-      "age_hours": 2,
-      "score": 21
-    },
-    {
-      "headline": "USC Trojans Face New Ohio State Mystery After Julian Sayin Injury",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnhjZHktMzBaT0d4bWVkcG5ZRnBPeGlwVEFTbzlXdXFjN3FfN3hrNy1YY3BfSzNNTnRLNXAyMFZJSmtGckVycEFWbHpxUDFoZFlNYzM2T2xhWjlVeTFWWTlQd1l2bFBHb1BsbzlOS1N6OXhWS3QwZE9mWGpOX2lYYktzd1lQaHgyWEpCR0x1Nk1yNzZwZ1MxYmRDcHJXZE9aLS1fUi1wSnI3NHM?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 23,
+      "age_hours": 7,
       "score": 21
     },
     {
@@ -1865,17 +1865,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ3I3aG5VTkk5RGV5d3dLaWFHOW1jV2xGR2tUblAzZkVpUUhRTkhYVVN6UU9xVlBnU3RVX0pwYnhWV1NyNEZCb0pHY1dXOUxvOFhIZE1FWFBpQ0V5Vk51QW9oQ21yVjRXYUJJa0xjWE12a0loSEJXNU9IZU8ycGU1ZmRZSTcxZmlUOHJkOEhGLWlGNTc4Yl9WdVNiR3l2bWVwWDRoMmxn?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 16,
+      "age_hours": 21,
       "score": 21
-    },
-    {
-      "headline": "Top 10 QB Prospects for 2027 NFL Draft: Drew Mestemaker\u2019s Rise, Arch Manning\u2019s Fall",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXNxcGRUZjNrR0JMMV92WEdtVzF6c3VSdVRLSEk4TnJROFdMM05Id04zejcyZE5ESHlTZGFIUmRoWGVoc0VoNEVnQmduUTRYYVd4LXY0a1JGVVlsdTFsMUZQelVnWXBDQjZBcGlxbE9WWXpTUHFTS0Z0MS1vek5jOTRGSWZxZFZqeEtQLUJldTJlYzVIbFE?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 7,
-      "score": 20
     },
     {
       "headline": "Barstool Sports questions if Julian Sayin injury will help Jeremiah Smith win Heisman",
@@ -1883,8 +1874,17 @@
       "domain": "sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONzVTUEl0bktJbnFKMG45a21aY19IWUFzcEVTNm4yb2NPNzFWYkNFX2hQTFk0UTNGVEUwX19ReFM1X2lYeGJ3SVFYOU0zd1hsclZaNDc4eVJ4TUh4aFBWVnpUeDY0TmMzd0h2RnByaHJVbXJ5MjdpVjh2WWlaSHA5TG0xWmFEQ3NPMzNzSU9QOWo?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 19,
+      "age_hours": 24,
       "score": 18
+    },
+    {
+      "headline": "Oregon's Dante Moore, Evan Stewart ruled out vs. Illinois",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVR4bnhsVWtRTjlOVEtwRmpVdEV1MXVmSnJlc0JsaE5kLVhLUDJ3UGRiajVhcVR4U3F2VFRNTHZKSjRmdmFSdDVtdVhyT3hvM1lnVTc0cF9VRndZVlkxVzR0aXk4V2RJajdramlXLTY5N09mYk8xbzJZTkkyOW44ZEhrUmxmZUVzdnZSQnNPUXJKcVhhMnZKYk5XOFliSXhUNU1saE82b01rOFh4ZHZpWTNmbw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 18,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -1895,7 +1895,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 40,
+          "pct": 36,
           "tracked": false
         },
         {
@@ -1910,7 +1910,7 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 9,
+          "pct": 7,
           "tracked": true
         },
         {
@@ -1920,7 +1920,7 @@
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 3,
+          "pct": 7,
           "tracked": true
         },
         {
@@ -1954,7 +1954,7 @@
         },
         {
           "name": "Los Angeles C",
-          "pct": 11,
+          "pct": 12,
           "tracked": false
         },
         {
@@ -1983,7 +1983,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 5,
+      "field_pct": 4,
       "field_count": 24
     },
     {
@@ -1993,17 +1993,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 42,
+          "pct": 43,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 21,
+          "pct": 23,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 13,
+          "pct": 15,
           "tracked": true
         },
         {
@@ -2032,7 +2032,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 7,
+      "field_pct": 2,
       "field_count": 40
     }
   ],
