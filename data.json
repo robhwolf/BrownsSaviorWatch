@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T07:47:49.964371+00:00",
+  "updated_at": "2026-10-24T17:42:29.414416+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -601,16 +601,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858274",
-        "week": 8,
-        "opponent": "Pittsburgh",
-        "opponent_id": 221,
-        "home_away": "vs",
-        "kickoff": "2026-10-24T16:00:00.000Z",
+        "event_id": "401858282",
+        "week": 9,
+        "opponent": "North Carolina",
+        "opponent_id": 153,
+        "home_away": "at",
+        "kickoff": "2026-10-31T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Pittsburgh"
+        "label": "at North Carolina"
       },
       "log": [
         {
@@ -1305,16 +1305,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856728",
-        "week": 8,
-        "opponent": "Auburn",
-        "opponent_id": 2,
-        "home_away": "at",
-        "kickoff": "2026-10-24T16:00:00.000Z",
-        "tbd": false,
+        "event_id": "401856740",
+        "week": 10,
+        "opponent": "Alabama",
+        "opponent_id": 333,
+        "home_away": "vs",
+        "kickoff": "2026-11-07T05:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Auburn"
+        "label": "vs Alabama"
       },
       "log": [
         {
@@ -1815,21 +1815,12 @@
   ],
   "news": [
     {
-      "headline": "What Dante Moore\u2019s Injury Return Could Mean for His NFL Draft Stock",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 65,
-      "score": 22
-    },
-    {
       "headline": "Oregon Ducks Injury Report Reveals Four Receivers Out vs. Illinois",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdHRLb2dETTAyRTl1cTlGUUNxTzBucy02aVJYU2NMSkdERkFvQUZOUDBFeUR0QmJoSjFtS2FEeDFhbzRJaEVDMGlkSzBDZDc5TE1EM3FrdjRpUHFMSmNTcVpFakpzazBNeXZ3T0lOWTBBOWVsM0RFcWpGcE45OHp6NlZpMkxwdGJDVzYxNDU4Y2VLOVJ1c0t3NVZCd3V6bUY5bW1sSl9nYmNsVk9vay12VDBiQXhVM1RvM0VKMzBfdTZFcEVlZFdodQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 8,
+      "age_hours": 18,
       "score": 21
     },
     {
@@ -1838,16 +1829,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXJ0aDBTUVc5cVQ2SE5hbURtN09ZSGNBbkJ5V0c2VHZsNVkzQzlyZ2Q2R3oxaFh2ajNzTkRZWmR6Z2lHSlozV21heVp2ODJJYjQyUTF6ZklpaktUNzlHUWNDa0U0OFlDSGcyYjM0YzltN3BZZ21MVFBidnE1RTU0WFljcEN1UXN1U210UWV4S09KR0R0QTdCME5R?oc=5",
       "player": "Dante Moore",
-      "age_hours": 12,
-      "score": 21
-    },
-    {
-      "headline": "Dante Moore ruled out for third straight game, Evan Stewart also unavailable against Illinois",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHlfamp0bHZKa0pTQm45bGFwZWJLZlYwcEJCWDBjdXVYdVM0UmVFRW1VTEhBX3NEcUJVdVVEalRwdFhtSVFWdm9vQ3VkZXNMVjdyT2Z0TnB3OFJFMjdZbW5xcmFMTXpIYWRlNUN5aXlVQkpSaTE5RWUtYXg5X2E3VmlxLTZNME81WmN1cllsQzg2VXEyZ2hCWmVMSjREdlFvUjJTRG4zSVVUYnd0TlZ1UGM3eVp2NVNxY191Vm8tTHhYWmFKbVpid1lXVEpnWWRGUFhLSFd2eTBjaTRzM0laS1p1MA?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 12,
+      "age_hours": 22,
       "score": 21
     },
     {
@@ -1856,7 +1838,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVUtSGZTRDhoSDVELXNwR3RFNHFZeHZTSW4takhMam5hNkxiaE4zbjkwR3l3S0U5MUgwMUNHa2diOWdmX2x0RkRUUGhyWTBKN3lMZlFfeS1wZGFYZDJiUlNlWXR5aGxjUzhlWVlYMHIyWURCV2tVMVRkbEVwYlFqMTB3RG1Kb2pTZlBzNGhscUcwNlNkYWlxNV94WW1FQUtGMGtrQ0tNRUxCMHJGUDJwX0lPYk54Szg?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 8,
+      "age_hours": 17,
       "score": 21
     },
     {
@@ -1865,26 +1847,44 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 409,
+      "age_hours": 419,
       "score": 20
     },
     {
-      "headline": "Newsstand: ESPN evaluates Notre Dame QB CJ Carr's NFL Draft stock after the BYU game",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3VzMkhEUnU0dkdYdDlENjRIMDhjVkVuTXVLcmhfSWNvM1JiWlJyZ3dYcHF3eENmWWxWN2QtdTh0MTVFUTZJdHA2UGctT01Hb0p3S1RwZ0RVU3BXYXNyY2trc0tJcm9sZVpLcmhRZTU0WGNBS2xPV2pVektXUUdLRUxtV3Jad0s5SGMzTmdsOXcwbU9YX0hWczhOclB1a25FWXBuaDN3eUJaNW02WTR1WWR5NXlGeURRR29odlJUOXV3bDdzSWNnOXlyWFRHSFFfTmFN?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 21,
-      "score": 20
-    },
-    {
-      "headline": "Arch Manning drama. Bryce Underwood benched. QB chaos headlines Week 8",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYi1rdWlPdGZVYVlJbXRxM2ZjbUR3SUwwSVVwOThidUhaVjJxQWs1R19wMjFWYjN0QjQ4TTE1dTBMbzluOVpSYnlSUjdSNzc2N3lteHVSMGtfbk8wdGVqWE9hcXRxYjZ4Vzk2WUlvWlZVQVg4Nmo0UWxqQVJHNWVVUURCSDRVbVpyT3hCTkVRUEtrSEVpczE5QmJnUk5IZ3dpXzJVM1VkbFcwNWM2aGNsWXlURkoxRXYyVGdwd2Z5MmhOZGR3UldzQ29Xall1YU4wekpEb1pmSW5uZ3BvNlgzVFI1cjh4cW1mR0Vsdw?oc=5",
+      "headline": "Arch Manning's 2027 NFL Draft Fate Totally Hinges on Week 8 Ole Miss Game",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGprZTFxUXIzc1FTQmUxSWRRZTl0UTE4VWZCNVdtNGVxakRLcDlkdWI2cF9kTENZbWw0MlZHV1RjR1lFQjZPRF92U2YtQzJxeF9nbVJyWDBXMW50NlNIRm9hS0RDNjVpQUpvUXhLdUQtNTByRHBvS1pUM1FmWUpTbmpWUTRDbnA1bTY1dnZ2S0ZqRXBkYWxnOEJabjlENXpCY0VPOHNFeExVaXdmVXJKOGF3?oc=5",
       "player": "Arch Manning",
-      "age_hours": 18,
+      "age_hours": 8,
+      "score": 20
+    },
+    {
+      "headline": "What Dante Moore\u2019s Injury Return Could Mean for His NFL Draft Stock",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 75,
       "score": 19
+    },
+    {
+      "headline": "Oregon QB Dante Moore listed as out for Saturday\u2019s game vs. Illinois - The Athletic",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUhNdDhlOVg2ZkRvYmgydkpyZUxSV2ZrTUQ3ZjlGWEZrbGNPbWY3eUdDNUhwZ3NTNThfdkQ1UGc0NVAwN0Q3S281ZlZVcXVkRU5zT0VYRllRT05idGlyczVLU2txS0Q5dTNOaDdEVUtsWVhRSmZrM0hqQnRVa2JJZU1BNVZRRm5MYml2R19iZTFqUEo5SnFCc01rdw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 64,
+      "score": 19
+    },
+    {
+      "headline": "Who Could Win The Heisman Trophy If Ohio State Star Jeremiah Smith Slips?",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYl9Pa0QzVzFzU3VyMDNwSUd5c0FuZVlIU21Xb3JNMnBBM0ZXV25mUDJuNU9xcjFidFFxRUhHYk04NnNkaXRFclNvMll1NmwybmFlb1hUclN4MThWcTh2OG1Ia0xJVzFmbkdoNzhFbTZUYjJmaW1tdEJnVU1nUkVTRXBUNWFkQ3RWUGVfS2k1Z0J0TElZTEtCSVBIVVI1dHVnTkpHbXp2eDd4NHFGQWJuQmFEcFNqd1UtSlM4LTZaVnJyRGROR21PZdIByAFBVV95cUxOLVFsRjJPRXp1cUNwVk9wc3U3cUhCMkJBeUhXTXdJTUpiZV9wLW5zUlloLUc4TkZuamxlN1l5X2JEd3NBWHdRMHRiWmxldHBONERMbHQxR01MU3BfXzM3WjJhX3ZzN0ptaHQzMTVJZkRPTGExU1pFMnFsNjdMTGhUcmpGTHpJb0VWbk8zdWVMaDFRbFpXOTBpRWVUS3I5NFlIV0ZuOWg1R2JrNENKaDZVVFo3TENnQ01Fc09PeG9PSUg1QzJJTldWZA?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 1,
+      "score": 18
     }
   ],
   "kalshi": [
@@ -1895,17 +1895,22 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 35,
+          "pct": 33,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 30,
+          "pct": 31,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 11,
+          "pct": 12,
+          "tracked": true
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 10,
           "tracked": true
         },
         {
@@ -1914,24 +1919,19 @@
           "tracked": true
         },
         {
-          "name": "Arch Manning",
+          "name": "Darian Mensah",
           "pct": 6,
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
-          "pct": 6,
+          "name": "Julian Sayin",
+          "pct": 2,
           "tracked": true
         },
         {
           "name": "Lincoln Kienholz",
           "pct": 2,
           "tracked": false
-        },
-        {
-          "name": "Dante Moore",
-          "pct": 1,
-          "tracked": true
         }
       ],
       "field_pct": 0,
@@ -1949,7 +1949,7 @@
         },
         {
           "name": "Tennessee",
-          "pct": 14,
+          "pct": 15,
           "tracked": false
         },
         {
@@ -1983,7 +1983,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 7,
+      "field_pct": 6,
       "field_count": 24
     },
     {
@@ -1993,27 +1993,27 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 42,
+          "pct": 37,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 24,
-          "tracked": true
-        },
-        {
-          "name": "Trinidad Chambliss",
-          "pct": 15,
+          "pct": 22,
           "tracked": true
         },
         {
           "name": "Malachi Toney",
-          "pct": 6,
+          "pct": 16,
           "tracked": false
         },
         {
+          "name": "Trinidad Chambliss",
+          "pct": 12,
+          "tracked": true
+        },
+        {
           "name": "CJ Carr",
-          "pct": 5,
+          "pct": 4,
           "tracked": true
         },
         {
@@ -2032,7 +2032,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 1,
       "field_count": 41
     }
   ],
