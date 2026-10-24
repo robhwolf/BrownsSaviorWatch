@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T17:42:29.414416+00:00",
+  "updated_at": "2026-10-24T19:57:09.690047+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -285,16 +285,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858495",
-        "week": 8,
-        "opponent": "Illinois",
-        "opponent_id": 356,
-        "home_away": "at",
-        "kickoff": "2026-10-24T19:00:00.000Z",
-        "tbd": false,
+        "event_id": "401858505",
+        "week": 9,
+        "opponent": "Northwestern",
+        "opponent_id": 77,
+        "home_away": "vs",
+        "kickoff": "2026-10-31T04:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Illinois"
+        "label": "vs Northwestern"
       },
       "log": [
         {
@@ -596,10 +596,23 @@
         "kickoff": "2026-10-24T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Pittsburgh"
+        "state": "final",
+        "result": "W",
+        "score": "52-23",
+        "label": "W 52-23 vs Pittsburgh"
       },
-      "game": null,
+      "game": {
+        "cmp": 31,
+        "att": 37,
+        "pass_yds": 387,
+        "pass_td": 4,
+        "int": 0,
+        "rush_att": 5,
+        "rush_yds": -12,
+        "rush_td": 0,
+        "comp_pct": 83.8,
+        "ypa": 10.5
+      },
       "next_game": {
         "event_id": "401858282",
         "week": 9,
@@ -726,24 +739,43 @@
           "result": "W",
           "score": "43-35",
           "date": "2026-10-17T23:00:00.000Z"
+        },
+        {
+          "cmp": 31,
+          "att": 37,
+          "pass_yds": 387,
+          "pass_td": 4,
+          "int": 0,
+          "rush_att": 5,
+          "rush_yds": -12,
+          "rush_td": 0,
+          "comp_pct": 83.8,
+          "ypa": 10.5,
+          "event_id": "401858274",
+          "week": 8,
+          "opponent": "Pittsburgh",
+          "home_away": "vs",
+          "result": "W",
+          "score": "52-23",
+          "date": "2026-10-24T16:00:00.000Z"
         }
       ],
       "season": {
-        "games": 6,
-        "record": "6-0",
-        "cmp": 135,
-        "att": 167,
-        "comp_pct": 80.8,
-        "pass_yds": 1775,
+        "games": 7,
+        "record": "7-0",
+        "cmp": 166,
+        "att": 204,
+        "comp_pct": 81.4,
+        "pass_yds": 2162,
         "ypa": 10.6,
-        "pass_td": 18,
+        "pass_td": 22,
         "int": 1,
-        "td_int": "18-1",
-        "rush_yds": 85,
+        "td_int": "22-1",
+        "rush_yds": 73,
         "rush_td": 2,
-        "total_td": 20,
-        "ypg": 296,
-        "rating": 204.5,
+        "total_td": 24,
+        "ypg": 309,
+        "rating": 205.0,
         "epa_per_play": null
       }
     },
@@ -1300,10 +1332,23 @@
         "kickoff": "2026-10-24T16:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Auburn"
+        "state": "final",
+        "result": "W",
+        "score": "38-17",
+        "label": "W 38-17 at Auburn"
       },
-      "game": null,
+      "game": {
+        "cmp": 32,
+        "att": 45,
+        "pass_yds": 387,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 8,
+        "rush_yds": 54,
+        "rush_td": 1,
+        "comp_pct": 71.1,
+        "ypa": 8.6
+      },
       "next_game": {
         "event_id": "401856740",
         "week": 10,
@@ -1446,24 +1491,43 @@
           "result": "W",
           "score": "31-0",
           "date": "2026-10-17T16:00:00.000Z"
+        },
+        {
+          "cmp": 32,
+          "att": 45,
+          "pass_yds": 387,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 8,
+          "rush_yds": 54,
+          "rush_td": 1,
+          "comp_pct": 71.1,
+          "ypa": 8.6,
+          "event_id": "401856728",
+          "week": 8,
+          "opponent": "Auburn",
+          "home_away": "at",
+          "result": "W",
+          "score": "38-17",
+          "date": "2026-10-24T16:00:00.000Z"
         }
       ],
       "season": {
-        "games": 7,
-        "record": "5-2",
-        "cmp": 148,
-        "att": 211,
-        "comp_pct": 70.1,
-        "pass_yds": 1784,
+        "games": 8,
+        "record": "6-2",
+        "cmp": 180,
+        "att": 256,
+        "comp_pct": 70.3,
+        "pass_yds": 2171,
         "ypa": 8.5,
-        "pass_td": 14,
+        "pass_td": 17,
         "int": 8,
-        "td_int": "14-8",
-        "rush_yds": 270,
-        "rush_td": 7,
-        "total_td": 21,
-        "ypg": 255,
-        "rating": 155.5,
+        "td_int": "17-8",
+        "rush_yds": 324,
+        "rush_td": 8,
+        "total_td": 25,
+        "ypg": 271,
+        "rating": 157.2,
         "epa_per_play": null
       }
     },
@@ -1820,7 +1884,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdHRLb2dETTAyRTl1cTlGUUNxTzBucy02aVJYU2NMSkdERkFvQUZOUDBFeUR0QmJoSjFtS2FEeDFhbzRJaEVDMGlkSzBDZDc5TE1EM3FrdjRpUHFMSmNTcVpFakpzazBNeXZ3T0lOWTBBOWVsM0RFcWpGcE45OHp6NlZpMkxwdGJDVzYxNDU4Y2VLOVJ1c0t3NVZCd3V6bUY5bW1sSl9nYmNsVk9vay12VDBiQXhVM1RvM0VKMzBfdTZFcEVlZFdodQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 18,
+      "age_hours": 20,
       "score": 21
     },
     {
@@ -1829,7 +1893,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXJ0aDBTUVc5cVQ2SE5hbURtN09ZSGNBbkJ5V0c2VHZsNVkzQzlyZ2Q2R3oxaFh2ajNzTkRZWmR6Z2lHSlozV21heVp2ODJJYjQyUTF6ZklpaktUNzlHUWNDa0U0OFlDSGcyYjM0YzltN3BZZ21MVFBidnE1RTU0WFljcEN1UXN1U210UWV4S09KR0R0QTdCME5R?oc=5",
       "player": "Dante Moore",
-      "age_hours": 22,
+      "age_hours": 24,
       "score": 21
     },
     {
@@ -1838,7 +1902,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVUtSGZTRDhoSDVELXNwR3RFNHFZeHZTSW4takhMam5hNkxiaE4zbjkwR3l3S0U5MUgwMUNHa2diOWdmX2x0RkRUUGhyWTBKN3lMZlFfeS1wZGFYZDJiUlNlWXR5aGxjUzhlWVlYMHIyWURCV2tVMVRkbEVwYlFqMTB3RG1Kb2pTZlBzNGhscUcwNlNkYWlxNV94WW1FQUtGMGtrQ0tNRUxCMHJGUDJwX0lPYk54Szg?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 17,
+      "age_hours": 20,
       "score": 21
     },
     {
@@ -1847,7 +1911,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 419,
+      "age_hours": 421,
       "score": 20
     },
     {
@@ -1856,7 +1920,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGprZTFxUXIzc1FTQmUxSWRRZTl0UTE4VWZCNVdtNGVxakRLcDlkdWI2cF9kTENZbWw0MlZHV1RjR1lFQjZPRF92U2YtQzJxeF9nbVJyWDBXMW50NlNIRm9hS0RDNjVpQUpvUXhLdUQtNTByRHBvS1pUM1FmWUpTbmpWUTRDbnA1bTY1dnZ2S0ZqRXBkYWxnOEJabjlENXpCY0VPOHNFeExVaXdmVXJKOGF3?oc=5",
       "player": "Arch Manning",
-      "age_hours": 8,
+      "age_hours": 10,
       "score": 20
     },
     {
@@ -1865,7 +1929,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
       "player": "Dante Moore",
-      "age_hours": 75,
+      "age_hours": 78,
       "score": 19
     },
     {
@@ -1874,7 +1938,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUhNdDhlOVg2ZkRvYmgydkpyZUxSV2ZrTUQ3ZjlGWEZrbGNPbWY3eUdDNUhwZ3NTNThfdkQ1UGc0NVAwN0Q3S281ZlZVcXVkRU5zT0VYRllRT05idGlyczVLU2txS0Q5dTNOaDdEVUtsWVhRSmZrM0hqQnRVa2JJZU1BNVZRRm5MYml2R19iZTFqUEo5SnFCc01rdw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 64,
+      "age_hours": 67,
       "score": 19
     },
     {
@@ -1883,7 +1947,7 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYl9Pa0QzVzFzU3VyMDNwSUd5c0FuZVlIU21Xb3JNMnBBM0ZXV25mUDJuNU9xcjFidFFxRUhHYk04NnNkaXRFclNvMll1NmwybmFlb1hUclN4MThWcTh2OG1Ia0xJVzFmbkdoNzhFbTZUYjJmaW1tdEJnVU1nUkVTRXBUNWFkQ3RWUGVfS2k1Z0J0TElZTEtCSVBIVVI1dHVnTkpHbXp2eDd4NHFGQWJuQmFEcFNqd1UtSlM4LTZaVnJyRGROR21PZdIByAFBVV95cUxOLVFsRjJPRXp1cUNwVk9wc3U3cUhCMkJBeUhXTXdJTUpiZV9wLW5zUlloLUc4TkZuamxlN1l5X2JEd3NBWHdRMHRiWmxldHBONERMbHQxR01MU3BfXzM3WjJhX3ZzN0ptaHQzMTVJZkRPTGExU1pFMnFsNjdMTGhUcmpGTHpJb0VWbk8zdWVMaDFRbFpXOTBpRWVUS3I5NFlIV0ZuOWg1R2JrNENKaDZVVFo3TENnQ01Fc09PeG9PSUg1QzJJTldWZA?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 1,
+      "age_hours": 4,
       "score": 18
     }
   ],
@@ -1895,7 +1959,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 33,
+          "pct": 32,
           "tracked": false
         },
         {
@@ -1909,13 +1973,13 @@
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 10,
+          "name": "Trinidad Chambliss",
+          "pct": 9,
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 9,
+          "name": "Arch Manning",
+          "pct": 7,
           "tracked": true
         },
         {
@@ -1993,7 +2057,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 37,
+          "pct": 32,
           "tracked": false
         },
         {
@@ -2003,12 +2067,12 @@
         },
         {
           "name": "Malachi Toney",
-          "pct": 16,
+          "pct": 17,
           "tracked": false
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 12,
+          "pct": 13,
           "tracked": true
         },
         {
@@ -2017,22 +2081,22 @@
           "tracked": true
         },
         {
+          "name": "Bear Bachmeier",
+          "pct": 3,
+          "tracked": false
+        },
+        {
           "name": "Jesse Legree",
-          "pct": 4,
+          "pct": 3,
           "tracked": false
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 2,
-          "tracked": false
-        },
-        {
-          "name": "Drew Mestemaker",
-          "pct": 2,
+          "name": "Julian Sayin",
+          "pct": 1,
           "tracked": true
         }
       ],
-      "field_pct": 1,
+      "field_pct": 5,
       "field_count": 41
     }
   ],
