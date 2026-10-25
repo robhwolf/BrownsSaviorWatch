@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T17:23:59.848471+00:00",
+  "updated_at": "2026-10-25T22:17:32.930786+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2034,7 +2034,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUnZPei1fV3dnYXBzOWE3M0ticFNnYk9OeHVQSmdRMXpCakk0TVpPU3pCWkRzXzhDWGlmSkllQTViN1hmajBxYVlfN2lJNlJyaHNGNVQzdU1LMGRsZTRsd2ZYallCN0djalI4TjJ5V2xBZWMzeTB5RDlzX3dkMXozZW9VdUNtdDVWdnVQdC0ySHgtbFYtUktvTVd3?oc=5",
       "player": "Arch Manning",
-      "age_hours": 8,
+      "age_hours": 13,
       "score": 22
     },
     {
@@ -2043,17 +2043,26 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 442,
+      "age_hours": 447,
       "score": 20
     },
     {
-      "headline": "Darian Mensah Delivers Heisman-Worthy Performance Against Pitt",
+      "headline": "Heisman Odds Week 9: Malachi Toney Surges Into Top 3 as Jeremiah Smith Slips",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVdxRlljWXlBQTNDMzh1a21YcUZHQng5RkFrMUk2dW41VHVpQWZHeHc5TDhJLUhCeGpETWxIdmhDUk0tWHRqSUxaRVhucFZ0SlR0OGlZSG9UQU13RVYwNG05bmpkMkRaTzdWT0RtTUJpdzlRblk3ZjFHc2ttTTNHUVBxWDJuYm0wRGtENmJnNGo3QWhHSnpEVTdweFZBSEc0d2FQTUthWQ?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 21,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdXg4SkozWUNrVEllZ3VTbTdRbktEVkhXUlB1T0ZPaTA0MVoxUTZDOXdFcGhmTlRoeDRtaHlvYWtBcWRFR01jOUVWQ0FIa0ZpOHA2MWE5ci1sTFdwUDhLMXZFLVh1TXF0ZGZpUDBJWmZkRFZBRXV0WWRXSzFIRzJXc21FNnF6WC1qRFRVbzQ0azFRSGxXOExVN2t4bEs1eEM2c0htTG81NGNOMEpuSG5xZFdweWhIRHU4ODNyM0ZBa3BEcmI1M0dZNzdMeTdzem5xTDRJa1FhLXJpNng2Skpfalln?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 9,
       "score": 18
+    },
+    {
+      "headline": "Oregon\u2019s fall from No. 2 to out of Playoff race all but complete with loss at Illinois",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMEd6czZnaXd0dXdNbVdERUpSZGtEbGpkNWxUNXBWdVhlbmVFYzU4QjhnX1RkbWRFNHUwQklRMG1vN3ZFTUUyX0I3ZDlJZ256cHJicVB1QU1zNDhtRzdSQjRVcnlyZGx5N1VJZHVfODY4UVFnNGdja0p1NXVPaE92OTdPVC1PZnFmMlZNdmNVNmw5aVYtdUE?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 23,
+      "score": 17
     },
     {
       "headline": "Oregon Ducks Injury Report Reveals Four Receivers Out vs. Illinois",
@@ -2061,25 +2070,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdHRLb2dETTAyRTl1cTlGUUNxTzBucy02aVJYU2NMSkdERkFvQUZOUDBFeUR0QmJoSjFtS2FEeDFhbzRJaEVDMGlkSzBDZDc5TE1EM3FrdjRpUHFMSmNTcVpFakpzazBNeXZ3T0lOWTBBOWVsM0RFcWpGcE45OHp6NlZpMkxwdGJDVzYxNDU4Y2VLOVJ1c0t3NVZCd3V6bUY5bW1sSl9nYmNsVk9vay12VDBiQXhVM1RvM0VKMzBfdTZFcEVlZFdodQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 41,
-      "score": 17
-    },
-    {
-      "headline": "Oregon Ducks' Injury Report vs. Illinois Reveals Lengthy List",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHl4T3dyaHpGOXp4NlVPcGl4WjRqUzN2T19sR3liNGRTZEpUU3FVc19KQ0d2VEVjaGc1OVFaNlV3N3RWcFhqR2RhQmE2WkpEYnlqUjBFNzVMNUFrY0gtMy14WXBjRDUwLWpydThUSzQ4b3loRWFkdU8xNEJXZ1FwSkJEcHBJXzdsRnlJODRXRmZqZ3ZBeC1XTWtZWVVGN3FqeUhOZ1hfTGpUUldCTkFwcUtxS0NYRUE?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 65,
-      "score": 17
-    },
-    {
-      "headline": "College Football Week 8 Injury Report: Julian Sayin, Dante Moore, Other Major Updates",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXJ0aDBTUVc5cVQ2SE5hbURtN09ZSGNBbkJ5V0c2VHZsNVkzQzlyZ2Q2R3oxaFh2ajNzTkRZWmR6Z2lHSlozV21heVp2ODJJYjQyUTF6ZklpaktUNzlHUWNDa0U0OFlDSGcyYjM0YzltN3BZZ21MVFBidnE1RTU0WFljcEN1UXN1U210UWV4S09KR0R0QTdCME5R?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 45,
+      "age_hours": 46,
       "score": 17
     },
     {
@@ -2088,16 +2079,25 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1o2ODJTUzh6VFpWeThHMmIwanVtZDJMYXJNeGhUSXp1MW0xaHRleVlJSnExNWx4Q2J3djV1S2NCcU83RDFGV01EdHNwZWhlZXpMMlpPTVE1RUtiMUJBUTlJVUFtQzRMUVN1aEpfNmppdE9ydy13NXk4MjZyUF9Lb1VLaXlHeVFWeC1Va3Jn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 562,
+      "age_hours": 567,
       "score": 17
     },
     {
-      "headline": "Malachi Toney, Darian Mensah dominate as No. 1 Miami routs Pitt",
+      "headline": "Oklahoma State 57-24 Colorado (Oct 24, 2026) Game Recap",
       "source": "ESPN",
       "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzByY0lUWEJNMGgwcmo5VkRZaEJMWGNIZDRlMTgzSER6bHp0Q0FOcXd5MlNTMDdtREZCUGtmOVVUeHEyQTctM2pXNUdSS0tIQjlVYzNtSGU1Qnd4ZnR4NXR3Zk84U1JRakZHS3FLeWlZLTBadlRqenhKdTBlZUFQOEYyY3RqTzZtU0dEMDc5M1BjSlFZWENHc1BsSFJYdm1vX2ZHUUE4OE9yMXpkQkRmUzJn?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 21,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Yc3gyOEV3NElYU1pFb21HLXlHVENGRnRTMlNDOWhCZ2lIeDVlakw5LTJWWm1DSk5SbFQwMjVmVmtVNDlDVGloV3lSOWVIbnJrQmZtaTNRcDFMc29zeVhua1ZKRElQcWl2SUNqY2JBQQ?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 18,
+      "score": 17
+    },
+    {
+      "headline": "Steve Sarkisian lauds 'edgy' Arch Manning after Texas holds off Ole Miss",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRE1iMTRPbUJEc0JGYk9IYnhMZlBaQUtvVkhMejlEcVVsT01oYW9LelM5MkJPbnN3NHF5Mkw3YVN4eGVmNzlQQTBuNkp5cWJzb2N4cWtqS2NSN3hNQlcyd1FLUkZxbWg1Vi1KT0h3MDVTR0Y0U0MwUHUzRmdibUVYSUYzOC0xUGw5YWFhbTJfQkFxVzJxT0R3Y1RCTFM3UXZmYlJ0WTd2Y3QwM21fZ21R?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 17,
       "score": 17
     }
   ],
@@ -2109,12 +2109,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 42,
+          "pct": 40,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 32,
+          "pct": 30,
           "tracked": false
         },
         {
@@ -2157,18 +2157,18 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
+          "name": "Los Angeles C",
+          "pct": 40,
+          "tracked": false
+        },
+        {
           "name": "Miami",
-          "pct": 46,
+          "pct": 35,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 15,
-          "tracked": false
-        },
-        {
-          "name": "Los Angeles C",
-          "pct": 9,
+          "pct": 29,
           "tracked": false
         },
         {
@@ -2197,7 +2197,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 10,
+      "field_pct": 0,
       "field_count": 24
     },
     {
@@ -2207,7 +2207,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 45,
+          "pct": 40,
+          "tracked": false
+        },
+        {
+          "name": "Malachi Toney",
+          "pct": 21,
           "tracked": false
         },
         {
@@ -2216,13 +2221,8 @@
           "tracked": true
         },
         {
-          "name": "Malachi Toney",
-          "pct": 18,
-          "tracked": false
-        },
-        {
           "name": "CJ Carr",
-          "pct": 5,
+          "pct": 4,
           "tracked": true
         },
         {
@@ -2231,22 +2231,22 @@
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
+          "name": "Jesse Legree",
           "pct": 3,
-          "tracked": true
+          "tracked": false
         },
         {
-          "name": "Jesse Legree",
+          "name": "Gunner Stockton",
           "pct": 2,
           "tracked": false
         },
         {
-          "name": "Julian Sayin",
-          "pct": 1,
+          "name": "Drew Mestemaker",
+          "pct": 2,
           "tracked": true
         }
       ],
-      "field_pct": 4,
+      "field_pct": 6,
       "field_count": 41
     }
   ],
