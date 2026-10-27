@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T03:51:53.158318+00:00",
+  "updated_at": "2026-10-27T17:31:39.060607+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1437,8 +1437,8 @@
         "opponent": "Alabama",
         "opponent_id": 333,
         "home_away": "vs",
-        "kickoff": "2026-11-07T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-07T20:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs Alabama"
@@ -2029,76 +2029,76 @@
   ],
   "news": [
     {
+      "headline": "Oregon QB Dante Moore likely out for rest of season following concussion",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2YxUlhaQjlpVHBrQ2UxZ3NCbThqVlhUZ1MwVDFtQTB0TFFnbFVXckZlRVNLZXJJVDA5NmJEUWw5WDgzai1xTWhVcGVnb3FmaGQ3UGZmX2E5TDhCNWtQN0lkUnpYTF83SExyTUhoWmQwSlhiTGhZelhSUDFsbzJMZDhCVEpTdFR4TXRTZjdNWU1qT19yMjBrZkF6bWJYdlV1Q2c?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 14,
+      "score": 29
+    },
+    {
+      "headline": "What's next for Dante Moore? Oregon QB's injury leaves 2027 NFL Draft, transfer options in play",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
+      "score": 26
+    },
+    {
+      "headline": "Oregon star QB and top NFL Draft prospect Dante Moore ruled out for remainder of season after brutal concussion",
+      "source": "The Sun",
+      "domain": "the-sun.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVEWktsOEJGcERXN01yVk9ITGhwdE83Q2NqN2ZRY2FzZkpwMWctZ0lsNEhrbUVLdHBuenYxVFVwakpTMDFwTjA5SkRuNWZVa0JMZzRVa3RsZmhHMTBZTTlXNG42eVRac0dNaEh5MUlUelFJVmZ3RWp5VkN3MlIwdGp3dThfUFNibzFBajhzdUt1WlRRM195Uw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 4,
+      "score": 26
+    },
+    {
       "headline": "Oregon QB Dante Moore (concussion) not expected to return this season",
       "source": "ESPN",
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVF3ellReGRtazJyZllZNXRwcDBlQmVFZFF2blVDMU9kUDRMSG1RR2xFTWgydjRLZlR5ZlY1LTFGcUNZZC01OG5ndVk3Y0tzcF9zWW1IX3d4dGhPNnlqbnU2TkNjb1M5TlJackRya2J5a1p6ekZrRVViX0U1czI3UGRwd3NoeEtGRlZPR0ZyNTBnWmlQemljS2IwU20tbmVyRC03cEk4aTlhV1dMNXFTREFn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1,
+      "age_hours": 15,
       "score": 23
     },
     {
-      "headline": "Oregon QB Dante Moore out for remainder of 2026 season",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVFOcGdwMUlxekVXdXEwSTN6YWFZdFptLW9FcnFETjdqaWpiM0pQaDhsaENKMHY3VXVsekdVcFZveHpYYzVoMUdWMDMwMlAyWHd4b1VjdWdnY1RYZmZGT2dyblhsbGVYZmF3TWlHdTQ4TTdqM2FxdXpoN0FlM3pTSlNRS0cyTXc?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 2,
-      "score": 21
-    },
-    {
-      "headline": "Oregon quarterback Dante Moore is out for season after concussion, coach Dan Lanning says",
-      "source": "KATU",
-      "domain": "katu.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXBDckVhOGR3SG5SNFlpLUZwSGJROS1GVzc4SUh5ZnJ5R0JaZlZBcUlzY0IyWnlMZlNud1h3d3c1Z0NZc2dmY3dtZXU0NHE4d2RzOGY0VWhBZTBBeUhxNWphXzRGT3gwRkM2SXhERDFET1lvZGJ3SlZobnlHYXB3Y29OLWVGSXF3NXNSY1lFdko1SWNRbERXZGVqdnZjeTRLQzhaSXdWYWs0UlE1N051UHgzcWptOUJTcVZGQWxyU2tfZw?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 1,
-      "score": 21
-    },
-    {
-      "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 477,
-      "score": 20
-    },
-    {
-      "headline": "Heisman Trophy odds: Can Darian Mensah and Malachi Toney catch Jeremiah Smith?",
+      "headline": "Who are the 2027 NFL Draft\u2019s top 5 prospects by position?",
       "source": "The New York Times",
       "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUlQM2gzdXlTUW5SMS1JdzBETnQ1VVJSZVFyM1ZpcmhXeDVCVjJEVm5Qd2tMMllVUExBR2RhRXl6dGowdFlOZ2dabWlHTmYtV21DNkxLamp1QkQyY3pLSE9lZUZjeDhfQ25LY3dFNzZhNWN1Rk9hd1dJY1NicHpKQlBOVDZoX05PdnFlMi1Edm1qUkhNVVFnUzBTTy1WTXkwR1BjdkNwc0hNQQ?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 14,
-      "score": 20
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2R2RlgzcWVyZklhZW95OVpjUkxhSWFaYngwODBjLW0tXzRrdmN2dVg5bHZCdGgwb3VhVmVXazFVbm0tNldIc2drYmd1RllleENFVEkteDY4Q1Bpa0xCdTk0cnZJYUFoVEZzcEN0ZTNNZEo0S1QxUlAwQjZQX1Mzd01xTks5Rk1WbktUTEF3MA?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 8,
+      "score": 22
     },
     {
-      "headline": "Trevor Goosby injury: Texas football loses star OL for season at worst possible time",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzZjMDlCeU1KUmpab1l1aGV3a1NNdDVCTEszWGZPOTQ1OEFYRnI1OHVhLXJHVzF6SEN0WTZubjZ4YzdrVzJXZFJwcjBlUXFXYlhZY2lWMkVQalZ6bGEzdC1QdzNFV01STF9hdGNGZ0k4Q0hIbHQzQ0M4UlBTVFpzYnVHaVpFeFhGdVNuX1lpZHU3aGF3bEd4Qm1zMk90Tl9mOWhuSGxUZGVfTWdG?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 13,
-      "score": 19
+      "headline": "Oregon Coach Dan Lanning Pushes Back on Dante Moore Injury Narrative",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzRla21vVWRUbHhCNUlFbDVKM3dqSXNxZXNMcU05cWFORmlnUXhET21PR0FlRkxQZEFwR0JHUDBQWjNscGwyNU9aSXR3Q3RTN085TWZLVTQ4QnM3MU5ZWFh3X0NOaGM5VHdOaVl0RkZIZ2o0alBwVlBfZXhPdWJOOXltOGdUWjRIWFU5NDZMdzlxSzBpQTFXNW5ueC1RcUFLcmhiY2N4QlNGeUp2?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
+      "score": 21
     },
     {
-      "headline": "Heisman Trophy 2026 predictions: Malachi Toney challenging Jeremiah Smith, Trinidad Chambliss falls after loss",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdXFGbzJMUWMyVlRTNmt2U3V1ejBhVDYxX3RBdXh5SXlCVjd2d0VQYWwxT2FYWkRaaWlzaXE2RDY5ZnV4MkRYcG9IZVE3cGJoRE0wZXRfLVg5SjFvaXZYcG5QSXhVa3JLWTNvZWdqMHpleTFNeGhLSnZvbmRJeXNZMGlDRFpCajR1TllLSUd3clgzZklnSUdobkRvaWpoRXVOQXk0NFM2OFFCZlR4SE45azlINHU1eDFTRDNoTWx6Q3pYb0hnX21jVEhTQzg0R3lHbjRoS2RUVFp4ajhCSE82M19TeU85Zw?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 12,
-      "score": 18
+      "headline": "Dante Moore Injury Update Leaves Oregon Facing Uncertain Quarterback Future",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ3lnUkhWYjBaUTAxX1VkVkhkajFYVXl6WlZqV3BSZmhRM25vLVl0T0JtaTRTTFdyZGNTWTBWY25PSlVHbWFmaDRLc2labE13azc0SE1pRDliWkg2bnRYOTU5UTktSVhyWXJ6czkxanlZWEdwS2RCandlaTU1SkR3a0JsTzNzWVctZWJfdGJmMU9obzdrb2N3NVNHcFFjYmRWaUhfWmJkTE9EWS1laE1n?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 16,
+      "score": 21
     },
     {
-      "headline": "Who is Miami's true Heisman frontrunner? Making the case for Darian Mensah and Malachi Toney",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMm9HVFM4SkFCZTItSDgxN1lfa1lvdVhnMEljaUZVVzBRRDJmNXM4R0dWOFVaakMwdzlzMzF0QkNqLW5taVFaTWNVOTJKYlhUZGxVeU4tdVpmdl92ZUx1dlNyc242OGx0UlF5M2FEZnQ2eUp5bHJLYmVFbFZ5WDNHYTFUdHJLOEFDZVdzSEtfNjJSeWZq?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 10,
-      "score": 18
+      "headline": "Oregon's Dante Moore out for the remainder of the season",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHV5RG8zM3pZY2FLejBGYzhkdzZoTElqVXdqOUlUclowY1pGdjJwU3JCRVJGQ0FfWksxUDR2YXFTZWc4S1k0ME5XQ3A1el85S3R0NldrTmg0WDVhcVRwWXFiSkZheVhzbGhnc3Ewc1Q0SjFzU3RzV0RDTjlfYmNqMm5IODZITHlXY1VjNVh3?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 4,
+      "score": 21
     }
   ],
   "kalshi": [
@@ -2109,7 +2109,7 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 42,
+          "pct": 43,
           "tracked": true
         },
         {
@@ -2128,24 +2128,24 @@
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 7,
-          "tracked": true
-        },
-        {
           "name": "Darian Mensah",
           "pct": 7,
           "tracked": true
         },
         {
-          "name": "LaNorris Sellers",
+          "name": "Arch Manning",
           "pct": 6,
-          "tracked": false
+          "tracked": true
         },
         {
-          "name": "Dante Moore",
+          "name": "Julian Sayin",
           "pct": 2,
           "tracked": true
+        },
+        {
+          "name": "Lincoln Kienholz",
+          "pct": 2,
+          "tracked": false
         }
       ],
       "field_pct": 0,
@@ -2158,22 +2158,22 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 32,
+          "pct": 33,
           "tracked": false
         },
         {
           "name": "Los Angeles C",
-          "pct": 27,
-          "tracked": false
-        },
-        {
-          "name": "Tennessee",
-          "pct": 26,
+          "pct": 17,
           "tracked": false
         },
         {
           "name": "New York J",
           "pct": 9,
+          "tracked": false
+        },
+        {
+          "name": "Tennessee",
+          "pct": 7,
           "tracked": false
         },
         {
@@ -2197,7 +2197,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 22,
       "field_count": 24
     },
     {
@@ -2217,7 +2217,7 @@
         },
         {
           "name": "Malachi Toney",
-          "pct": 19,
+          "pct": 21,
           "tracked": false
         },
         {
@@ -2231,22 +2231,22 @@
           "tracked": true
         },
         {
+          "name": "Jesse Legree",
+          "pct": 3,
+          "tracked": false
+        },
+        {
+          "name": "Gunner Stockton",
+          "pct": 2,
+          "tracked": false
+        },
+        {
           "name": "Drew Mestemaker",
           "pct": 2,
           "tracked": true
-        },
-        {
-          "name": "Sam Leavitt",
-          "pct": 2,
-          "tracked": true
-        },
-        {
-          "name": "Jesse Legree",
-          "pct": 2,
-          "tracked": false
         }
       ],
-      "field_pct": 4,
+      "field_pct": 1,
       "field_count": 41
     }
   ],
