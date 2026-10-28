@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T17:55:24.058269+00:00",
+  "updated_at": "2026-10-28T22:15:29.084859+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -306,18 +306,16 @@
         "color": "#007030"
       },
       "status": {
-        "event_id": "401858495",
-        "week": 8,
-        "opponent": "Illinois",
-        "opponent_id": 356,
-        "home_away": "at",
-        "kickoff": "2026-10-24T19:00:00.000Z",
+        "event_id": "401858505",
+        "week": 9,
+        "opponent": "Northwestern",
+        "opponent_id": 77,
+        "home_away": "vs",
+        "kickoff": "2026-10-31T19:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "L",
-        "score": "10-21",
-        "label": "L 10-21 at Illinois"
+        "state": "scheduled",
+        "label": "vs Northwestern"
       },
       "game": null,
       "next_game": {
@@ -2022,8 +2020,17 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2YxUlhaQjlpVHBrQ2UxZ3NCbThqVlhUZ1MwVDFtQTB0TFFnbFVXckZlRVNLZXJJVDA5NmJEUWw5WDgzai1xTWhVcGVnb3FmaGQ3UGZmX2E5TDhCNWtQN0lkUnpYTF83SExyTUhoWmQwSlhiTGhZelhSUDFsbzJMZDhCVEpTdFR4TXRTZjdNWU1qT19yMjBrZkF6bWJYdlV1Q2c?oc=5",
       "player": "Dante Moore",
-      "age_hours": 38,
+      "age_hours": 42,
       "score": 25
+    },
+    {
+      "headline": "Ryan Day updates on Ohio State's injuries after off weekend, including Austin Siereveld's potential return",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXZHeUhobGRiTW1wZ0xQUU5lRTZrQnNPdWJKM2ZwOGV1MnhnX0R4RzFPQXlub25RVWJqWC1WZ2VyUEp3US1ROFNLY1ROMEQyaXo0MEkwQm5ZWlpYZVNxeGJUMzFkOWJyTWoyTmowQWNpeEpobl9nQUxWTWRrQlJIMW16X0JNTFNmdmRGSGxfV2wzb0hmT01fUXhJYVdtRGQ0bW9OU1BadWt3SUhMT3NQUlB5YVJWdDBvN3VadGlrTjNkY0lpU0xyRmxFM29kWmFmN0ptOUlBYzJsWEF3NnY3MUhySFQzc1JsVFpFcnFTUk5aNjJzaVFPUlRPck1YQ3Ra?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 21,
+      "score": 21
     },
     {
       "headline": "Texas Football Practice Report: Arch Manning, Michael Terry and Key Injury Updates",
@@ -2031,26 +2038,8 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON3paTmpaNkYydEtJN2xLVF9VNWRQZExzWUVHNzl0dWE1bUtVamhBMFBuVlhRNUdlVlh0cExJX3d0cG5fbTdFR1l0d2RtZ0kxMGEtdmRJeldESkJpaHZHZndVNjQyclg1b2cwVG43dTFrSng5Sm84WnBINDRWUXRyWmJfTUdOTkZFREstOHNGRno0TXptSDQwWXU3cENmZE4yeTRCY2RrTzEwREFMX1R5aXgxcXVvTnpHY3phS2hkejNYVkpuRjNv?oc=5",
       "player": "Arch Manning",
-      "age_hours": 4,
+      "age_hours": 8,
       "score": 21
-    },
-    {
-      "headline": "ESPN analyst sees Oregon QB Dante Moore as 'no doubt' first-round NFL Draft pick",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ05uU1pyN2FEUXBIREhpU1ViTlVycGItVDlGT1BhMUdSazV0X29XVzh6TXhpUlVxQ0hkaV9ELVYwRzJkbjk0UGhyVlczbm9BenF0bTctdVZtT2dtNVFzRV9UNkwyRW1kVHlMVGFFM0ZCR3lsUDdtalFPVUxjZEIwOVp2U2JYME9PMFI3TlRhUVRXVlJnM2U5ZkpVVTJmY2ZZSXFZUlpjazZNUG50S2ViRkZJX3lYTjdV?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 2,
-      "score": 20
-    },
-    {
-      "headline": "New NFL Draft Rumors Update Buzz on C.J. Carr, Mensah, Mestemaker Amid Sayin, Dante Moore Injuries",
-      "source": "Bleacher Report",
-      "domain": "bleacherreport.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV0JRTC1WTE5zU0czbmdnNGpkQUpRcXk2Q3pnSDdfTElwWGI2ejl4WWtyaXlOa1pkR1FlaVZIbGpraExyNWVoX3FGa0QtRmRibUF4YjRDUUFWLXd3b0VMdXJRU0hEX1NYU2lVWU40NGdCc3cwYkYxUWJBSURDdWZFeG9uS24wOHBGeUs2dDRmWHNCQ2Q0S1FMOFFycl9rY2p5dEpUajBSUmg1eGlRby05dTM2a002bDV3SEFGYmZfbFB1QlhoazBsSFdHTy1nejdX?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 20,
-      "score": 20
     },
     {
       "headline": "Grading Top QB Prospects in the 2027 NFL Draft After Week 8: Drew Mestemaker Keeps Rising",
@@ -2058,7 +2047,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVYzbDNaMTZMV0dOZnFsT2JZRFAtMG1oV01QNUNKN0NXM2JYZ1ByMWh6UzV1ajNJeDFNNlpVMXpuTUZIUy1MckltbS1LUUozMjNpYmJUcXNyRmxxdEF0ak9TMGhLR0s1SHRkSTJOLUxmcXpGNEJ3UThybGV5SXR1R1NBTVZnTkdGMUhieXpzVDhmQ013NDlRVUhBQzlQelVHc1FzZERFbHdKSlM0TkF4MTBUYkxfdUdrcE1sNGNucWY5aGJjUEE?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 8,
+      "age_hours": 12,
       "score": 20
     },
     {
@@ -2067,7 +2056,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVF3ellReGRtazJyZllZNXRwcDBlQmVFZFF2blVDMU9kUDRMSG1RR2xFTWgydjRLZlR5ZlY1LTFGcUNZZC01OG5ndVk3Y0tzcF9zWW1IX3d4dGhPNnlqbnU2TkNjb1M5TlJackRya2J5a1p6ekZrRVViX0U1czI3UGRwd3NoeEtGRlZPR0ZyNTBnWmlQemljS2IwU20tbmVyRC03cEk4aTlhV1dMNXFTREFn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 39,
+      "age_hours": 43,
       "score": 19
     },
     {
@@ -2076,8 +2065,17 @@
       "domain": "marca.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnVlQ0xOUmMwR19ScnA1ekZNTy1yMHNNOW5TVVBnb083NDZUYTNjNVZETnVscE12bm9RR2hHWFpBLW42UHQwZU5faGFHYnB1NXRrSzhES3EwMkJrcEI5ZlFyeEFLZTMyZzRqejlqbjRHWk84SUl0T3k0U2JPWVZQeVR5Nm1vQUx4MjJDa3MyTzQ4Nlh4U0t1M2RjVGJFY1I0RUozcGY4UjlHeVlnemdBNlI0WDE5cXFjamJ4Yy1YQnpTeXhXUnRIUHNFUEZja0JGX3UwU1JNTmlBT2R1UG5n0gHfAUFVX3lxTFBtZW16WXN0c1B6NmVTWlRCQ2VtMUlEVVAxdWhfZW1XQmx6cWljZ3ZZUDRYLW1uMW9iRk91VngtMU1lVFRDT3RoNERCWGhsM0Y0SDZjRThxcU1scFZxRjN0dVdDOXFVUFVXX0ZGOTZHc1NwWXdBbmotaFFVbkJsUHM2N3NmU3RVaWVGeFY1STRoNDZBclhlRzFFMzRFTHZHM1ZrOHprNDJaZWlMTkFELXQ1WXpOcGVGbzRRSTA5SUhheWM5bzk0WXVwaGU4c0tqZ2pTbTFweVlNcUo2TXk5NkU?oc=5",
       "player": "Arch Manning",
-      "age_hours": 3,
+      "age_hours": 8,
       "score": 19
+    },
+    {
+      "headline": "Heisman Favorites? Darian Mensah and Malachi Toney Highlight Why The Other Should Win",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWklaNmZHcThIRnJPTGZOVUlYVzFZT1dWNDc2bzg3bGFRNEp2ZjMtZERzQ1pWZ1lUb192Vl9yRkRTZzk0V3AyQ1RmcmVZQUtwcTdmQk5FVVFLRzMta3h3amhJRHhTN2xuMTZrd0tHbno5Rmw2TzJEQW1yZmZKcXV2U20xWmhSalBhQmoyYlFlSmVueEFLTmQxSEZhSnBhNWZCQXhmODFNbWlSbG9fd2NOTnY4QUVfR0dCazRFTHhjZDk0MjZk?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 4,
+      "score": 18
     },
     {
       "headline": "Who are the 2027 NFL Draft\u2019s top 5 prospects by position?",
@@ -2085,7 +2083,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2R2RlgzcWVyZklhZW95OVpjUkxhSWFaYngwODBjLW0tXzRrdmN2dVg5bHZCdGgwb3VhVmVXazFVbm0tNldIc2drYmd1RllleENFVEkteDY4Q1Bpa0xCdTk0cnZJYUFoVEZzcEN0ZTNNZEo0S1QxUlAwQjZQX1Mzd01xTks5Rk1WbktUTEF3MA?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 32,
+      "age_hours": 36,
       "score": 18
     }
   ],
@@ -2097,12 +2095,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 29,
+          "pct": 30,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 27,
+          "pct": 29,
           "tracked": false
         },
         {
@@ -2112,31 +2110,31 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 6,
+          "pct": 7,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
-          "pct": 5,
+          "pct": 6,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 4,
+          "pct": 5,
           "tracked": true
+        },
+        {
+          "name": "LaNorris Sellers",
+          "pct": 3,
+          "tracked": false
         },
         {
           "name": "Julian Sayin",
           "pct": 2,
           "tracked": true
-        },
-        {
-          "name": "LaNorris Sellers",
-          "pct": 2,
-          "tracked": false
         }
       ],
-      "field_pct": 14,
+      "field_pct": 7,
       "field_count": 14
     },
     {
@@ -2150,6 +2148,11 @@
           "tracked": false
         },
         {
+          "name": "Tennessee",
+          "pct": 30,
+          "tracked": false
+        },
+        {
           "name": "Los Angeles C",
           "pct": 18,
           "tracked": false
@@ -2157,11 +2160,6 @@
         {
           "name": "New York J",
           "pct": 13,
-          "tracked": false
-        },
-        {
-          "name": "Tennessee",
-          "pct": 9,
           "tracked": false
         },
         {
@@ -2185,7 +2183,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 18,
+      "field_pct": 0,
       "field_count": 24
     },
     {
@@ -2200,7 +2198,7 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 25,
+          "pct": 23,
           "tracked": true
         },
         {
@@ -2210,7 +2208,12 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 6,
+          "pct": 5,
+          "tracked": true
+        },
+        {
+          "name": "Trinidad Chambliss",
+          "pct": 4,
           "tracked": true
         },
         {
@@ -2219,22 +2222,17 @@
           "tracked": false
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 2,
-          "tracked": false
-        },
-        {
-          "name": "Trinidad Chambliss",
+          "name": "Drew Mestemaker",
           "pct": 2,
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
+          "name": "Sam Leavitt",
           "pct": 2,
           "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 1,
       "field_count": 41
     }
   ],
