@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T18:04:00.898481+00:00",
+  "updated_at": "2026-10-30T04:33:58.434023+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1961,21 +1961,39 @@
   ],
   "news": [
     {
+      "headline": "What's next for Dante Moore? Oregon QB's injury leaves 2027 NFL Draft, transfer options in play",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 62,
+      "score": 22
+    },
+    {
       "headline": "Oregon QB Dante Moore likely out for rest of season following concussion",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2YxUlhaQjlpVHBrQ2UxZ3NCbThqVlhUZ1MwVDFtQTB0TFFnbFVXckZlRVNLZXJJVDA5NmJEUWw5WDgzai1xTWhVcGVnb3FmaGQ3UGZmX2E5TDhCNWtQN0lkUnpYTF83SExyTUhoWmQwSlhiTGhZelhSUDFsbzJMZDhCVEpTdFR4TXRTZjdNWU1qT19yMjBrZkF6bWJYdlV1Q2c?oc=5",
       "player": "Dante Moore",
-      "age_hours": 62,
-      "score": 25
+      "age_hours": 73,
+      "score": 22
     },
     {
-      "headline": "Dan Lanning Delivers Unfortunate Oregon Injury Updates Ahead of Northwestern",
+      "headline": "Without Injured QB Julian Sayin, Is Ohio State Really A Top-5 Team?",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2JybW5xekxxQmlMODFKd2RjNmhFQVJQaWcyYjd5Uk9HZTdiUTF5cUtTOG5tNldpaFpvZjU0SDUxNmNxSXVmX1FRUUpBN2NNMnpka1B6czIwYUxWbXVDYXMwb0hvOGwxZ3NIdEZqaGcxT0puZDIwMnhsQm5Vb3F5bWd6SDVVdkVYY1hWV1pFcHk4T2x5QTJRUWZOXzJYQ1Uwc3d5UlpTNkdsMHBwazVhbTFMWllOZHNxRUNj?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 9,
+      "score": 21
+    },
+    {
+      "headline": "Latest Update to USC Trojans Injury Report Before Home Clash vs. Ohio State",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbzNOMmR2XzRpVzZWQmdPVGo4VmJwV1RWNW5hbU1maWRTQ1F2NUpDa0pWVkZyaFJ0eTVhcmFRMVNPWWRnRWdLZFBlOHV2QlE3bVRHZ0tYTnAxTEplWWl5UEJkVmM0cDViajVSdHRIYjVqMFktaUZWb0VLSkJ5T21feGk2VzM4MGoyTWdkWTFZR0ZYaU9vN1hEeGpvSC1jY2d5VDZXa0pjTXNUQk5xWjhmS3F5NHltVk5jWWFKN3BMYS1aV3JsMllnam5RSlJySmdOdDkyaHFGLVFpLWZrVEU3bHFn?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 22,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZVY3VThxaFFmeWhfTGpzQnZoSzVXaXEwNnFtU2ZIaC1pbktnNGNGMVY4aVBIaHZ3QlNfUkRRSlpFcHN1bUN0ZDJXTGNQbVNrWjFMV2xpSzRzTUVnTVk2OTdoZURFSkNzWHN0dTdQZWNMNDJXcHlQQXdTYm1PTTQ1WFA4UktBYXRZVWNZalhXM0JET05KUmh3Z0RtbjBHUTFMNm42dm9WeDNSOUpsTW9Sc0pXRUM?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 4,
       "score": 21
     },
     {
@@ -1984,7 +2002,7 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeV9UWmozcTlmVTVvZHVMd2hVZV9TdllvS2E3eWV2UXloamwxSGlrME9TeG1PN1N1MGRZczdGUlkzY1hCUWZOS0RoUkhlYXVqMXphQjVUSFlwTmkxcDZsRHBnUHRuQW03UXdnVE9tRmkwZXJpMV9WNUZTa0U1eEJxOENIYmF1SENsQmhHT1BRUk5jaDM4Q3VSSGlOWjBicDVxVS1ScVMwQ2VCUGVhMWhnMXA1S0pzdXhCdlFBcFdBSUJ0Y1ZGa3pqcmpGQ2xadHlHV3hNUnVuTVc1MU16VUE?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 6,
+      "age_hours": 16,
       "score": 21
     },
     {
@@ -1993,16 +2011,16 @@
       "domain": "heavy.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1NOaXNlNU43em1ybWpCT2FNUndHUGFpRkxzWjJ3V0t3dE5ZWDFsSTBOOVExS2ZhT3hrMldwRlItY212V0d6NUs5aGE1emtxbnl1V1huOG44ZDZFN0VwcEs2bkVWeUdZRWhLLU8wUzQzbnVqby03ckhKb1Rjd3R4RllJeVdyRU5aX053SERMaG9GaVAtU0pGVXhWc1VqNmZ6Z3VIZHRRNnh1MUJTYUU5M3UtU0I?oc=5",
       "player": "Dante Moore",
-      "age_hours": 3,
+      "age_hours": 13,
       "score": 20
     },
     {
-      "headline": "NFL Draft Analysts Drop Unfiltered Dante Moore Evaluation",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdndlOUNTeXp6UGRuMVZQZzMtYUdIVGhodFoyS01JMk9mS0V4aWJmQ3hUQjhNcnJWd3lzdTJobEJ6QTlSTndjLU9WeFlhSjhnV3pzTjJnMFNtdHJvek1MMnQ4aEh3WHdLX1dPd1hWbFUxSU14eG1nMDhQNWdyVkNoYXVXMW1hRjdWdDJ4RG51d25CVVZwUGpvQk1nUUdEenRCZmpxZzhKWndxV2dnUnYtX1ZXOA?oc=5",
+      "headline": "Bold NFL Draft Projection Emerges for Dante Moore Despite Recent Injury Setback",
+      "source": "Yahoo Sports",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWUZ4dlJ3SjVYTk1MbTNxdEIyeVlFMnZpMTRCNS1VT2JTU2Q2Zk43UTRGWGdYZy00TW1sZldHY2N3Mm9kLUtfcHNsZjN5Y2xrWWpFMExoRy1Nck5TVnczVUdvUXZwalJkTV91cDRzN3NpU1pwcUJRcUtDSjdKVkR0c1Bqa21PdXRETXc?oc=5",
       "player": "Dante Moore",
-      "age_hours": 19,
+      "age_hours": 9,
       "score": 20
     },
     {
@@ -2011,26 +2029,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY254UzBIMC1PMnUwaDd1Q1JQOHB4b0VVdWVoOElPZHNodFJOLXhNNjNLYnhyWTZzSzY5YU9yTndRMW9TSkgtOHlDenZjWjBVZXh1ZGxSS2RoRXU2U012ZzFoWjRqNlV6bzJwWGQ5Qko2UDFTSnhqbjBoOHFCS3FVeHlQd3pHQ3NfOGhXa2E0dEJQWmlhUHNiZDJweFd4LXpLR08tMmFjSThiNjJUQThfbHV0dFB1UXR5b3BlUkRva24tb3A1QmRZR2JkZ2dWRE9zVmo0VlJaNXVCN2p4UkRQMw?oc=5",
       "player": "Arch Manning",
-      "age_hours": 5,
+      "age_hours": 15,
       "score": 20
-    },
-    {
-      "headline": "Ole Miss football injury report vs Auburn: Terez Davis among Rebels questionable",
-      "source": "bitacora.com.uy",
-      "domain": "bitacora.com.uy",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVUZ1NlNlQWNKQnBYQnJpNjFxc3k3YU9zZzNadV9sVC00UFMyOTR1WldEYVo0ZWsyci15dnFxbUpYT1pOR3dERmk1SWhaRTZVMThVdmVQUEVvUU5oLUxKTkV6MGl5UF9qZ3lpRE5HTDNjYUlYSWt0VmRxQ0FfZF9ia1hpQWZHdjNLTHBwWnRJaV9VMmM3Uk1rUjVUdDRBZ09wdlJIVkllVQ?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 18,
-      "score": 19
-    },
-    {
-      "headline": "Oregon QB Dante Moore (concussion) not expected to return this season",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVF3ellReGRtazJyZllZNXRwcDBlQmVFZFF2blVDMU9kUDRMSG1RR2xFTWgydjRLZlR5ZlY1LTFGcUNZZC01OG5ndVk3Y0tzcF9zWW1IX3d4dGhPNnlqbnU2TkNjb1M5TlJackRya2J5a1p6ekZrRVViX0U1czI3UGRwd3NoeEtGRlZPR0ZyNTBnWmlQemljS2IwU20tbmVyRC03cEk4aTlhV1dMNXFTREFn?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 63,
-      "score": 19
     }
   ],
   "kalshi": [
@@ -2040,14 +2040,14 @@
       "url": "https://kalshi.com/markets/kxnfldraftpick/nfl-draft-pick/kxnfldraftpick-27-1",
       "candidates": [
         {
-          "name": "Drew Mestemaker",
-          "pct": 33,
-          "tracked": true
+          "name": "Jeremiah Smith",
+          "pct": 34,
+          "tracked": false
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 30,
-          "tracked": false
+          "name": "Drew Mestemaker",
+          "pct": 34,
+          "tracked": true
         },
         {
           "name": "CJ Carr",
@@ -2055,13 +2055,8 @@
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 10,
-          "tracked": true
-        },
-        {
           "name": "Arch Manning",
-          "pct": 7,
+          "pct": 6,
           "tracked": true
         },
         {
@@ -2070,14 +2065,19 @@
           "tracked": true
         },
         {
-          "name": "LaNorris Sellers",
-          "pct": 3,
-          "tracked": false
+          "name": "Trinidad Chambliss",
+          "pct": 5,
+          "tracked": true
         },
         {
           "name": "Julian Sayin",
           "pct": 2,
           "tracked": true
+        },
+        {
+          "name": "LaNorris Sellers",
+          "pct": 2,
+          "tracked": false
         }
       ],
       "field_pct": 0,
@@ -2099,13 +2099,13 @@
           "tracked": false
         },
         {
-          "name": "Los Angeles C",
+          "name": "New York J",
           "pct": 13,
           "tracked": false
         },
         {
-          "name": "New York J",
-          "pct": 13,
+          "name": "Los Angeles C",
+          "pct": 10,
           "tracked": false
         },
         {
@@ -2119,17 +2119,17 @@
           "tracked": false
         },
         {
-          "name": "Philadelphia",
+          "name": "Indianapolis",
           "pct": 3,
           "tracked": false
         },
         {
-          "name": "Atlanta",
-          "pct": 2,
+          "name": "Philadelphia",
+          "pct": 3,
           "tracked": false
         }
       ],
-      "field_pct": 3,
+      "field_pct": 5,
       "field_count": 24
     },
     {
@@ -2139,18 +2139,23 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 41,
+          "pct": 39,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 24,
+          "pct": 23,
           "tracked": true
         },
         {
           "name": "Malachi Toney",
-          "pct": 22,
+          "pct": 21,
           "tracked": false
+        },
+        {
+          "name": "Trinidad Chambliss",
+          "pct": 4,
+          "tracked": true
         },
         {
           "name": "CJ Carr",
@@ -2163,22 +2168,17 @@
           "tracked": false
         },
         {
-          "name": "Trinidad Chambliss",
+          "name": "Gunner Stockton",
           "pct": 2,
-          "tracked": true
+          "tracked": false
         },
         {
           "name": "Drew Mestemaker",
           "pct": 2,
           "tracked": true
-        },
-        {
-          "name": "Julian Sayin",
-          "pct": 1,
-          "tracked": true
         }
       ],
-      "field_pct": 1,
+      "field_pct": 2,
       "field_count": 41
     }
   ],
