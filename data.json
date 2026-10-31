@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T10:05:45.114558+00:00",
+  "updated_at": "2026-10-31T18:54:00.128814+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -112,16 +112,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856735",
-        "week": 9,
-        "opponent": "Auburn",
-        "opponent_id": 2,
+        "event_id": "401856741",
+        "week": 10,
+        "opponent": "Georgia",
+        "opponent_id": 61,
         "home_away": "vs",
-        "kickoff": "2026-10-31T16:45:00.000Z",
+        "kickoff": "2026-11-08T00:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Auburn"
+        "label": "vs Georgia"
       },
       "log": [
         {
@@ -440,16 +440,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401859185",
-        "week": 9,
-        "opponent": "Navy",
-        "opponent_id": 2426,
-        "home_away": "at",
-        "kickoff": "2026-10-31T16:00:00.000Z",
+        "event_id": "401858291",
+        "week": 10,
+        "opponent": "Miami",
+        "opponent_id": 2390,
+        "home_away": "vs",
+        "kickoff": "2026-11-08T00:30:00.000Z",
         "tbd": false,
-        "neutral": true,
+        "neutral": false,
         "state": "scheduled",
-        "label": "at Navy"
+        "label": "vs Miami"
       },
       "log": [
         {
@@ -1791,16 +1791,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856842",
-        "week": 9,
-        "opponent": "Texas Tech",
-        "opponent_id": 2641,
-        "home_away": "at",
-        "kickoff": "2026-10-31T16:00:00.000Z",
+        "event_id": "401856855",
+        "week": 10,
+        "opponent": "TCU",
+        "opponent_id": 2628,
+        "home_away": "vs",
+        "kickoff": "2026-11-07T03:15:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Texas Tech"
+        "label": "vs TCU"
       },
       "log": [
         {
@@ -1961,12 +1961,21 @@
   ],
   "news": [
     {
-      "headline": "No. 11 Texas vs. Mississippi State: How to Watch, Odds, Injuries, and More",
+      "headline": "NFL scouts favor Drew Mestemaker as first QB taken in draft",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk90NGVVWV84SWR2TzVYb0UwYWUwR2JpOGtWaVFsMlZuVWtGVDFxbDgzN2JDM0I3UzBTai0xeXZtMXB0cjdmRlRoWm4yQnNkdVJhSWo1M2EwY1F6dy1YbVRtVUw0R2xINUlkbGdkRE5Cb2VKSjluYVRfYk9BQTZLVXlPYThKa1EtUUx5QWtXVHRibHZEOElxVUplMEh3LVlYT1NfdXBfc0FqaS1paG1mMQ?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 4,
+      "score": 22
+    },
+    {
+      "headline": "College Football QB Injury Tracker, Week 9: Ohio State Set for First Game Without Julian Sayin",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlNsbzVOWXVrcnRMMGQ1cF84Mm51MG40V09YSEZ0VUJ5Z1VhREhZaXVxZ0htbHdEeUJnV19sbEJiMEdRQkd2LW9HTENWVURaTWo1a1FKODBiTXZVd2lJajFtOGZlelhWZWpvbGJFbEtwRHdwRGxJZm5aMVd5dHljR1lQOWN5Vk5BY1FJMm1YSm1ZNXQ5bnBXU09xS21iejFwVEZKNFZZa0JnNnF3OFpJ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 21,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazdNeHpjR0pjTUR0SlRWTEwyMjZ1ZUlGbVFlUmtzaXdMWlo5Q0NxazJHNzk2ZFh4NWxuUlZKMUsybHJOMktrV2JTYmcyeUNldUxzNzlzcU94b2dEejlsbTQ4UG1hUHlrNy1VOEtUaldaX1ppV2p3LVBOTGVobHExMlZRMjdZNW9JQklVTUgtamNtNjJPd2JVTzVhN3F6YVBqaXZMTndn?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 8,
       "score": 21
     },
     {
@@ -1975,7 +1984,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTZKTnhWNTVNSWVyTnJaZmdHdjlST0JSNndYMW9lX1N3RDJHVWY1cnRORXgwNGFiN0U1SHd6N0lBYVJNejhaNWU2OTZiajZZLUNTNVNwYjZsbXhFWFZBd3VzWGp4NmdiOWZvcDFreWZVZ2ZiMTVzNWpaX0ltaExBTDZ5RldyWHp5U2N5RnZkOVlaYWQ2VHdMQlJxYW5lMlFhUEFUSE5pWEtrdmgwSkxkdF9DdTdEUWFNX3p3Xw?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 10,
+      "age_hours": 19,
       "score": 21
     },
     {
@@ -1984,7 +1993,16 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 92,
+      "age_hours": 101,
+      "score": 19
+    },
+    {
+      "headline": "What Dante Moore\u2019s Injury Return Could Mean for His NFL Draft Stock",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 252,
       "score": 19
     },
     {
@@ -1993,16 +2011,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 339,
-      "score": 19
-    },
-    {
-      "headline": "Ohio State Injury Report: Jay Timmons Doubtful, Brandon Inniss Questionable, Kenyatta Jackson Jr. and Austin Siereveld Cleared to Play vs. USC",
-      "source": "Eleven Warriors",
-      "domain": "elevenwarriors.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR0NaNU5XSG9uc1QtNmtfeVVFNzVhTkpyWWtlbXF6cG9fWkZ2M1JxTTZXeXJSc0FKdnFHZEF2aEZnU2ZFdkxVQklTT0ZVN1BaZHdOS0N3bTNxWjZYZ2lxTjN4T2xGRWVqNk9fVW0tOWNpcnZFWE4ybWhQS3V5eG5Ya1h0azJWVnBES25FQkRBdy1IMVJFQ25CTHpRY3FPNlhueHVJX254NXlXNEotYjhVUWVfWkFqME9vM1V5VERqR1FXbURCNk9uRHMtYVVBNlRCWmhTcGl5S2lWV2NmT0x6Q0RpMVRONDBwS09sN3RkYw?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 10,
+      "age_hours": 348,
       "score": 19
     },
     {
@@ -2011,7 +2020,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3FPTXdJcWdxUXZVMkcyNmo2M0ZUbm5DUTVFaUwtbWhxbENlVDdpQ0NZUnZsTVZhX1c2QXM2bUc3X05YcEszQ0NTejZmVkVSUUpRZXRXTVc0YjFkYk50VHlYN29VcGxjc2tMYTMybVpVR1FVNExNYmJjUklhb1F5SjcyejlHTlFLLTRvRlRWM2dJcUg4?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 25,
+      "age_hours": 34,
       "score": 18
     },
     {
@@ -2020,16 +2029,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFBR2tPMTVPNnFEY3d4ZnFJTndENFdRb2R4X2Q3RmVxMjZZeXNoSGZDNndnM2Z6eDRfRlBUZ3dKQnVFd3Fubk0zU0R6MzBSUldCRmFqdE52TFRuR195eXE4WmVUeFhSNk9LcGg3V2h4V3pXcVRpNVpyNXNPb0JXNTJDTnB0YnVHQ09SS3dQTGRVekN6YXcyZjNqVkZJeW5kd1VUQWI1aHZObTJZakk3TW52OGY?oc=5",
       "player": "Dante Moore",
-      "age_hours": 34,
-      "score": 17
-    },
-    {
-      "headline": "Dan Lanning Delivers Unfortunate Oregon Injury Updates Ahead of Northwestern",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbzNOMmR2XzRpVzZWQmdPVGo4VmJwV1RWNW5hbU1maWRTQ1F2NUpDa0pWVkZyaFJ0eTVhcmFRMVNPWWRnRWdLZFBlOHV2QlE3bVRHZ0tYTnAxTEplWWl5UEJkVmM0cDViajVSdHRIYjVqMFktaUZWb0VLSkJ5T21feGk2VzM4MGoyTWdkWTFZR0ZYaU9vN1hEeGpvSC1jY2d5VDZXa0pjTXNUQk5xWjhmS3F5NHltVk5jWWFKN3BMYS1aV3JsMllnam5RSlJySmdOdDkyaHFGLVFpLWZrVEU3bHFn?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 62,
+      "age_hours": 43,
       "score": 17
     }
   ],
@@ -2040,37 +2040,37 @@
       "url": "https://kalshi.com/markets/kxnfldraftpick/nfl-draft-pick/kxnfldraftpick-27-1",
       "candidates": [
         {
-          "name": "Jeremiah Smith",
-          "pct": 38,
-          "tracked": false
-        },
-        {
           "name": "Drew Mestemaker",
-          "pct": 36,
+          "pct": 32,
           "tracked": true
         },
         {
-          "name": "CJ Carr",
-          "pct": 14,
+          "name": "Jeremiah Smith",
+          "pct": 31,
+          "tracked": false
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 24,
           "tracked": true
         },
         {
           "name": "Arch Manning",
-          "pct": 7,
-          "tracked": true
-        },
-        {
-          "name": "Darian Mensah",
-          "pct": 6,
+          "pct": 4,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 5,
+          "pct": 3,
           "tracked": true
         },
         {
           "name": "Julian Sayin",
+          "pct": 2,
+          "tracked": true
+        },
+        {
+          "name": "CJ Carr",
           "pct": 2,
           "tracked": true
         },
@@ -2089,12 +2089,12 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
-          "name": "Miami",
-          "pct": 28,
+          "name": "Tennessee",
+          "pct": 30,
           "tracked": false
         },
         {
-          "name": "Tennessee",
+          "name": "Miami",
           "pct": 28,
           "tracked": false
         },
@@ -2139,7 +2139,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 42,
+          "pct": 41,
           "tracked": false
         },
         {
@@ -2149,16 +2149,21 @@
         },
         {
           "name": "Malachi Toney",
-          "pct": 21,
+          "pct": 15,
           "tracked": false
         },
         {
-          "name": "CJ Carr",
-          "pct": 7,
+          "name": "Trinidad Chambliss",
+          "pct": 4,
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
+          "name": "Drew Mestemaker",
+          "pct": 3,
+          "tracked": true
+        },
+        {
+          "name": "CJ Carr",
           "pct": 3,
           "tracked": true
         },
@@ -2168,17 +2173,12 @@
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
+          "name": "Gunner Stockton",
           "pct": 2,
-          "tracked": true
-        },
-        {
-          "name": "Sam Leavitt",
-          "pct": 2,
-          "tracked": true
+          "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 5,
       "field_count": 41
     }
   ],
