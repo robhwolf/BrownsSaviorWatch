@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T21:57:32.442530+00:00",
+  "updated_at": "2026-10-31T01:25:36.071193+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1966,26 +1966,8 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3FPTXdJcWdxUXZVMkcyNmo2M0ZUbm5DUTVFaUwtbWhxbENlVDdpQ0NZUnZsTVZhX1c2QXM2bUc3X05YcEszQ0NTejZmVkVSUUpRZXRXTVc0YjFkYk50VHlYN29VcGxjc2tMYTMybVpVR1FVNExNYmJjUklhb1F5SjcyejlHTlFLLTRvRlRWM2dJcUg4?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 13,
+      "age_hours": 16,
       "score": 22
-    },
-    {
-      "headline": "Oregon's Injury Report Sees One Addition Ahead of Northwestern",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFBR2tPMTVPNnFEY3d4ZnFJTndENFdRb2R4X2Q3RmVxMjZZeXNoSGZDNndnM2Z6eDRfRlBUZ3dKQnVFd3Fubk0zU0R6MzBSUldCRmFqdE52TFRuR195eXE4WmVUeFhSNk9LcGg3V2h4V3pXcVRpNVpyNXNPb0JXNTJDTnB0YnVHQ09SS3dQTGRVekN6YXcyZjNqVkZJeW5kd1VUQWI1aHZObTJZakk3TW52OGY?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 22,
-      "score": 21
-    },
-    {
-      "headline": "Latest Update to USC Trojans Injury Report Before Home Clash vs. Ohio State",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZVY3VThxaFFmeWhfTGpzQnZoSzVXaXEwNnFtU2ZIaC1pbktnNGNGMVY4aVBIaHZ3QlNfUkRRSlpFcHN1bUN0ZDJXTGNQbVNrWjFMV2xpSzRzTUVnTVk2OTdoZURFSkNzWHN0dTdQZWNMNDJXcHlQQXdTYm1PTTQ1WFA4UktBYXRZVWNZalhXM0JET05KUmh3Z0RtbjBHUTFMNm42dm9WeDNSOUpsTW9Sc0pXRUM?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 22,
-      "score": 21
     },
     {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
@@ -1993,16 +1975,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 567,
-      "score": 20
-    },
-    {
-      "headline": "How USC Quarterback Jayden Maiava Can Boost His NFL Draft Stock vs. Ohio State",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMExXanotaGlOUXJOUEp6MnhIVWNXdThBZ3FnMHR4dTNlOVVYSGFMVFZrcGFJejZhNUxqVmxHemtDQnd4OVlOWWFaRHUzWV9jVWxpVm1TeHBPOThTdEpydFdIT2w5SXREOVoyVEIzQ1lQN3FPbU9mZmFHV0hSVkZobkVLTDZIY2V0Wlp1dGVha2l6M2NfU0FaOEZFX1NHU3kzZEdVVW5EX0lxSV82YUxWZ2N4M3BUZjV5VElF?oc=5",
-      "player": "Jayden Maiava",
-      "age_hours": 24,
+      "age_hours": 570,
       "score": 20
     },
     {
@@ -2011,7 +1984,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 80,
+      "age_hours": 83,
       "score": 19
     },
     {
@@ -2020,8 +1993,26 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 327,
+      "age_hours": 330,
       "score": 19
+    },
+    {
+      "headline": "Ohio State Injury Report: Jay Timmons Doubtful, Brandon Inniss Questionable, Kenyatta Jackson Jr. and Austin Siereveld Cleared to Play vs. USC",
+      "source": "Eleven Warriors",
+      "domain": "elevenwarriors.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR0NaNU5XSG9uc1QtNmtfeVVFNzVhTkpyWWtlbXF6cG9fWkZ2M1JxTTZXeXJSc0FKdnFHZEF2aEZnU2ZFdkxVQklTT0ZVN1BaZHdOS0N3bTNxWjZYZ2lxTjN4T2xGRWVqNk9fVW0tOWNpcnZFWE4ybWhQS3V5eG5Ya1h0azJWVnBES25FQkRBdy1IMVJFQ25CTHpRY3FPNlhueHVJX254NXlXNEotYjhVUWVfWkFqME9vM1V5VERqR1FXbURCNk9uRHMtYVVBNlRCWmhTcGl5S2lWV2NmT0x6Q0RpMVRONDBwS09sN3RkYw?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 1,
+      "score": 19
+    },
+    {
+      "headline": "Oregon's Injury Report Sees One Addition Ahead of Northwestern",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFBR2tPMTVPNnFEY3d4ZnFJTndENFdRb2R4X2Q3RmVxMjZZeXNoSGZDNndnM2Z6eDRfRlBUZ3dKQnVFd3Fubk0zU0R6MzBSUldCRmFqdE52TFRuR195eXE4WmVUeFhSNk9LcGg3V2h4V3pXcVRpNVpyNXNPb0JXNTJDTnB0YnVHQ09SS3dQTGRVekN6YXcyZjNqVkZJeW5kd1VUQWI1aHZObTJZakk3TW52OGY?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 25,
+      "score": 17
     },
     {
       "headline": "Dan Lanning Delivers Unfortunate Oregon Injury Updates Ahead of Northwestern",
@@ -2029,7 +2020,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbzNOMmR2XzRpVzZWQmdPVGo4VmJwV1RWNW5hbU1maWRTQ1F2NUpDa0pWVkZyaFJ0eTVhcmFRMVNPWWRnRWdLZFBlOHV2QlE3bVRHZ0tYTnAxTEplWWl5UEJkVmM0cDViajVSdHRIYjVqMFktaUZWb0VLSkJ5T21feGk2VzM4MGoyTWdkWTFZR0ZYaU9vN1hEeGpvSC1jY2d5VDZXa0pjTXNUQk5xWjhmS3F5NHltVk5jWWFKN3BMYS1aV3JsMllnam5RSlJySmdOdDkyaHFGLVFpLWZrVEU3bHFn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 50,
+      "age_hours": 53,
+      "score": 17
+    },
+    {
+      "headline": "Without Injured QB Julian Sayin, Is Ohio State Really A Top-5 Team?",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2JybW5xekxxQmlMODFKd2RjNmhFQVJQaWcyYjd5Uk9HZTdiUTF5cUtTOG5tNldpaFpvZjU0SDUxNmNxSXVmX1FRUUpBN2NNMnpka1B6czIwYUxWbXVDYXMwb0hvOGwxZ3NIdEZqaGcxT0puZDIwMnhsQm5Vb3F5bWd6SDVVdkVYY1hWV1pFcHk4T2x5QTJRUWZOXzJYQ1Uwc3d5UlpTNkdsMHBwazVhbTFMWllOZHNxRUNj?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 30,
       "score": 17
     }
   ],
@@ -2041,7 +2041,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 37,
+          "pct": 38,
           "tracked": false
         },
         {
@@ -2090,7 +2090,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 30,
+          "pct": 28,
           "tracked": false
         },
         {
@@ -2114,11 +2114,6 @@
           "tracked": false
         },
         {
-          "name": "Arizona",
-          "pct": 3,
-          "tracked": false
-        },
-        {
           "name": "Indianapolis",
           "pct": 3,
           "tracked": false
@@ -2126,6 +2121,11 @@
         {
           "name": "Philadelphia",
           "pct": 3,
+          "tracked": false
+        },
+        {
+          "name": "Arizona",
+          "pct": 2,
           "tracked": false
         }
       ],
@@ -2139,17 +2139,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 36,
+          "pct": 39,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 24,
+          "pct": 25,
           "tracked": true
         },
         {
           "name": "Malachi Toney",
-          "pct": 21,
+          "pct": 22,
           "tracked": false
         },
         {
@@ -2178,7 +2178,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 3,
+      "field_pct": 0,
       "field_count": 41
     }
   ],
