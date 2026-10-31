@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T03:36:19.805945+00:00",
+  "updated_at": "2026-10-31T10:05:45.114558+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1961,21 +1961,12 @@
   ],
   "news": [
     {
-      "headline": "NFL 2027 mock draft, top 10 picks: Jets trade up for Drew Mestemaker",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3FPTXdJcWdxUXZVMkcyNmo2M0ZUbm5DUTVFaUwtbWhxbENlVDdpQ0NZUnZsTVZhX1c2QXM2bUc3X05YcEszQ0NTejZmVkVSUUpRZXRXTVc0YjFkYk50VHlYN29VcGxjc2tMYTMybVpVR1FVNExNYmJjUklhb1F5SjcyejlHTlFLLTRvRlRWM2dJcUg4?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 19,
-      "score": 22
-    },
-    {
       "headline": "No. 11 Texas vs. Mississippi State: How to Watch, Odds, Injuries, and More",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlNsbzVOWXVrcnRMMGQ1cF84Mm51MG40V09YSEZ0VUJ5Z1VhREhZaXVxZ0htbHdEeUJnV19sbEJiMEdRQkd2LW9HTENWVURaTWo1a1FKODBiTXZVd2lJajFtOGZlelhWZWpvbGJFbEtwRHdwRGxJZm5aMVd5dHljR1lQOWN5Vk5BY1FJMm1YSm1ZNXQ5bnBXU09xS21iejFwVEZKNFZZa0JnNnF3OFpJ?oc=5",
       "player": "Arch Manning",
-      "age_hours": 15,
+      "age_hours": 21,
       "score": 21
     },
     {
@@ -1984,7 +1975,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTZKTnhWNTVNSWVyTnJaZmdHdjlST0JSNndYMW9lX1N3RDJHVWY1cnRORXgwNGFiN0U1SHd6N0lBYVJNejhaNWU2OTZiajZZLUNTNVNwYjZsbXhFWFZBd3VzWGp4NmdiOWZvcDFreWZVZ2ZiMTVzNWpaX0ltaExBTDZ5RldyWHp5U2N5RnZkOVlaYWQ2VHdMQlJxYW5lMlFhUEFUSE5pWEtrdmgwSkxkdF9DdTdEUWFNX3p3Xw?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 3,
+      "age_hours": 10,
       "score": 21
     },
     {
@@ -1993,7 +1984,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 85,
+      "age_hours": 92,
       "score": 19
     },
     {
@@ -2002,7 +1993,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 333,
+      "age_hours": 339,
       "score": 19
     },
     {
@@ -2011,8 +2002,17 @@
       "domain": "elevenwarriors.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR0NaNU5XSG9uc1QtNmtfeVVFNzVhTkpyWWtlbXF6cG9fWkZ2M1JxTTZXeXJSc0FKdnFHZEF2aEZnU2ZFdkxVQklTT0ZVN1BaZHdOS0N3bTNxWjZYZ2lxTjN4T2xGRWVqNk9fVW0tOWNpcnZFWE4ybWhQS3V5eG5Ya1h0azJWVnBES25FQkRBdy1IMVJFQ25CTHpRY3FPNlhueHVJX254NXlXNEotYjhVUWVfWkFqME9vM1V5VERqR1FXbURCNk9uRHMtYVVBNlRCWmhTcGl5S2lWV2NmT0x6Q0RpMVRONDBwS09sN3RkYw?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 4,
+      "age_hours": 10,
       "score": 19
+    },
+    {
+      "headline": "NFL 2027 mock draft, top 10 picks: Jets trade up for Drew Mestemaker",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3FPTXdJcWdxUXZVMkcyNmo2M0ZUbm5DUTVFaUwtbWhxbENlVDdpQ0NZUnZsTVZhX1c2QXM2bUc3X05YcEszQ0NTejZmVkVSUUpRZXRXTVc0YjFkYk50VHlYN29VcGxjc2tMYTMybVpVR1FVNExNYmJjUklhb1F5SjcyejlHTlFLLTRvRlRWM2dJcUg4?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 25,
+      "score": 18
     },
     {
       "headline": "Oregon's Injury Report Sees One Addition Ahead of Northwestern",
@@ -2020,16 +2020,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFBR2tPMTVPNnFEY3d4ZnFJTndENFdRb2R4X2Q3RmVxMjZZeXNoSGZDNndnM2Z6eDRfRlBUZ3dKQnVFd3Fubk0zU0R6MzBSUldCRmFqdE52TFRuR195eXE4WmVUeFhSNk9LcGg3V2h4V3pXcVRpNVpyNXNPb0JXNTJDTnB0YnVHQ09SS3dQTGRVekN6YXcyZjNqVkZJeW5kd1VUQWI1aHZObTJZakk3TW52OGY?oc=5",
       "player": "Dante Moore",
-      "age_hours": 28,
+      "age_hours": 34,
       "score": 17
     },
     {
-      "headline": "Without Injured QB Julian Sayin, Is Ohio State Really A Top-5 Team?",
-      "source": "FOX Sports",
-      "domain": "foxsports.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2JybW5xekxxQmlMODFKd2RjNmhFQVJQaWcyYjd5Uk9HZTdiUTF5cUtTOG5tNldpaFpvZjU0SDUxNmNxSXVmX1FRUUpBN2NNMnpka1B6czIwYUxWbXVDYXMwb0hvOGwxZ3NIdEZqaGcxT0puZDIwMnhsQm5Vb3F5bWd6SDVVdkVYY1hWV1pFcHk4T2x5QTJRUWZOXzJYQ1Uwc3d5UlpTNkdsMHBwazVhbTFMWllOZHNxRUNj?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 32,
+      "headline": "Dan Lanning Delivers Unfortunate Oregon Injury Updates Ahead of Northwestern",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbzNOMmR2XzRpVzZWQmdPVGo4VmJwV1RWNW5hbU1maWRTQ1F2NUpDa0pWVkZyaFJ0eTVhcmFRMVNPWWRnRWdLZFBlOHV2QlE3bVRHZ0tYTnAxTEplWWl5UEJkVmM0cDViajVSdHRIYjVqMFktaUZWb0VLSkJ5T21feGk2VzM4MGoyTWdkWTFZR0ZYaU9vN1hEeGpvSC1jY2d5VDZXa0pjTXNUQk5xWjhmS3F5NHltVk5jWWFKN3BMYS1aV3JsMllnam5RSlJySmdOdDkyaHFGLVFpLWZrVEU3bHFn?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 62,
       "score": 17
     }
   ],
@@ -2046,7 +2046,7 @@
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 34,
+          "pct": 36,
           "tracked": true
         },
         {
@@ -2139,7 +2139,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 41,
+          "pct": 42,
           "tracked": false
         },
         {
@@ -2154,12 +2154,12 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 6,
+          "pct": 7,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 4,
+          "pct": 3,
           "tracked": true
         },
         {
@@ -2168,12 +2168,12 @@
           "tracked": false
         },
         {
-          "name": "Gunner Stockton",
+          "name": "Drew Mestemaker",
           "pct": 2,
-          "tracked": false
+          "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
+          "name": "Sam Leavitt",
           "pct": 2,
           "tracked": true
         }
