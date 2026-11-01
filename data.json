@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T10:57:30.668379+00:00",
+  "updated_at": "2026-11-01T18:44:27.987255+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2193,21 +2193,12 @@
   ],
   "news": [
     {
-      "headline": "NFL scouts favor Drew Mestemaker as first QB taken in draft",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk90NGVVWV84SWR2TzVYb0UwYWUwR2JpOGtWaVFsMlZuVWtGVDFxbDgzN2JDM0I3UzBTai0xeXZtMXB0cjdmRlRoWm4yQnNkdVJhSWo1M2EwY1F6dy1YbVRtVUw0R2xINUlkbGdkRE5Cb2VKSjluYVRfYk9BQTZLVXlPYThKa1EtUUx5QWtXVHRibHZEOElxVUplMEh3LVlYT1NfdXBfc0FqaS1paG1mMQ?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 20,
-      "score": 22
-    },
-    {
       "headline": "NFL Draft 2027 takeaways: How many top-100 picks are on Georgia\u2019s dominant defense?",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2Y3c2Uyb2JGNkk1eThNeUlnV25XNzh5SXkxckNkOHNFa2ppRUJKSlBuZXk5UERqY3dVMVJ3YW8wQTFTRVJuVHk5bENQcGtwbFNpN0N4eHkwWUx5TVNHMXdTRkxqeklLelpUZlMzR2NoWnplY195Z1dIYURWeFgyRlFQWE1ZdU83U2RfOXNvT0s0R2c?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 1,
+      "age_hours": 3,
       "score": 22
     },
     {
@@ -2216,25 +2207,7 @@
       "domain": "10tv.com",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQmd6X2RZZ0pnNEExSllzZWxwWkFBbElZT0dWdmtRQjhQMVJLdzViY1hDR2FrbFJldl80Yk9aVjBhT3BVOFNybTVFOE1TS3F3RzFBc1N0eGxpTnZnaHBNUnMxQ0EzZEFzZlVWc0h6QlhtX2t2NVdZN0Ixek54Y2ctQXk4ODR5Y1MyUHd0bGpDMERyNEc4dWtUSWRNQUIxSnM4SkJQYnZRWFRQUXU5TWlDaDliWEdOem5lY3cyNE1KcHRCSVc1U3l4MGdXUXJmU1VubG9lT3JoTjRtaWNyYzgtWHRxR2w3enM?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 13,
-      "score": 21
-    },
-    {
-      "headline": "College Football QB Injury Tracker, Week 9: Ohio State Set for First Game Without Julian Sayin",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazdNeHpjR0pjTUR0SlRWTEwyMjZ1ZUlGbVFlUmtzaXdMWlo5Q0NxazJHNzk2ZFh4NWxuUlZKMUsybHJOMktrV2JTYmcyeUNldUxzNzlzcU94b2dEejlsbTQ4UG1hUHlrNy1VOEtUaldaX1ppV2p3LVBOTGVobHExMlZRMjdZNW9JQklVTUgtamNtNjJPd2JVTzVhN3F6YVBqaXZMTndn?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 24,
-      "score": 21
-    },
-    {
-      "headline": "USC Trojans Final Injury Report vs. Ohio State Buckeyes",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHJsbkdSZFAxU1lYQ2taSnN5NlZNWTRHUncyemRBRTYwTkJzM2JodlFZTnhpX3Nuc193d2tKaDdYektSVTdydHh5bDlrckcyM21wUVdrb3BrRXVzVmw3YkhzMmVuMFYxQ1h0R1otck1YaS1aUGN6QkVfaVpsZXBwN0FTdDBxcDJjcEYycnkzRXhiaWlTaVE?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 13,
+      "age_hours": 21,
       "score": 21
     },
     {
@@ -2243,17 +2216,26 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcnk1OXJJWHFlZERrVjZNSHZZc2FXRmRicld0Mkc0N2dRY1MzaEFCYksxWmN5UXVNNGdQODViRWFwcWpwTkpIQzk2RlQxMUh6UElOeVlHdnR2SG9teDhBZy1ETlMzWG5JelRpaU5GX3AxbXMtYlpfemhjUWZQZ094NHpwcmJtZW1WdFNMXzZpRW5mcWtWVWdLdWY5VWg1d29vUi1Jei1JWk41RzRVUGFrX1M1TFY2YXcta3QxLVRuYVM?oc=5",
       "player": "Noah Fifita",
-      "age_hours": 16,
+      "age_hours": 24,
       "score": 21
     },
     {
-      "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
+      "headline": "What's next for Dante Moore? Oregon QB's injury leaves 2027 NFL Draft, transfer options in play",
       "source": "CBS Sports",
       "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 604,
-      "score": 20
+      "age_hours": 124,
+      "score": 19
+    },
+    {
+      "headline": "What Dante Moore\u2019s Injury Return Could Mean for His NFL Draft Stock",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 276,
+      "score": 19
     },
     {
       "headline": "Dante Moore\u2019s NFL Draft Stock Takes a Turn Amid Injury Absence",
@@ -2261,8 +2243,26 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 364,
+      "age_hours": 372,
       "score": 19
+    },
+    {
+      "headline": "2026 Heisman Trophy Odds: Darian Mensah Vaults Into Top Spot Ahead of Jeremiah Smith; Can CJ Carr Can Flip Odds?",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYTNoRlNPTmNVbHo1NFU2V244dnpneDBMdlVHY2xEN21PT3hNY0FLYnBOQjN3cU1RV2ZQQjlYU0VLTHpxM3hwSGFRd2FhSHREQUlzLXFpRGs0WnNQSFFwQ1ljMG8tWVFOZnA3cE5EdnR0c04wRE5pWHlpa0V6Y1gxcXUzTndXa3FCRm4yenF1X1ZHREYwYUE1MmpWNV9SejBaQ0x3R3N6WnprOFo3Qk9KcnBLMm1yN0pMbjFBRTFEVXl1SU84dW13UGhiTTdncjV0NWc?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 3,
+      "score": 18
+    },
+    {
+      "headline": "Notre Dame's CJ Carr Suddenly Has a Chance to Enter Heisman Race",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2Exc0RTdEFob2ozeVR1SzlGN3N0NmpYSmN6ek5laFhrTWJmaDBmeEFfaDlBRUcyMlh2YjV4TDJNSmxGNGVBMDB4TVMwRFN0V2tRdFhyN1dXd295UmFWLWtLYTVUUlRBS0dLbV8xMWhsQTJrV3BjNWpobkxfVW9UcmNoSURzdjFFNmxZMTFtRXdab3NqSGNR?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 14,
+      "score": 18
     }
   ],
   "kalshi": [
@@ -2273,41 +2273,41 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 46,
+          "pct": 44,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 29,
+          "pct": 28,
           "tracked": false
-        },
-        {
-          "name": "LaNorris Sellers",
-          "pct": 9,
-          "tracked": false
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 5,
-          "tracked": true
         },
         {
           "name": "Darian Mensah",
-          "pct": 5,
-          "tracked": true
-        },
-        {
-          "name": "Trinidad Chambliss",
-          "pct": 3,
-          "tracked": true
-        },
-        {
-          "name": "Julian Sayin",
-          "pct": 2,
+          "pct": 10,
           "tracked": true
         },
         {
           "name": "CJ Carr",
+          "pct": 8,
+          "tracked": true
+        },
+        {
+          "name": "Trinidad Chambliss",
+          "pct": 8,
+          "tracked": true
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 7,
+          "tracked": true
+        },
+        {
+          "name": "LaNorris Sellers",
+          "pct": 5,
+          "tracked": false
+        },
+        {
+          "name": "Julian Sayin",
           "pct": 2,
           "tracked": true
         }
@@ -2327,7 +2327,7 @@
         },
         {
           "name": "Miami",
-          "pct": 28,
+          "pct": 29,
           "tracked": false
         },
         {
@@ -2337,7 +2337,7 @@
         },
         {
           "name": "New York J",
-          "pct": 15,
+          "pct": 16,
           "tracked": false
         },
         {
@@ -2371,22 +2371,22 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 34,
+          "pct": 36,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 23,
+          "pct": 22,
           "tracked": false
         },
         {
           "name": "Malachi Toney",
-          "pct": 19,
+          "pct": 17,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 7,
+          "pct": 8,
           "tracked": true
         },
         {
@@ -2400,17 +2400,17 @@
           "tracked": false
         },
         {
-          "name": "Devon Dampier",
+          "name": "Drew Mestemaker",
           "pct": 2,
-          "tracked": false
+          "tracked": true
         },
         {
-          "name": "Julian Sayin",
-          "pct": 1,
+          "name": "Sam Leavitt",
+          "pct": 2,
           "tracked": true
         }
       ],
-      "field_pct": 6,
+      "field_pct": 5,
       "field_count": 41
     }
   ],
