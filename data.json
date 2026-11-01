@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:38:07.823318+00:00",
+  "updated_at": "2026-11-01T03:47:02.583022+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -694,10 +694,23 @@
         "kickoff": "2026-10-31T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at North Carolina"
+        "state": "final",
+        "result": "W",
+        "score": "38-35",
+        "label": "W 38-35 at North Carolina"
       },
-      "game": null,
+      "game": {
+        "cmp": 22,
+        "att": 29,
+        "pass_yds": 274,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 4,
+        "rush_yds": 36,
+        "rush_td": 0,
+        "comp_pct": 75.9,
+        "ypa": 9.4
+      },
       "next_game": {
         "event_id": "401858291",
         "week": 10,
@@ -843,24 +856,43 @@
           "result": "W",
           "score": "52-23",
           "date": "2026-10-24T16:00:00.000Z"
+        },
+        {
+          "cmp": 22,
+          "att": 29,
+          "pass_yds": 274,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 4,
+          "rush_yds": 36,
+          "rush_td": 0,
+          "comp_pct": 75.9,
+          "ypa": 9.4,
+          "event_id": "401858282",
+          "week": 9,
+          "opponent": "North Carolina",
+          "home_away": "at",
+          "result": "W",
+          "score": "38-35",
+          "date": "2026-10-31T23:30:00.000Z"
         }
       ],
       "season": {
-        "games": 7,
-        "record": "7-0",
-        "cmp": 166,
-        "att": 204,
-        "comp_pct": 81.4,
-        "pass_yds": 2162,
-        "ypa": 10.6,
-        "pass_td": 22,
+        "games": 8,
+        "record": "8-0",
+        "cmp": 188,
+        "att": 233,
+        "comp_pct": 80.7,
+        "pass_yds": 2436,
+        "ypa": 10.5,
+        "pass_td": 25,
         "int": 1,
-        "td_int": "22-1",
-        "rush_yds": 73,
+        "td_int": "25-1",
+        "rush_yds": 109,
         "rush_td": 2,
-        "total_td": 24,
-        "ypg": 309,
-        "rating": 205.0,
+        "total_td": 27,
+        "ypg": 304,
+        "rating": 203.1,
         "epa_per_play": null
       }
     },
@@ -886,8 +918,10 @@
         "kickoff": "2026-10-31T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at USC"
+        "state": "final",
+        "result": "L",
+        "score": "18-30",
+        "label": "L 18-30 at USC"
       },
       "game": null,
       "next_game": {
@@ -1078,10 +1112,23 @@
         "kickoff": "2026-10-31T23:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Iowa State"
+        "state": "final",
+        "result": "L",
+        "score": "49-51",
+        "label": "L 49-51 at Iowa State"
       },
-      "game": null,
+      "game": {
+        "cmp": 27,
+        "att": 42,
+        "pass_yds": 323,
+        "pass_td": 5,
+        "int": 1,
+        "rush_att": 4,
+        "rush_yds": 16,
+        "rush_td": 0,
+        "comp_pct": 64.3,
+        "ypa": 7.7
+      },
       "next_game": {
         "event_id": "401856854",
         "week": 10,
@@ -1229,24 +1276,43 @@
           "result": "W",
           "score": "57-24",
           "date": "2026-10-24T23:00:00.000Z"
+        },
+        {
+          "cmp": 27,
+          "att": 42,
+          "pass_yds": 323,
+          "pass_td": 5,
+          "int": 1,
+          "rush_att": 4,
+          "rush_yds": 16,
+          "rush_td": 0,
+          "comp_pct": 64.3,
+          "ypa": 7.7,
+          "event_id": "401856847",
+          "week": 9,
+          "opponent": "Iowa State",
+          "home_away": "at",
+          "result": "L",
+          "score": "49-51",
+          "date": "2026-10-31T23:00:00.000Z"
         }
       ],
       "season": {
-        "games": 7,
-        "record": "5-2",
-        "cmp": 157,
-        "att": 239,
-        "comp_pct": 65.7,
-        "pass_yds": 2326,
-        "ypa": 9.7,
-        "pass_td": 20,
-        "int": 6,
-        "td_int": "20-6",
-        "rush_yds": 150,
+        "games": 8,
+        "record": "5-3",
+        "cmp": 184,
+        "att": 281,
+        "comp_pct": 65.5,
+        "pass_yds": 2649,
+        "ypa": 9.4,
+        "pass_td": 25,
+        "int": 7,
+        "td_int": "25-7",
+        "rush_yds": 166,
         "rush_td": 2,
-        "total_td": 22,
-        "ypg": 332,
-        "rating": 170.0,
+        "total_td": 27,
+        "ypg": 331,
+        "rating": 169.0,
         "epa_per_play": null
       }
     },
@@ -1272,10 +1338,23 @@
         "kickoff": "2026-10-31T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Mississippi State"
+        "state": "final",
+        "result": "W",
+        "score": "31-3",
+        "label": "W 31-3 vs Mississippi State"
       },
-      "game": null,
+      "game": {
+        "cmp": 16,
+        "att": 20,
+        "pass_yds": 220,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 13,
+        "rush_yds": 10,
+        "rush_td": 0,
+        "comp_pct": 80.0,
+        "ypa": 11.0
+      },
       "next_game": {
         "event_id": "401856743",
         "week": 10,
@@ -1422,24 +1501,43 @@
           "result": "W",
           "score": "34-27",
           "date": "2026-10-24T23:30:00.000Z"
+        },
+        {
+          "cmp": 16,
+          "att": 20,
+          "pass_yds": 220,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 13,
+          "rush_yds": 10,
+          "rush_td": 0,
+          "comp_pct": 80.0,
+          "ypa": 11.0,
+          "event_id": "401856737",
+          "week": 9,
+          "opponent": "Mississippi State",
+          "home_away": "vs",
+          "result": "W",
+          "score": "31-3",
+          "date": "2026-10-31T23:30:00.000Z"
         }
       ],
       "season": {
-        "games": 7,
-        "record": "5-2",
-        "cmp": 125,
-        "att": 197,
-        "comp_pct": 63.5,
-        "pass_yds": 1511,
-        "ypa": 7.7,
-        "pass_td": 12,
+        "games": 8,
+        "record": "6-2",
+        "cmp": 141,
+        "att": 217,
+        "comp_pct": 65.0,
+        "pass_yds": 1731,
+        "ypa": 8.0,
+        "pass_td": 15,
         "int": 7,
-        "td_int": "12-7",
-        "rush_yds": 99,
+        "td_int": "15-7",
+        "rush_yds": 109,
         "rush_td": 2,
-        "total_td": 14,
+        "total_td": 17,
         "ypg": 216,
-        "rating": 140.9,
+        "rating": 148.3,
         "epa_per_play": null
       }
     },
@@ -1665,10 +1763,23 @@
         "kickoff": "2026-10-31T23:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Ohio State"
+        "state": "final",
+        "result": "W",
+        "score": "30-18",
+        "label": "W 30-18 vs Ohio State"
       },
-      "game": null,
+      "game": {
+        "cmp": 15,
+        "att": 22,
+        "pass_yds": 222,
+        "pass_td": 1,
+        "int": 0,
+        "rush_att": 1,
+        "rush_yds": -9,
+        "rush_td": 0,
+        "comp_pct": 68.2,
+        "ypa": 10.1
+      },
       "next_game": {
         "event_id": "401858518",
         "week": 11,
@@ -1813,24 +1924,43 @@
           "result": "L",
           "score": "7-24",
           "date": "2026-10-24T23:30:00.000Z"
+        },
+        {
+          "cmp": 15,
+          "att": 22,
+          "pass_yds": 222,
+          "pass_td": 1,
+          "int": 0,
+          "rush_att": 1,
+          "rush_yds": -9,
+          "rush_td": 0,
+          "comp_pct": 68.2,
+          "ypa": 10.1,
+          "event_id": "401858509",
+          "week": 9,
+          "opponent": "Ohio State",
+          "home_away": "vs",
+          "result": "W",
+          "score": "30-18",
+          "date": "2026-10-31T23:30:00.000Z"
         }
       ],
       "season": {
-        "games": 7,
-        "record": "5-2",
-        "cmp": 160,
-        "att": 249,
-        "comp_pct": 64.3,
-        "pass_yds": 1954,
-        "ypa": 7.8,
-        "pass_td": 16,
+        "games": 8,
+        "record": "6-2",
+        "cmp": 175,
+        "att": 271,
+        "comp_pct": 64.6,
+        "pass_yds": 2176,
+        "ypa": 8.0,
+        "pass_td": 17,
         "int": 5,
-        "td_int": "16-5",
-        "rush_yds": -59,
+        "td_int": "17-5",
+        "rush_yds": -68,
         "rush_td": 2,
-        "total_td": 18,
-        "ypg": 279,
-        "rating": 147.4,
+        "total_td": 19,
+        "ypg": 272,
+        "rating": 149.0,
         "epa_per_play": null
       }
     },
@@ -2068,8 +2198,17 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk90NGVVWV84SWR2TzVYb0UwYWUwR2JpOGtWaVFsMlZuVWtGVDFxbDgzN2JDM0I3UzBTai0xeXZtMXB0cjdmRlRoWm4yQnNkdVJhSWo1M2EwY1F6dy1YbVRtVUw0R2xINUlkbGdkRE5Cb2VKSjluYVRfYk9BQTZLVXlPYThKa1EtUUx5QWtXVHRibHZEOElxVUplMEh3LVlYT1NfdXBfc0FqaS1paG1mMQ?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 11,
+      "age_hours": 13,
       "score": 22
+    },
+    {
+      "headline": "Ohio State injury report: 11 players ruled out for USC game",
+      "source": "10TV",
+      "domain": "10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQmd6X2RZZ0pnNEExSllzZWxwWkFBbElZT0dWdmtRQjhQMVJLdzViY1hDR2FrbFJldl80Yk9aVjBhT3BVOFNybTVFOE1TS3F3RzFBc1N0eGxpTnZnaHBNUnMxQ0EzZEFzZlVWc0h6QlhtX2t2NVdZN0Ixek54Y2ctQXk4ODR5Y1MyUHd0bGpDMERyNEc4dWtUSWRNQUIxSnM4SkJQYnZRWFRQUXU5TWlDaDliWEdOem5lY3cyNE1KcHRCSVc1U3l4MGdXUXJmU1VubG9lT3JoTjRtaWNyYzgtWHRxR2w3enM?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 6,
+      "score": 21
     },
     {
       "headline": "College Football QB Injury Tracker, Week 9: Ohio State Set for First Game Without Julian Sayin",
@@ -2077,7 +2216,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazdNeHpjR0pjTUR0SlRWTEwyMjZ1ZUlGbVFlUmtzaXdMWlo5Q0NxazJHNzk2ZFh4NWxuUlZKMUsybHJOMktrV2JTYmcyeUNldUxzNzlzcU94b2dEejlsbTQ4UG1hUHlrNy1VOEtUaldaX1ppV2p3LVBOTGVobHExMlZRMjdZNW9JQklVTUgtamNtNjJPd2JVTzVhN3F6YVBqaXZMTndn?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 15,
+      "age_hours": 17,
       "score": 21
     },
     {
@@ -2086,7 +2225,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHJsbkdSZFAxU1lYQ2taSnN5NlZNWTRHUncyemRBRTYwTkJzM2JodlFZTnhpX3Nuc193d2tKaDdYektSVTdydHh5bDlrckcyM21wUVdrb3BrRXVzVmw3YkhzMmVuMFYxQ1h0R1otck1YaS1aUGN6QkVfaVpsZXBwN0FTdDBxcDJjcEYycnkzRXhiaWlTaVE?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 4,
+      "age_hours": 6,
       "score": 21
     },
     {
@@ -2095,7 +2234,7 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcnk1OXJJWHFlZERrVjZNSHZZc2FXRmRicld0Mkc0N2dRY1MzaEFCYksxWmN5UXVNNGdQODViRWFwcWpwTkpIQzk2RlQxMUh6UElOeVlHdnR2SG9teDhBZy1ETlMzWG5JelRpaU5GX3AxbXMtYlpfemhjUWZQZ094NHpwcmJtZW1WdFNMXzZpRW5mcWtWVWdLdWY5VWg1d29vUi1Jei1JWk41RzRVUGFrX1M1TFY2YXcta3QxLVRuYVM?oc=5",
       "player": "Noah Fifita",
-      "age_hours": 6,
+      "age_hours": 9,
       "score": 21
     },
     {
@@ -2104,7 +2243,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 595,
+      "age_hours": 597,
       "score": 20
     },
     {
@@ -2113,7 +2252,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 355,
+      "age_hours": 357,
       "score": 19
     },
     {
@@ -2122,17 +2261,8 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3FPTXdJcWdxUXZVMkcyNmo2M0ZUbm5DUTVFaUwtbWhxbENlVDdpQ0NZUnZsTVZhX1c2QXM2bUc3X05YcEszQ0NTejZmVkVSUUpRZXRXTVc0YjFkYk50VHlYN29VcGxjc2tMYTMybVpVR1FVNExNYmJjUklhb1F5SjcyejlHTlFLLTRvRlRWM2dJcUg4?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 41,
+      "age_hours": 43,
       "score": 18
-    },
-    {
-      "headline": "Oregon's Injury Report Sees One Addition Ahead of Northwestern",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFBR2tPMTVPNnFEY3d4ZnFJTndENFdRb2R4X2Q3RmVxMjZZeXNoSGZDNndnM2Z6eDRfRlBUZ3dKQnVFd3Fubk0zU0R6MzBSUldCRmFqdE52TFRuR195eXE4WmVUeFhSNk9LcGg3V2h4V3pXcVRpNVpyNXNPb0JXNTJDTnB0YnVHQ09SS3dQTGRVekN6YXcyZjNqVkZJeW5kd1VUQWI1aHZObTJZakk3TW52OGY?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 50,
-      "score": 17
     }
   ],
   "kalshi": [
@@ -2143,18 +2273,13 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 34,
+          "pct": 36,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 27,
+          "pct": 30,
           "tracked": false
-        },
-        {
-          "name": "Darian Mensah",
-          "pct": 12,
-          "tracked": true
         },
         {
           "name": "LaNorris Sellers",
@@ -2163,7 +2288,12 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 7,
+          "pct": 5,
+          "tracked": true
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 5,
           "tracked": true
         },
         {
@@ -2182,7 +2312,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 4,
+      "field_pct": 8,
       "field_count": 14
     },
     {
@@ -2240,47 +2370,47 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "Jeremiah Smith",
-          "pct": 30,
-          "tracked": false
+          "name": "Darian Mensah",
+          "pct": 32,
+          "tracked": true
         },
         {
-          "name": "Darian Mensah",
-          "pct": 30,
-          "tracked": true
+          "name": "Jeremiah Smith",
+          "pct": 24,
+          "tracked": false
         },
         {
           "name": "Malachi Toney",
-          "pct": 15,
+          "pct": 20,
           "tracked": false
         },
         {
-          "name": "CJ Carr",
-          "pct": 7,
-          "tracked": true
-        },
-        {
           "name": "Trinidad Chambliss",
-          "pct": 6,
+          "pct": 5,
           "tracked": true
         },
         {
-          "name": "Drew Mestemaker",
+          "name": "CJ Carr",
           "pct": 4,
           "tracked": true
         },
         {
           "name": "Jesse Legree",
-          "pct": 4,
+          "pct": 3,
           "tracked": false
         },
         {
           "name": "Gunner Stockton",
           "pct": 2,
           "tracked": false
+        },
+        {
+          "name": "Drew Mestemaker",
+          "pct": 2,
+          "tracked": true
         }
       ],
-      "field_pct": 2,
+      "field_pct": 8,
       "field_count": 41
     }
   ],
