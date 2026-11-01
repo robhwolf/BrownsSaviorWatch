@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T22:01:42.356651+00:00",
+  "updated_at": "2026-11-01T01:38:07.823318+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -332,10 +332,16 @@
         "kickoff": "2026-10-31T19:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Northwestern"
+        "state": "final",
+        "result": "W",
+        "score": "34-26",
+        "label": "W 34-26 vs Northwestern"
       },
-      "game": null,
+      "game": {
+        "rush_att": 1,
+        "rush_yds": 0,
+        "rush_td": 0
+      },
       "next_game": {
         "event_id": "401858514",
         "week": 10,
@@ -693,16 +699,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858282",
-        "week": 9,
-        "opponent": "North Carolina",
-        "opponent_id": 153,
+        "event_id": "401858291",
+        "week": 10,
+        "opponent": "Notre Dame",
+        "opponent_id": 87,
         "home_away": "at",
-        "kickoff": "2026-10-31T23:30:00.000Z",
+        "kickoff": "2026-11-08T00:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at North Carolina"
+        "label": "at Notre Dame"
       },
       "log": [
         {
@@ -885,16 +891,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858509",
-        "week": 9,
-        "opponent": "USC",
-        "opponent_id": 30,
-        "home_away": "at",
-        "kickoff": "2026-10-31T23:30:00.000Z",
+        "event_id": "401858514",
+        "week": 10,
+        "opponent": "Oregon",
+        "opponent_id": 2483,
+        "home_away": "vs",
+        "kickoff": "2026-11-07T20:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at USC"
+        "label": "vs Oregon"
       },
       "log": [
         {
@@ -1077,16 +1083,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856847",
-        "week": 9,
-        "opponent": "Iowa State",
-        "opponent_id": 66,
+        "event_id": "401856854",
+        "week": 10,
+        "opponent": "Kansas State",
+        "opponent_id": 2306,
         "home_away": "at",
-        "kickoff": "2026-10-31T23:00:00.000Z",
-        "tbd": false,
+        "kickoff": "2026-11-07T05:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Iowa State"
+        "label": "at Kansas State"
       },
       "log": [
         {
@@ -1271,16 +1277,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856737",
-        "week": 9,
-        "opponent": "Mississippi State",
-        "opponent_id": 344,
-        "home_away": "vs",
-        "kickoff": "2026-10-31T23:30:00.000Z",
+        "event_id": "401856743",
+        "week": 10,
+        "opponent": "Missouri",
+        "opponent_id": 142,
+        "home_away": "at",
+        "kickoff": "2026-11-07T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Mississippi State"
+        "label": "at Missouri"
       },
       "log": [
         {
@@ -1664,16 +1670,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858509",
-        "week": 9,
-        "opponent": "Ohio State",
-        "opponent_id": 194,
-        "home_away": "vs",
-        "kickoff": "2026-10-31T23:30:00.000Z",
-        "tbd": false,
+        "event_id": "401858518",
+        "week": 11,
+        "opponent": "Indiana",
+        "opponent_id": 84,
+        "home_away": "at",
+        "kickoff": "2026-11-14T05:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Ohio State"
+        "label": "at Indiana"
       },
       "log": [
         {
@@ -2062,7 +2068,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk90NGVVWV84SWR2TzVYb0UwYWUwR2JpOGtWaVFsMlZuVWtGVDFxbDgzN2JDM0I3UzBTai0xeXZtMXB0cjdmRlRoWm4yQnNkdVJhSWo1M2EwY1F6dy1YbVRtVUw0R2xINUlkbGdkRE5Cb2VKSjluYVRfYk9BQTZLVXlPYThKa1EtUUx5QWtXVHRibHZEOElxVUplMEh3LVlYT1NfdXBfc0FqaS1paG1mMQ?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 7,
+      "age_hours": 11,
       "score": 22
     },
     {
@@ -2071,25 +2077,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazdNeHpjR0pjTUR0SlRWTEwyMjZ1ZUlGbVFlUmtzaXdMWlo5Q0NxazJHNzk2ZFh4NWxuUlZKMUsybHJOMktrV2JTYmcyeUNldUxzNzlzcU94b2dEejlsbTQ4UG1hUHlrNy1VOEtUaldaX1ppV2p3LVBOTGVobHExMlZRMjdZNW9JQklVTUgtamNtNjJPd2JVTzVhN3F6YVBqaXZMTndn?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 11,
+      "age_hours": 15,
       "score": 21
     },
     {
-      "headline": "Ohio State injury report: 11 players ruled out for USC game",
-      "source": "10TV",
-      "domain": "10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQmd6X2RZZ0pnNEExSllzZWxwWkFBbElZT0dWdmtRQjhQMVJLdzViY1hDR2FrbFJldl80Yk9aVjBhT3BVOFNybTVFOE1TS3F3RzFBc1N0eGxpTnZnaHBNUnMxQ0EzZEFzZlVWc0h6QlhtX2t2NVdZN0Ixek54Y2ctQXk4ODR5Y1MyUHd0bGpDMERyNEc4dWtUSWRNQUIxSnM4SkJQYnZRWFRQUXU5TWlDaDliWEdOem5lY3cyNE1KcHRCSVc1U3l4MGdXUXJmU1VubG9lT3JoTjRtaWNyYzgtWHRxR2w3enM?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 0,
-      "score": 21
-    },
-    {
-      "headline": "USC Trojans Injury Report Reveals Major Concern As Pivotal Ohio State Game Looms",
+      "headline": "USC Trojans Final Injury Report vs. Ohio State Buckeyes",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTZKTnhWNTVNSWVyTnJaZmdHdjlST0JSNndYMW9lX1N3RDJHVWY1cnRORXgwNGFiN0U1SHd6N0lBYVJNejhaNWU2OTZiajZZLUNTNVNwYjZsbXhFWFZBd3VzWGp4NmdiOWZvcDFreWZVZ2ZiMTVzNWpaX0ltaExBTDZ5RldyWHp5U2N5RnZkOVlaYWQ2VHdMQlJxYW5lMlFhUEFUSE5pWEtrdmgwSkxkdF9DdTdEUWFNX3p3Xw?oc=5",
-      "player": "Jayden Maiava",
-      "age_hours": 22,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHJsbkdSZFAxU1lYQ2taSnN5NlZNWTRHUncyemRBRTYwTkJzM2JodlFZTnhpX3Nuc193d2tKaDdYektSVTdydHh5bDlrckcyM21wUVdrb3BrRXVzVmw3YkhzMmVuMFYxQ1h0R1otck1YaS1aUGN6QkVfaVpsZXBwN0FTdDBxcDJjcEYycnkzRXhiaWlTaVE?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 4,
       "score": 21
     },
     {
@@ -2098,7 +2095,7 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcnk1OXJJWHFlZERrVjZNSHZZc2FXRmRicld0Mkc0N2dRY1MzaEFCYksxWmN5UXVNNGdQODViRWFwcWpwTkpIQzk2RlQxMUh6UElOeVlHdnR2SG9teDhBZy1ETlMzWG5JelRpaU5GX3AxbXMtYlpfemhjUWZQZ094NHpwcmJtZW1WdFNMXzZpRW5mcWtWVWdLdWY5VWg1d29vUi1Jei1JWk41RzRVUGFrX1M1TFY2YXcta3QxLVRuYVM?oc=5",
       "player": "Noah Fifita",
-      "age_hours": 3,
+      "age_hours": 6,
       "score": 21
     },
     {
@@ -2107,7 +2104,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 591,
+      "age_hours": 595,
       "score": 20
     },
     {
@@ -2116,17 +2113,26 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 351,
+      "age_hours": 355,
       "score": 19
     },
     {
-      "headline": "Can Jeremiah Smith's Heisman Trophy candidacy survive Ohio State's sudden QB shuffle?",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEo2WDhtcnp1NXN4aTJIUnBzaEJSNlhJZ0taNkVhaE9RanlfWHB2UkJZWU5wQmpCU3o0RjYxRVlhU3gyS1YtYUdyUDFuMlVYUlFFS25zZUZ6Z0lFSW1QNlhFdEZOUmwwdXpvWVhudHZyaUQtTkx6eUlFeEhrZ3RpZjBDM09QVk9WdjhPd2s2SXE1Y2RUUWxNRg?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 6,
+      "headline": "NFL 2027 mock draft, top 10 picks: Jets trade up for Drew Mestemaker",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3FPTXdJcWdxUXZVMkcyNmo2M0ZUbm5DUTVFaUwtbWhxbENlVDdpQ0NZUnZsTVZhX1c2QXM2bUc3X05YcEszQ0NTejZmVkVSUUpRZXRXTVc0YjFkYk50VHlYN29VcGxjc2tMYTMybVpVR1FVNExNYmJjUklhb1F5SjcyejlHTlFLLTRvRlRWM2dJcUg4?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 41,
       "score": 18
+    },
+    {
+      "headline": "Oregon's Injury Report Sees One Addition Ahead of Northwestern",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFBR2tPMTVPNnFEY3d4ZnFJTndENFdRb2R4X2Q3RmVxMjZZeXNoSGZDNndnM2Z6eDRfRlBUZ3dKQnVFd3Fubk0zU0R6MzBSUldCRmFqdE52TFRuR195eXE4WmVUeFhSNk9LcGg3V2h4V3pXcVRpNVpyNXNPb0JXNTJDTnB0YnVHQ09SS3dQTGRVekN6YXcyZjNqVkZJeW5kd1VUQWI1aHZObTJZakk3TW52OGY?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 50,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -2142,13 +2148,18 @@
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 31,
+          "pct": 27,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 11,
+          "pct": 12,
           "tracked": true
+        },
+        {
+          "name": "LaNorris Sellers",
+          "pct": 9,
+          "tracked": false
         },
         {
           "name": "Arch Manning",
@@ -2169,14 +2180,9 @@
           "name": "CJ Carr",
           "pct": 2,
           "tracked": true
-        },
-        {
-          "name": "LaNorris Sellers",
-          "pct": 2,
-          "tracked": false
         }
       ],
-      "field_pct": 8,
+      "field_pct": 4,
       "field_count": 14
     },
     {
@@ -2235,46 +2241,46 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 40,
+          "pct": 30,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 24,
+          "pct": 30,
           "tracked": true
         },
         {
           "name": "Malachi Toney",
-          "pct": 19,
+          "pct": 15,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 9,
+          "pct": 7,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 5,
+          "pct": 6,
           "tracked": true
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 3,
+          "pct": 4,
           "tracked": true
+        },
+        {
+          "name": "Jesse Legree",
+          "pct": 4,
+          "tracked": false
         },
         {
           "name": "Gunner Stockton",
           "pct": 2,
           "tracked": false
-        },
-        {
-          "name": "Sam Leavitt",
-          "pct": 2,
-          "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 2,
       "field_count": 41
     }
   ],
