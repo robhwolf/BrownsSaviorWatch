@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T04:38:46.109703+00:00",
+  "updated_at": "2026-11-02T21:25:58.985324+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1135,7 +1135,7 @@
         "opponent": "Kansas State",
         "opponent_id": 2306,
         "home_away": "at",
-        "kickoff": "2026-11-07T17:00:00.000Z",
+        "kickoff": "2026-11-07T18:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
@@ -2193,12 +2193,21 @@
   ],
   "news": [
     {
+      "headline": "Heisman Trophy odds after Week 9: Darian Mensah new favorite after Jeremiah Smith, OSU loses",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3R0MjZEODd6Z2lpcmtwbGVQSmlXMjVaajM5bFNNMkpFbmFoRy1JV1B4WnZIak5SVWlRZk9qekNuRnFvbmw2Zm1tSHB2OFM3V1NFMzl2eWI1VXpuWnk2c1NoU3RFcnV1aEFVaE5MOENYT2wyZEYydFMzZzRoLXhqc0xMQVIyVTNFZjFwZmlFTG8zemVIalJsUVdWbnQ0YTlqQkwySGhUTXBJZS1s?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 8,
+      "score": 20
+    },
+    {
       "headline": "What's next for Dante Moore? Oregon QB's injury leaves 2027 NFL Draft, transfer options in play",
       "source": "CBS Sports",
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 134,
+      "age_hours": 151,
       "score": 19
     },
     {
@@ -2207,7 +2216,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
       "player": "Dante Moore",
-      "age_hours": 286,
+      "age_hours": 302,
       "score": 19
     },
     {
@@ -2216,43 +2225,25 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 382,
+      "age_hours": 398,
       "score": 19
     },
     {
-      "headline": "Ohio State issues don't end at Julian Sayin injury. Arch Manning is another problem",
-      "source": "USA Today",
-      "domain": "usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM2xYbllNT0VhWktaRHdZMTNyNWxPQXJ5Y0tRdDBCd0kxVlNtSE5HdTNNVGlXX1FUdU1Fdzk1TldJaEk4alBFSnA3eUNxRnZJNnRBZWhpdGRCVHVUWmNZLVNRdm1TSnhFN0dDWHo4ZzNycWVyQ1k3Z0VDRWZRdV9ORWY4QWdyYzZDam4tZkdnWWY4SjdzcnR5eFk0MjRoTWZXS3dnY3M1d1BQOFhVeDY2Q2phUnkzem5JTElseXUzNndKbkZ4?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 10,
-      "score": 19
-    },
-    {
-      "headline": "How Darian Mensah\u2019s Clutch Night Helped Miami Escape North Carolina, Boosting His Heisman Case",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2NFMjMtdnMxdTNuZHV4YWZMbE9aaDRZSmNNU3o0eXBxbnBCSnl0bk80MzFYVndKWDZnY0pBM3VMZk01VEw2X05VWmF5dkh6VEZybTFNVXZoRXl2eDJTRWpvc1pBRmNRTC1Zb2dINHgyQ3pMT3NMeDl3TUE3REZMaVRkbG9lQkdGejN5VEVmaXBBTElHR1RaT2VxZWlaZUFJN3ZqS0U0dDBYNXRwWFQtUS1GLWdYQ0dMRFNXNmJRTkpqMTNXM3FvMmR1TmJGTnRw?oc=5",
+      "headline": "2026 Heisman Trophy stock watch: Miami superstars surge while Jeremiah Smith's path to the award narrows",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNldEQjNmRllabi1BVkMtQjBQVlJ5MGNqZ1hRd0ZQMGxwdWEyUDZLeGpYM3poWWRKNjFBM1hmOWNpREhrWEx3cHlHaUZMeFJ3RWg0X1phUThkU3J2ZU0wY0hGdXZGYi0zODZWSjVyY0djaGt1dmRVRXBvdjdKQURVcnFDUFNzMDFTQktuRVduV2EyU1BtT0lJVHB6LXpFRHZwZFRsRWF6N0x5akUtVnhCajdja3Jjb2Jia05TZG81NlJHOHZJaWp5UDhxZzhHMWs?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 23,
+      "age_hours": 5,
       "score": 18
     },
     {
-      "headline": "2026 Heisman Trophy Odds: Darian Mensah Vaults Into Top Spot Ahead of Jeremiah Smith; Can CJ Carr Can Flip Odds?",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYTNoRlNPTmNVbHo1NFU2V244dnpneDBMdlVHY2xEN21PT3hNY0FLYnBOQjN3cU1RV2ZQQjlYU0VLTHpxM3hwSGFRd2FhSHREQUlzLXFpRGs0WnNQSFFwQ1ljMG8tWVFOZnA3cE5EdnR0c04wRE5pWHlpa0V6Y1gxcXUzTndXa3FCRm4yenF1X1ZHREYwYUE1MmpWNV9SejBaQ0x3R3N6WnprOFo3Qk9KcnBLMm1yN0pMbjFBRTFEVXl1SU84dW13UGhiTTdncjV0NWc?oc=5",
+      "headline": "2026 Heisman Trophy picks, predictions: Darian Mensah overtakes Jeremiah Smith with Miami-Notre Dame looming",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbzh5aDIzc2xqUnJLak9LSlpablRQYUtRMDdIaVZzR1JHVWN1eUMxeXlvcE9CM3pwRmpyMllUZDFFc085Q3FZQTdabEh1YjMtMjlCUml6VWlDQUdveHpaX0ExVk9TZDV2Tlh2OC1hZkRVVE04ckdjcnA0bkhsLTJ6RVZxWkw1V2JTSlgtcklPM3NzNGFqSWM5RXRpNUV6QjF4SVo2OVA4X2h2bldZRnVNZWZRQUlqQlNfcWJYNnprRzE5ZmZQNjVocFJ6QmFxdnFnb09TdmVPN3VJalkxRkd1eUxyWQ?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 13,
-      "score": 18
-    },
-    {
-      "headline": "Heisman Odds Week 10: New Betting Favorite Overtakes Jeremiah Smith",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGhZaTBEZWVsVmJTMVoxU3ZJbHp1RlBVZW1hd0JMbTJWZjdyUFdwTi1WX0UybklHOU5wRzhXMTBfRTdqanZ6MXJUV00wMS1yYlVnc3NRUDdOejdDM2I3WHpWb3duSWstM1M5cU9BUW5pU25HeGdwaXVWenRLY3JLQzMzXy15QmVUcmttRmFPUHhyYzdRaWp1SjludElnalFEaXhHY1plaGg0TnJiX0ptQ2JiTHZDNVVZMGFRcVZ4eHA1UG9NUnF6cEtR?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 14,
+      "age_hours": 3,
       "score": 18
     },
     {
@@ -2261,8 +2252,17 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk90NGVVWV84SWR2TzVYb0UwYWUwR2JpOGtWaVFsMlZuVWtGVDFxbDgzN2JDM0I3UzBTai0xeXZtMXB0cjdmRlRoWm4yQnNkdVJhSWo1M2EwY1F6dy1YbVRtVUw0R2xINUlkbGdkRE5Cb2VKSjluYVRfYk9BQTZLVXlPYThKa1EtUUx5QWtXVHRibHZEOElxVUplMEh3LVlYT1NfdXBfc0FqaS1paG1mMQ?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 38,
+      "age_hours": 54,
       "score": 18
+    },
+    {
+      "headline": "Trinidad Chambliss is Closing in On an Ole Miss Record",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcG1fRlkxQTRFbXowak5jazBPTkQtUk1zRkZzOU9Wa2g3MlJTZXItU1RGSUVtU0tFbThjOXItVDhGZzd2MkxBWWpfYjJielRWanNYYm9XRzhmRlpmWmN3SFpfYW1zeUFpc3U4eGE0clRnYUNVa2dGZGZIOWwzc0pNeEEybWU5TVI3MnF4VDd2Ylh1ZExwSVBOc2RlZw?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 22,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -2272,37 +2272,37 @@
       "url": "https://kalshi.com/markets/kxnfldraftpick/nfl-draft-pick/kxnfldraftpick-27-1",
       "candidates": [
         {
-          "name": "Drew Mestemaker",
-          "pct": 43,
-          "tracked": true
-        },
-        {
           "name": "Jeremiah Smith",
-          "pct": 29,
+          "pct": 34,
           "tracked": false
         },
         {
+          "name": "Drew Mestemaker",
+          "pct": 33,
+          "tracked": true
+        },
+        {
           "name": "Darian Mensah",
-          "pct": 10,
+          "pct": 8,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 8,
-          "tracked": true
-        },
-        {
-          "name": "Trinidad Chambliss",
-          "pct": 8,
+          "pct": 7,
           "tracked": true
         },
         {
           "name": "LaNorris Sellers",
-          "pct": 5,
+          "pct": 6,
           "tracked": false
         },
         {
           "name": "Arch Manning",
+          "pct": 4,
+          "tracked": true
+        },
+        {
+          "name": "Trinidad Chambliss",
           "pct": 4,
           "tracked": true
         },
@@ -2312,7 +2312,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 2,
       "field_count": 14
     },
     {
@@ -2321,23 +2321,28 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
-          "name": "Los Angeles C",
-          "pct": 40,
-          "tracked": false
-        },
-        {
           "name": "Tennessee",
-          "pct": 34,
+          "pct": 35,
           "tracked": false
         },
         {
           "name": "Miami",
-          "pct": 29,
+          "pct": 26,
           "tracked": false
         },
         {
           "name": "New York J",
-          "pct": 18,
+          "pct": 24,
+          "tracked": false
+        },
+        {
+          "name": "Los Angeles C",
+          "pct": 17,
+          "tracked": false
+        },
+        {
+          "name": "Philadelphia",
+          "pct": 7,
           "tracked": false
         },
         {
@@ -2346,17 +2351,12 @@
           "tracked": false
         },
         {
-          "name": "Indianapolis",
-          "pct": 3,
-          "tracked": false
-        },
-        {
-          "name": "Philadelphia",
-          "pct": 3,
-          "tracked": false
-        },
-        {
           "name": "Cleveland",
+          "pct": 2,
+          "tracked": false
+        },
+        {
+          "name": "Indianapolis",
           "pct": 2,
           "tracked": false
         }
@@ -2371,27 +2371,27 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 38,
+          "pct": 36,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 24,
+          "pct": 22,
           "tracked": false
         },
         {
           "name": "Malachi Toney",
-          "pct": 16,
+          "pct": 18,
           "tracked": false
         },
         {
-          "name": "CJ Carr",
+          "name": "Trinidad Chambliss",
           "pct": 7,
           "tracked": true
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 4,
+          "name": "CJ Carr",
+          "pct": 7,
           "tracked": true
         },
         {
@@ -2410,7 +2410,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 6,
+      "field_pct": 5,
       "field_count": 41
     }
   ],
