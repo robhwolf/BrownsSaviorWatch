@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T04:58:24.175110+00:00",
+  "updated_at": "2026-11-04T19:24:24.732795+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -99,31 +99,10 @@
         "color": "#13294b"
       },
       "status": {
-        "event_id": "401856735",
-        "week": 9,
-        "opponent": "Auburn",
-        "opponent_id": 2,
-        "home_away": "vs",
-        "kickoff": "2026-10-31T16:45:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "45-15",
-        "label": "W 45-15 vs Auburn"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 22,
-        "att": 34,
-        "pass_yds": 263,
-        "pass_td": 2,
-        "int": 1,
-        "rush_att": 7,
-        "rush_yds": 65,
-        "rush_td": 1,
-        "comp_pct": 64.7,
-        "ypa": 7.7
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856741",
         "week": 10,
@@ -465,31 +444,10 @@
         "color": "#0c2340"
       },
       "status": {
-        "event_id": "401859185",
-        "week": 9,
-        "opponent": "Navy",
-        "opponent_id": 2426,
-        "home_away": "at",
-        "kickoff": "2026-10-31T16:00:00.000Z",
-        "tbd": false,
-        "neutral": true,
-        "state": "final",
-        "result": "W",
-        "score": "35-13",
-        "label": "W 35-13 at Navy"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 19,
-        "att": 29,
-        "pass_yds": 210,
-        "pass_td": 2,
-        "int": 0,
-        "rush_att": 2,
-        "rush_yds": 4,
-        "rush_td": 0,
-        "comp_pct": 65.5,
-        "ypa": 7.2
-      },
+      "game": null,
       "next_game": {
         "event_id": "401858291",
         "week": 10,
@@ -1978,31 +1936,18 @@
         "color": "#cc0033"
       },
       "status": {
-        "event_id": "401856842",
-        "week": 9,
-        "opponent": "Texas Tech",
-        "opponent_id": 2641,
-        "home_away": "at",
-        "kickoff": "2026-10-31T16:00:00.000Z",
+        "event_id": "401856855",
+        "week": 10,
+        "opponent": "TCU",
+        "opponent_id": 2628,
+        "home_away": "vs",
+        "kickoff": "2026-11-07T03:15:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "L",
-        "score": "26-34",
-        "label": "L 26-34 at Texas Tech"
+        "state": "scheduled",
+        "label": "vs TCU"
       },
-      "game": {
-        "cmp": 33,
-        "att": 45,
-        "pass_yds": 417,
-        "pass_td": 1,
-        "int": 0,
-        "rush_att": 10,
-        "rush_yds": -25,
-        "rush_td": 0,
-        "comp_pct": 73.3,
-        "ypa": 9.3
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856855",
         "week": 10,
@@ -2193,12 +2138,21 @@
   ],
   "news": [
     {
+      "headline": "Jordon Davison Injury Reshapes Oregon's Running Back Depth Ahead of Ohio State",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnRzOVlhRy1hWUY3aFgyUk03TzZuLWpaTmtaa1k0alBobUdJVGdVa2dTTlhzY1hvNUJ0M2VEdTEyUVgyQmtpbDBwcHRaTElnR1ZoYlM1VjE4cTZ5d05kRnVhYVZPX0VxM29INF9mY1psVFR1c0JiUU1nZndGR05Ib3cyMXlXWGdodmFQUjBrQ2JEM1JRdElid1Ficzhkby1jWTdGUE1zOVNXRGM3UURJUVlWcFM4Wlk?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 3,
+      "score": 21
+    },
+    {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
       "source": "CBS Sports",
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 670,
+      "age_hours": 684,
       "score": 20
     },
     {
@@ -2207,8 +2161,17 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 430,
+      "age_hours": 444,
       "score": 19
+    },
+    {
+      "headline": "CJ Carr's Shot at the Heisman Comes Down to Miami",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sbDhoQVVkMzk1VnJfTzNGRlBaNHAxWFIyR1o5OVNaaE5fNlRwZWxxS3RlTTFuNWdQRDZJY1I1dWltczBnZ1phbDd4TDJvd3I1SnVkeUFSZkRyVHJMY0FKSi1vaFZLRk9fR3dSbGVLbnEwVkdic0E?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 11,
+      "score": 18
     },
     {
       "headline": "2026 Heisman Trophy Odds: Darian Mensah surges as Polymarket favorite after Week 9 of season",
@@ -2216,25 +2179,25 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXV6WDRxcEdZeTB2WXNfaGdmQzNCR2Z5RVBXakNOZU1sdXU5dU1aNlB0QmxOX25NcFRwQV9jdC00b3dOV0U2akdGWHNucVEwbmxrUkpMSWw3R3NZN3JIcFI4aWZPaEU2MlptTS1CTFVCUkJscE9oTjg1RVhDNGgwbDVETm1yRWphcXlSQy16YTJSamd5X2dMOEd0SER6WEVVMG1SZWY5RWpacmRsY29FM3J2ZlY0OWdZazlVNWxn?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 8,
+      "age_hours": 22,
       "score": 18
     },
     {
-      "headline": "\u201cTrick Trinidad\u201d is back: Former NFL player picks Ole Miss to beat Georgia",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdV9XSG1HMnlWU3NtQ0RVa0laZzJtajhndDdjM0owbTFTbEQ5YzdtSk05eUxJeWh5a2V5UjN1MkNpbWN0N3Z1dm5zbzhkX1Y0OFY3MDBZUEwtMGVZdk1rbkk3cnd6eUVEZUN6N1RPN0ozZjFVeHNRdE53ZjBhWEVuQXBtWWk2NHRKVWFobE5xSEdGem4yMHZFZFYyWnpjOTYxTkk5YW9yR2xvSFFXX3ZiVlVyQzY3R3A5dmEw?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 13,
-      "score": 17
+      "headline": "Heisman Watch: Will Julian Sayin's injury ultimately derail Jeremiah Smith's Heisman hopes?",
+      "source": "Yahoo Sports",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVHRta0ZYY3NxTEYwbGhUWXBEUFdodlYyODRPZ2E1OGlMM2ZRSjRoZGd4Z0lUTE9UcS1wNFV3YUVzLXdncVR3ZWZsZVcwbmVMSUNWRHlfVzdwZzdrNmx1MkNfTlNzWks4ZHd5ZG04V3VnU3IxU0xoRWJwOGg5V2VNcXZzS2tWeVRyUnBWbXZpcTNMdFh5TTl5R083dzNXTjNJT3R3WmRFd2V0TEtMUnFHdmhHa2h0WVNmbWttYXpOZS1lZmtKeGlaS2pXS29uUDc2cTJPN3BfZFc2aUpRY3lUQUxiSmRmbWc?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 4,
+      "score": 18
     },
     {
-      "headline": "Why Notre Dame\u2019s season rides on what goes through CJ Carr\u2019s mind before the snap",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGEtRDlvNk5VRVdXMVc5TTJ5am1Dek9YdjlkRWc4enhxYjZrdTl6cUgydmd4eDhRb0NwVm5JYkc5b0g2eGhvSGVnTElxaHhsVVppcEl5aU9QOUVJbFNpY1pOT0RuY29vVnBjTXQxQkU3SUszdkhhRGlmYV85YzRhRTlVS3pEeXFNSmQ5VEdkLTVwalk?oc=5",
+      "headline": "What Notre Dame is using to build its offensive supporting cast around CJ Carr",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckNaenBOanFEWU85cEtBeldmeEswTm5nS3FnOWFaM1NESXdLOTNWX0F3THE2aW9RdlZWMHFselViZVZOZ29wYWVNQ1pxVVBIRG42SGNPSnVUMk91STlNcldBT1JlWGdieDRjS21kZXRqaDlYT053NWYyN1pvZklEVnk1SlRyQ0Nw?oc=5",
       "player": "CJ Carr",
-      "age_hours": 18,
+      "age_hours": 5,
       "score": 17
     },
     {
@@ -2243,26 +2206,8 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORHYydEpXYnAtQUJVNVVuNW5ycnhsUXNRTWZncU1rT2hka1F2ZjR4LU1vVnNwNHF3TkdBaDF4eXJJdEIxNjFWYlY0dldZaUVXWFdWTkgzZmpHQ2tvSWwzakwxS0wxVzUzMXNtR0N2Nzk2RlFMelhtcWZ6REtibU1NSndJLXZrRWplR1dRbWhYVnBvbDlIUDJXVg?oc=5",
       "player": "Arch Manning",
-      "age_hours": 9,
+      "age_hours": 24,
       "score": 17
-    },
-    {
-      "headline": "Oregon quarterback Dante Moore sustains concussion from hit at USC",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 910,
-      "score": 16
-    },
-    {
-      "headline": "Heisman Trophy odds after Week 9: Darian Mensah new favorite after Jeremiah Smith, OSU loses",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3R0MjZEODd6Z2lpcmtwbGVQSmlXMjVaajM5bFNNMkpFbmFoRy1JV1B4WnZIak5SVWlRZk9qekNuRnFvbmw2Zm1tSHB2OFM3V1NFMzl2eWI1VXpuWnk2c1NoU3RFcnV1aEFVaE5MOENYT2wyZEYydFMzZzRoLXhqc0xMQVIyVTNFZjFwZmlFTG8zemVIalJsUVdWbnQ0YTlqQkwySGhUTXBJZS1s?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 39,
-      "score": 16
     }
   ],
   "kalshi": [
@@ -2273,12 +2218,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 34,
+          "pct": 37,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 31,
+          "pct": 33,
           "tracked": false
         },
         {
@@ -2307,12 +2252,12 @@
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 3,
+          "name": "Julian Sayin",
+          "pct": 2,
           "tracked": true
         }
       ],
-      "field_pct": 2,
+      "field_pct": 0,
       "field_count": 14
     },
     {
@@ -2321,28 +2266,28 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
-          "name": "Miami",
-          "pct": 30,
-          "tracked": false
-        },
-        {
           "name": "Tennessee",
-          "pct": 30,
+          "pct": 31,
           "tracked": false
         },
         {
-          "name": "New York J",
-          "pct": 19,
+          "name": "Miami",
+          "pct": 23,
           "tracked": false
         },
         {
           "name": "Los Angeles C",
-          "pct": 11,
+          "pct": 19,
+          "tracked": false
+        },
+        {
+          "name": "New York J",
+          "pct": 17,
           "tracked": false
         },
         {
           "name": "Philadelphia",
-          "pct": 7,
+          "pct": 8,
           "tracked": false
         },
         {
@@ -2370,34 +2315,29 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "Darian Mensah",
+          "name": "Jeremiah Smith",
           "pct": 34,
+          "tracked": false
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 32,
           "tracked": true
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 26,
-          "tracked": false
-        },
-        {
-          "name": "Malachi Toney",
-          "pct": 21,
-          "tracked": false
-        },
-        {
           "name": "CJ Carr",
-          "pct": 11,
+          "pct": 12,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 5,
+          "pct": 8,
           "tracked": true
         },
         {
-          "name": "Sam Leavitt",
-          "pct": 2,
-          "tracked": true
+          "name": "Malachi Toney",
+          "pct": 4,
+          "tracked": false
         },
         {
           "name": "Julian Sayin",
@@ -2408,9 +2348,14 @@
           "name": "Gunner Stockton",
           "pct": 1,
           "tracked": false
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 1,
+          "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 7,
       "field_count": 41
     }
   ],
@@ -2474,7 +2419,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 9,
+    "games_matched": 7,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
