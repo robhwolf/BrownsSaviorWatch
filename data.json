@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:10:36.187043+00:00",
+  "updated_at": "2026-11-07T23:13:32.216559+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -324,16 +324,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858514",
-        "week": 10,
-        "opponent": "Ohio State",
-        "opponent_id": 194,
-        "home_away": "at",
-        "kickoff": "2026-11-07T20:30:00.000Z",
+        "event_id": "401858523",
+        "week": 11,
+        "opponent": "Michigan",
+        "opponent_id": 130,
+        "home_away": "vs",
+        "kickoff": "2026-11-14T20:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Ohio State"
+        "label": "vs Michigan"
       },
       "log": [
         {
@@ -878,16 +878,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858514",
-        "week": 10,
-        "opponent": "Oregon",
-        "opponent_id": 2483,
+        "event_id": "401858522",
+        "week": 11,
+        "opponent": "Northwestern",
+        "opponent_id": 77,
         "home_away": "vs",
-        "kickoff": "2026-11-07T20:30:00.000Z",
+        "kickoff": "2026-11-14T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Oregon"
+        "label": "vs Northwestern"
       },
       "log": [
         {
@@ -1065,10 +1065,23 @@
         "kickoff": "2026-11-07T18:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Kansas State"
+        "state": "final",
+        "result": "W",
+        "score": "66-28",
+        "label": "W 66-28 at Kansas State"
       },
-      "game": null,
+      "game": {
+        "cmp": 22,
+        "att": 28,
+        "pass_yds": 313,
+        "pass_td": 4,
+        "int": 1,
+        "rush_att": 3,
+        "rush_yds": 11,
+        "rush_td": 1,
+        "comp_pct": 78.6,
+        "ypa": 11.2
+      },
       "next_game": {
         "event_id": "401856863",
         "week": 11,
@@ -1235,24 +1248,43 @@
           "result": "L",
           "score": "49-51",
           "date": "2026-10-31T23:00:00.000Z"
+        },
+        {
+          "cmp": 22,
+          "att": 28,
+          "pass_yds": 313,
+          "pass_td": 4,
+          "int": 1,
+          "rush_att": 3,
+          "rush_yds": 11,
+          "rush_td": 1,
+          "comp_pct": 78.6,
+          "ypa": 11.2,
+          "event_id": "401856854",
+          "week": 10,
+          "opponent": "Kansas State",
+          "home_away": "at",
+          "result": "W",
+          "score": "66-28",
+          "date": "2026-11-07T18:00:00.000Z"
         }
       ],
       "season": {
-        "games": 8,
-        "record": "5-3",
-        "cmp": 184,
-        "att": 281,
-        "comp_pct": 65.5,
-        "pass_yds": 2649,
-        "ypa": 9.4,
-        "pass_td": 25,
-        "int": 7,
-        "td_int": "25-7",
-        "rush_yds": 166,
-        "rush_td": 2,
-        "total_td": 27,
-        "ypg": 331,
-        "rating": 169.0,
+        "games": 9,
+        "record": "6-3",
+        "cmp": 206,
+        "att": 309,
+        "comp_pct": 66.7,
+        "pass_yds": 2962,
+        "ypa": 9.6,
+        "pass_td": 29,
+        "int": 8,
+        "td_int": "29-8",
+        "rush_yds": 177,
+        "rush_td": 3,
+        "total_td": 32,
+        "ypg": 329,
+        "rating": 173.0,
         "epa_per_play": null
       }
     },
@@ -1278,10 +1310,23 @@
         "kickoff": "2026-11-07T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Missouri"
+        "state": "final",
+        "result": "W",
+        "score": "34-20",
+        "label": "W 34-20 at Missouri"
       },
-      "game": null,
+      "game": {
+        "cmp": 28,
+        "att": 38,
+        "pass_yds": 297,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 6,
+        "rush_yds": -29,
+        "rush_td": 0,
+        "comp_pct": 73.7,
+        "ypa": 7.8
+      },
       "next_game": {
         "event_id": "401856885",
         "week": 11,
@@ -1447,24 +1492,43 @@
           "result": "W",
           "score": "31-3",
           "date": "2026-10-31T23:30:00.000Z"
+        },
+        {
+          "cmp": 28,
+          "att": 38,
+          "pass_yds": 297,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 6,
+          "rush_yds": -29,
+          "rush_td": 0,
+          "comp_pct": 73.7,
+          "ypa": 7.8,
+          "event_id": "401856743",
+          "week": 10,
+          "opponent": "Missouri",
+          "home_away": "at",
+          "result": "W",
+          "score": "34-20",
+          "date": "2026-11-07T17:00:00.000Z"
         }
       ],
       "season": {
-        "games": 8,
-        "record": "6-2",
-        "cmp": 141,
-        "att": 217,
-        "comp_pct": 65.0,
-        "pass_yds": 1731,
+        "games": 9,
+        "record": "7-2",
+        "cmp": 169,
+        "att": 255,
+        "comp_pct": 66.3,
+        "pass_yds": 2028,
         "ypa": 8.0,
-        "pass_td": 15,
+        "pass_td": 18,
         "int": 7,
-        "td_int": "15-7",
-        "rush_yds": 109,
+        "td_int": "18-7",
+        "rush_yds": 80,
         "rush_td": 2,
-        "total_td": 17,
-        "ypg": 216,
-        "rating": 148.3,
+        "total_td": 20,
+        "ypg": 225,
+        "rating": 150.9,
         "epa_per_play": null
       }
     },
@@ -1495,16 +1559,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856740",
-        "week": 10,
-        "opponent": "Alabama",
-        "opponent_id": 333,
+        "event_id": "401856885",
+        "week": 11,
+        "opponent": "Texas",
+        "opponent_id": 251,
         "home_away": "vs",
-        "kickoff": "2026-11-07T20:30:00.000Z",
-        "tbd": false,
+        "kickoff": "2026-11-14T05:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Alabama"
+        "label": "vs Texas"
       },
       "log": [
         {
@@ -2131,8 +2195,17 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 9,
+      "age_hours": 2,
       "score": 22
+    },
+    {
+      "headline": "Oregon Ducks' Final Injury Update Released Before Ohio State Buckeyes Game",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmV5eWxROXhWUDFtdDczQ3E1bkxnOTBiQTJTNTBHdndrQTZONGdUbTd2TWRDUmlibW5pbkZ0b1o1bktIRnBBT3BjaU5iR0cwX3lEVkYybWZIbDMxcHdGXzYxZzM4ZnFXZlAtZjZvREtwNHBTaVA3Uk9HWjdvdldJMHFPM1NSVWtZU3JUTlJNbFhfak1QVjFSbFdaTTRWX0RaQmxtR2htWnJycV9hcVE?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 5,
+      "score": 21
     },
     {
       "headline": "Oregon Receiver Jeremiah McClellan's Injury Status Unchanged Despite Update",
@@ -2140,16 +2213,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHBLd3BSdGxOMVVWS2d6UXhQWWdVNzN1RlJMVTRpNzNDeEhiempVWGdYYzctZzV2ZUt0YmozcUEtYXNmaHFELVpaRVVPVjlIMV9NR2JxZG9BQVNwN0ZzLW9ZU2lNVlNwQkhPRzFEOUdqY05mMzNRdWpVamFZa0pQQjV3VjltX2xOVGFIN3FqTVZWczRjRzJNdVFVRFlDbW9tN1lpeXN0N3I?oc=5",
       "player": "Dante Moore",
-      "age_hours": 18,
+      "age_hours": 22,
       "score": 21
     },
     {
-      "headline": "Julian Sayin\u2019s injury and surgery timeline revealed \u2014 Ryan Day may have hinted on his future at Ohio State",
-      "source": "A to Z Sports",
-      "domain": "atozsports.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYlU1Vi13WXdjWjA3c25WemhKNENVZUZQWFlnNE4teWN5S2h3N1Nab2kwM3NiRkV0azZvY3VXeFVMaDFHSzRjdmwyNlJTWlNtTnFFeWZIcEpmcl8wbDRkTEZmdXlINVUyR2Y0QnRUM1VILW9hNVBGeE9Mck9OSi00WFI3Xy1ud1dobjA3RVhrY2V1dzdiLXVfdlQzb1pBMElESXJoZFNHeWJJOFRueHBYbWJLN3JReThlQzB1ZzZIOVJYMkJwRHpXYmxEQzhRZzdIdVlFZG1oNlZFd2ZMS01wNUhmMkM5TWlfVUoxYVEwR1JQMlBTb2ZsYU1HVjBUQQ?oc=5",
+      "headline": "Julian Sayin's injury and surgery timeline revealed - Ryan Day may have hinted on his future at Ohio State",
+      "source": "Yahoo Sports",
+      "domain": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXZKN1RNaXdDdWxadFdhRWZCcGVVbzVEUVptdDBnSXpjM1pTSlBhVnA4Zi1mdWJoT2Vzc1Y2QURpQ2NUZnlQZDhYSE10Yml3ME9zbm1CbjJmb3YyYjduRkFoS3pyMXZWZTVpeXZRdHdTVGxWYmVVZ1VOLVNiQ19KMHQ2eHp0NHduZWxSampYVQ?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 5,
+      "age_hours": 9,
       "score": 21
     },
     {
@@ -2158,25 +2231,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 756,
-      "score": 20
-    },
-    {
-      "headline": "NFL Draft No. 1 Pick Market on Kalshi: Drew Mestemaker vs. Jeremiah Smith",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVE5IMlZQb1RTLXEwc01aLWZqRHZSVkwzdUw0eVlSM1RNX2VaVnBEV0pSM0xmeEhSWk9qbWZWc2M3Y3hPQTF3WXFEdjRDZmhpOWJxZkQzUnAtSDhXMVZJWXlrbkdUV3FkUnRvX1JPZmxSaVFqcmVjNEdVVmtnaE91bTdyRWFNYVk5WXEyT3VsWTRoUFY5SzlHb2NqVWpjcXVVMzhtZWVFR3dXOXA3QndaamtNOUxnMEFUMnJVVjF3?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 7,
-      "score": 20
-    },
-    {
-      "headline": "How Justin Bowick\u2019s NFL Draft Stock Has Surged Since Joining Oklahoma State",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWVDZS1tdFBpQXgzajV3SFhVSEtZVXVyYzNwR0l4MmpmczBSZkNuVWotam1xYnY5SVBJNVY0VC0wNnlFa1kxdkZjNlpxaEV2Qmd5b1JfM2pXcExNMmZXYmlfU0VOaTI0ZUFvYjhWY1cycUU3dkpVejZFY3FzdDI4Y3hiMHF4QmxBM1ZYOUhyNV9fZjZPdEY4cWk0U2tlWEhzQnRSS0lqdHhpc2RFM3dKbHIxZjg2V1dPVXNzZVRR?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 20,
+      "age_hours": 760,
       "score": 20
     },
     {
@@ -2185,7 +2240,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 516,
+      "age_hours": 520,
       "score": 19
     },
     {
@@ -2194,8 +2249,17 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3lqUk5CRmR5eWtoNUVUWTF0cGxzRGU3T0JUeHFFUF9DV0hObncyT2VSdmlMejgzby1ubmw3QW81ajBCSDhyRUZoajJEMFZWbk5hT05OU3hCb3FLOGplRFVaTlRSakxCUlVzZEhubDhsQ3QzN2tNbXNfdnJzNktzc1Z0M3k3N1pqWjY1eFI3X1dhMUlpdTJhSWt2MFRqNXpfaDhPWi1tWXQ5SWdhSFljRndzNDZJWnUzcmFLOTFNRVVOY0JUeUEwdDZYNmpfblMwZm55NS1Eck91b3pnOW5V?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 32,
+      "age_hours": 36,
       "score": 19
+    },
+    {
+      "headline": "How Miami QB Darian Mensah Can Boost His Heisman Case Against Notre Dame",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzU4bVJNRXI5dEJCa1RReS1ZWjZXM3FQS182eXVIb2dVNVgtLVZjOTVpd08ya3NQS0kwTG5TWHlsS2p5bllWYmhiZG1fUUVHNlh3bENudG5ndmhDc2haelo1bThDMEYxZW1tNGp6Qk4yQm91RERxNDNNSlMxZHhQUXNYd1NrcE5vS3Z5VWllb3RuNmZJblFVRmt2Z1hiQUh1a1VSVGVySUExQVhrYnBWN2ZZTnpsM2l1bGZUTUJB0gG-AUFVX3lxTE5EdGNSRDNqV2lHWHlwUGlvX3dlNEVjSi1ZS1RVdnpzNnlyMU93YjQ4UW9Za05QeDZFMnhtbEl1ZUJGZDd5MzRRdVVEVU02NGV2Qm9lYjRBbzJPSzNOemFoZ0hjSUlVb3BoZDBYd1I1NFk5NklfU2FRNW9iV2lMekM1SHV0WmJqRTdfd2JOVUJhbUlzRGR3M0ZnZncyZFVIQnhydUpUVXpfcjcyU1l0bTRMTVZIQ00zc0pYQkJIYUE?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 6,
+      "score": 18
     }
   ],
   "kalshi": [
@@ -2206,17 +2270,22 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 38,
+          "pct": 42,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 24,
+          "pct": 27,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
           "pct": 10,
+          "tracked": true
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 8,
           "tracked": true
         },
         {
@@ -2230,11 +2299,6 @@
           "tracked": false
         },
         {
-          "name": "Arch Manning",
-          "pct": 3,
-          "tracked": true
-        },
-        {
           "name": "LaNorris Sellers",
           "pct": 3,
           "tracked": false
@@ -2245,7 +2309,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 8,
+      "field_pct": 0,
       "field_count": 14
     },
     {
@@ -2303,18 +2367,18 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "Jeremiah Smith",
-          "pct": 39,
-          "tracked": false
-        },
-        {
           "name": "Darian Mensah",
           "pct": 29,
           "tracked": true
         },
         {
+          "name": "Jeremiah Smith",
+          "pct": 20,
+          "tracked": false
+        },
+        {
           "name": "CJ Carr",
-          "pct": 17,
+          "pct": 20,
           "tracked": true
         },
         {
@@ -2328,13 +2392,13 @@
           "tracked": true
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 2,
+          "name": "Devon Dampier",
+          "pct": 4,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 2,
+          "pct": 3,
           "tracked": true
         },
         {
@@ -2343,7 +2407,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 6,
       "field_count": 42
     }
   ],
