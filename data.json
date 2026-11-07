@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:57:33.424929+00:00",
+  "updated_at": "2026-11-07T19:10:36.187043+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1070,16 +1070,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856854",
-        "week": 10,
-        "opponent": "Kansas State",
-        "opponent_id": 2306,
-        "home_away": "at",
-        "kickoff": "2026-11-07T18:00:00.000Z",
-        "tbd": false,
+        "event_id": "401856863",
+        "week": 11,
+        "opponent": "Texas Tech",
+        "opponent_id": 2641,
+        "home_away": "vs",
+        "kickoff": "2026-11-14T05:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Kansas State"
+        "label": "vs Texas Tech"
       },
       "log": [
         {
@@ -1283,16 +1283,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856743",
-        "week": 10,
-        "opponent": "Missouri",
-        "opponent_id": 142,
+        "event_id": "401856885",
+        "week": 11,
+        "opponent": "LSU",
+        "opponent_id": 99,
         "home_away": "at",
-        "kickoff": "2026-11-07T17:00:00.000Z",
-        "tbd": false,
+        "kickoff": "2026-11-14T05:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Missouri"
+        "label": "at LSU"
       },
       "log": [
         {
@@ -2126,21 +2126,12 @@
   ],
   "news": [
     {
-      "headline": "Dave Hyde: NFL Scout Reveals Why Malachi Toney's Injury Creates a Defining Moment for Darian Mensah",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3lqUk5CRmR5eWtoNUVUWTF0cGxzRGU3T0JUeHFFUF9DV0hObncyT2VSdmlMejgzby1ubmw3QW81ajBCSDhyRUZoajJEMFZWbk5hT05OU3hCb3FLOGplRFVaTlRSakxCUlVzZEhubDhsQ3QzN2tNbXNfdnJzNktzc1Z0M3k3N1pqWjY1eFI3X1dhMUlpdTJhSWt2MFRqNXpfaDhPWi1tWXQ5SWdhSFljRndzNDZJWnUzcmFLOTFNRVVOY0JUeUEwdDZYNmpfblMwZm55NS1Eck91b3pnOW5V?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 24,
-      "score": 23
-    },
-    {
       "headline": "QB Darian Mensah is following Cam Ward\u2019s Miami blueprint as his NFL Draft stock rises",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 1,
+      "age_hours": 9,
       "score": 22
     },
     {
@@ -2149,35 +2140,17 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHBLd3BSdGxOMVVWS2d6UXhQWWdVNzN1RlJMVTRpNzNDeEhiempVWGdYYzctZzV2ZUt0YmozcUEtYXNmaHFELVpaRVVPVjlIMV9NR2JxZG9BQVNwN0ZzLW9ZU2lNVlNwQkhPRzFEOUdqY05mMzNRdWpVamFZa0pQQjV3VjltX2xOVGFIN3FqTVZWczRjRzJNdVFVRFlDbW9tN1lpeXN0N3I?oc=5",
       "player": "Dante Moore",
-      "age_hours": 10,
-      "score": 21
-    },
-    {
-      "headline": "Ohio State QB Julian Sayin 'Healing' From Arm Injury, No Timetable For Return",
-      "source": "FOX Sports",
-      "domain": "foxsports.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUFtdEJHNFlVR0RNbG1PemFuS0lycHBTWU9EcVA1QjBpS1FwT05IaFQxQ3ROOHBFd1B6TFowZFJ3N1JFNGJLMURvWmxTMzRTZWtfalVTZzFTbEFmdDZGWm9HOHJ0TkhTaW51NjF4eDVZTTFjbHJWUm9lUXh5aXVacnUtcDIzVjBnSFdSUzliWFR4WXB1STdJLWk1ZUltQW0wcnpnOWhn0gGmAUFVX3lxTFBCZHR4UExYVEp0MldCQVNUaXdBNEQ1Tnp6clNOTXU3dzZ3RkhLWHJIYm80YjJEY3AwRWRiZ3ItTjdKMjFHX0Q1cVBMNEFOR2dXd3RiNmhRS1BkZWUxeUQ2VU11N3FpcHE3aDNGQk5QN3VILUwtWVVNT0gzYVowMWZGMUpLTEFKVFpyaVp0c0pSOHZseWlTQTZ0Njd4RzhjUlc2WG9nMmc?oc=5",
-      "player": "Julian Sayin",
       "age_hours": 18,
       "score": 21
     },
     {
-      "headline": "No. 7 Texas vs. No. 18 Missouri: How to Watch, Odds, Injuries, and More",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnNCRTY3N0tqYndKMkZaaVdsc1hWUzhvRWR4b2FKMmw3bENxZ2xyRUVwVUlyZk9ZMVFsaDVCU1hxcEpXR3NGalJvSjk2NWxZN1laVzdWZmZ1cWduaGxNaGRZTXNRd3VtTnpPVjFETlBGNE9uLVktTncyMEhpWDd2WHJrVC1GVkFtTFQ3UEE3ZElPNmkxU3kxekdkMG1zelhWcDRiZTQwdVJFUQ?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 22,
+      "headline": "Julian Sayin\u2019s injury and surgery timeline revealed \u2014 Ryan Day may have hinted on his future at Ohio State",
+      "source": "A to Z Sports",
+      "domain": "atozsports.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYlU1Vi13WXdjWjA3c25WemhKNENVZUZQWFlnNE4teWN5S2h3N1Nab2kwM3NiRkV0azZvY3VXeFVMaDFHSzRjdmwyNlJTWlNtTnFFeWZIcEpmcl8wbDRkTEZmdXlINVUyR2Y0QnRUM1VILW9hNVBGeE9Mck9OSi00WFI3Xy1ud1dobjA3RVhrY2V1dzdiLXVfdlQzb1pBMElESXJoZFNHeWJJOFRueHBYbWJLN3JReThlQzB1ZzZIOVJYMkJwRHpXYmxEQzhRZzdIdVlFZG1oNlZFd2ZMS01wNUhmMkM5TWlfVUoxYVEwR1JQMlBTb2ZsYU1HVjBUQQ?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 5,
       "score": 21
-    },
-    {
-      "headline": "Trinidad Chambliss Overlooked as Mel Kiper Jr. Names 2027 NFL Draft's No. 1 QB Prospect",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYW55Wnp3V0dLU0szNlVlUHpvS3dzYnJIOGFzRUFyTk5TcHJYUUFLRHI2blhWblYzMzdBSWVDRWF2VTN6c0F5ZERHY1MzOUM2R1dSRmkyel9RVWlLNi04RnBWS2lNSlRybzkwcFhhbmt1S21ZcVNaY1ZZMEctY0VHUExBMHFnaGtQZGVxN216UzF5cXl2SXFxM213UDNEVXhaQ082NEJWNVFTS0hiam9TTl84c2l5ZEtIM1FxWA?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 19,
-      "score": 20
     },
     {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
@@ -2185,17 +2158,44 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 748,
+      "age_hours": 756,
       "score": 20
     },
     {
-      "headline": "Malachi Toney injury reshapes Heisman race as Jeremiah Smith, Darian Mensah gain momentum",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2VzR3BRV2xweWR5aEZpaDVJbzJmdENSX0N5OFhXcllCM0hVeDlOUDAwYXJzUUpMZ0h5dWd1VDJNWTRWeFB4dnpHbjBaZGRIRU80VGVleFl0VjVUazBiWVVtVXlWUjhSQjFpMVN3eFBXLXBqNTNVTnJ6QzR3emhJWm53TFAwZElZMGVmTzVMcWswQWlQVmJhN2hocGREdjVvWkdEdWVjaFkyVTNhcWl6Uw?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 42,
+      "headline": "NFL Draft No. 1 Pick Market on Kalshi: Drew Mestemaker vs. Jeremiah Smith",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVE5IMlZQb1RTLXEwc01aLWZqRHZSVkwzdUw0eVlSM1RNX2VaVnBEV0pSM0xmeEhSWk9qbWZWc2M3Y3hPQTF3WXFEdjRDZmhpOWJxZkQzUnAtSDhXMVZJWXlrbkdUV3FkUnRvX1JPZmxSaVFqcmVjNEdVVmtnaE91bTdyRWFNYVk5WXEyT3VsWTRoUFY5SzlHb2NqVWpjcXVVMzhtZWVFR3dXOXA3QndaamtNOUxnMEFUMnJVVjF3?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 7,
       "score": 20
+    },
+    {
+      "headline": "How Justin Bowick\u2019s NFL Draft Stock Has Surged Since Joining Oklahoma State",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWVDZS1tdFBpQXgzajV3SFhVSEtZVXVyYzNwR0l4MmpmczBSZkNuVWotam1xYnY5SVBJNVY0VC0wNnlFa1kxdkZjNlpxaEV2Qmd5b1JfM2pXcExNMmZXYmlfU0VOaTI0ZUFvYjhWY1cycUU3dkpVejZFY3FzdDI4Y3hiMHF4QmxBM1ZYOUhyNV9fZjZPdEY4cWk0U2tlWEhzQnRSS0lqdHhpc2RFM3dKbHIxZjg2V1dPVXNzZVRR?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 20,
+      "score": 20
+    },
+    {
+      "headline": "Dante Moore\u2019s NFL Draft Stock Takes a Turn Amid Injury Absence",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 516,
+      "score": 19
+    },
+    {
+      "headline": "Dave Hyde: NFL Scout Reveals Why Malachi Toney's Injury Creates a Defining Moment for Darian Mensah",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3lqUk5CRmR5eWtoNUVUWTF0cGxzRGU3T0JUeHFFUF9DV0hObncyT2VSdmlMejgzby1ubmw3QW81ajBCSDhyRUZoajJEMFZWbk5hT05OU3hCb3FLOGplRFVaTlRSakxCUlVzZEhubDhsQ3QzN2tNbXNfdnJzNktzc1Z0M3k3N1pqWjY1eFI3X1dhMUlpdTJhSWt2MFRqNXpfaDhPWi1tWXQ5SWdhSFljRndzNDZJWnUzcmFLOTFNRVVOY0JUeUEwdDZYNmpfblMwZm55NS1Eck91b3pnOW5V?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 32,
+      "score": 19
     }
   ],
   "kalshi": [
@@ -2206,37 +2206,37 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 35,
+          "pct": 38,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 23,
+          "pct": 24,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 9,
+          "pct": 10,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 8,
+          "pct": 7,
           "tracked": true
         },
         {
+          "name": "Austin Simmons",
+          "pct": 4,
+          "tracked": false
+        },
+        {
           "name": "Arch Manning",
-          "pct": 6,
+          "pct": 3,
           "tracked": true
         },
         {
           "name": "LaNorris Sellers",
-          "pct": 6,
-          "tracked": false
-        },
-        {
-          "name": "Austin Simmons",
-          "pct": 5,
+          "pct": 3,
           "tracked": false
         },
         {
@@ -2245,7 +2245,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 5,
+      "field_pct": 8,
       "field_count": 14
     },
     {
@@ -2255,7 +2255,7 @@
       "candidates": [
         {
           "name": "Tennessee",
-          "pct": 31,
+          "pct": 34,
           "tracked": false
         },
         {
@@ -2270,12 +2270,12 @@
         },
         {
           "name": "New York J",
-          "pct": 13,
+          "pct": 15,
           "tracked": false
         },
         {
           "name": "Philadelphia",
-          "pct": 7,
+          "pct": 9,
           "tracked": false
         },
         {
@@ -2304,7 +2304,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 38,
+          "pct": 39,
           "tracked": false
         },
         {
@@ -2314,12 +2314,12 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 16,
+          "pct": 17,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
-          "pct": 10,
+          "pct": 11,
           "tracked": true
         },
         {
@@ -2328,17 +2328,17 @@
           "tracked": true
         },
         {
+          "name": "Gunner Stockton",
+          "pct": 2,
+          "tracked": false
+        },
+        {
           "name": "Drew Mestemaker",
           "pct": 2,
           "tracked": true
         },
         {
-          "name": "Keelon Russell",
-          "pct": 2,
-          "tracked": false
-        },
-        {
-          "name": "Devon Dampier",
+          "name": "LaNorris Sellers",
           "pct": 2,
           "tracked": false
         }
