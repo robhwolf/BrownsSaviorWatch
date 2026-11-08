@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T03:51:11.816606+00:00",
+  "updated_at": "2026-11-08T10:58:12.382557+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -107,10 +107,23 @@
         "kickoff": "2026-11-08T00:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Georgia"
+        "state": "final",
+        "result": "L",
+        "score": "7-42",
+        "label": "L 7-42 vs Georgia"
       },
-      "game": null,
+      "game": {
+        "cmp": 18,
+        "att": 34,
+        "pass_yds": 170,
+        "pass_td": 0,
+        "int": 1,
+        "rush_att": 9,
+        "rush_yds": -12,
+        "rush_td": 0,
+        "comp_pct": 52.9,
+        "ypa": 5.0
+      },
       "next_game": {
         "event_id": "401856887",
         "week": 11,
@@ -276,24 +289,43 @@
           "result": "W",
           "score": "45-15",
           "date": "2026-10-31T16:45:00.000Z"
+        },
+        {
+          "cmp": 18,
+          "att": 34,
+          "pass_yds": 170,
+          "pass_td": 0,
+          "int": 1,
+          "rush_att": 9,
+          "rush_yds": -12,
+          "rush_td": 0,
+          "comp_pct": 52.9,
+          "ypa": 5.0,
+          "event_id": "401856741",
+          "week": 10,
+          "opponent": "Georgia",
+          "home_away": "vs",
+          "result": "L",
+          "score": "7-42",
+          "date": "2026-11-08T00:30:00.000Z"
         }
       ],
       "season": {
-        "games": 8,
-        "record": "6-2",
-        "cmp": 189,
-        "att": 296,
-        "comp_pct": 63.9,
-        "pass_yds": 2189,
-        "ypa": 7.4,
+        "games": 9,
+        "record": "6-3",
+        "cmp": 207,
+        "att": 330,
+        "comp_pct": 62.7,
+        "pass_yds": 2359,
+        "ypa": 7.1,
         "pass_td": 18,
-        "int": 8,
-        "td_int": "18-8",
-        "rush_yds": 189,
+        "int": 9,
+        "td_int": "18-9",
+        "rush_yds": 177,
         "rush_td": 7,
         "total_td": 25,
-        "ypg": 274,
-        "rating": 140.6,
+        "ypg": 262,
+        "rating": 135.3,
         "epa_per_play": null
       }
     },
@@ -456,10 +488,23 @@
         "kickoff": "2026-11-08T00:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Miami"
+        "state": "final",
+        "result": "W",
+        "score": "31-24",
+        "label": "W 31-24 vs Miami"
       },
-      "game": null,
+      "game": {
+        "cmp": 29,
+        "att": 40,
+        "pass_yds": 319,
+        "pass_td": 3,
+        "int": 0,
+        "rush_att": 1,
+        "rush_yds": 3,
+        "rush_td": 0,
+        "comp_pct": 72.5,
+        "ypa": 8.0
+      },
       "next_game": {
         "event_id": "401858294",
         "week": 11,
@@ -621,24 +666,43 @@
           "result": "W",
           "score": "35-13",
           "date": "2026-10-31T16:00:00.000Z"
+        },
+        {
+          "cmp": 29,
+          "att": 40,
+          "pass_yds": 319,
+          "pass_td": 3,
+          "int": 0,
+          "rush_att": 1,
+          "rush_yds": 3,
+          "rush_td": 0,
+          "comp_pct": 72.5,
+          "ypa": 8.0,
+          "event_id": "401858291",
+          "week": 10,
+          "opponent": "Miami",
+          "home_away": "vs",
+          "result": "W",
+          "score": "31-24",
+          "date": "2026-11-08T00:30:00.000Z"
         }
       ],
       "season": {
-        "games": 8,
-        "record": "7-1",
-        "cmp": 148,
-        "att": 222,
-        "comp_pct": 66.7,
-        "pass_yds": 1849,
+        "games": 9,
+        "record": "8-1",
+        "cmp": 177,
+        "att": 262,
+        "comp_pct": 67.6,
+        "pass_yds": 2168,
         "ypa": 8.3,
-        "pass_td": 18,
+        "pass_td": 21,
         "int": 1,
-        "td_int": "18-1",
-        "rush_yds": 86,
+        "td_int": "21-1",
+        "rush_yds": 89,
         "rush_td": 3,
-        "total_td": 21,
-        "ypg": 231,
-        "rating": 162.5,
+        "total_td": 24,
+        "ypg": 241,
+        "rating": 162.8,
         "epa_per_play": null
       }
     },
@@ -664,10 +728,23 @@
         "kickoff": "2026-11-08T00:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Notre Dame"
+        "state": "final",
+        "result": "L",
+        "score": "24-31",
+        "label": "L 24-31 at Notre Dame"
       },
-      "game": null,
+      "game": {
+        "cmp": 24,
+        "att": 43,
+        "pass_yds": 302,
+        "pass_td": 3,
+        "int": 1,
+        "rush_att": 11,
+        "rush_yds": 28,
+        "rush_td": 0,
+        "comp_pct": 55.8,
+        "ypa": 7.0
+      },
       "next_game": {
         "event_id": "401858296",
         "week": 11,
@@ -832,24 +909,43 @@
           "result": "W",
           "score": "38-35",
           "date": "2026-10-31T23:30:00.000Z"
+        },
+        {
+          "cmp": 24,
+          "att": 43,
+          "pass_yds": 302,
+          "pass_td": 3,
+          "int": 1,
+          "rush_att": 11,
+          "rush_yds": 28,
+          "rush_td": 0,
+          "comp_pct": 55.8,
+          "ypa": 7.0,
+          "event_id": "401858291",
+          "week": 10,
+          "opponent": "Notre Dame",
+          "home_away": "at",
+          "result": "L",
+          "score": "24-31",
+          "date": "2026-11-08T00:30:00.000Z"
         }
       ],
       "season": {
-        "games": 8,
-        "record": "8-0",
-        "cmp": 188,
-        "att": 233,
-        "comp_pct": 80.7,
-        "pass_yds": 2436,
-        "ypa": 10.5,
-        "pass_td": 25,
-        "int": 1,
-        "td_int": "25-1",
-        "rush_yds": 109,
+        "games": 9,
+        "record": "8-1",
+        "cmp": 212,
+        "att": 276,
+        "comp_pct": 76.8,
+        "pass_yds": 2738,
+        "ypa": 9.9,
+        "pass_td": 28,
+        "int": 2,
+        "td_int": "28-2",
+        "rush_yds": 137,
         "rush_td": 2,
-        "total_td": 27,
+        "total_td": 30,
         "ypg": 304,
-        "rating": 203.1,
+        "rating": 192.2,
         "epa_per_play": null
       }
     },
@@ -2231,7 +2327,16 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 6,
+      "age_hours": 13,
+      "score": 22
+    },
+    {
+      "headline": "NFL Draft 2027 takeaways: Is Arch Manning surging again? Just how good is CJ Carr?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 1,
       "score": 22
     },
     {
@@ -2240,7 +2345,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3BIeURlZUlyNzM1eHpZU1FEazNfWkxjMTVYLXFveXIwc0hCQUVyX2pKdm5QVi1zNWxuNGpIdjVvRnFUR3R5emlFcXJtaUpxSXFzQXFIZXJlZjk5dTZZTDZvbFRMdTRJd0dnb3B0YktDb25UZk5XNHBaVHY1bU5jWjlPbk9WNzhZblFickh5UFlmbnhMZDJPSkdRSUZYenVkYUE4SW8xaGotRWZvMERUME5uTW5iREtBUVJLb1FIV0sxMnNQaE9NREp3OHhPeHprRVJkeWVvZEtDY1R3dGc?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 3,
+      "age_hours": 11,
       "score": 21
     },
     {
@@ -2249,7 +2354,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmV5eWxROXhWUDFtdDczQ3E1bkxnOTBiQTJTNTBHdndrQTZONGdUbTd2TWRDUmlibW5pbkZ0b1o1bktIRnBBT3BjaU5iR0cwX3lEVkYybWZIbDMxcHdGXzYxZzM4ZnFXZlAtZjZvREtwNHBTaVA3Uk9HWjdvdldJMHFPM1NSVWtZU3JUTlJNbFhfak1QVjFSbFdaTTRWX0RaQmxtR2htWnJycV9hcVE?oc=5",
       "player": "Dante Moore",
-      "age_hours": 9,
+      "age_hours": 16,
       "score": 21
     },
     {
@@ -2258,7 +2363,16 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 765,
+      "age_hours": 772,
+      "score": 20
+    },
+    {
+      "headline": "4 Takeaways From Notre Dame's Win Over Miami \u2014 With An NFL Draft Twist",
+      "source": "FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGZaU1NuQ3RaejhoUUJjX1JqZE1nUGx6ZFhsNV9KUUlTQVZLLWRUQWNHaGF3c0Z3QVRYSmFRejRrcTFOZi1MUWxQUWV4anhHeEVjcWlxdWlKUXJmMHAwc1lZLS1FaE5MclhhMnNsVDlJYUkyaTRkdF9jZjVvMGNmMk84RUhrbDNvZlRJ0gGLAUFVX3lxTE9nUnJCNXJqaFFFS1hFaUQ1YUVEcmN0SkhleGpoM1pMWk93eFRuemVRODEzbWVjdzhxVXRTRy1SNFZobjFXejRvbEtkRGMtbTU5QzA2TW5FRGZvZGlBZEVrS2ZpTXFzTkZSbDBCdGw4Ml9lWjZUMjRlSUxLRTJlcjV6TUpXZk10djA2ZGc?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 4,
       "score": 20
     },
     {
@@ -2267,7 +2381,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 525,
+      "age_hours": 532,
       "score": 19
     },
     {
@@ -2276,26 +2390,8 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3lqUk5CRmR5eWtoNUVUWTF0cGxzRGU3T0JUeHFFUF9DV0hObncyT2VSdmlMejgzby1ubmw3QW81ajBCSDhyRUZoajJEMFZWbk5hT05OU3hCb3FLOGplRFVaTlRSakxCUlVzZEhubDhsQ3QzN2tNbXNfdnJzNktzc1Z0M3k3N1pqWjY1eFI3X1dhMUlpdTJhSWt2MFRqNXpfaDhPWi1tWXQ5SWdhSFljRndzNDZJWnUzcmFLOTFNRVVOY0JUeUEwdDZYNmpfblMwZm55NS1Eck91b3pnOW5V?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 40,
+      "age_hours": 47,
       "score": 19
-    },
-    {
-      "headline": "How Miami QB Darian Mensah Can Boost His Heisman Case Against Notre Dame",
-      "source": "FOX Sports",
-      "domain": "foxsports.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzU4bVJNRXI5dEJCa1RReS1ZWjZXM3FQS182eXVIb2dVNVgtLVZjOTVpd08ya3NQS0kwTG5TWHlsS2p5bllWYmhiZG1fUUVHNlh3bENudG5ndmhDc2haelo1bThDMEYxZW1tNGp6Qk4yQm91RERxNDNNSlMxZHhQUXNYd1NrcE5vS3Z5VWllb3RuNmZJblFVRmt2Z1hiQUh1a1VSVGVySUExQVhrYnBWN2ZZTnpsM2l1bGZUTUJB0gG-AUFVX3lxTE5EdGNSRDNqV2lHWHlwUGlvX3dlNEVjSi1ZS1RVdnpzNnlyMU93YjQ4UW9Za05QeDZFMnhtbEl1ZUJGZDd5MzRRdVVEVU02NGV2Qm9lYjRBbzJPSzNOemFoZ0hjSUlVb3BoZDBYd1I1NFk5NklfU2FRNW9iV2lMekM1SHV0WmJqRTdfd2JOVUJhbUlzRGR3M0ZnZncyZFVIQnhydUpUVXpfcjcyU1l0bTRMTVZIQ00zc0pYQkJIYUE?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 10,
-      "score": 18
-    },
-    {
-      "headline": "Oregon Receiver Jeremiah McClellan's Injury Status Unchanged Despite Update",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHBLd3BSdGxOMVVWS2d6UXhQWWdVNzN1RlJMVTRpNzNDeEhiempVWGdYYzctZzV2ZUt0YmozcUEtYXNmaHFELVpaRVVPVjlIMV9NR2JxZG9BQVNwN0ZzLW9ZU2lNVlNwQkhPRzFEOUdqY05mMzNRdWpVamFZa0pQQjV3VjltX2xOVGFIN3FqTVZWczRjRzJNdVFVRFlDbW9tN1lpeXN0N3I?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 27,
-      "score": 17
     }
   ],
   "kalshi": [
@@ -2306,17 +2402,22 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 39,
+          "pct": 42,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 29,
+          "pct": 28,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 15,
+          "pct": 11,
+          "tracked": true
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 10,
           "tracked": true
         },
         {
@@ -2326,12 +2427,7 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 8,
-          "tracked": true
-        },
-        {
-          "name": "Darian Mensah",
-          "pct": 5,
+          "pct": 9,
           "tracked": true
         },
         {
@@ -2340,8 +2436,8 @@
           "tracked": false
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 3,
+          "name": "Julian Sayin",
+          "pct": 2,
           "tracked": true
         }
       ],
@@ -2360,12 +2456,7 @@
         },
         {
           "name": "Miami",
-          "pct": 25,
-          "tracked": false
-        },
-        {
-          "name": "Los Angeles C",
-          "pct": 20,
+          "pct": 19,
           "tracked": false
         },
         {
@@ -2376,6 +2467,11 @@
         {
           "name": "Philadelphia",
           "pct": 9,
+          "tracked": false
+        },
+        {
+          "name": "Los Angeles C",
+          "pct": 8,
           "tracked": false
         },
         {
@@ -2394,7 +2490,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 6,
       "field_count": 24
     },
     {
@@ -2404,26 +2500,21 @@
       "candidates": [
         {
           "name": "CJ Carr",
-          "pct": 30,
-          "tracked": true
-        },
-        {
-          "name": "Darian Mensah",
-          "pct": 28,
+          "pct": 34,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 19,
+          "pct": 22,
           "tracked": false
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 6,
-          "tracked": false
+          "name": "Darian Mensah",
+          "pct": 22,
+          "tracked": true
         },
         {
-          "name": "Keelon Russell",
+          "name": "Devon Dampier",
           "pct": 6,
           "tracked": false
         },
@@ -2433,17 +2524,22 @@
           "tracked": true
         },
         {
-          "name": "Devon Dampier",
-          "pct": 5,
+          "name": "Gunner Stockton",
+          "pct": 3,
           "tracked": false
         },
         {
-          "name": "Jesse Legree",
+          "name": "LaNorris Sellers",
+          "pct": 2,
+          "tracked": false
+        },
+        {
+          "name": "Keelon Russell",
           "pct": 2,
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 4,
       "field_count": 42
     }
   ],
