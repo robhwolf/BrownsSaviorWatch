@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T23:13:32.216559+00:00",
+  "updated_at": "2026-11-08T03:51:11.816606+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -112,16 +112,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856741",
-        "week": 10,
-        "opponent": "Georgia",
-        "opponent_id": 61,
-        "home_away": "vs",
-        "kickoff": "2026-11-08T00:30:00.000Z",
-        "tbd": false,
+        "event_id": "401856887",
+        "week": 11,
+        "opponent": "Oklahoma",
+        "opponent_id": 201,
+        "home_away": "at",
+        "kickoff": "2026-11-14T05:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Georgia"
+        "label": "at Oklahoma"
       },
       "log": [
         {
@@ -319,8 +319,10 @@
         "kickoff": "2026-11-07T20:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Ohio State"
+        "state": "final",
+        "result": "W",
+        "score": "41-28",
+        "label": "W 41-28 at Ohio State"
       },
       "game": null,
       "next_game": {
@@ -459,16 +461,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858291",
-        "week": 10,
-        "opponent": "Miami",
-        "opponent_id": 2390,
+        "event_id": "401858294",
+        "week": 11,
+        "opponent": "Boston College",
+        "opponent_id": 103,
         "home_away": "vs",
-        "kickoff": "2026-11-08T00:30:00.000Z",
+        "kickoff": "2026-11-14T20:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Miami"
+        "label": "vs Boston College"
       },
       "log": [
         {
@@ -667,16 +669,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858291",
-        "week": 10,
-        "opponent": "Notre Dame",
-        "opponent_id": 87,
-        "home_away": "at",
-        "kickoff": "2026-11-08T00:30:00.000Z",
+        "event_id": "401858296",
+        "week": 11,
+        "opponent": "Duke",
+        "opponent_id": 150,
+        "home_away": "vs",
+        "kickoff": "2026-11-14T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Notre Dame"
+        "label": "vs Duke"
       },
       "log": [
         {
@@ -873,8 +875,10 @@
         "kickoff": "2026-11-07T20:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Oregon"
+        "state": "final",
+        "result": "L",
+        "score": "28-41",
+        "label": "L 28-41 vs Oregon"
       },
       "game": null,
       "next_game": {
@@ -1554,10 +1558,23 @@
         "kickoff": "2026-11-07T20:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Alabama"
+        "state": "final",
+        "result": "L",
+        "score": "13-31",
+        "label": "L 13-31 vs Alabama"
       },
-      "game": null,
+      "game": {
+        "cmp": 35,
+        "att": 47,
+        "pass_yds": 380,
+        "pass_td": 0,
+        "int": 1,
+        "rush_att": 15,
+        "rush_yds": 16,
+        "rush_td": 0,
+        "comp_pct": 74.5,
+        "ypa": 8.1
+      },
       "next_game": {
         "event_id": "401856885",
         "week": 11,
@@ -1719,24 +1736,43 @@
           "result": "W",
           "score": "38-17",
           "date": "2026-10-24T16:00:00.000Z"
+        },
+        {
+          "cmp": 35,
+          "att": 47,
+          "pass_yds": 380,
+          "pass_td": 0,
+          "int": 1,
+          "rush_att": 15,
+          "rush_yds": 16,
+          "rush_td": 0,
+          "comp_pct": 74.5,
+          "ypa": 8.1,
+          "event_id": "401856740",
+          "week": 10,
+          "opponent": "Alabama",
+          "home_away": "vs",
+          "result": "L",
+          "score": "13-31",
+          "date": "2026-11-07T20:30:00.000Z"
         }
       ],
       "season": {
-        "games": 8,
-        "record": "6-2",
-        "cmp": 180,
-        "att": 256,
-        "comp_pct": 70.3,
-        "pass_yds": 2171,
-        "ypa": 8.5,
+        "games": 9,
+        "record": "6-3",
+        "cmp": 215,
+        "att": 303,
+        "comp_pct": 71.0,
+        "pass_yds": 2551,
+        "ypa": 8.4,
         "pass_td": 17,
-        "int": 8,
-        "td_int": "17-8",
-        "rush_yds": 324,
+        "int": 9,
+        "td_int": "17-9",
+        "rush_yds": 340,
         "rush_td": 8,
         "total_td": 25,
-        "ypg": 271,
-        "rating": 157.2,
+        "ypg": 283,
+        "rating": 154.3,
         "epa_per_play": null
       }
     },
@@ -2195,8 +2231,17 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 2,
+      "age_hours": 6,
       "score": 22
+    },
+    {
+      "headline": "Live Updates: Georgia Football vs Ole Miss Football | Scores, Injuries and Behind the Scenes",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3BIeURlZUlyNzM1eHpZU1FEazNfWkxjMTVYLXFveXIwc0hCQUVyX2pKdm5QVi1zNWxuNGpIdjVvRnFUR3R5emlFcXJtaUpxSXFzQXFIZXJlZjk5dTZZTDZvbFRMdTRJd0dnb3B0YktDb25UZk5XNHBaVHY1bU5jWjlPbk9WNzhZblFickh5UFlmbnhMZDJPSkdRSUZYenVkYUE4SW8xaGotRWZvMERUME5uTW5iREtBUVJLb1FIV0sxMnNQaE9NREp3OHhPeHprRVJkeWVvZEtDY1R3dGc?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 3,
+      "score": 21
     },
     {
       "headline": "Oregon Ducks' Final Injury Update Released Before Ohio State Buckeyes Game",
@@ -2204,24 +2249,6 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmV5eWxROXhWUDFtdDczQ3E1bkxnOTBiQTJTNTBHdndrQTZONGdUbTd2TWRDUmlibW5pbkZ0b1o1bktIRnBBT3BjaU5iR0cwX3lEVkYybWZIbDMxcHdGXzYxZzM4ZnFXZlAtZjZvREtwNHBTaVA3Uk9HWjdvdldJMHFPM1NSVWtZU3JUTlJNbFhfak1QVjFSbFdaTTRWX0RaQmxtR2htWnJycV9hcVE?oc=5",
       "player": "Dante Moore",
-      "age_hours": 5,
-      "score": 21
-    },
-    {
-      "headline": "Oregon Receiver Jeremiah McClellan's Injury Status Unchanged Despite Update",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHBLd3BSdGxOMVVWS2d6UXhQWWdVNzN1RlJMVTRpNzNDeEhiempVWGdYYzctZzV2ZUt0YmozcUEtYXNmaHFELVpaRVVPVjlIMV9NR2JxZG9BQVNwN0ZzLW9ZU2lNVlNwQkhPRzFEOUdqY05mMzNRdWpVamFZa0pQQjV3VjltX2xOVGFIN3FqTVZWczRjRzJNdVFVRFlDbW9tN1lpeXN0N3I?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 22,
-      "score": 21
-    },
-    {
-      "headline": "Julian Sayin's injury and surgery timeline revealed - Ryan Day may have hinted on his future at Ohio State",
-      "source": "Yahoo Sports",
-      "domain": "sports.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXZKN1RNaXdDdWxadFdhRWZCcGVVbzVEUVptdDBnSXpjM1pTSlBhVnA4Zi1mdWJoT2Vzc1Y2QURpQ2NUZnlQZDhYSE10Yml3ME9zbm1CbjJmb3YyYjduRkFoS3pyMXZWZTVpeXZRdHdTVGxWYmVVZ1VOLVNiQ19KMHQ2eHp0NHduZWxSampYVQ?oc=5",
-      "player": "Julian Sayin",
       "age_hours": 9,
       "score": 21
     },
@@ -2231,7 +2258,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 760,
+      "age_hours": 765,
       "score": 20
     },
     {
@@ -2240,7 +2267,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 520,
+      "age_hours": 525,
       "score": 19
     },
     {
@@ -2249,7 +2276,7 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3lqUk5CRmR5eWtoNUVUWTF0cGxzRGU3T0JUeHFFUF9DV0hObncyT2VSdmlMejgzby1ubmw3QW81ajBCSDhyRUZoajJEMFZWbk5hT05OU3hCb3FLOGplRFVaTlRSakxCUlVzZEhubDhsQ3QzN2tNbXNfdnJzNktzc1Z0M3k3N1pqWjY1eFI3X1dhMUlpdTJhSWt2MFRqNXpfaDhPWi1tWXQ5SWdhSFljRndzNDZJWnUzcmFLOTFNRVVOY0JUeUEwdDZYNmpfblMwZm55NS1Eck91b3pnOW5V?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 36,
+      "age_hours": 40,
       "score": 19
     },
     {
@@ -2258,8 +2285,17 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzU4bVJNRXI5dEJCa1RReS1ZWjZXM3FQS182eXVIb2dVNVgtLVZjOTVpd08ya3NQS0kwTG5TWHlsS2p5bllWYmhiZG1fUUVHNlh3bENudG5ndmhDc2haelo1bThDMEYxZW1tNGp6Qk4yQm91RERxNDNNSlMxZHhQUXNYd1NrcE5vS3Z5VWllb3RuNmZJblFVRmt2Z1hiQUh1a1VSVGVySUExQVhrYnBWN2ZZTnpsM2l1bGZUTUJB0gG-AUFVX3lxTE5EdGNSRDNqV2lHWHlwUGlvX3dlNEVjSi1ZS1RVdnpzNnlyMU93YjQ4UW9Za05QeDZFMnhtbEl1ZUJGZDd5MzRRdVVEVU02NGV2Qm9lYjRBbzJPSzNOemFoZ0hjSUlVb3BoZDBYd1I1NFk5NklfU2FRNW9iV2lMekM1SHV0WmJqRTdfd2JOVUJhbUlzRGR3M0ZnZncyZFVIQnhydUpUVXpfcjcyU1l0bTRMTVZIQ00zc0pYQkJIYUE?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 6,
+      "age_hours": 10,
       "score": 18
+    },
+    {
+      "headline": "Oregon Receiver Jeremiah McClellan's Injury Status Unchanged Despite Update",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHBLd3BSdGxOMVVWS2d6UXhQWWdVNzN1RlJMVTRpNzNDeEhiempVWGdYYzctZzV2ZUt0YmozcUEtYXNmaHFELVpaRVVPVjlIMV9NR2JxZG9BQVNwN0ZzLW9ZU2lNVlNwQkhPRzFEOUdqY05mMzNRdWpVamFZa0pQQjV3VjltX2xOVGFIN3FqTVZWczRjRzJNdVFVRFlDbW9tN1lpeXN0N3I?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 27,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -2270,18 +2306,23 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 42,
+          "pct": 39,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 27,
+          "pct": 29,
           "tracked": false
         },
         {
-          "name": "Darian Mensah",
-          "pct": 10,
+          "name": "CJ Carr",
+          "pct": 15,
           "tracked": true
+        },
+        {
+          "name": "LaNorris Sellers",
+          "pct": 10,
+          "tracked": false
         },
         {
           "name": "Arch Manning",
@@ -2289,18 +2330,13 @@
           "tracked": true
         },
         {
-          "name": "CJ Carr",
-          "pct": 7,
+          "name": "Darian Mensah",
+          "pct": 5,
           "tracked": true
         },
         {
           "name": "Austin Simmons",
           "pct": 4,
-          "tracked": false
-        },
-        {
-          "name": "LaNorris Sellers",
-          "pct": 3,
           "tracked": false
         },
         {
@@ -2329,7 +2365,7 @@
         },
         {
           "name": "Los Angeles C",
-          "pct": 16,
+          "pct": 20,
           "tracked": false
         },
         {
@@ -2367,47 +2403,47 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
+          "name": "CJ Carr",
+          "pct": 30,
+          "tracked": true
+        },
+        {
           "name": "Darian Mensah",
-          "pct": 29,
+          "pct": 28,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 20,
+          "pct": 19,
           "tracked": false
         },
         {
-          "name": "CJ Carr",
-          "pct": 20,
-          "tracked": true
+          "name": "Gunner Stockton",
+          "pct": 6,
+          "tracked": false
         },
         {
-          "name": "Trinidad Chambliss",
-          "pct": 11,
-          "tracked": true
+          "name": "Keelon Russell",
+          "pct": 6,
+          "tracked": false
         },
         {
-          "name": "Sam Leavitt",
+          "name": "Drew Mestemaker",
           "pct": 5,
           "tracked": true
         },
         {
           "name": "Devon Dampier",
-          "pct": 4,
+          "pct": 5,
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 3,
-          "tracked": true
-        },
-        {
-          "name": "LaNorris Sellers",
+          "name": "Jesse Legree",
           "pct": 2,
           "tracked": false
         }
       ],
-      "field_pct": 6,
+      "field_pct": 0,
       "field_count": 42
     }
   ],
