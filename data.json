@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T10:58:12.382557+00:00",
+  "updated_at": "2026-11-08T18:38:57.704494+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2322,21 +2322,21 @@
   ],
   "news": [
     {
+      "headline": "NFL Draft 2027 takeaways: Is Arch Manning surging again? Just how good is CJ Carr?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 4,
+      "score": 22
+    },
+    {
       "headline": "QB Darian Mensah is following Cam Ward\u2019s Miami blueprint as his NFL Draft stock rises",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 13,
-      "score": 22
-    },
-    {
-      "headline": "NFL Draft 2027 takeaways: Is Arch Manning surging again? Just how good is CJ Carr?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 1,
+      "age_hours": 21,
       "score": 22
     },
     {
@@ -2345,16 +2345,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3BIeURlZUlyNzM1eHpZU1FEazNfWkxjMTVYLXFveXIwc0hCQUVyX2pKdm5QVi1zNWxuNGpIdjVvRnFUR3R5emlFcXJtaUpxSXFzQXFIZXJlZjk5dTZZTDZvbFRMdTRJd0dnb3B0YktDb25UZk5XNHBaVHY1bU5jWjlPbk9WNzhZblFickh5UFlmbnhMZDJPSkdRSUZYenVkYUE4SW8xaGotRWZvMERUME5uTW5iREtBUVJLb1FIV0sxMnNQaE9NREp3OHhPeHprRVJkeWVvZEtDY1R3dGc?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 11,
-      "score": 21
-    },
-    {
-      "headline": "Oregon Ducks' Final Injury Update Released Before Ohio State Buckeyes Game",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmV5eWxROXhWUDFtdDczQ3E1bkxnOTBiQTJTNTBHdndrQTZONGdUbTd2TWRDUmlibW5pbkZ0b1o1bktIRnBBT3BjaU5iR0cwX3lEVkYybWZIbDMxcHdGXzYxZzM4ZnFXZlAtZjZvREtwNHBTaVA3Uk9HWjdvdldJMHFPM1NSVWtZU3JUTlJNbFhfak1QVjFSbFdaTTRWX0RaQmxtR2htWnJycV9hcVE?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 16,
+      "age_hours": 18,
       "score": 21
     },
     {
@@ -2363,7 +2354,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 772,
+      "age_hours": 780,
       "score": 20
     },
     {
@@ -2372,7 +2363,7 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGZaU1NuQ3RaejhoUUJjX1JqZE1nUGx6ZFhsNV9KUUlTQVZLLWRUQWNHaGF3c0Z3QVRYSmFRejRrcTFOZi1MUWxQUWV4anhHeEVjcWlxdWlKUXJmMHAwc1lZLS1FaE5MclhhMnNsVDlJYUkyaTRkdF9jZjVvMGNmMk84RUhrbDNvZlRJ0gGLAUFVX3lxTE9nUnJCNXJqaFFFS1hFaUQ1YUVEcmN0SkhleGpoM1pMWk93eFRuemVRODEzbWVjdzhxVXRTRy1SNFZobjFXejRvbEtkRGMtbTU5QzA2TW5FRGZvZGlBZEVrS2ZpTXFzTkZSbDBCdGw4Ml9lWjZUMjRlSUxLRTJlcjV6TUpXZk10djA2ZGc?oc=5",
       "player": "CJ Carr",
-      "age_hours": 4,
+      "age_hours": 12,
       "score": 20
     },
     {
@@ -2381,7 +2372,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 532,
+      "age_hours": 540,
       "score": 19
     },
     {
@@ -2390,8 +2381,17 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3lqUk5CRmR5eWtoNUVUWTF0cGxzRGU3T0JUeHFFUF9DV0hObncyT2VSdmlMejgzby1ubmw3QW81ajBCSDhyRUZoajJEMFZWbk5hT05OU3hCb3FLOGplRFVaTlRSakxCUlVzZEhubDhsQ3QzN2tNbXNfdnJzNktzc1Z0M3k3N1pqWjY1eFI3X1dhMUlpdTJhSWt2MFRqNXpfaDhPWi1tWXQ5SWdhSFljRndzNDZJWnUzcmFLOTFNRVVOY0JUeUEwdDZYNmpfblMwZm55NS1Eck91b3pnOW5V?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 47,
+      "age_hours": 55,
       "score": 19
+    },
+    {
+      "headline": "Heisman Odds Week 11: CJ Carr Makes Massive Leap as Jeremiah Smith Plummets",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd095aUJWZUtQQ0NlWXpLaHAxVDFhVldCQlE0ZUtsbTQ4S0hub1h3NG5RY0JiMGpHTklYbzNjYXdmNkhyZ2N4MzhCZ19IMUl4enV0Mlo1TjlSU012b2NWcm1aVWtIYXR0ZUhQaXNtTHQtcFk3cGQzRWJURHJ2UmVTZmZJRTVGQmlNalFERm5ybE92ZThJQzVMOTd1SW5vQ3prOGZIVFRVd2ljTUlnZ0o2UjdzTHF6SUloUkFpb3RaMGs?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 6,
+      "score": 18
     }
   ],
   "kalshi": [
@@ -2407,16 +2407,11 @@
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 28,
+          "pct": 23,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 11,
-          "tracked": true
-        },
-        {
-          "name": "Darian Mensah",
           "pct": 10,
           "tracked": true
         },
@@ -2427,7 +2422,12 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 9,
+          "pct": 7,
+          "tracked": true
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 7,
           "tracked": true
         },
         {
@@ -2471,7 +2471,7 @@
         },
         {
           "name": "Los Angeles C",
-          "pct": 8,
+          "pct": 7,
           "tracked": false
         },
         {
@@ -2490,7 +2490,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 6,
+      "field_pct": 7,
       "field_count": 24
     },
     {
@@ -2500,17 +2500,22 @@
       "candidates": [
         {
           "name": "CJ Carr",
-          "pct": 34,
+          "pct": 29,
+          "tracked": true
+        },
+        {
+          "name": "Darian Mensah",
+          "pct": 27,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 22,
+          "pct": 23,
           "tracked": false
         },
         {
-          "name": "Darian Mensah",
-          "pct": 22,
+          "name": "Drew Mestemaker",
+          "pct": 6,
           "tracked": true
         },
         {
@@ -2519,12 +2524,12 @@
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 5,
-          "tracked": true
+          "name": "Gunner Stockton",
+          "pct": 4,
+          "tracked": false
         },
         {
-          "name": "Gunner Stockton",
+          "name": "Keelon Russell",
           "pct": 3,
           "tracked": false
         },
@@ -2532,14 +2537,9 @@
           "name": "LaNorris Sellers",
           "pct": 2,
           "tracked": false
-        },
-        {
-          "name": "Keelon Russell",
-          "pct": 2,
-          "tracked": false
         }
       ],
-      "field_pct": 4,
+      "field_pct": 0,
       "field_count": 42
     }
   ],
