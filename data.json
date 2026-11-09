@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T23:25:17.544707+00:00",
+  "updated_at": "2026-11-09T04:50:06.540650+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2327,8 +2327,17 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
       "player": "CJ Carr",
-      "age_hours": 13,
+      "age_hours": 19,
       "score": 22
+    },
+    {
+      "headline": "Texas\u2019 Injury-Depleted Victory Shows the Depth Behind Steve Sarkisian\u2019s Success",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnVrYXh1bjk0d1NHblFHOUszZzFGQ2t5SUlvMUVabmFJeDc0YlZtZERnV1Ytbndyb085c3VQZTJBbWNUZG5BWHI3dmViTlAwVlpybHhhOEpfNDlZX25PQ0pQaGJaQTVBeXVWY2pZakVHd1VjbU5VaFZYLWJsXzloY0gxQmluZXpLVWV1NkF5UEpjNmx3bEhrUjhyVkdHOS1xUy1LNzZXVmVoeDdva3ZaV2tZTk9wRjdmV2c?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 6,
+      "score": 21
     },
     {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
@@ -2336,7 +2345,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 784,
+      "age_hours": 790,
       "score": 20
     },
     {
@@ -2345,7 +2354,7 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGZaU1NuQ3RaejhoUUJjX1JqZE1nUGx6ZFhsNV9KUUlTQVZLLWRUQWNHaGF3c0Z3QVRYSmFRejRrcTFOZi1MUWxQUWV4anhHeEVjcWlxdWlKUXJmMHAwc1lZLS1FaE5MclhhMnNsVDlJYUkyaTRkdF9jZjVvMGNmMk84RUhrbDNvZlRJ0gGLAUFVX3lxTE9nUnJCNXJqaFFFS1hFaUQ1YUVEcmN0SkhleGpoM1pMWk93eFRuemVRODEzbWVjdzhxVXRTRy1SNFZobjFXejRvbEtkRGMtbTU5QzA2TW5FRGZvZGlBZEVrS2ZpTXFzTkZSbDBCdGw4Ml9lWjZUMjRlSUxLRTJlcjV6TUpXZk10djA2ZGc?oc=5",
       "player": "CJ Carr",
-      "age_hours": 16,
+      "age_hours": 22,
       "score": 20
     },
     {
@@ -2354,7 +2363,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 544,
+      "age_hours": 550,
       "score": 19
     },
     {
@@ -2363,16 +2372,16 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3lqUk5CRmR5eWtoNUVUWTF0cGxzRGU3T0JUeHFFUF9DV0hObncyT2VSdmlMejgzby1ubmw3QW81ajBCSDhyRUZoajJEMFZWbk5hT05OU3hCb3FLOGplRFVaTlRSakxCUlVzZEhubDhsQ3QzN2tNbXNfdnJzNktzc1Z0M3k3N1pqWjY1eFI3X1dhMUlpdTJhSWt2MFRqNXpfaDhPWi1tWXQ5SWdhSFljRndzNDZJWnUzcmFLOTFNRVVOY0JUeUEwdDZYNmpfblMwZm55NS1Eck91b3pnOW5V?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 60,
+      "age_hours": 65,
       "score": 19
     },
     {
-      "headline": "CJ Carr Makes November Heisman Push With Clutch Win Over Miami",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXFCeloyaFhZSGc0WUJ5X1RnM09NQURYRTZTbHpZSTFzM3ltcG5MSHRxRE9GNEpPU2FJU1AxU2dCaFBwMGttNHhyemxSeDQweFZYSFJLMVFYZEVmeFNEX2lNNEZxbmZPeFMtUWo2RHptZmtzUWptMWN1S2U2eVhKemFfREVWaElk?oc=5",
+      "headline": "A boy no more: CJ Carr finally gets his signature win, and the Heisman lead, for Notre Dame",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlRGWDhITHJrZUc5elNwQU93RG8yTmhtRGtzYnhncW1TSVI4US0tMkFvWndaM1A1enRDbjZ6akdydnl6eHpaQ2JwNmo2cThWMU02OHM2Rl8zMVAyQTNtUDVldk1BNFdDY2FaTkZyd2s5YlFPbGlYNGRuVnFTZXhvaFZ4VHB0OUU0OVRXZ1FmTDVhSHBzc1hfZ0lZenctd3hjeHRrbmlkQ2FkdkdMRjVDa3lGYVE5ZmZBdUt5Tk1YeDE?oc=5",
       "player": "CJ Carr",
-      "age_hours": 0,
+      "age_hours": 14,
       "score": 18
     },
     {
@@ -2381,16 +2390,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd095aUJWZUtQQ0NlWXpLaHAxVDFhVldCQlE0ZUtsbTQ4S0hub1h3NG5RY0JiMGpHTklYbzNjYXdmNkhyZ2N4MzhCZ19IMUl4enV0Mlo1TjlSU012b2NWcm1aVWtIYXR0ZUhQaXNtTHQtcFk3cGQzRWJURHJ2UmVTZmZJRTVGQmlNalFERm5ybE92ZThJQzVMOTd1SW5vQ3prOGZIVFRVd2ljTUlnZ0o2UjdzTHF6SUloUkFpb3RaMGs?oc=5",
       "player": "CJ Carr",
-      "age_hours": 11,
-      "score": 18
-    },
-    {
-      "headline": "2026 Heisman Trophy Odds: CJ Carr Skyrockets into Top Spot; Devon Dampier Enters Race After Utah\u2019s Win vs. BYU",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS2F2WDNIRTg2emFyTFlnV1Z0ZTNtV25fbnA1R3dHQlBzN0NGcDlQNE1mYU9YdHRVcXN6ckNUUVJCMUIyZkkzbEliLXNZOEY5V0JQaTI2bVRZd0E0NEFOZFhBX2dUMXBkZm5WakdaVG5CeHowS3V5cmdvT0Nrc2VNR2poWThGVDZuQVlsc2Zza0lTbFV2aklFWV92eHBKZUFBQlVOc1c0a1RHX3I3SGpSYjF3bUZiRkVVOENzSHUzRUNUTEotTlBTRlhGSmVhWTg?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 10,
+      "age_hours": 16,
       "score": 18
     }
   ],
@@ -2402,7 +2402,7 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 42,
+          "pct": 39,
           "tracked": true
         },
         {
@@ -2412,21 +2412,21 @@
         },
         {
           "name": "CJ Carr",
-          "pct": 11,
-          "tracked": true
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 7,
+          "pct": 10,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
-          "pct": 7,
+          "pct": 8,
           "tracked": true
         },
         {
           "name": "Trinidad Chambliss",
+          "pct": 7,
+          "tracked": true
+        },
+        {
+          "name": "Arch Manning",
           "pct": 6,
           "tracked": true
         },
@@ -2451,12 +2451,12 @@
       "candidates": [
         {
           "name": "Los Angeles C",
-          "pct": 34,
+          "pct": 27,
           "tracked": false
         },
         {
           "name": "Miami",
-          "pct": 22,
+          "pct": 23,
           "tracked": false
         },
         {
@@ -2465,13 +2465,13 @@
           "tracked": false
         },
         {
-          "name": "Philadelphia",
-          "pct": 9,
+          "name": "San Francisco",
+          "pct": 5,
           "tracked": false
         },
         {
-          "name": "San Francisco",
-          "pct": 5,
+          "name": "Philadelphia",
+          "pct": 3,
           "tracked": false
         },
         {
@@ -2490,7 +2490,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 9,
+      "field_pct": 21,
       "field_count": 24
     },
     {
@@ -2505,12 +2505,12 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 28,
+          "pct": 26,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 19,
+          "pct": 20,
           "tracked": false
         },
         {
@@ -2529,17 +2529,17 @@
           "tracked": false
         },
         {
-          "name": "LaNorris Sellers",
+          "name": "Keelon Russell",
           "pct": 3,
           "tracked": false
         },
         {
-          "name": "Keelon Russell",
+          "name": "LaNorris Sellers",
           "pct": 2,
           "tracked": false
         }
       ],
-      "field_pct": 4,
+      "field_pct": 5,
       "field_count": 42
     }
   ],
