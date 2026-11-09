@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T04:50:06.540650+00:00",
+  "updated_at": "2026-11-09T21:57:43.049995+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -130,8 +130,8 @@
         "opponent": "Oklahoma",
         "opponent_id": 201,
         "home_away": "at",
-        "kickoff": "2026-11-14T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-14T21:15:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "at Oklahoma"
@@ -1188,8 +1188,8 @@
         "opponent": "Texas Tech",
         "opponent_id": 2641,
         "home_away": "vs",
-        "kickoff": "2026-11-14T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-15T02:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs Texas Tech"
@@ -1433,8 +1433,8 @@
         "opponent": "LSU",
         "opponent_id": 99,
         "home_away": "at",
-        "kickoff": "2026-11-14T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-15T00:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "at LSU"
@@ -1677,8 +1677,8 @@
         "opponent": "Texas",
         "opponent_id": 251,
         "home_away": "vs",
-        "kickoff": "2026-11-14T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-15T00:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs Texas"
@@ -2119,8 +2119,8 @@
         "opponent": "Utah",
         "opponent_id": 254,
         "home_away": "vs",
-        "kickoff": "2026-11-14T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-15T00:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs Utah"
@@ -2322,12 +2322,12 @@
   ],
   "news": [
     {
-      "headline": "NFL Draft 2027 takeaways: Is Arch Manning surging again? Just how good is CJ Carr?",
+      "headline": "QB Darian Mensah is following Cam Ward\u2019s Miami blueprint as his NFL Draft stock rises",
       "source": "The New York Times",
       "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 19,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 9,
       "score": 22
     },
     {
@@ -2336,7 +2336,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnVrYXh1bjk0d1NHblFHOUszZzFGQ2t5SUlvMUVabmFJeDc0YlZtZERnV1Ytbndyb085c3VQZTJBbWNUZG5BWHI3dmViTlAwVlpybHhhOEpfNDlZX25PQ0pQaGJaQTVBeXVWY2pZakVHd1VjbU5VaFZYLWJsXzloY0gxQmluZXpLVWV1NkF5UEpjNmx3bEhrUjhyVkdHOS1xUy1LNzZXVmVoeDdva3ZaV2tZTk9wRjdmV2c?oc=5",
       "player": "Arch Manning",
-      "age_hours": 6,
+      "age_hours": 23,
       "score": 21
     },
     {
@@ -2345,16 +2345,16 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 790,
+      "age_hours": 807,
       "score": 20
     },
     {
-      "headline": "4 Takeaways From Notre Dame's Win Over Miami \u2014 With An NFL Draft Twist",
-      "source": "FOX Sports",
-      "domain": "foxsports.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGZaU1NuQ3RaejhoUUJjX1JqZE1nUGx6ZFhsNV9KUUlTQVZLLWRUQWNHaGF3c0Z3QVRYSmFRejRrcTFOZi1MUWxQUWV4anhHeEVjcWlxdWlKUXJmMHAwc1lZLS1FaE5MclhhMnNsVDlJYUkyaTRkdF9jZjVvMGNmMk84RUhrbDNvZlRJ0gGLAUFVX3lxTE9nUnJCNXJqaFFFS1hFaUQ1YUVEcmN0SkhleGpoM1pMWk93eFRuemVRODEzbWVjdzhxVXRTRy1SNFZobjFXejRvbEtkRGMtbTU5QzA2TW5FRGZvZGlBZEVrS2ZpTXFzTkZSbDBCdGw4Ml9lWjZUMjRlSUxLRTJlcjV6TUpXZk10djA2ZGc?oc=5",
+      "headline": "Heisman Trophy odds: CJ Carr leaps Jeremiah Smith as new favorite after big Notre Dame win",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTBKbjhmUnJ3dnhCcVh6M1VwWjc5eTEtcjhPcEFiZGtkZGxrd210Ym1Xam8zOE8tS2Njam5yck9nMVM5MGpDXzQ3UWRCeXRQNEsza19hR2dQMmtseHVlakNRWVhyRmpxNkRtVHR0WFNsZC1QZWh0RlhxNV9XdFZ2OHY3RDA1TjBHX0licWt5YUI1RzZi?oc=5",
       "player": "CJ Carr",
-      "age_hours": 22,
+      "age_hours": 7,
       "score": 20
     },
     {
@@ -2363,34 +2363,34 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 550,
+      "age_hours": 567,
       "score": 19
     },
     {
-      "headline": "Dave Hyde: NFL Scout Reveals Why Malachi Toney's Injury Creates a Defining Moment for Darian Mensah",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3lqUk5CRmR5eWtoNUVUWTF0cGxzRGU3T0JUeHFFUF9DV0hObncyT2VSdmlMejgzby1ubmw3QW81ajBCSDhyRUZoajJEMFZWbk5hT05OU3hCb3FLOGplRFVaTlRSakxCUlVzZEhubDhsQ3QzN2tNbXNfdnJzNktzc1Z0M3k3N1pqWjY1eFI3X1dhMUlpdTJhSWt2MFRqNXpfaDhPWi1tWXQ5SWdhSFljRndzNDZJWnUzcmFLOTFNRVVOY0JUeUEwdDZYNmpfblMwZm55NS1Eck91b3pnOW5V?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 65,
-      "score": 19
-    },
-    {
-      "headline": "A boy no more: CJ Carr finally gets his signature win, and the Heisman lead, for Notre Dame",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlRGWDhITHJrZUc5elNwQU93RG8yTmhtRGtzYnhncW1TSVI4US0tMkFvWndaM1A1enRDbjZ6akdydnl6eHpaQ2JwNmo2cThWMU02OHM2Rl8zMVAyQTNtUDVldk1BNFdDY2FaTkZyd2s5YlFPbGlYNGRuVnFTZXhvaFZ4VHB0OUU0OVRXZ1FmTDVhSHBzc1hfZ0lZenctd3hjeHRrbmlkQ2FkdkdMRjVDa3lGYVE5ZmZBdUt5Tk1YeDE?oc=5",
+      "headline": "NFL Draft 2027 takeaways: Is Arch Manning surging again? Just how good is CJ Carr? - The Athletic",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
       "player": "CJ Carr",
-      "age_hours": 14,
+      "age_hours": 36,
       "score": 18
     },
     {
-      "headline": "Heisman Odds Week 11: CJ Carr Makes Massive Leap as Jeremiah Smith Plummets",
+      "headline": "Heisman Trophy odds update: CJ Carr takes favored role, but weak Notre Dame remaining schedule could hurt",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOEdhSVV2U1FIdENmdjVMMWdVUE81bWNDVXJzSjlOdXFWb0poQ1UtNEpxVlNSNDhNcnMweUpSNWMzMFdBdjVIc05FbzNMWDV6NEhORmk0RWVkOXlOcGduYl9rN01ya2RJX0djaFBqR2wyVVB4dGhkaXJnTzNKRE45NHdXMkpiTTFYb2E1dXozU2V1djlXbDBtbWNOOXdxWjVCYTRXTVRaTGtQb0k0ajNQLWRBRFRLN29ZTDJTdFhSRHhMdzBHZW5iamlHeDRxaExNMmllVThQSTFQdXM?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 7,
+      "score": 18
+    },
+    {
+      "headline": "CJ Carr Makes November Heisman Push With Clutch Win Over Miami",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd095aUJWZUtQQ0NlWXpLaHAxVDFhVldCQlE0ZUtsbTQ4S0hub1h3NG5RY0JiMGpHTklYbzNjYXdmNkhyZ2N4MzhCZ19IMUl4enV0Mlo1TjlSU012b2NWcm1aVWtIYXR0ZUhQaXNtTHQtcFk3cGQzRWJURHJ2UmVTZmZJRTVGQmlNalFERm5ybE92ZThJQzVMOTd1SW5vQ3prOGZIVFRVd2ljTUlnZ0o2UjdzTHF6SUloUkFpb3RaMGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXFCeloyaFhZSGc0WUJ5X1RnM09NQURYRTZTbHpZSTFzM3ltcG5MSHRxRE9GNEpPU2FJU1AxU2dCaFBwMGttNHhyemxSeDQweFZYSFJLMVFYZEVmeFNEX2lNNEZxbmZPeFMtUWo2RHptZmtzUWptMWN1S2U2eVhKemFfREVWaElk?oc=5",
       "player": "CJ Carr",
-      "age_hours": 16,
+      "age_hours": 23,
       "score": 18
     }
   ],
@@ -2402,12 +2402,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 39,
+          "pct": 42,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 21,
+          "pct": 24,
           "tracked": false
         },
         {
@@ -2431,13 +2431,13 @@
           "tracked": true
         },
         {
-          "name": "LaNorris Sellers",
-          "pct": 5,
+          "name": "Austin Simmons",
+          "pct": 4,
           "tracked": false
         },
         {
-          "name": "Austin Simmons",
-          "pct": 4,
+          "name": "LaNorris Sellers",
+          "pct": 3,
           "tracked": false
         }
       ],
@@ -2450,37 +2450,37 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
-          "name": "Los Angeles C",
-          "pct": 27,
+          "name": "Miami",
+          "pct": 24,
           "tracked": false
         },
         {
-          "name": "Miami",
-          "pct": 23,
+          "name": "Tennessee",
+          "pct": 21,
+          "tracked": false
+        },
+        {
+          "name": "Los Angeles C",
+          "pct": 18,
           "tracked": false
         },
         {
           "name": "New York J",
-          "pct": 15,
-          "tracked": false
-        },
-        {
-          "name": "San Francisco",
-          "pct": 5,
+          "pct": 14,
           "tracked": false
         },
         {
           "name": "Philadelphia",
-          "pct": 3,
-          "tracked": false
-        },
-        {
-          "name": "Cleveland",
-          "pct": 2,
+          "pct": 9,
           "tracked": false
         },
         {
           "name": "Indianapolis",
+          "pct": 5,
+          "tracked": false
+        },
+        {
+          "name": "Cleveland",
           "pct": 2,
           "tracked": false
         },
@@ -2490,7 +2490,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 21,
+      "field_pct": 5,
       "field_count": 24
     },
     {
@@ -2499,24 +2499,19 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "CJ Carr",
-          "pct": 28,
+          "name": "Darian Mensah",
+          "pct": 31,
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
+          "name": "CJ Carr",
           "pct": 26,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 20,
+          "pct": 25,
           "tracked": false
-        },
-        {
-          "name": "Drew Mestemaker",
-          "pct": 6,
-          "tracked": true
         },
         {
           "name": "Devon Dampier",
@@ -2525,22 +2520,27 @@
         },
         {
           "name": "Gunner Stockton",
+          "pct": 5,
+          "tracked": false
+        },
+        {
+          "name": "Drew Mestemaker",
+          "pct": 5,
+          "tracked": true
+        },
+        {
+          "name": "Keelon Russell",
           "pct": 4,
           "tracked": false
         },
         {
-          "name": "Keelon Russell",
-          "pct": 3,
-          "tracked": false
-        },
-        {
-          "name": "LaNorris Sellers",
-          "pct": 2,
-          "tracked": false
+          "name": "Julian Sayin",
+          "pct": 1,
+          "tracked": true
         }
       ],
-      "field_pct": 5,
-      "field_count": 42
+      "field_pct": 0,
+      "field_count": 43
     }
   ],
   "references": {
