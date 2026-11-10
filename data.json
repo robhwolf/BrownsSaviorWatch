@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T21:57:43.049995+00:00",
+  "updated_at": "2026-11-10T06:04:39.228519+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2327,17 +2327,8 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 9,
+      "age_hours": 17,
       "score": 22
-    },
-    {
-      "headline": "Texas\u2019 Injury-Depleted Victory Shows the Depth Behind Steve Sarkisian\u2019s Success",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnVrYXh1bjk0d1NHblFHOUszZzFGQ2t5SUlvMUVabmFJeDc0YlZtZERnV1Ytbndyb085c3VQZTJBbWNUZG5BWHI3dmViTlAwVlpybHhhOEpfNDlZX25PQ0pQaGJaQTVBeXVWY2pZakVHd1VjbU5VaFZYLWJsXzloY0gxQmluZXpLVWV1NkF5UEpjNmx3bEhrUjhyVkdHOS1xUy1LNzZXVmVoeDdva3ZaV2tZTk9wRjdmV2c?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 23,
-      "score": 21
     },
     {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
@@ -2345,7 +2336,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 807,
+      "age_hours": 815,
       "score": 20
     },
     {
@@ -2354,7 +2345,25 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTBKbjhmUnJ3dnhCcVh6M1VwWjc5eTEtcjhPcEFiZGtkZGxrd210Ym1Xam8zOE8tS2Njam5yck9nMVM5MGpDXzQ3UWRCeXRQNEsza19hR2dQMmtseHVlakNRWVhyRmpxNkRtVHR0WFNsZC1QZWh0RlhxNV9XdFZ2OHY3RDA1TjBHX0licWt5YUI1RzZi?oc=5",
       "player": "CJ Carr",
-      "age_hours": 7,
+      "age_hours": 15,
+      "score": 20
+    },
+    {
+      "headline": "2027 NFL Mock Draft: First-Round Projection Looks Completely Different",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTFsUVZaZkVPYWRoTjJPRThlWUhYTjg1WGdOR1N5dk9QRVJvWUVtUFVtbk01R2VCdXU4cThJc0VocnRONlNOa3BXUVRCQk0tNmQ2V0VRNjI5WDZKNl9QLWl1ZHpUclZzQ3NTclRsX0hzT281bEFjbDNSalNueHpiMThGWXBWS29aN0E0VVNnRjJCdllQUnBRN1FiUGl4LXk4SHBtRW15Y05wcHJk?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 19,
+      "score": 20
+    },
+    {
+      "headline": "Which Oklahoma State Football Players Could Enter Transfer Portal After Season",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWhpLTQwajQ5enFicFhES1Z2UGZUT1VGVVZPM3BVZXhKeENOUnd6UHQ0SDlaaEdqQ2g1LXFTaTNrU1d0QXB4SXMzQ1VNOGxSdnY2X1pDZnMwdE1mLTkxT1FKVnp0amZMeVAtUU9LM1p5SHU2UkY3Q29wY2F0dWg5eXQ5WHU5VUcyRm8tNVNpdjJ5V2p1SXVhY29hTW9yRGc5YUtlNVVva0U4ZS1fblJTZHlPSTlyN3ZueEtSTmlBaTg2Ync1YkVB?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 9,
       "score": 20
     },
     {
@@ -2363,7 +2372,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 567,
+      "age_hours": 575,
       "score": 19
     },
     {
@@ -2372,7 +2381,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
       "player": "CJ Carr",
-      "age_hours": 36,
+      "age_hours": 44,
       "score": 18
     },
     {
@@ -2381,16 +2390,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOEdhSVV2U1FIdENmdjVMMWdVUE81bWNDVXJzSjlOdXFWb0poQ1UtNEpxVlNSNDhNcnMweUpSNWMzMFdBdjVIc05FbzNMWDV6NEhORmk0RWVkOXlOcGduYl9rN01ya2RJX0djaFBqR2wyVVB4dGhkaXJnTzNKRE45NHdXMkpiTTFYb2E1dXozU2V1djlXbDBtbWNOOXdxWjVCYTRXTVRaTGtQb0k0ajNQLWRBRFRLN29ZTDJTdFhSRHhMdzBHZW5iamlHeDRxaExNMmllVThQSTFQdXM?oc=5",
       "player": "CJ Carr",
-      "age_hours": 7,
-      "score": 18
-    },
-    {
-      "headline": "CJ Carr Makes November Heisman Push With Clutch Win Over Miami",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXFCeloyaFhZSGc0WUJ5X1RnM09NQURYRTZTbHpZSTFzM3ltcG5MSHRxRE9GNEpPU2FJU1AxU2dCaFBwMGttNHhyemxSeDQweFZYSFJLMVFYZEVmeFNEX2lNNEZxbmZPeFMtUWo2RHptZmtzUWptMWN1S2U2eVhKemFfREVWaElk?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 23,
+      "age_hours": 15,
       "score": 18
     }
   ],
@@ -2402,12 +2402,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 42,
+          "pct": 41,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 24,
+          "pct": 26,
           "tracked": false
         },
         {
@@ -2427,7 +2427,7 @@
         },
         {
           "name": "Arch Manning",
-          "pct": 6,
+          "pct": 5,
           "tracked": true
         },
         {
@@ -2450,18 +2450,18 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
+          "name": "Los Angeles C",
+          "pct": 32,
+          "tracked": false
+        },
+        {
           "name": "Miami",
-          "pct": 24,
+          "pct": 23,
           "tracked": false
         },
         {
           "name": "Tennessee",
           "pct": 21,
-          "tracked": false
-        },
-        {
-          "name": "Los Angeles C",
-          "pct": 18,
           "tracked": false
         },
         {
@@ -2490,7 +2490,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 5,
+      "field_pct": 0,
       "field_count": 24
     },
     {
@@ -2500,8 +2500,13 @@
       "candidates": [
         {
           "name": "Darian Mensah",
-          "pct": 31,
+          "pct": 28,
           "tracked": true
+        },
+        {
+          "name": "Jeremiah Smith",
+          "pct": 26,
+          "tracked": false
         },
         {
           "name": "CJ Carr",
@@ -2509,14 +2514,14 @@
           "tracked": true
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 25,
+          "name": "Devon Dampier",
+          "pct": 7,
           "tracked": false
         },
         {
-          "name": "Devon Dampier",
+          "name": "Drew Mestemaker",
           "pct": 6,
-          "tracked": false
+          "tracked": true
         },
         {
           "name": "Gunner Stockton",
@@ -2524,19 +2529,14 @@
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 5,
-          "tracked": true
-        },
-        {
           "name": "Keelon Russell",
           "pct": 4,
           "tracked": false
         },
         {
-          "name": "Julian Sayin",
-          "pct": 1,
-          "tracked": true
+          "name": "LaNorris Sellers",
+          "pct": 3,
+          "tracked": false
         }
       ],
       "field_pct": 0,
