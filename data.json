@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T06:04:39.228519+00:00",
+  "updated_at": "2026-11-10T19:22:13.596740+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2322,13 +2322,13 @@
   ],
   "news": [
     {
-      "headline": "QB Darian Mensah is following Cam Ward\u2019s Miami blueprint as his NFL Draft stock rises",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 17,
-      "score": 22
+      "headline": "Texas Tech faces massive test against Oklahoma State as Joey McGuire addresses Injuries, Defensive Concerns",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWGxSQm4wdzBLOTVjYU1LMzZEbWgzZzZmaVB4TFJiUVhRMDFnNmRfZkRtYkNaTjFHam1EelVrY29sUllCQjNvNjcxbmoycERkN0swWXNEc1ZYUzR6bnZtdjF6RlBaNmZvU0daRy1fRHdac2FyR0lMelVsdnZrNDVJOW5nRlNQVkZtNGpZSkRGOG51QjQzaVh6MW0xcEJheE4tMmdVM3d1NGY0eXE4Wjd2cWJlTzdTMlJLbWRKOGNFX2pQT1R3Z016U0kyVHExYlZRVWw4WGxNMWNad1h2cVhXTWRBZXhwUXVjbWhRZw?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 20,
+      "score": 21
     },
     {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
@@ -2336,34 +2336,25 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 815,
+      "age_hours": 828,
       "score": 20
     },
     {
-      "headline": "Heisman Trophy odds: CJ Carr leaps Jeremiah Smith as new favorite after big Notre Dame win",
+      "headline": "Heisman race after Week 10 - CJ Carr, new contenders emerge",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeTA0Y01yY2JPSHlzYTdsMDdqblN5M0RJSUJXMWRkdy1DS0x0MFFHdjFzUUZPVGhBeksteEdZNXNGNGpFb3Z2LW9VNXRHSHhwTWxqOVliNVAzcjJnR1J2Mm05Zy1nUlltZXRpZURIeHBqTzNtdEJNaHplOHhkb1M0Z1hQelp2R3h1cGhIdFhQZw?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 7,
+      "score": 20
+    },
+    {
+      "headline": "Who\u2019s winning the Heisman Trophy? Jeremiah Smith, CJ Carr lead 9 contenders after Week 10",
       "source": "The New York Times",
       "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTBKbjhmUnJ3dnhCcVh6M1VwWjc5eTEtcjhPcEFiZGtkZGxrd210Ym1Xam8zOE8tS2Njam5yck9nMVM5MGpDXzQ3UWRCeXRQNEsza19hR2dQMmtseHVlakNRWVhyRmpxNkRtVHR0WFNsZC1QZWh0RlhxNV9XdFZ2OHY3RDA1TjBHX0licWt5YUI1RzZi?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd19kSHNpbEQyTHJuOGlaSEZZcW5hM09hdUVuSmZybjNzQW5PamZBWUw2QzNReVI5SFM0ZTc2T1JDVnc5UmRGaXVBNGZ2VHdaYWFUbi0wUmN2UDRIdTEyNFZONEM5RnkyZFRUd0JhSTVOYUx6ZC1kc3JOb1UyLTUxSDRQWVg0Q28tamZrRUVnNm1UanZWVng4NXNRWEx6aTFyeTZkZ3ctbmNSUQ?oc=5",
       "player": "CJ Carr",
-      "age_hours": 15,
-      "score": 20
-    },
-    {
-      "headline": "2027 NFL Mock Draft: First-Round Projection Looks Completely Different",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTFsUVZaZkVPYWRoTjJPRThlWUhYTjg1WGdOR1N5dk9QRVJvWUVtUFVtbk01R2VCdXU4cThJc0VocnRONlNOa3BXUVRCQk0tNmQ2V0VRNjI5WDZKNl9QLWl1ZHpUclZzQ3NTclRsX0hzT281bEFjbDNSalNueHpiMThGWXBWS29aN0E0VVNnRjJCdllQUnBRN1FiUGl4LXk4SHBtRW15Y05wcHJk?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 19,
-      "score": 20
-    },
-    {
-      "headline": "Which Oklahoma State Football Players Could Enter Transfer Portal After Season",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWhpLTQwajQ5enFicFhES1Z2UGZUT1VGVVZPM3BVZXhKeENOUnd6UHQ0SDlaaEdqQ2g1LXFTaTNrU1d0QXB4SXMzQ1VNOGxSdnY2X1pDZnMwdE1mLTkxT1FKVnp0amZMeVAtUU9LM1p5SHU2UkY3Q29wY2F0dWg5eXQ5WHU5VUcyRm8tNVNpdjJ5V2p1SXVhY29hTW9yRGc5YUtlNVVva0U4ZS1fblJTZHlPSTlyN3ZueEtSTmlBaTg2Ync1YkVB?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 9,
+      "age_hours": 7,
       "score": 20
     },
     {
@@ -2372,7 +2363,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 575,
+      "age_hours": 588,
       "score": 19
     },
     {
@@ -2381,17 +2372,26 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
       "player": "CJ Carr",
-      "age_hours": 44,
+      "age_hours": 57,
       "score": 18
     },
     {
-      "headline": "Heisman Trophy odds update: CJ Carr takes favored role, but weak Notre Dame remaining schedule could hurt",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOEdhSVV2U1FIdENmdjVMMWdVUE81bWNDVXJzSjlOdXFWb0poQ1UtNEpxVlNSNDhNcnMweUpSNWMzMFdBdjVIc05FbzNMWDV6NEhORmk0RWVkOXlOcGduYl9rN01ya2RJX0djaFBqR2wyVVB4dGhkaXJnTzNKRE45NHdXMkpiTTFYb2E1dXozU2V1djlXbDBtbWNOOXdxWjVCYTRXTVRaTGtQb0k0ajNQLWRBRFRLN29ZTDJTdFhSRHhMdzBHZW5iamlHeDRxaExNMmllVThQSTFQdXM?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 15,
+      "headline": "QB Darian Mensah is following Cam Ward\u2019s Miami blueprint as his NFL Draft stock rises",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
+      "player": "Darian Mensah",
+      "age_hours": 30,
       "score": 18
+    },
+    {
+      "headline": "Live Updates: Georgia Football vs Ole Miss Football | Scores, Injuries and Behind the Scenes",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3BIeURlZUlyNzM1eHpZU1FEazNfWkxjMTVYLXFveXIwc0hCQUVyX2pKdm5QVi1zNWxuNGpIdjVvRnFUR3R5emlFcXJtaUpxSXFzQXFIZXJlZjk5dTZZTDZvbFRMdTRJd0dnb3B0YktDb25UZk5XNHBaVHY1bU5jWjlPbk9WNzhZblFickh5UFlmbnhMZDJPSkdRSUZYenVkYUE4SW8xaGotRWZvMERUME5uTW5iREtBUVJLb1FIV0sxMnNQaE9NREp3OHhPeHprRVJkeWVvZEtDY1R3dGc?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 67,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -2402,12 +2402,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 41,
+          "pct": 39,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 26,
+          "pct": 30,
           "tracked": false
         },
         {
@@ -2431,13 +2431,13 @@
           "tracked": true
         },
         {
-          "name": "Austin Simmons",
-          "pct": 4,
+          "name": "LaNorris Sellers",
+          "pct": 5,
           "tracked": false
         },
         {
-          "name": "LaNorris Sellers",
-          "pct": 3,
+          "name": "Austin Simmons",
+          "pct": 4,
           "tracked": false
         }
       ],
@@ -2466,12 +2466,7 @@
         },
         {
           "name": "New York J",
-          "pct": 14,
-          "tracked": false
-        },
-        {
-          "name": "Philadelphia",
-          "pct": 9,
+          "pct": 15,
           "tracked": false
         },
         {
@@ -2488,6 +2483,11 @@
           "name": "Las Vegas",
           "pct": 2,
           "tracked": false
+        },
+        {
+          "name": "Philadelphia",
+          "pct": 2,
+          "tracked": false
         }
       ],
       "field_pct": 0,
@@ -2499,18 +2499,18 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "Darian Mensah",
-          "pct": 28,
-          "tracked": true
-        },
-        {
           "name": "Jeremiah Smith",
-          "pct": 26,
+          "pct": 28,
           "tracked": false
         },
         {
-          "name": "CJ Carr",
+          "name": "Darian Mensah",
           "pct": 26,
+          "tracked": true
+        },
+        {
+          "name": "CJ Carr",
+          "pct": 21,
           "tracked": true
         },
         {
@@ -2519,27 +2519,27 @@
           "tracked": false
         },
         {
-          "name": "Drew Mestemaker",
-          "pct": 6,
-          "tracked": true
-        },
-        {
           "name": "Gunner Stockton",
           "pct": 5,
           "tracked": false
         },
         {
-          "name": "Keelon Russell",
+          "name": "Drew Mestemaker",
           "pct": 4,
-          "tracked": false
+          "tracked": true
         },
         {
           "name": "LaNorris Sellers",
           "pct": 3,
           "tracked": false
+        },
+        {
+          "name": "Keelon Russell",
+          "pct": 3,
+          "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 3,
       "field_count": 43
     }
   ],
