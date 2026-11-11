@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:22:13.596740+00:00",
+  "updated_at": "2026-11-11T04:52:18.470780+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2088,31 +2088,10 @@
         "color": "#cc0033"
       },
       "status": {
-        "event_id": "401856855",
-        "week": 10,
-        "opponent": "TCU",
-        "opponent_id": 2628,
-        "home_away": "vs",
-        "kickoff": "2026-11-07T03:15:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "29-28",
-        "label": "W 29-28 vs TCU"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 24,
-        "att": 37,
-        "pass_yds": 313,
-        "pass_td": 2,
-        "int": 1,
-        "rush_att": 11,
-        "rush_yds": 38,
-        "rush_td": 1,
-        "comp_pct": 64.9,
-        "ypa": 8.5
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856864",
         "week": 11,
@@ -2322,12 +2301,12 @@
   ],
   "news": [
     {
-      "headline": "Texas Tech faces massive test against Oklahoma State as Joey McGuire addresses Injuries, Defensive Concerns",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWGxSQm4wdzBLOTVjYU1LMzZEbWgzZzZmaVB4TFJiUVhRMDFnNmRfZkRtYkNaTjFHam1EelVrY29sUllCQjNvNjcxbmoycERkN0swWXNEc1ZYUzR6bnZtdjF6RlBaNmZvU0daRy1fRHdac2FyR0lMelVsdnZrNDVJOW5nRlNQVkZtNGpZSkRGOG51QjQzaVh6MW0xcEJheE4tMmdVM3d1NGY0eXE4Wjd2cWJlTzdTMlJLbWRKOGNFX2pQT1R3Z016U0kyVHExYlZRVWw4WGxNMWNad1h2cVhXTWRBZXhwUXVjbWhRZw?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 20,
+      "headline": "Oregon Receiver Jeremiah McClellan Sheds Light Into Injury Return",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTR5aHZrdjRWRklPN014MzdFaUloMWQzblJuYXNUV3VINFlxSGxTQVpWYVVYbTdoUE1Wb0w5LVJHR09ROEJ2VTJmdlg1SkI3NWVvbjMwRVVucjhtNHNNaFhobTdXMURXQ2puZ2ZhNk5kYUd0bGc0ZFRYU2ZralhoUU9uNDJTSDhSazNITV9NenNyWEJiRk1ZaDVkaXBGdw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 7,
       "score": 21
     },
     {
@@ -2336,7 +2315,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 828,
+      "age_hours": 838,
       "score": 20
     },
     {
@@ -2345,7 +2324,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeTA0Y01yY2JPSHlzYTdsMDdqblN5M0RJSUJXMWRkdy1DS0x0MFFHdjFzUUZPVGhBeksteEdZNXNGNGpFb3Z2LW9VNXRHSHhwTWxqOVliNVAzcjJnR1J2Mm05Zy1nUlltZXRpZURIeHBqTzNtdEJNaHplOHhkb1M0Z1hQelp2R3h1cGhIdFhQZw?oc=5",
       "player": "CJ Carr",
-      "age_hours": 7,
+      "age_hours": 17,
       "score": 20
     },
     {
@@ -2354,7 +2333,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd19kSHNpbEQyTHJuOGlaSEZZcW5hM09hdUVuSmZybjNzQW5PamZBWUw2QzNReVI5SFM0ZTc2T1JDVnc5UmRGaXVBNGZ2VHdaYWFUbi0wUmN2UDRIdTEyNFZONEM5RnkyZFRUd0JhSTVOYUx6ZC1kc3JOb1UyLTUxSDRQWVg0Q28tamZrRUVnNm1UanZWVng4NXNRWEx6aTFyeTZkZ3ctbmNSUQ?oc=5",
       "player": "CJ Carr",
-      "age_hours": 7,
+      "age_hours": 6,
       "score": 20
     },
     {
@@ -2363,7 +2342,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 588,
+      "age_hours": 598,
       "score": 19
     },
     {
@@ -2372,7 +2351,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
       "player": "CJ Carr",
-      "age_hours": 57,
+      "age_hours": 67,
       "score": 18
     },
     {
@@ -2381,16 +2360,16 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 30,
+      "age_hours": 40,
       "score": 18
     },
     {
-      "headline": "Live Updates: Georgia Football vs Ole Miss Football | Scores, Injuries and Behind the Scenes",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3BIeURlZUlyNzM1eHpZU1FEazNfWkxjMTVYLXFveXIwc0hCQUVyX2pKdm5QVi1zNWxuNGpIdjVvRnFUR3R5emlFcXJtaUpxSXFzQXFIZXJlZjk5dTZZTDZvbFRMdTRJd0dnb3B0YktDb25UZk5XNHBaVHY1bU5jWjlPbk9WNzhZblFickh5UFlmbnhMZDJPSkdRSUZYenVkYUE4SW8xaGotRWZvMERUME5uTW5iREtBUVJLb1FIV0sxMnNQaE9NREp3OHhPeHprRVJkeWVvZEtDY1R3dGc?oc=5",
-      "player": "Trinidad Chambliss",
-      "age_hours": 67,
+      "headline": "Ohio State to stick with Fahey at QB vs. Northwestern",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZG9xLWt6Tm9hblhsQ2F6NUdNWm81WWpEY1hiSlVlSHBOZDlsN3RaT0JINDk3M0Iwa0RtNUFsVVZKRExGblFoc01TQUIwT090Y1FibUlBRlMwT1dBNFpHNjd4Z1Yxajc0bFl4TE5tT2dLT0hGR0ctc2FYaEZIUjdrSmk2N04yU2xCNS1md3ZvVjE2X2FteXN0b0hBZnpaQ3NP?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 11,
       "score": 17
     }
   ],
@@ -2407,7 +2386,7 @@
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 30,
+          "pct": 26,
           "tracked": false
         },
         {
@@ -2456,17 +2435,17 @@
         },
         {
           "name": "Miami",
-          "pct": 23,
+          "pct": 25,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 21,
+          "pct": 23,
           "tracked": false
         },
         {
           "name": "New York J",
-          "pct": 15,
+          "pct": 12,
           "tracked": false
         },
         {
@@ -2500,46 +2479,46 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 28,
+          "pct": 27,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 26,
+          "pct": 27,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 21,
+          "pct": 20,
+          "tracked": true
+        },
+        {
+          "name": "Drew Mestemaker",
+          "pct": 6,
           "tracked": true
         },
         {
           "name": "Devon Dampier",
-          "pct": 7,
+          "pct": 6,
           "tracked": false
         },
         {
           "name": "Gunner Stockton",
-          "pct": 5,
-          "tracked": false
-        },
-        {
-          "name": "Drew Mestemaker",
           "pct": 4,
-          "tracked": true
-        },
-        {
-          "name": "LaNorris Sellers",
-          "pct": 3,
           "tracked": false
         },
         {
           "name": "Keelon Russell",
           "pct": 3,
           "tracked": false
+        },
+        {
+          "name": "LaNorris Sellers",
+          "pct": 2,
+          "tracked": false
         }
       ],
-      "field_pct": 3,
+      "field_pct": 5,
       "field_count": 43
     }
   ],
@@ -2603,7 +2582,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 9,
+    "games_matched": 8,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
