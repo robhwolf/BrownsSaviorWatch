@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T04:52:18.470780+00:00",
+  "updated_at": "2026-11-11T19:16:19.773612+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1157,31 +1157,10 @@
         "color": "#fe5c00"
       },
       "status": {
-        "event_id": "401856854",
-        "week": 10,
-        "opponent": "Kansas State",
-        "opponent_id": 2306,
-        "home_away": "at",
-        "kickoff": "2026-11-07T18:00:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "66-28",
-        "label": "W 66-28 at Kansas State"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 22,
-        "att": 28,
-        "pass_yds": 313,
-        "pass_td": 4,
-        "int": 1,
-        "rush_att": 3,
-        "rush_yds": 11,
-        "rush_td": 1,
-        "comp_pct": 78.6,
-        "ypa": 11.2
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856863",
         "week": 11,
@@ -1402,31 +1381,10 @@
         "color": "#bf5700"
       },
       "status": {
-        "event_id": "401856743",
-        "week": 10,
-        "opponent": "Missouri",
-        "opponent_id": 142,
-        "home_away": "at",
-        "kickoff": "2026-11-07T17:00:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "34-20",
-        "label": "W 34-20 at Missouri"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 28,
-        "att": 38,
-        "pass_yds": 297,
-        "pass_td": 3,
-        "int": 0,
-        "rush_att": 6,
-        "rush_yds": -29,
-        "rush_td": 0,
-        "comp_pct": 73.7,
-        "ypa": 7.8
-      },
+      "game": null,
       "next_game": {
         "event_id": "401856885",
         "week": 11,
@@ -2301,12 +2259,30 @@
   ],
   "news": [
     {
+      "headline": "Heisman Rankings After Week 10: Julian Sayin, Malachi Toney Injuries Have Thrown Race Wide Open",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2gtWlBUeTNBUFpBM25CNzZPWWpVTmxtN3NpNlhiMWxWNGFlSnpRWkFtN25QbHFadm1tWUpCRVlwR0RkU0t6dVZtcTM3X25wLXdtUUxFajVRcmU5b3MyNENkRUQ4UERfbjFoRTB3N0g1cnVVdEVjdjBHSEJ5OVBmdk1mZUJWOC1QOC1QU3JCM0lwTE5RUG9SeTFKT3Ayb3NHb3JBVWwwVDMyc0ZPMVRNVU9QTlFuQWZ2aVpUamtubXhyQ2FwZERVdw?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 1,
+      "score": 24
+    },
+    {
       "headline": "Oregon Receiver Jeremiah McClellan Sheds Light Into Injury Return",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTR5aHZrdjRWRklPN014MzdFaUloMWQzblJuYXNUV3VINFlxSGxTQVpWYVVYbTdoUE1Wb0w5LVJHR09ROEJ2VTJmdlg1SkI3NWVvbjMwRVVucjhtNHNNaFhobTdXMURXQ2puZ2ZhNk5kYUd0bGc0ZFRYU2ZralhoUU9uNDJTSDhSazNITV9NenNyWEJiRk1ZaDVkaXBGdw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 7,
+      "age_hours": 22,
+      "score": 21
+    },
+    {
+      "headline": "Texas Practice Report: Offensive Identity, Team Chemistry, and Injury Updates",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUNWc1RHUGFnNkl1MkpadmxtWmhmMkNBTkZ0ZXBOYl9PUkdMa3N4SnJTTUVpeUMyeUN1RzJ4MjIwZThrVExwcENXYTl3bnd6VzhLT21qZlp1UW9xTDJ3eEhZOEdCVlFBN0RQNTJNLThJRmZUVkJraXk0Q2c1NkUxZGx3WUFQb29yTTlfc0FkZkJkSjlZaWRvZm16em1UTXJ4M1hVSG1tVWxGbmV0N29GSzJKdGphQTlHSTZIejE5VQ?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 4,
       "score": 21
     },
     {
@@ -2315,16 +2291,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 838,
-      "score": 20
-    },
-    {
-      "headline": "Heisman race after Week 10 - CJ Carr, new contenders emerge",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeTA0Y01yY2JPSHlzYTdsMDdqblN5M0RJSUJXMWRkdy1DS0x0MFFHdjFzUUZPVGhBeksteEdZNXNGNGpFb3Z2LW9VNXRHSHhwTWxqOVliNVAzcjJnR1J2Mm05Zy1nUlltZXRpZURIeHBqTzNtdEJNaHplOHhkb1M0Z1hQelp2R3h1cGhIdFhQZw?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 17,
+      "age_hours": 852,
       "score": 20
     },
     {
@@ -2342,17 +2309,8 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 598,
+      "age_hours": 612,
       "score": 19
-    },
-    {
-      "headline": "NFL Draft 2027 takeaways: Is Arch Manning surging again? Just how good is CJ Carr? - The Athletic",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1RCVnVRN1ByMWhjdW1TdUlhMFJ1ZnZ0VTlwcFBMTGF2ZWRna3I1VjljekhfU1ZZZ25GSU5SR1EwdU0yeUlNalJQbGNpV0hiVUFrUVNaZzlBd0NLQjFkcWh0UkpaTXpYMXdHS3dwVzIxb0lRdTAtZ0YzNUFmRUtZd0RZTTVXNGhWd0p1U1I3dmFnQ2x0RjBLMmRn?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 67,
-      "score": 18
     },
     {
       "headline": "QB Darian Mensah is following Cam Ward\u2019s Miami blueprint as his NFL Draft stock rises",
@@ -2360,17 +2318,17 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUdjY2lOM2FUeTJyUDhTTXNpT05HdDFWRU1HU3NRbmVOTkVzaFBxMEhMM0h4NTNkbFJZMjVXNFhVSnZJZVpsM0FqM0w0U3BvQmQxZ2JlUzBhYXdyVDJSVEc2TFlLZ2QyRTdMM3lWTG1fdDQwM1BjTGszT285bU5sOExzN1FMWUtON0dHWHJEMkk4bmhlbkpsVVBR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 40,
+      "age_hours": 54,
       "score": 18
     },
     {
-      "headline": "Ohio State to stick with Fahey at QB vs. Northwestern",
+      "headline": "Oregon quarterback Dante Moore sustains concussion from hit at USC",
       "source": "ESPN",
       "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZG9xLWt6Tm9hblhsQ2F6NUdNWm81WWpEY1hiSlVlSHBOZDlsN3RaT0JINDk3M0Iwa0RtNUFsVVZKRExGblFoc01TQUIwT090Y1FibUlBRlMwT1dBNFpHNjd4Z1Yxajc0bFl4TE5tT2dLT0hGR0ctc2FYaEZIUjdrSmk2N04yU2xCNS1md3ZvVjE2X2FteXN0b0hBZnpaQ3NP?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 11,
-      "score": 17
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 1092,
+      "score": 16
     }
   ],
   "kalshi": [
@@ -2381,12 +2339,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 39,
+          "pct": 40,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 26,
+          "pct": 28,
           "tracked": false
         },
         {
@@ -2410,13 +2368,13 @@
           "tracked": true
         },
         {
-          "name": "LaNorris Sellers",
-          "pct": 5,
+          "name": "Austin Simmons",
+          "pct": 4,
           "tracked": false
         },
         {
-          "name": "Austin Simmons",
-          "pct": 4,
+          "name": "LaNorris Sellers",
+          "pct": 3,
           "tracked": false
         }
       ],
@@ -2430,12 +2388,12 @@
       "candidates": [
         {
           "name": "Los Angeles C",
-          "pct": 32,
+          "pct": 31,
           "tracked": false
         },
         {
           "name": "Miami",
-          "pct": 25,
+          "pct": 26,
           "tracked": false
         },
         {
@@ -2445,12 +2403,17 @@
         },
         {
           "name": "New York J",
-          "pct": 12,
+          "pct": 14,
           "tracked": false
         },
         {
           "name": "Indianapolis",
           "pct": 5,
+          "tracked": false
+        },
+        {
+          "name": "Atlanta",
+          "pct": 2,
           "tracked": false
         },
         {
@@ -2460,11 +2423,6 @@
         },
         {
           "name": "Las Vegas",
-          "pct": 2,
-          "tracked": false
-        },
-        {
-          "name": "Philadelphia",
           "pct": 2,
           "tracked": false
         }
@@ -2478,18 +2436,18 @@
       "url": "https://kalshi.com/markets/kxheisman/heisman-trophy-winner/kxheisman-27",
       "candidates": [
         {
-          "name": "Jeremiah Smith",
-          "pct": 27,
-          "tracked": false
-        },
-        {
           "name": "Darian Mensah",
-          "pct": 27,
+          "pct": 29,
           "tracked": true
         },
         {
+          "name": "Jeremiah Smith",
+          "pct": 28,
+          "tracked": false
+        },
+        {
           "name": "CJ Carr",
-          "pct": 20,
+          "pct": 17,
           "tracked": true
         },
         {
@@ -2498,12 +2456,12 @@
           "tracked": true
         },
         {
-          "name": "Devon Dampier",
-          "pct": 6,
+          "name": "Gunner Stockton",
+          "pct": 5,
           "tracked": false
         },
         {
-          "name": "Gunner Stockton",
+          "name": "Devon Dampier",
           "pct": 4,
           "tracked": false
         },
@@ -2518,7 +2476,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 5,
+      "field_pct": 6,
       "field_count": 43
     }
   ],
@@ -2582,7 +2540,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 8,
+    "games_matched": 6,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
