@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T19:35:09.051811+00:00",
+  "updated_at": "2026-11-13T05:16:52.931539+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2235,13 +2235,13 @@
   ],
   "news": [
     {
-      "headline": "Jeremiah Smith holds at No. 1, Drew Mestemaker climbs to No. 2 in 2027 NFL Draft rankings",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXF0bzNfaDRvNzBiZ1NQSmFHUVNjcFRXeXdzcjRrM01UX19DWFV2QWQyT1NUVlp2QUw0VGI4MU52eXRrSGF3ODNZVUJjR1Z4R1dmSlRvbktMd3hDUGUzU3F4TFNzNFlGd3EtVWpKUkNTb1lqYnJ6MDJPbDktLWtQd0QtRHpHWGdncUt6ZlB6cHZrQWU0?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 10,
-      "score": 22
+      "headline": "Ohio State Injury Report: Luke Montgomery Questionable, Brandon Inniss Cleared to Play; Aidan Chiles Out for Northwestern",
+      "source": "Eleven Warriors",
+      "domain": "elevenwarriors.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMUtTRkxOSzRsTkVMbnpqU1dsWTRQdnlEZFZyOC1Uc0xSZ3VZLTA0dlE4WU94S3c4Tmk3NkZqQnpRVVZhWFdzRXJwbjFlM081NnNsRExsOXVRN01yVVNoRWR4TnN3NTc1dWRqeHA3dlZNMVdVdzlfWnZvdU9Ia3hYN3BoM1hlcnpoQVlwZ0hvRWpNMlhaV3hKQVJaS3k4dmltejVtQUVtejZPLThPRDJFcUZRcUtoOXcyUTZBOUs2QXdQSXprYzQyeGt5TFpNMDBhNW9GdnJ1V0ZUaGF0dWRWcVdsN1AtMElvU0JMSlhrSWhkbXNfMTZscVFZV1VITlg1THlzdEJWMA?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 4,
+      "score": 25
     },
     {
       "headline": "A walk-on didn\u2019t have his head coach\u2019s number. Now he could be the No. 1 pick in the NFL Draft",
@@ -2249,7 +2249,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmw1SUNSOU1hcVVxRko4eUx3QWVXOXFHb05EaklWV09HNVFaT2U1TnJPb183TktucWhEeXU4WWowVEIzcnUyUm5oYWJLLTFoLWEzeUtndHp4TWtMUzFxMTRreFhBQ2hhTmtaalp2cC1hcFBOYlh1U3I3bF9Rd1RMTnVoM3BBM2Iyb2dsTlEtdm5YZkxfQlZyYTM2Mmd2Z2VtOG5pcFdLY3U?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 9,
+      "age_hours": 18,
       "score": 22
     },
     {
@@ -2258,16 +2258,7 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONDNscEVWSHUxNGtUOEVDd2JydDljV3V6dHp4Y1lXSXNJQ1BhTkxOMURVdW12VmIyMXpKVWJuZm03MzRjazhlY2RXenoyd19QS3dRYzdQTGxaVURHVWt2RGt3S2ZRSHF6Y0YwdWllZFJVZGI2YXVneHZMNU1rZTVlZnZ0RjFyWWNBUlg3a3VHaDJzeDgyNFJVMDlCcWRrTG1rVkdBNVNrNEVzX0ZZNXlVQnY2ZUNSWHFpT3pzRA?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 6,
-      "score": 21
-    },
-    {
-      "headline": "USC Trojans Deliver Lengthy Injury Report Ahead of Indiana Showdown",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZfWXoyUkZzQzBDMldRT1VPWFluZG13bFN2eEVnSHYzT2RYOUI3anZLX2h2LXFLczhaY0NOdmtLNU1qLUxWaDlGNkhCVUZnTjNFQUxDZjZyTmZ1YmlCbzVTa3FGLV9IemwzYUhSSWF6a0ZIOE5IMVppRFdXVEtYNVVTYlN4VGxBcnNlODBKX2Roc0dIT1dxSkJCbE42elM3?oc=5",
-      "player": "Jayden Maiava",
-      "age_hours": 18,
+      "age_hours": 15,
       "score": 21
     },
     {
@@ -2276,16 +2267,16 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 877,
+      "age_hours": 886,
       "score": 20
     },
     {
-      "headline": "Heisman Rankings After Week 10: Julian Sayin, Malachi Toney Injuries Have Thrown Race Wide Open",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2gtWlBUeTNBUFpBM25CNzZPWWpVTmxtN3NpNlhiMWxWNGFlSnpRWkFtN25QbHFadm1tWUpCRVlwR0RkU0t6dVZtcTM3X25wLXdtUUxFajVRcmU5b3MyNENkRUQ4UERfbjFoRTB3N0g1cnVVdEVjdjBHSEJ5OVBmdk1mZUJWOC1QOC1QU3JCM0lwTE5RUG9SeTFKT3Ayb3NHb3JBVWwwVDMyc0ZPMVRNVU9QTlFuQWZ2aVpUamtubXhyQ2FwZERVdw?oc=5",
+      "headline": "Point/counterpoint: If Carr declares, should Notre Dame pursue a quarterback in the transfer portal?",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd1ZuM2dGMFNpNm1GblRxV2FGT1czU25zRF9OQUowYkNtX0J3ZndaUzhFemFhVzVnZFhISkZ2THlQTkZjNVdmem5NUm5yZGpxWWQwR1dYN29mT1loYzVHWThhMkNHNXh4NHo1OXBjd1lSWF9WazF6UjJKNzBXa1NiV3MyU1ptLW03Ml9aWFVoeDZ5WjFxc2I0OHJEbEZBVThnX1A5SUFsTXg2NXpRb1ZsbFBBWlAwcVNTWGRuWjBJS0FSckE?oc=5",
       "player": "CJ Carr",
-      "age_hours": 26,
+      "age_hours": 6,
       "score": 20
     },
     {
@@ -2294,16 +2285,25 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZR1RWdHQwOG5uaVZhR0JsS0IxNmdzYnNublM5d2NSVGxuRG5UNnZjSFhoTUx6d1JKUG5FU3JkdFNQTUF2Sm9FT192QmhRRXpnU3AySEIwdnk3N2RnbC1KOWltWFU1dVk3T1FHT2swd1ZMOXdCRTFBSjRNUQ?oc=5",
       "player": "CJ Carr",
-      "age_hours": 9,
+      "age_hours": 18,
       "score": 20
     },
     {
-      "headline": "Dante Moore\u2019s NFL Draft Stock Takes a Turn Amid Injury Absence",
+      "headline": "Heisman Rankings After Week 10: Julian Sayin, Malachi Toney Injuries Have Thrown Race Wide Open",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 637,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2gtWlBUeTNBUFpBM25CNzZPWWpVTmxtN3NpNlhiMWxWNGFlSnpRWkFtN25QbHFadm1tWUpCRVlwR0RkU0t6dVZtcTM3X25wLXdtUUxFajVRcmU5b3MyNENkRUQ4UERfbjFoRTB3N0g1cnVVdEVjdjBHSEJ5OVBmdk1mZUJWOC1QOC1QU3JCM0lwTE5RUG9SeTFKT3Ayb3NHb3JBVWwwVDMyc0ZPMVRNVU9QTlFuQWZ2aVpUamtubXhyQ2FwZERVdw?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 35,
+      "score": 20
+    },
+    {
+      "headline": "THURSDAY Ole Miss vs. Oklahoma Injury Report: Frazier Now Questionable; Chambliss, Alexander No Longer Listed",
+      "source": "The Rebel Walk",
+      "domain": "therebelwalk.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQTk5V0NRTE1pZWRpczhDMFBZUUpleXptSVhlTjBISTRHd1dOREZWeDdmWWhzZjAxbEZwSWh4SXcyNEtiallsaEZoNU94VXVyRDdCT2RNTjVvT2RIU252V21QbGR4TWZaVW50ODh4S3JxSVVzRjl5UEJJc284d0Iza2xLUQ?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 4,
       "score": 19
     }
   ],
@@ -2315,12 +2315,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 38,
+          "pct": 39,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 27,
+          "pct": 26,
           "tracked": false
         },
         {
@@ -2364,12 +2364,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 34,
-          "tracked": false
-        },
-        {
-          "name": "Los Angeles C",
-          "pct": 25,
+          "pct": 33,
           "tracked": false
         },
         {
@@ -2378,8 +2373,13 @@
           "tracked": false
         },
         {
+          "name": "Los Angeles C",
+          "pct": 22,
+          "tracked": false
+        },
+        {
           "name": "New York J",
-          "pct": 14,
+          "pct": 11,
           "tracked": false
         },
         {
@@ -2413,12 +2413,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 32,
+          "pct": 34,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 27,
+          "pct": 28,
           "tracked": true
         },
         {
@@ -2428,7 +2428,7 @@
         },
         {
           "name": "Gunner Stockton",
-          "pct": 6,
+          "pct": 7,
           "tracked": false
         },
         {
@@ -2442,17 +2442,17 @@
           "tracked": false
         },
         {
-          "name": "Keelon Russell",
+          "name": "LaNorris Sellers",
           "pct": 2,
           "tracked": false
         },
         {
-          "name": "Julian Sayin",
-          "pct": 1,
-          "tracked": true
+          "name": "Keelon Russell",
+          "pct": 2,
+          "tracked": false
         }
       ],
-      "field_pct": 4,
+      "field_pct": 0,
       "field_count": 44
     }
   ],
