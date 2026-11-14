@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T19:34:15.545697+00:00",
+  "updated_at": "2026-11-14T23:29:13.311925+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -343,16 +343,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858523",
-        "week": 11,
-        "opponent": "Michigan",
-        "opponent_id": 130,
-        "home_away": "vs",
-        "kickoff": "2026-11-14T20:30:00.000Z",
+        "event_id": "401858529",
+        "week": 12,
+        "opponent": "Michigan State",
+        "opponent_id": 127,
+        "home_away": "at",
+        "kickoff": "2026-11-21T01:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Michigan"
+        "label": "at Michigan State"
       },
       "log": [
         {
@@ -478,16 +478,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858294",
-        "week": 11,
-        "opponent": "Boston College",
-        "opponent_id": 103,
+        "event_id": "401858307",
+        "week": 12,
+        "opponent": "SMU",
+        "opponent_id": 2567,
         "home_away": "vs",
-        "kickoff": "2026-11-14T20:30:00.000Z",
+        "kickoff": "2026-11-22T00:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Boston College"
+        "label": "vs SMU"
       },
       "log": [
         {
@@ -700,10 +700,23 @@
         "kickoff": "2026-11-14T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Duke"
+        "state": "final",
+        "result": "W",
+        "score": "36-25",
+        "label": "W 36-25 vs Duke"
       },
-      "game": null,
+      "game": {
+        "cmp": 30,
+        "att": 41,
+        "pass_yds": 382,
+        "pass_td": 1,
+        "int": 0,
+        "rush_att": 4,
+        "rush_yds": 7,
+        "rush_td": 0,
+        "comp_pct": 73.2,
+        "ypa": 9.3
+      },
       "next_game": {
         "event_id": "401858302",
         "week": 12,
@@ -887,24 +900,43 @@
           "result": "L",
           "score": "24-31",
           "date": "2026-11-08T00:30:00.000Z"
+        },
+        {
+          "cmp": 30,
+          "att": 41,
+          "pass_yds": 382,
+          "pass_td": 1,
+          "int": 0,
+          "rush_att": 4,
+          "rush_yds": 7,
+          "rush_td": 0,
+          "comp_pct": 73.2,
+          "ypa": 9.3,
+          "event_id": "401858296",
+          "week": 11,
+          "opponent": "Duke",
+          "home_away": "vs",
+          "result": "W",
+          "score": "36-25",
+          "date": "2026-11-14T17:00:00.000Z"
         }
       ],
       "season": {
-        "games": 9,
-        "record": "8-1",
-        "cmp": 212,
-        "att": 276,
-        "comp_pct": 76.8,
-        "pass_yds": 2738,
-        "ypa": 9.9,
-        "pass_td": 28,
+        "games": 10,
+        "record": "9-1",
+        "cmp": 242,
+        "att": 317,
+        "comp_pct": 76.3,
+        "pass_yds": 3120,
+        "ypa": 9.8,
+        "pass_td": 29,
         "int": 2,
-        "td_int": "28-2",
-        "rush_yds": 137,
+        "td_int": "29-2",
+        "rush_yds": 144,
         "rush_td": 2,
-        "total_td": 30,
-        "ypg": 304,
-        "rating": 192.2,
+        "total_td": 31,
+        "ypg": 312,
+        "rating": 187.9,
         "epa_per_play": null
       }
     },
@@ -930,8 +962,10 @@
         "kickoff": "2026-11-14T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Northwestern"
+        "state": "final",
+        "result": "W",
+        "score": "28-19",
+        "label": "W 28-19 vs Northwestern"
       },
       "game": null,
       "next_game": {
@@ -1817,16 +1851,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858518",
-        "week": 11,
-        "opponent": "Indiana",
-        "opponent_id": 84,
-        "home_away": "at",
-        "kickoff": "2026-11-14T20:30:00.000Z",
+        "event_id": "401858534",
+        "week": 12,
+        "opponent": "Maryland",
+        "opponent_id": 120,
+        "home_away": "vs",
+        "kickoff": "2026-11-21T23:15:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Indiana"
+        "label": "vs Maryland"
       },
       "log": [
         {
@@ -2235,12 +2269,21 @@
   ],
   "news": [
     {
+      "headline": "Oregon Ducks Game Day Injury Report vs. Michigan Wolverines",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZUszbE43ZXhtMkE1aHdXdktNRDRuU0ZYUEV6ZUVMa3NPTTRYdDdBWlk3ZEZfdjJqWU9rRFdGUjFlbG1xaGE5djgzRmZqN1BnTjU1eW9KQnI4MWxZYWRKamw5LXpVazBNeGpSQlMzR3o1YUt1aXlxZFY5Q0wxTVdZbGo0X1Y3eFZtUG8zYUYwcktGcDA?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 5,
+      "score": 21
+    },
+    {
       "headline": "Ohio State Injury Report: Luke Montgomery out, Phillip Daniels Game-Time Decision; Aidan Chiles out for Northwestern",
       "source": "Eleven Warriors",
       "domain": "elevenwarriors.com",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMUtTRkxOSzRsTkVMbnpqU1dsWTRQdnlEZFZyOC1Uc0xSZ3VZLTA0dlE4WU94S3c4Tmk3NkZqQnpRVVZhWFdzRXJwbjFlM081NnNsRExsOXVRN01yVVNoRWR4TnN3NTc1dWRqeHA3dlZNMVdVdzlfWnZvdU9Ia3hYN3BoM1hlcnpoQVlwZ0hvRWpNMlhaV3hKQVJaS3k4dmltejVtQUVtejZPLThPRDJFcUZRcUtoOXcyUTZBOUs2QXdQSXprYzQyeGt5TFpNMDBhNW9GdnJ1V0ZUaGF0dWRWcVdsN1AtMElvU0JMSlhrSWhkbXNfMTZscVFZV1VITlg1THlzdEJWMA?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 4,
+      "age_hours": 8,
       "score": 21
     },
     {
@@ -2249,7 +2292,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1QyYXY5REozZWZvbGRmYnNCUXN2ZDIzSi1TczA0amMxRk01bW82VFJ0aGdIRUpJN1JIWFFqS25vTS1Xb2VvN3BCSzUtaDVRbUhmTlBGTFpQYmRtYWlnb3gzRDRLMEJoV2xBMnhyV1EwdkZSYlZ6RkRIMGxuaEtXMnhwTE14LUJ0cGJ5T3dVX0VZSkJkTEJoOG5WUlRYT2w4UWxhS0xuWk0?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 18,
+      "age_hours": 22,
       "score": 21
     },
     {
@@ -2258,7 +2301,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 925,
+      "age_hours": 928,
       "score": 20
     },
     {
@@ -2267,7 +2310,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 445,
+      "age_hours": 448,
       "score": 19
     },
     {
@@ -2276,16 +2319,16 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 685,
+      "age_hours": 688,
       "score": 19
     },
     {
-      "headline": "3-Round Jets Midseason 2027 Mock Draft: A Savior at QB & Dynamic Defenders",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjNsZi1kNkJkcUVIN0ZvdFZZSzRSWEE2ekN5WnhMRUF6TGFQeXRpSHY2NnM2MmgzYWhabGNjbGdiN3NXek13NGgwUmpvTDNtU3BjelFfSGxfOG1MWlZuVVNMUFF2c0RLSkxoV3hQdlhiajJaRHhWT0VQVUxpMUxud2hHeDM3Q0Y1VTc3Yk9fbkNjWWFrU052a3Q3SlZOTjdOMlZENnZFMEo5cHdSVjcyS1B3?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 24,
+      "headline": "Jeremiah Smith holds at No. 1, Drew Mestemaker climbs to No. 2 in 2027 NFL Draft rankings - The Athletic",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXF0bzNfaDRvNzBiZ1NQSmFHUVNjcFRXeXdzcjRrM01UX19DWFV2QWQyT1NUVlp2QUw0VGI4MU52eXRrSGF3ODNZVUJjR1Z4R1dmSlRvbktMd3hDUGUzU3F4TFNzNFlGd3EtVWpKUkNTb1lqYnJ6MDJPbDktLWtQd0QtRHpHWGdncUt6ZlB6cHZrQWU0?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 61,
       "score": 18
     },
     {
@@ -2294,17 +2337,8 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmw1SUNSOU1hcVVxRko4eUx3QWVXOXFHb05EaklWV09HNVFaT2U1TnJPb183TktucWhEeXU4WWowVEIzcnUyUm5oYWJLLTFoLWEzeUtndHp4TWtMUzFxMTRreFhBQ2hhTmtaalp2cC1hcFBOYlh1U3I3bF9Rd1RMTnVoM3BBM2Iyb2dsTlEtdm5YZkxfQlZyYTM2Mmd2Z2VtOG5pcFdLY3U?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 57,
+      "age_hours": 60,
       "score": 18
-    },
-    {
-      "headline": "Julian Sayin Injury News: When Will Ohio State QB Return?",
-      "source": "Athlon Sports",
-      "domain": "athlonsports.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWExa181ZDZfTVZhUG1Pd1lpVW1HN3dLZGM5OG14S3JGUVE3ZnI4UjMtMW15WjJkNHRXR3NFREE2NjZwMktmczlabkk0cGhmYkpzMEZ3UXRpNERCQUJlT0JBZndpTFFaS3BmR1JRX3VWazFEV2xucVNxZmI4SmtkLVJQUDJaUlJqNmlWRU5NbjlENG5UcWtJdzVFN0Z0QQ?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 3,
-      "score": 17
     }
   ],
   "kalshi": [
@@ -2320,7 +2354,7 @@
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 27,
+          "pct": 31,
           "tracked": false
         },
         {
@@ -2344,17 +2378,17 @@
           "tracked": true
         },
         {
-          "name": "Dante Moore",
+          "name": "Julian Sayin",
           "pct": 2,
           "tracked": true
         },
         {
-          "name": "Julian Sayin",
+          "name": "Jayden Maiava",
           "pct": 2,
           "tracked": true
         }
       ],
-      "field_pct": 6,
+      "field_pct": 2,
       "field_count": 14
     },
     {
@@ -2363,18 +2397,18 @@
       "url": "https://kalshi.com/markets/kxnfldraft1st/make-the-1st-pick-in-nfl-draft/kxnfldraft1st-27",
       "candidates": [
         {
-          "name": "Los Angeles C",
-          "pct": 22,
-          "tracked": false
-        },
-        {
           "name": "Miami",
-          "pct": 22,
+          "pct": 27,
           "tracked": false
         },
         {
           "name": "Tennessee",
           "pct": 22,
+          "tracked": false
+        },
+        {
+          "name": "Los Angeles C",
+          "pct": 15,
           "tracked": false
         },
         {
@@ -2403,7 +2437,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 10,
+      "field_pct": 12,
       "field_count": 24
     },
     {
@@ -2413,32 +2447,32 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 45,
+          "pct": 59,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 24,
-          "tracked": true
-        },
-        {
-          "name": "CJ Carr",
-          "pct": 16,
+          "pct": 15,
           "tracked": true
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 9,
+          "pct": 6,
           "tracked": true
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 7,
-          "tracked": false
+          "name": "CJ Carr",
+          "pct": 6,
+          "tracked": true
         },
         {
           "name": "Devon Dampier",
-          "pct": 5,
+          "pct": 6,
+          "tracked": false
+        },
+        {
+          "name": "Gunner Stockton",
+          "pct": 4,
           "tracked": false
         },
         {
@@ -2447,7 +2481,7 @@
           "tracked": false
         },
         {
-          "name": "Keelon Russell",
+          "name": "Gio Lopez",
           "pct": 2,
           "tracked": false
         }
