@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T12:25:35.541313+00:00",
+  "updated_at": "2026-11-15T19:32:46.154184+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -112,16 +112,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856887",
-        "week": 11,
-        "opponent": "Oklahoma",
-        "opponent_id": 201,
-        "home_away": "at",
-        "kickoff": "2026-11-15T18:00:00.000Z",
+        "event_id": "401856749",
+        "week": 12,
+        "opponent": "Wofford",
+        "opponent_id": 2747,
+        "home_away": "vs",
+        "kickoff": "2026-11-21T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Oklahoma"
+        "label": "vs Wofford"
       },
       "log": [
         {
@@ -2457,21 +2457,21 @@
   ],
   "news": [
     {
-      "headline": "Oregon Ducks Game Day Injury Report vs. Michigan Wolverines",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZUszbE43ZXhtMkE1aHdXdktNRDRuU0ZYUEV6ZUVMa3NPTTRYdDdBWlk3ZEZfdjJqWU9rRFdGUjFlbG1xaGE5djgzRmZqN1BnTjU1eW9KQnI4MWxZYWRKamw5LXpVazBNeGpSQlMzR3o1YUt1aXlxZFY5Q0wxTVdZbGo0X1Y3eFZtUG8zYUYwcktGcDA?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 18,
+      "headline": "Early shoulder injury hinders Oklahoma State quarterback Drew Mestemaker in loss to Texas Tech",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFNsQXNydm1SMEFRWHIzZWpiWklXMld2cVVaREJfWVhEQndhR3lsT3ZidUZXSmVncXJzdTJGVGh1MXhwcEVfX0hOd1dtTlVxRXg1UFZRV3JvVkFJQVNQRjJ1VkJmYmk1WG5Lb1NBZl93RFZCVElwZ2RrNGRxVjVHZ3J2TWlxUFVJMTlzOHVzcnVKYk9kSXRuMUkxVjlneUphVGVlS1Rhc1NXa3o2VVNsM18xXzBDSjZNTGk3VDZsam1oUl9qX1JuckVPN3JxS1Zk?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 10,
       "score": 21
     },
     {
-      "headline": "Ohio State Injury Report: Luke Montgomery out, Phillip Daniels Game-Time Decision; Aidan Chiles out for Northwestern",
-      "source": "Eleven Warriors",
-      "domain": "elevenwarriors.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMUtTRkxOSzRsTkVMbnpqU1dsWTRQdnlEZFZyOC1Uc0xSZ3VZLTA0dlE4WU94S3c4Tmk3NkZqQnpRVVZhWFdzRXJwbjFlM081NnNsRExsOXVRN01yVVNoRWR4TnN3NTc1dWRqeHA3dlZNMVdVdzlfWnZvdU9Ia3hYN3BoM1hlcnpoQVlwZ0hvRWpNMlhaV3hKQVJaS3k4dmltejVtQUVtejZPLThPRDJFcUZRcUtoOXcyUTZBOUs2QXdQSXprYzQyeGt5TFpNMDBhNW9GdnJ1V0ZUaGF0dWRWcVdsN1AtMElvU0JMSlhrSWhkbXNfMTZscVFZV1VITlg1THlzdEJWMA?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 21,
+      "headline": "Oklahoma State to Evaluate Drew Mestemaker\u2019s Injured Shoulder After Texas Tech Loss",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjJEaXNOZ0F3ZmkyRzJ1VXp6NFpTUkJKdjZEX2NsMS1vX2NHMDQ3Z2xySzdHSzdXMkRHTF9mNEU2RHp4a2k5Rl92WDMtQ203bUtxbXNmdUdTaUZFUk5KemdVZFpPbHMwTWlnSVZjMGdVU3BoU1dIdkUtcG5QUllSNTk5U1NYSVd6aFdHQzhiNmgwS3pVNTJtRkRkdXNuZ2p0aXc2TU9vUU4yWnRQMnYxWHBNQjlnbHdEZlRKWmRJUkIwcmUwWTR2cmhSSQ?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 3,
       "score": 21
     },
     {
@@ -2480,7 +2480,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 941,
+      "age_hours": 949,
       "score": 20
     },
     {
@@ -2489,7 +2489,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdHdfSWRVU3FmaGNTZXBtZm9XTHBLYzB6TG1ma0Y4M012NFhqTk1kSmhpQTJ1RDU5X1VvZW91R1I2SjNiRVdidWhOMkNfamtjQWFHbnlwTEtaYWVIR3pURWtVbkpSa0NkSGd1X2ZGbEplYko1VzBZN2ptNjFvUUppd3lnRDRnNXVtbUhIQWtieFo?oc=5",
       "player": "CJ Carr",
-      "age_hours": 12,
+      "age_hours": 19,
       "score": 20
     },
     {
@@ -2498,7 +2498,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 461,
+      "age_hours": 469,
       "score": 19
     },
     {
@@ -2507,26 +2507,26 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
       "player": "Dante Moore",
-      "age_hours": 701,
+      "age_hours": 709,
       "score": 19
     },
     {
-      "headline": "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWs0SHh2c3puUmZNSnZZSE9jSTAzOUw5U0V5VXMyN083UXgyaV8wQl8ySUtVY2h4dWYyUndIU2VKWnc4VWwyZko2ZlFYQ3QwM3Jtbmg0aUdKS2ZmWjZfblY3MjA1SVVQem5WVGNoUUJZc3ZWbTV3MzFVRlpZRktxNl9MM2x4M3RxLXRoSVZPMVlMalZDdlN2bzZ3VktOLUxHWHVsaUhPbU9IWUxzSVhBLWN3ZWwyN0E?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 13,
-      "score": 17
+      "headline": "Heisman Odds Week 12: Jeremiah Smith Reclaims Top Spot as CJ Carr Plummets",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSE5sWDZEalE1OUdKMlpDVzVjX0NScXRfelh2OHZ5Q1Q2SHgxMWhxZXpid1VmR0hhVG9BQ2lsNzJTZ3VWVE9Rd05FSGplX3JRM3dZRGh3QkpTcmlPd3RncFNzRk9vYXhwRGZtT21YX2s3bERhVmJOOVlHanJpWVhHUXFVWFAwbzhwWTJTWm5XaVdydUpqdHNLM3U5N19IeHA2blRWcXpQSXJ5UVlseXBBWWllckNwS1k4TkVmdS1FQnNDVHFQSXNNUlJoTGt6T2NLLXZJQ0c4ZTJQcjhC?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 7,
+      "score": 18
     },
     {
-      "headline": "Ohio State 28-19 Northwestern (Nov 14, 2026) Game Recap",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XX2I5NWJtbXh0Q3VUQXZuMEpjRjg1TkhzaHdkN1h6ODdCUHd5UEp2d3ViY0lvbEFlczhPOURteHZzRG9ZVXdXOG5kY3N5UXN1YjdpQWdrbFFVMUZzaXJ1THZuS2ZUMTdqUTc3ZTFsZw?oc=5",
-      "player": "Julian Sayin",
+      "headline": "Why Darian Mensah's \"Revenge\" Game Against Duke Boosts His Heisman Case",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbzJzQjA1Y3RXQUotdkxyaVVzR1NUMnBFdFNUMWtSd3VBZU5YTVlRMUdjS3JpWDFOWG81VzNXbkdybDMtVXdDN25HRERmQVVYX0hqV0gweFh3Q2k0UVVRRDJsN0N0dG5kb0hUNFpMempLQndKZGVaM2x3amFMcEJzSENpUlhpTk44SW5rcllGQTctS2djZ1VuVGJIbWxlQzE0Yy14aExQOVZsSWt4YlE?oc=5",
+      "player": "Darian Mensah",
       "age_hours": 15,
-      "score": 17
+      "score": 18
     }
   ],
   "kalshi": [
@@ -2537,12 +2537,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 36,
+          "pct": 37,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 34,
+          "pct": 32,
           "tracked": true
         },
         {
@@ -2551,18 +2551,18 @@
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
-          "pct": 5,
+          "name": "Arch Manning",
+          "pct": 7,
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 4,
+          "name": "Darian Mensah",
+          "pct": 6,
           "tracked": true
         },
         {
           "name": "LaNorris Sellers",
-          "pct": 3,
+          "pct": 4,
           "tracked": false
         },
         {
@@ -2576,7 +2576,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 1,
+      "field_pct": 0,
       "field_count": 14
     },
     {
@@ -2586,12 +2586,12 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 35,
+          "pct": 30,
           "tracked": false
         },
         {
           "name": "Los Angeles C",
-          "pct": 29,
+          "pct": 28,
           "tracked": false
         },
         {
@@ -2601,7 +2601,7 @@
         },
         {
           "name": "New York J",
-          "pct": 13,
+          "pct": 7,
           "tracked": false
         },
         {
@@ -2635,33 +2635,28 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 56,
+          "pct": 55,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 22,
+          "pct": 20,
           "tracked": true
         },
         {
           "name": "Devon Dampier",
-          "pct": 11,
+          "pct": 12,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 7,
+          "pct": 5,
           "tracked": true
         },
         {
           "name": "Gunner Stockton",
-          "pct": 3,
-          "tracked": false
-        },
-        {
-          "name": "Arch Manning",
           "pct": 2,
-          "tracked": true
+          "tracked": false
         },
         {
           "name": "LaNorris Sellers",
@@ -2672,9 +2667,14 @@
           "name": "Gio Lopez",
           "pct": 2,
           "tracked": false
+        },
+        {
+          "name": "Julian Sayin",
+          "pct": 1,
+          "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 1,
       "field_count": 44
     }
   ],
