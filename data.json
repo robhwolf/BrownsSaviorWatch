@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T04:56:48.874592+00:00",
+  "updated_at": "2026-11-16T21:40:30.039723+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -789,8 +789,8 @@
         "opponent": "Virginia Tech",
         "opponent_id": 259,
         "home_away": "vs",
-        "kickoff": "2026-11-21T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-22T00:00:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs Virginia Tech"
@@ -2267,8 +2267,8 @@
         "opponent": "Kansas State",
         "opponent_id": 2306,
         "home_away": "at",
-        "kickoff": "2026-11-21T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-22T00:00:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "at Kansas State"
@@ -2489,30 +2489,12 @@
   ],
   "news": [
     {
-      "headline": "Early shoulder injury hinders Oklahoma State quarterback Drew Mestemaker in loss to Texas Tech",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFNsQXNydm1SMEFRWHIzZWpiWklXMld2cVVaREJfWVhEQndhR3lsT3ZidUZXSmVncXJzdTJGVGh1MXhwcEVfX0hOd1dtTlVxRXg1UFZRV3JvVkFJQVNQRjJ1VkJmYmk1WG5Lb1NBZl93RFZCVElwZ2RrNGRxVjVHZ3J2TWlxUFVJMTlzOHVzcnVKYk9kSXRuMUkxVjlneUphVGVlS1Rhc1NXa3o2VVNsM18xXzBDSjZNTGk3VDZsam1oUl9qX1JuckVPN3JxS1Zk?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 19,
-      "score": 21
-    },
-    {
-      "headline": "Oklahoma State to Evaluate Drew Mestemaker\u2019s Injured Shoulder After Texas Tech Loss",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjJEaXNOZ0F3ZmkyRzJ1VXp6NFpTUkJKdjZEX2NsMS1vX2NHMDQ3Z2xySzdHSzdXMkRHTF9mNEU2RHp4a2k5Rl92WDMtQ203bUtxbXNmdUdTaUZFUk5KemdVZFpPbHMwTWlnSVZjMGdVU3BoU1dIdkUtcG5QUllSNTk5U1NYSVd6aFdHQzhiNmgwS3pVNTJtRkRkdXNuZ2p0aXc2TU9vUU4yWnRQMnYxWHBNQjlnbHdEZlRKWmRJUkIwcmUwWTR2cmhSSQ?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 12,
-      "score": 21
-    },
-    {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
       "source": "CBS Sports",
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 958,
+      "age_hours": 975,
       "score": 20
     },
     {
@@ -2521,26 +2503,8 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 478,
+      "age_hours": 495,
       "score": 19
-    },
-    {
-      "headline": "Dante Moore\u2019s NFL Draft Stock Takes a Turn Amid Injury Absence",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXlPVUI5bEJHQkRRN1ZwbUx0eV9OakgzNEVieUZRMTJoX1N6MW5oZlVQNDF5Qng1aGtTN3dmV2g4dElMLVRnME1YWGlOVjVILUp3cHRGRjZxdi1wZUhhamhyaVJPWjJmV1FrbF9qbGJ6WUhVakhGRlAxX1VQS1g4MEdGM3puVkc5MG14ODlGbUROTHgyQ2lZa25PaHFNY3o1YUZQSUNPcnM?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 718,
-      "score": 19
-    },
-    {
-      "headline": "Heisman Odds Week 12: Jeremiah Smith Reclaims Top Spot as CJ Carr Plummets",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSE5sWDZEalE1OUdKMlpDVzVjX0NScXRfelh2OHZ5Q1Q2SHgxMWhxZXpid1VmR0hhVG9BQ2lsNzJTZ3VWVE9Rd05FSGplX3JRM3dZRGh3QkpTcmlPd3RncFNzRk9vYXhwRGZtT21YX2s3bERhVmJOOVlHanJpWVhHUXFVWFAwbzhwWTJTWm5XaVdydUpqdHNLM3U5N19IeHA2blRWcXpQSXJ5UVlseXBBWWllckNwS1k4TkVmdS1FQnNDVHFQSXNNUlJoTGt6T2NLLXZJQ0c4ZTJQcjhC?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 16,
-      "score": 18
     },
     {
       "headline": "Oregon Ducks Game Day Injury Report vs. Michigan Wolverines",
@@ -2548,17 +2512,53 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZUszbE43ZXhtMkE1aHdXdktNRDRuU0ZYUEV6ZUVMa3NPTTRYdDdBWlk3ZEZfdjJqWU9rRFdGUjFlbG1xaGE5djgzRmZqN1BnTjU1eW9KQnI4MWxZYWRKamw5LXpVazBNeGpSQlMzR3o1YUt1aXlxZFY5Q0wxTVdZbGo0X1Y3eFZtUG8zYUYwcktGcDA?oc=5",
       "player": "Dante Moore",
-      "age_hours": 34,
+      "age_hours": 51,
       "score": 17
     },
     {
-      "headline": "Ohio State Injury Report: Luke Montgomery out, Phillip Daniels Game-Time Decision; Aidan Chiles out for Northwestern",
-      "source": "Eleven Warriors",
-      "domain": "elevenwarriors.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMUtTRkxOSzRsTkVMbnpqU1dsWTRQdnlEZFZyOC1Uc0xSZ3VZLTA0dlE4WU94S3c4Tmk3NkZqQnpRVVZhWFdzRXJwbjFlM081NnNsRExsOXVRN01yVVNoRWR4TnN3NTc1dWRqeHA3dlZNMVdVdzlfWnZvdU9Ia3hYN3BoM1hlcnpoQVlwZ0hvRWpNMlhaV3hKQVJaS3k4dmltejVtQUVtejZPLThPRDJFcUZRcUtoOXcyUTZBOUs2QXdQSXprYzQyeGt5TFpNMDBhNW9GdnJ1V0ZUaGF0dWRWcVdsN1AtMElvU0JMSlhrSWhkbXNfMTZscVFZV1VITlg1THlzdEJWMA?oc=5",
-      "player": "Julian Sayin",
-      "age_hours": 38,
+      "headline": "Early shoulder injury hinders Oklahoma State quarterback Drew Mestemaker in loss to Texas Tech",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFNsQXNydm1SMEFRWHIzZWpiWklXMld2cVVaREJfWVhEQndhR3lsT3ZidUZXSmVncXJzdTJGVGh1MXhwcEVfX0hOd1dtTlVxRXg1UFZRV3JvVkFJQVNQRjJ1VkJmYmk1WG5Lb1NBZl93RFZCVElwZ2RrNGRxVjVHZ3J2TWlxUFVJMTlzOHVzcnVKYk9kSXRuMUkxVjlneUphVGVlS1Rhc1NXa3o2VVNsM18xXzBDSjZNTGk3VDZsam1oUl9qX1JuckVPN3JxS1Zk?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 36,
       "score": 17
+    },
+    {
+      "headline": "Oklahoma State to Evaluate Drew Mestemaker\u2019s Injured Shoulder After Texas Tech Loss",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjJEaXNOZ0F3ZmkyRzJ1VXp6NFpTUkJKdjZEX2NsMS1vX2NHMDQ3Z2xySzdHSzdXMkRHTF9mNEU2RHp4a2k5Rl92WDMtQ203bUtxbXNmdUdTaUZFUk5KemdVZFpPbHMwTWlnSVZjMGdVU3BoU1dIdkUtcG5QUllSNTk5U1NYSVd6aFdHQzhiNmgwS3pVNTJtRkRkdXNuZ2p0aXc2TU9vUU4yWnRQMnYxWHBNQjlnbHdEZlRKWmRJUkIwcmUwWTR2cmhSSQ?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 29,
+      "score": 17
+    },
+    {
+      "headline": "Texas' Manning to participate in senior day, mum on future",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdzFFZTVKWVBXanpWN0N2VGkwblBlWkI3Z256bnZZT2pHUTgxQ0o4a3N4SnBjd05DVmJ4TEhmWlZpM2FrTVlSUEVxYzl3V0RLSkFCRjc5QVJ3TVJDTU04d01QbmJZc3JzSGdpSVFaTGdIeWJ2M0JnWFVmMThrWmxBam80V21FS3V4NWxrVk0tYkJpYm9fbHU1V3NIclRrM3pT?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 2,
+      "score": 17
+    },
+    {
+      "headline": "USC Trojans Injury Report Before Indiana Showdown Sees No Changes",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1QyYXY5REozZWZvbGRmYnNCUXN2ZDIzSi1TczA0amMxRk01bW82VFJ0aGdIRUpJN1JIWFFqS25vTS1Xb2VvN3BCSzUtaDVRbUhmTlBGTFpQYmRtYWlnb3gzRDRLMEJoV2xBMnhyV1EwdkZSYlZ6RkRIMGxuaEtXMnhwTE14LUJ0cGJ5T3dVX0VZSkJkTEJoOG5WUlRYT2w4UWxhS0xuWk0?oc=5",
+      "player": "Jayden Maiava",
+      "age_hours": 68,
+      "score": 17
+    },
+    {
+      "headline": "Oregon QB Dante Moore (concussion) not expected to return this season",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVF3ellReGRtazJyZllZNXRwcDBlQmVFZFF2blVDMU9kUDRMSG1RR2xFTWgydjRLZlR5ZlY1LTFGcUNZZC01OG5ndVk3Y0tzcF9zWW1IX3d4dGhPNnlqbnU2TkNjb1M5TlJackRya2J5a1p6ekZrRVViX0U1czI3UGRwd3NoeEtGRlZPR0ZyNTBnWmlQemljS2IwU20tbmVyRC03cEk4aTlhV1dMNXFTREFn?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 519,
+      "score": 16
     }
   ],
   "kalshi": [
@@ -2574,7 +2574,7 @@
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 27,
+          "pct": 29,
           "tracked": true
         },
         {
@@ -2584,18 +2584,18 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 6,
-          "tracked": true
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 5,
+          "pct": 7,
           "tracked": true
         },
         {
           "name": "LaNorris Sellers",
           "pct": 4,
           "tracked": false
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 2,
+          "tracked": true
         },
         {
           "name": "Julian Sayin",
@@ -2618,22 +2618,22 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 30,
-          "tracked": false
-        },
-        {
-          "name": "Los Angeles C",
-          "pct": 29,
+          "pct": 36,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 23,
+          "pct": 29,
+          "tracked": false
+        },
+        {
+          "name": "Los Angeles C",
+          "pct": 24,
           "tracked": false
         },
         {
           "name": "New York J",
-          "pct": 4,
+          "pct": 6,
           "tracked": false
         },
         {
@@ -2657,7 +2657,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 6,
+      "field_pct": 0,
       "field_count": 24
     },
     {
@@ -2667,12 +2667,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 57,
+          "pct": 56,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 22,
+          "pct": 23,
           "tracked": true
         },
         {
