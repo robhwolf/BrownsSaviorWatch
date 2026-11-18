@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T06:02:20.008229+00:00",
+  "updated_at": "2026-11-18T20:00:24.844284+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -758,31 +758,10 @@
         "color": "#f47321"
       },
       "status": {
-        "event_id": "401858296",
-        "week": 11,
-        "opponent": "Duke",
-        "opponent_id": 150,
-        "home_away": "vs",
-        "kickoff": "2026-11-14T17:00:00.000Z",
-        "tbd": false,
-        "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "36-25",
-        "label": "W 36-25 vs Duke"
+        "state": "idle",
+        "label": "No game this week"
       },
-      "game": {
-        "cmp": 30,
-        "att": 41,
-        "pass_yds": 382,
-        "pass_td": 1,
-        "int": 0,
-        "rush_att": 4,
-        "rush_yds": 7,
-        "rush_td": 0,
-        "comp_pct": 73.2,
-        "ypa": 9.3
-      },
+      "game": null,
       "next_game": {
         "event_id": "401858302",
         "week": 12,
@@ -1020,18 +999,16 @@
         "color": "#ba0c2f"
       },
       "status": {
-        "event_id": "401858522",
-        "week": 11,
-        "opponent": "Northwestern",
-        "opponent_id": 77,
-        "home_away": "vs",
-        "kickoff": "2026-11-14T17:00:00.000Z",
+        "event_id": "401858531",
+        "week": 12,
+        "opponent": "Nebraska",
+        "opponent_id": 158,
+        "home_away": "at",
+        "kickoff": "2026-11-21T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "final",
-        "result": "W",
-        "score": "28-19",
-        "label": "W 28-19 vs Northwestern"
+        "state": "scheduled",
+        "label": "at Nebraska"
       },
       "game": null,
       "next_game": {
@@ -2489,21 +2466,30 @@
   ],
   "news": [
     {
+      "headline": "Joshua Dye\u2019s patience pays off, Tah\u2019j Butler rises amid Ole Miss injuries",
+      "source": "On3",
+      "domain": "on3.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkpacXB0aW1PZXRxcTJZaDZseDdRQWprNFM2QWFhRGg5ZFBvYnY0RzRpWV9tZk0wa2RabmhkeDVGb2tmUkZLT011RkhXYlBEaElSZ1N3VFFILTlnTHFERmdsV3U0NVhNX0UwZEE1Zmo3c0ZRdWpoaTRZNkItc014Wlg5UkYzTVI2NUtVUnhDTmI4ZmJ1ZlVrWXJXcGdFWVRFaERUOWFiSHpqZ0V1cGhKczJzS20wLWl1VlE?oc=5",
+      "player": "Trinidad Chambliss",
+      "age_hours": 2,
+      "score": 21
+    },
+    {
       "headline": "Oregon Gets Encouraging Injury Update for Bear Alexander vs. Michigan State",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2F5d2IxZFRpVnVrWVpRU3NISzk4UjdtbEpqbkVLOW5QRVk2TUFZY280TkNmVjNaQnR2ZXYxLW9iUjlBQktXMjBaU21LQzN4NHB4cVZoaFFobktWNXNEUGx1UVgyODQwaEtnNVctRFBJcG04SDlFeE9VMkR5NWFsTTAtR3RJX2xuRHZEUzc3Y1FROWRJTkRzR0hjQjVUMzZDUmoxc2VNQXcwaHFIUUdtYmdkTWFwVG9uMElvcA?oc=5",
       "player": "Dante Moore",
-      "age_hours": 5,
+      "age_hours": 19,
       "score": 21
     },
     {
-      "headline": "Early shoulder injury hinders Oklahoma State quarterback Drew Mestemaker in loss to Texas Tech",
-      "source": "247Sports",
-      "domain": "247sports.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFNsQXNydm1SMEFRWHIzZWpiWklXMld2cVVaREJfWVhEQndhR3lsT3ZidUZXSmVncXJzdTJGVGh1MXhwcEVfX0hOd1dtTlVxRXg1UFZRV3JvVkFJQVNQRjJ1VkJmYmk1WG5Lb1NBZl93RFZCVElwZ2RrNGRxVjVHZ3J2TWlxUFVJMTlzOHVzcnVKYk9kSXRuMUkxVjlneUphVGVlS1Rhc1NXa3o2VVNsM18xXzBDSjZNTGk3VDZsam1oUl9qX1JuckVPN3JxS1Zk?oc=5",
+      "headline": "Eric Morris Injury Update on Oklahoma State QB Drew Mestemaker Trends Positive",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOE0zbG1fOVNEblZFdlJXWk5Pa1ZfWVp6M2t1WkdrbU1Nd203Wl9OblN1aGIyMFdmdFpPLTJoUGFGbzI2cVlEZHpVQW43TWF0S1p2ZDRNLWVvZ0k2TGItdmE5b3JEc2Yxc1pwcnY1ZHZKQ2ZweWdJeU5waHBqSU9tbWxGV0oyb2paOUJod3ZiaXo5dk9sNUF4a3BBYS1CNFd4V2FydEQyUEJDMUZxcHFzN1gybmVQQQ?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 9,
+      "age_hours": 19,
       "score": 21
     },
     {
@@ -2512,7 +2498,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1007,
+      "age_hours": 1021,
       "score": 20
     },
     {
@@ -2521,7 +2507,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm1SMzE1MmlEWGNsY1h4cnQzeE4tQmoxdHlNY0pDN3JjZHQ0V2g0NVlCemRLaUU4dW9NdHVQS3oxY3JBcENTZlBEb3ZpaHBOUnVpSUtSNzYwQWU4bmV5SzluVFl1d29kT3VYRzBJRDdGVFFRbGVGQVhaWlpVZ2o0TnhNNHR5VDNPTmdObHBfSllLOWZuamQ5ZHI3djZLeDJnUVkwVU5jR1pZVTl0ZHhhTThR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 7,
+      "age_hours": 6,
       "score": 20
     },
     {
@@ -2530,26 +2516,8 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 527,
+      "age_hours": 541,
       "score": 19
-    },
-    {
-      "headline": "Oklahoma State to Evaluate Drew Mestemaker\u2019s Injured Shoulder After Texas Tech Loss",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjJEaXNOZ0F3ZmkyRzJ1VXp6NFpTUkJKdjZEX2NsMS1vX2NHMDQ3Z2xySzdHSzdXMkRHTF9mNEU2RHp4a2k5Rl92WDMtQ203bUtxbXNmdUdTaUZFUk5KemdVZFpPbHMwTWlnSVZjMGdVU3BoU1dIdkUtcG5QUllSNTk5U1NYSVd6aFdHQzhiNmgwS3pVNTJtRkRkdXNuZ2p0aXc2TU9vUU4yWnRQMnYxWHBNQjlnbHdEZlRKWmRJUkIwcmUwWTR2cmhSSQ?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 61,
-      "score": 17
-    },
-    {
-      "headline": "Leavitt too high, Stockton too low and 8 other regrets from our preseason QB rankings",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEUycVlqVUdvV3EwSmx4U1phR2U2aEtVcy1qQVk2NXhnM1R3YUR6NnJaTS12aGZYVHcwNXlCMzdTY2t2NWhGQlBIbk9odWZtMHhDNHRkQjE1MTNVdktoSEtwUWFyZ2drWnRESXlPMEtvOG1BdWV5cmVTS1VDVHRPRVpjZW15N0pfZ3F0ZGlLZXlFMnZaMnY0Ync4b3B1cmMxeDJseE94X3ZHZFRqWlh6NG9wMEZOSjdsbGNTSzZaNEpfN2paRVE?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 19,
-      "score": 17
     },
     {
       "headline": "Oregon QB Dante Moore (concussion) not expected to return this season",
@@ -2557,7 +2525,16 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVF3ellReGRtazJyZllZNXRwcDBlQmVFZFF2blVDMU9kUDRMSG1RR2xFTWgydjRLZlR5ZlY1LTFGcUNZZC01OG5ndVk3Y0tzcF9zWW1IX3d4dGhPNnlqbnU2TkNjb1M5TlJackRya2J5a1p6ekZrRVViX0U1czI3UGRwd3NoeEtGRlZPR0ZyNTBnWmlQemljS2IwU20tbmVyRC03cEk4aTlhV1dMNXFTREFn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 551,
+      "age_hours": 565,
+      "score": 16
+    },
+    {
+      "headline": "Oregon quarterback Dante Moore sustains concussion from hit at USC",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 1261,
       "score": 16
     }
   ],
@@ -2569,7 +2546,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 38,
+          "pct": 40,
           "tracked": false
         },
         {
@@ -2583,13 +2560,13 @@
           "tracked": true
         },
         {
-          "name": "Arch Manning",
+          "name": "Darian Mensah",
           "pct": 5,
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
-          "pct": 5,
+          "name": "Arch Manning",
+          "pct": 4,
           "tracked": true
         },
         {
@@ -2608,7 +2585,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 6,
+      "field_pct": 5,
       "field_count": 14
     },
     {
@@ -2618,12 +2595,12 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 38,
+          "pct": 39,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 33,
+          "pct": 32,
           "tracked": false
         },
         {
@@ -2667,17 +2644,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 60,
+          "pct": 59,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 17,
+          "pct": 18,
           "tracked": true
         },
         {
           "name": "Devon Dampier",
-          "pct": 11,
+          "pct": 10,
           "tracked": false
         },
         {
@@ -2687,7 +2664,12 @@
         },
         {
           "name": "Gunner Stockton",
-          "pct": 4,
+          "pct": 3,
+          "tracked": false
+        },
+        {
+          "name": "Gio Lopez",
+          "pct": 2,
           "tracked": false
         },
         {
@@ -2699,14 +2681,9 @@
           "name": "Malachi Toney",
           "pct": 1,
           "tracked": false
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 1,
-          "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 1,
       "field_count": 44
     }
   ],
@@ -2770,7 +2747,7 @@
       "scoreboard call failed - live status unavailable this run"
     ],
     "games_seen": 888,
-    "games_matched": 10,
+    "games_matched": 9,
     "teams_resolved": 10,
     "live_available": false,
     "live_games_now": 0
