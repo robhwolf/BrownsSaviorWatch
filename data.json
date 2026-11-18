@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T20:29:55.569539+00:00",
+  "updated_at": "2026-11-18T06:02:20.008229+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2489,12 +2489,21 @@
   ],
   "news": [
     {
+      "headline": "Oregon Gets Encouraging Injury Update for Bear Alexander vs. Michigan State",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2F5d2IxZFRpVnVrWVpRU3NISzk4UjdtbEpqbkVLOW5QRVk2TUFZY280TkNmVjNaQnR2ZXYxLW9iUjlBQktXMjBaU21LQzN4NHB4cVZoaFFobktWNXNEUGx1UVgyODQwaEtnNVctRFBJcG04SDlFeE9VMkR5NWFsTTAtR3RJX2xuRHZEUzc3Y1FROWRJTkRzR0hjQjVUMzZDUmoxc2VNQXcwaHFIUUdtYmdkTWFwVG9uMElvcA?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 5,
+      "score": 21
+    },
+    {
       "headline": "Early shoulder injury hinders Oklahoma State quarterback Drew Mestemaker in loss to Texas Tech",
       "source": "247Sports",
       "domain": "247sports.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFNsQXNydm1SMEFRWHIzZWpiWklXMld2cVVaREJfWVhEQndhR3lsT3ZidUZXSmVncXJzdTJGVGh1MXhwcEVfX0hOd1dtTlVxRXg1UFZRV3JvVkFJQVNQRjJ1VkJmYmk1WG5Lb1NBZl93RFZCVElwZ2RrNGRxVjVHZ3J2TWlxUFVJMTlzOHVzcnVKYk9kSXRuMUkxVjlneUphVGVlS1Rhc1NXa3o2VVNsM18xXzBDSjZNTGk3VDZsam1oUl9qX1JuckVPN3JxS1Zk?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 21,
+      "age_hours": 9,
       "score": 21
     },
     {
@@ -2503,7 +2512,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 997,
+      "age_hours": 1007,
       "score": 20
     },
     {
@@ -2512,7 +2521,7 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm1SMzE1MmlEWGNsY1h4cnQzeE4tQmoxdHlNY0pDN3JjZHQ0V2g0NVlCemRLaUU4dW9NdHVQS3oxY3JBcENTZlBEb3ZpaHBOUnVpSUtSNzYwQWU4bmV5SzluVFl1d29kT3VYRzBJRDdGVFFRbGVGQVhaWlpVZ2o0TnhNNHR5VDNPTmdObHBfSllLOWZuamQ5ZHI3djZLeDJnUVkwVU5jR1pZVTl0ZHhhTThR?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 9,
+      "age_hours": 7,
       "score": 20
     },
     {
@@ -2521,35 +2530,8 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 517,
+      "age_hours": 527,
       "score": 19
-    },
-    {
-      "headline": "CJ Carr's Heisman hype decision speaks volumes about Notre Dame's football culture",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOTNDUHZMb1hpcWpWTFo4T3c0UjlGUnk4bzdmMS10cW5aWDRmdnA4bGRFWHpDa1p0X3RqSzU1UE9EeUdPd0tPNmdhU1R0ZXAzRExHSUUzeUZJQmJVbVV5TFZLV3ZoU0FtanNqSzJKU1VXaWRySlRQcnRrMHl1UVhwSHF0emY0Sy1wN0ZhNDNpR3lpM2FhU3l6V1lidTBfbllhUWFtR0FsRlJnTkd1TXdKRm54NnBLY3BYVmVvRG83WHRfTEktRE5WRllLOEU?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 21,
-      "score": 18
-    },
-    {
-      "headline": "Notre Dame vs. Syracuse Kickoff Time Announced: CJ Carr's Final Heisman Statement",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnl4d0pEODF0ankxNVdnMEYyWGRGNHdnRGZaSGstcGUyTFFUVmh0VEkyVzVRMjRrdE9OenZNWmpMd19yZHN2R1FuWkQ1ekFaRHJWcThGVlRKRHpsWkg3Sk8tZHFLSFlTZXpTdVFnT2ZvV0Q5ZWFqMENOS1EzX1AyTHQ1N1lXdTFKa2xtYmMtUU1naS1iTUlCTVM0bmFUd3dONi13VkRkUVNWOXhrdEYxTTQxRko?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 18,
-      "score": 18
-    },
-    {
-      "headline": "Notre Dame injury report vs. SMU: Two major return possibilities emerge, key starter in doubt",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVZlcHpmZ2xRaDBncUNFeHNvZW44RUduUGc3dk5ITWF5UmtFc19MTmw1UThjZVFGMUJtdmtiSHVEeGY1STBESFU3MnBNVjV0NXhFVnpzOEJobVhsMjdNTTJYaGkxZzNQZ2RHMWxiSW9pRFdubnk3U0dFMmZnQTkzZFZON2pJSm9Yd0JBODMyaTZYMkJyeDU5N2RiTGRyeHRPd2t6bDdud2hoZlg3Nm5ya0pXNDRHdw?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 27,
-      "score": 17
     },
     {
       "headline": "Oklahoma State to Evaluate Drew Mestemaker\u2019s Injured Shoulder After Texas Tech Loss",
@@ -2557,8 +2539,26 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjJEaXNOZ0F3ZmkyRzJ1VXp6NFpTUkJKdjZEX2NsMS1vX2NHMDQ3Z2xySzdHSzdXMkRHTF9mNEU2RHp4a2k5Rl92WDMtQ203bUtxbXNmdUdTaUZFUk5KemdVZFpPbHMwTWlnSVZjMGdVU3BoU1dIdkUtcG5QUllSNTk5U1NYSVd6aFdHQzhiNmgwS3pVNTJtRkRkdXNuZ2p0aXc2TU9vUU4yWnRQMnYxWHBNQjlnbHdEZlRKWmRJUkIwcmUwWTR2cmhSSQ?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 51,
+      "age_hours": 61,
       "score": 17
+    },
+    {
+      "headline": "Leavitt too high, Stockton too low and 8 other regrets from our preseason QB rankings",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEUycVlqVUdvV3EwSmx4U1phR2U2aEtVcy1qQVk2NXhnM1R3YUR6NnJaTS12aGZYVHcwNXlCMzdTY2t2NWhGQlBIbk9odWZtMHhDNHRkQjE1MTNVdktoSEtwUWFyZ2drWnRESXlPMEtvOG1BdWV5cmVTS1VDVHRPRVpjZW15N0pfZ3F0ZGlLZXlFMnZaMnY0Ync4b3B1cmMxeDJseE94X3ZHZFRqWlh6NG9wMEZOSjdsbGNTSzZaNEpfN2paRVE?oc=5",
+      "player": "Sam Leavitt",
+      "age_hours": 19,
+      "score": 17
+    },
+    {
+      "headline": "Oregon QB Dante Moore (concussion) not expected to return this season",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVF3ellReGRtazJyZllZNXRwcDBlQmVFZFF2blVDMU9kUDRMSG1RR2xFTWgydjRLZlR5ZlY1LTFGcUNZZC01OG5ndVk3Y0tzcF9zWW1IX3d4dGhPNnlqbnU2TkNjb1M5TlJackRya2J5a1p6ekZrRVViX0U1czI3UGRwd3NoeEtGRlZPR0ZyNTBnWmlQemljS2IwU20tbmVyRC03cEk4aTlhV1dMNXFTREFn?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 551,
+      "score": 16
     }
   ],
   "kalshi": [
@@ -2574,7 +2574,7 @@
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 25,
+          "pct": 29,
           "tracked": true
         },
         {
@@ -2583,13 +2583,13 @@
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
-          "pct": 7,
+          "name": "Arch Manning",
+          "pct": 5,
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 4,
+          "name": "Darian Mensah",
+          "pct": 5,
           "tracked": true
         },
         {
@@ -2608,7 +2608,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 9,
+      "field_pct": 6,
       "field_count": 14
     },
     {
@@ -2618,17 +2618,17 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 39,
+          "pct": 38,
           "tracked": false
         },
         {
           "name": "Tennessee",
-          "pct": 32,
+          "pct": 33,
           "tracked": false
         },
         {
           "name": "Los Angeles C",
-          "pct": 14,
+          "pct": 13,
           "tracked": false
         },
         {
@@ -2667,17 +2667,17 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 59,
+          "pct": 60,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 19,
+          "pct": 17,
           "tracked": true
         },
         {
           "name": "Devon Dampier",
-          "pct": 10,
+          "pct": 11,
           "tracked": false
         },
         {
