@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T19:38:23.321052+00:00",
+  "updated_at": "2026-11-21T02:58:35.059317+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -362,16 +362,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858529",
-        "week": 12,
-        "opponent": "Michigan State",
-        "opponent_id": 127,
-        "home_away": "at",
-        "kickoff": "2026-11-21T01:00:00.000Z",
-        "tbd": false,
+        "event_id": "401858541",
+        "week": 13,
+        "opponent": "Washington",
+        "opponent_id": 264,
+        "home_away": "vs",
+        "kickoff": "2026-11-28T05:00:00.000Z",
+        "tbd": true,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Michigan State"
+        "label": "vs Washington"
       },
       "log": [
         {
@@ -2389,26 +2389,17 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWljU0RwanlyVVNmSlMydDRfOXRtTHVPZmlTYkZ5Z3pLM0dSYXJXVHNRZXdBczZwcXZpZXJ3TWotSklFVkZtaGQ3Q2wtU01hOUVTREkxcUFCOGdjNmE2UGR0cFZmRDU1ZVhITk5BbkFhWkF3UlZxel9ROXFxYmFQNDVrTTdzY19SbzllSkxwRnJLVzRFT0t1cmgtV0pPYk0zSThYLThjamRZN1BDLWlJWjctQlFnUzFSOS1iV3BfRkNqUU1yRWc?oc=5",
       "player": "Arch Manning",
-      "age_hours": 5,
+      "age_hours": 12,
       "score": 21
     },
     {
-      "headline": "USC Trojans Injury Report Before Maryland Sees Key Changes",
+      "headline": "One Key Change to USC Trojans Injury Report vs. Maryland Terrapins",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORTkwVnY2MzlEcFdDZVJhOTBCV0VWbENwT0R3TmJ5VTJDQXg4eTNsUUJjNXFFa1U5N05MMHk4NE1zLU5waG9rOHFDenRUdy1id29NQW9WU2VNVC1wVURzdEhGMlVnNF8xOXBRaExvOEpPS3RBNGZWSHdEWnVGcnlDTmxBMW80bkJQYTlMeGttS0lCUzBMLTM5Szd1aUZvWVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEJ6WDI3Wkg3blBlVlJTaE12WDIwblhQdkpTckM1eDBDXzY3ZENoOEtud2JKNjZ4ajk1WHp2RktIR2wtNjhPQi1RSkRsZlhlX3NHOE9xaDZudDNLVm12OF9Sd3d6MEhFNTd5SDgwWDljR09PMzBEdFp5MXF2QWlJTjRRdGVqLVdmVGd4QUxpc0F3emxKMkgtY1RCOVE4RXFR?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 18,
+      "age_hours": 1,
       "score": 21
-    },
-    {
-      "headline": "Tight End Jamari Johnson Shoots Up NFL Draft Boards Amid Oregon's Win Streak",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDVWOUhUV2gxNHQ3Wkt0LVp4NDd0ck5kb2l0QzJxSjJwc0N5eFNZYktXU0dFYS0xTmc0SFpoek5Yd1FEMjlTVEVpRVBNb2JTRlhSM185NWtDMTFrS3ExbHNnRDU1T0hldVVfNWZxREI0eEhHU3ByeC12NkRTc3lPT0VKX0lSaTNabFRkQ1l5VDBsODFTUFdCYlM5VkltbXNKRElJbGNveGU5cHBZ?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 18,
-      "score": 20
     },
     {
       "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
@@ -2416,7 +2407,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1069,
+      "age_hours": 1076,
       "score": 20
     },
     {
@@ -2425,7 +2416,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlNJaWNkd3VaLTVjTFYzTVY1ZnFLZkNPNFRNVjdEZlB5bS1SRXVIb0FvUHVpV2RhR0xWUi1YY0tabmI3bEg5Ujc0RUw3QzczUjBxMFkxbzNJdU5INGxpdW1wYktRVHJVakFidGkyNXI1eU14Q3FKeVNoTE12TzFvY2hnUTBNTFVQdnlzTmJ2SDFhTzA?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 3,
+      "age_hours": 10,
       "score": 20
     },
     {
@@ -2434,26 +2425,35 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVhpaXhVd2NDcDN1S0hEcXFQZkNmdW9maENnb2NHUVJIZmJwZ3pRNmRiUHZhbjRZMVpDQ1cxbnZsQjVWcmdJZG1OY0ZkZWtTZWptVE1GUXNSYm12NUNDSVgtM2xqdXRQWUZHQkVGU1M3Q1h5TjUzMkRJVFNYWlVzeWx2OUNnb1FkOXVQeTZ5T2FaY2lzN3Iwa0hEbjFUdnU5eFJrVVFmdk0xdW5fLXQ2b0JaWQ?oc=5",
       "player": "Darian Mensah",
-      "age_hours": 1,
+      "age_hours": 9,
       "score": 18
     },
     {
-      "headline": "Examining the Potential Looming Dolphins Draft Dilemma: Deal or Drew",
+      "headline": "USC Trojans Injury Report Before Maryland Sees Key Changes",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVk1neC1aWm11TzNITk1fVFZBc3g1b2tOR1lSSFQ3T1FyWVp1TXBfUFpEZVRYQjRCS2llemRwZENOOVhfejUzT3dLVjVEREFhZjkzMHZFbVhtcGdkWXdtV2dCakRhcDB3dVdKOUM5b25uZWdoa25pMm9yNGZtTnpOYVktOTd5aU1yVTBuazFiNi1EOTV5OXZlTnFrdHdZUWNvUHFUbnJianlVaEdGeGFTS2pvY2NvSW5r?oc=5",
-      "player": "Drew Mestemaker",
-      "age_hours": 21,
-      "score": 18
-    },
-    {
-      "headline": "Oregon Gets Encouraging Injury Update for Bear Alexander vs. Michigan State",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2F5d2IxZFRpVnVrWVpRU3NISzk4UjdtbEpqbkVLOW5QRVk2TUFZY280TkNmVjNaQnR2ZXYxLW9iUjlBQktXMjBaU21LQzN4NHB4cVZoaFFobktWNXNEUGx1UVgyODQwaEtnNVctRFBJcG04SDlFeE9VMkR5NWFsTTAtR3RJX2xuRHZEUzc3Y1FROWRJTkRzR0hjQjVUMzZDUmoxc2VNQXcwaHFIUUdtYmdkTWFwVG9uMElvcA?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 66,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORTkwVnY2MzlEcFdDZVJhOTBCV0VWbENwT0R3TmJ5VTJDQXg4eTNsUUJjNXFFa1U5N05MMHk4NE1zLU5waG9rOHFDenRUdy1id29NQW9WU2VNVC1wVURzdEhGMlVnNF8xOXBRaExvOEpPS3RBNGZWSHdEWnVGcnlDTmxBMW80bkJQYTlMeGttS0lCUzBMLTM5Szd1aUZvWVU?oc=5",
+      "player": "Jayden Maiava",
+      "age_hours": 26,
       "score": 17
+    },
+    {
+      "headline": "USC Trojans Injury Report Delivers One Major Concern Before Maryland Game",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNV9VU3RsMEJIMkV5V0xTOGtLWU04TVNKR1Y4YmVfYkJJYmRlVHVFNUI4MTdXVHVqQ3JlSFhxMnFsczR0TkhCcmtYUlFLcmxlQXNNLTlJSGV2Znh6TWt0N0ZKVGhCRF85SWxKNWZZR0xIdE95NVdqMTJweVVlSHlQQUFxYl9FcEVLYkszZUxnbEVvamJrVVI1Y2lYNnpXQ25MaktMRzhic0lrU0dYM0ZyLUltOA?oc=5",
+      "player": "Jayden Maiava",
+      "age_hours": 43,
+      "score": 17
+    },
+    {
+      "headline": "Oregon quarterback Dante Moore sustains concussion from hit at USC",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUpXNENsSGl1RFdXb056OGpZZ25oei15Ny1mNXBKY3FLNVNqaG9HU2NmUTNqbm9Iczgza0lFNktNUU9neEpKMnZ0Y0QtZ2kta2RUNkhGa21Sb0tZS2R5Z2hIeEhJOXJMRWlCcmlIdFFlSG9BMlNOeUNpMmo5YVVzRXBlbTRmVm9GbVl0TjFXQk95Nk5XRUk2VElLZ0NCVUNwNDR1dy1UUGZRVkJ2UnQxbUNUOWpzbU0?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 1316,
+      "score": 16
     }
   ],
   "kalshi": [
@@ -2464,12 +2464,12 @@
       "candidates": [
         {
           "name": "Drew Mestemaker",
-          "pct": 40,
+          "pct": 43,
           "tracked": true
         },
         {
           "name": "Jeremiah Smith",
-          "pct": 33,
+          "pct": 29,
           "tracked": false
         },
         {
@@ -2478,13 +2478,13 @@
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
+          "name": "Arch Manning",
           "pct": 6,
           "tracked": true
         },
         {
-          "name": "Arch Manning",
-          "pct": 4,
+          "name": "Darian Mensah",
+          "pct": 6,
           "tracked": true
         },
         {
@@ -2493,12 +2493,12 @@
           "tracked": false
         },
         {
-          "name": "Dante Moore",
-          "pct": 2,
-          "tracked": true
+          "name": "Austin Simmons",
+          "pct": 3,
+          "tracked": false
         },
         {
-          "name": "Julian Sayin",
+          "name": "Dante Moore",
           "pct": 2,
           "tracked": true
         }
@@ -2522,18 +2522,13 @@
           "tracked": false
         },
         {
+          "name": "New York J",
+          "pct": 12,
+          "tracked": false
+        },
+        {
           "name": "Los Angeles C",
           "pct": 10,
-          "tracked": false
-        },
-        {
-          "name": "New York J",
-          "pct": 9,
-          "tracked": false
-        },
-        {
-          "name": "Philadelphia",
-          "pct": 3,
           "tracked": false
         },
         {
@@ -2550,6 +2545,11 @@
           "name": "Cleveland",
           "pct": 2,
           "tracked": false
+        },
+        {
+          "name": "Las Vegas",
+          "pct": 2,
+          "tracked": false
         }
       ],
       "field_pct": 0,
@@ -2562,7 +2562,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 62,
+          "pct": 65,
           "tracked": false
         },
         {
@@ -2572,12 +2572,12 @@
         },
         {
           "name": "Devon Dampier",
-          "pct": 11,
+          "pct": 10,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 5,
+          "pct": 6,
           "tracked": true
         },
         {
