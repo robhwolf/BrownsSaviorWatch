@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T20:42:12.799061+00:00",
+  "updated_at": "2026-11-22T00:46:20.535026+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -535,16 +535,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858307",
-        "week": 12,
-        "opponent": "SMU",
-        "opponent_id": 2567,
-        "home_away": "vs",
-        "kickoff": "2026-11-22T00:30:00.000Z",
+        "event_id": "401858314",
+        "week": 13,
+        "opponent": "Syracuse",
+        "opponent_id": 183,
+        "home_away": "at",
+        "kickoff": "2026-11-28T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs SMU"
+        "label": "at Syracuse"
       },
       "log": [
         {
@@ -781,16 +781,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858302",
-        "week": 12,
-        "opponent": "Virginia Tech",
-        "opponent_id": 259,
+        "event_id": "401858311",
+        "week": 13,
+        "opponent": "Boston College",
+        "opponent_id": 103,
         "home_away": "vs",
-        "kickoff": "2026-11-22T00:00:00.000Z",
+        "kickoff": "2026-11-28T17:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Virginia Tech"
+        "label": "vs Boston College"
       },
       "log": [
         {
@@ -1470,10 +1470,23 @@
         "kickoff": "2026-11-21T20:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "vs Arkansas"
+        "state": "final",
+        "result": "W",
+        "score": "45-3",
+        "label": "W 45-3 vs Arkansas"
       },
-      "game": null,
+      "game": {
+        "cmp": 21,
+        "att": 25,
+        "pass_yds": 287,
+        "pass_td": 2,
+        "int": 0,
+        "rush_att": 5,
+        "rush_yds": 16,
+        "rush_td": 1,
+        "comp_pct": 84.0,
+        "ypa": 11.5
+      },
       "next_game": {
         "event_id": "401856756",
         "week": 13,
@@ -1677,24 +1690,43 @@
           "result": "W",
           "score": "22-21",
           "date": "2026-11-15T00:30:00.000Z"
+        },
+        {
+          "cmp": 21,
+          "att": 25,
+          "pass_yds": 287,
+          "pass_td": 2,
+          "int": 0,
+          "rush_att": 5,
+          "rush_yds": 16,
+          "rush_td": 1,
+          "comp_pct": 84.0,
+          "ypa": 11.5,
+          "event_id": "401856755",
+          "week": 12,
+          "opponent": "Arkansas",
+          "home_away": "vs",
+          "result": "W",
+          "score": "45-3",
+          "date": "2026-11-21T20:30:00.000Z"
         }
       ],
       "season": {
-        "games": 10,
-        "record": "8-2",
-        "cmp": 188,
-        "att": 290,
-        "comp_pct": 64.8,
-        "pass_yds": 2202,
-        "ypa": 7.6,
-        "pass_td": 19,
+        "games": 11,
+        "record": "9-2",
+        "cmp": 209,
+        "att": 315,
+        "comp_pct": 66.3,
+        "pass_yds": 2489,
+        "ypa": 7.9,
+        "pass_td": 21,
         "int": 10,
-        "td_int": "19-10",
-        "rush_yds": 115,
-        "rush_td": 3,
-        "total_td": 22,
-        "ypg": 220,
-        "rating": 143.3,
+        "td_int": "21-10",
+        "rush_yds": 131,
+        "rush_td": 4,
+        "total_td": 25,
+        "ypg": 226,
+        "rating": 148.4,
         "epa_per_play": 0.128
       }
     },
@@ -1720,10 +1752,23 @@
         "kickoff": "2026-11-21T20:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Tennessee"
+        "state": "final",
+        "result": "L",
+        "score": "13-27",
+        "label": "L 13-27 at Tennessee"
       },
-      "game": null,
+      "game": {
+        "cmp": 27,
+        "att": 39,
+        "pass_yds": 222,
+        "pass_td": 1,
+        "int": 0,
+        "rush_att": 12,
+        "rush_yds": -9,
+        "rush_td": 0,
+        "comp_pct": 69.2,
+        "ypa": 5.7
+      },
       "next_game": {
         "event_id": "401856758",
         "week": 13,
@@ -1923,24 +1968,43 @@
           "result": "L",
           "score": "21-22",
           "date": "2026-11-15T00:30:00.000Z"
+        },
+        {
+          "cmp": 27,
+          "att": 39,
+          "pass_yds": 222,
+          "pass_td": 1,
+          "int": 0,
+          "rush_att": 12,
+          "rush_yds": -9,
+          "rush_td": 0,
+          "comp_pct": 69.2,
+          "ypa": 5.7,
+          "event_id": "401856754",
+          "week": 12,
+          "opponent": "Tennessee",
+          "home_away": "at",
+          "result": "L",
+          "score": "13-27",
+          "date": "2026-11-21T20:30:00.000Z"
         }
       ],
       "season": {
-        "games": 10,
-        "record": "6-4",
-        "cmp": 242,
-        "att": 340,
-        "comp_pct": 71.2,
-        "pass_yds": 2795,
-        "ypa": 8.2,
-        "pass_td": 19,
+        "games": 11,
+        "record": "6-5",
+        "cmp": 269,
+        "att": 379,
+        "comp_pct": 71.0,
+        "pass_yds": 3017,
+        "ypa": 8.0,
+        "pass_td": 20,
         "int": 12,
-        "td_int": "19-12",
-        "rush_yds": 337,
+        "td_int": "20-12",
+        "rush_yds": 328,
         "rush_td": 8,
-        "total_td": 27,
-        "ypg": 280,
-        "rating": 151.6,
+        "total_td": 28,
+        "ypg": 274,
+        "rating": 148.9,
         "epa_per_play": 0.326
       }
     },
@@ -1971,16 +2035,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401858534",
-        "week": 12,
-        "opponent": "Maryland",
-        "opponent_id": 120,
-        "home_away": "vs",
-        "kickoff": "2026-11-21T23:15:00.000Z",
+        "event_id": "401858543",
+        "week": 13,
+        "opponent": "UCLA",
+        "opponent_id": 26,
+        "home_away": "at",
+        "kickoff": "2026-11-28T20:30:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "vs Maryland"
+        "label": "at UCLA"
       },
       "log": [
         {
@@ -2197,16 +2261,16 @@
       },
       "game": null,
       "next_game": {
-        "event_id": "401856865",
-        "week": 12,
-        "opponent": "Kansas State",
-        "opponent_id": 2306,
-        "home_away": "at",
-        "kickoff": "2026-11-22T00:00:00.000Z",
+        "event_id": "401856873",
+        "week": 13,
+        "opponent": "Arizona State",
+        "opponent_id": 9,
+        "home_away": "vs",
+        "kickoff": "2026-11-29T02:00:00.000Z",
         "tbd": false,
         "neutral": false,
         "state": "scheduled",
-        "label": "at Kansas State"
+        "label": "vs Arizona State"
       },
       "log": [
         {
@@ -2424,21 +2488,12 @@
   ],
   "news": [
     {
-      "headline": "Oregon QB Dante Moore likely out for rest of season following concussion",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2YxUlhaQjlpVHBrQ2UxZ3NCbThqVlhUZ1MwVDFtQTB0TFFnbFVXckZlRVNLZXJJVDA5NmJEUWw5WDgzai1xTWhVcGVnb3FmaGQ3UGZmX2E5TDhCNWtQN0lkUnpYTF83SExyTUhoWmQwSlhiTGhZelhSUDFsbzJMZDhCVEpTdFR4TXRTZjdNWU1qT19yMjBrZkF6bWJYdlV1Q2c?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 638,
-      "score": 22
-    },
-    {
       "headline": "Dan Lanning Offers Injury Update on Oregon's Bear Alexander",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHQ2Smp0Q1hsdzlSWkpMZE0zczRIZ1YwUmFyRi0yc2dFYnF0UnNHeVdNN2RJN1Q5YW9XVm9renFCWjYyWjNwNFFwQXBlYWp6Qi1OVVQ1dXNUWVZTNkxKTFh6ZDhjamlHWi1ycUJ6cklFa3N1S1RCVlpDd3I2anQzU0VtQXpMV1FlYTh6TG0tNGFtX2Q5a0dvYloxTUltM0VScFliUnln?oc=5",
       "player": "Dante Moore",
-      "age_hours": 15,
+      "age_hours": 19,
       "score": 21
     },
     {
@@ -2447,8 +2502,26 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSGMwRVJYbE1ORk5yRzQ0VVpXaUpLNGQyY2NEc2tWelVWQ2k4OEIwWVZHU21ZU0gyVHZ5NmduWk1hYnNkOVBYbnROanRNY1ZnZFVHZS0wZllDZGxmblE5OVNfc254QnZicnViUTRYYkVkZkhvU2pMTVVETUExSnB3NGRmODBOUDdqMGpZQUNLcGMxbHhVU05IeUlFR0RlU0FZZUROMDZ5N2VZNnlLS2NDQzRfbUQzVmxlYlVtbWh5amJabnhpTUtlYVc5QXMtRU94?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 5,
+      "age_hours": 10,
       "score": 21
+    },
+    {
+      "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 1098,
+      "score": 20
+    },
+    {
+      "headline": "Drew Mestemaker to Declare for NFL Draft? Kalshi Market Opens for Potential No. 1 Pick",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHc2RE5vbk42NWM4TjI0dGxYUFhRdTBBTzlXeEZ6RlVROVNYZkxDcEZBbGdLbVBSNmp6MXJfUHNQd3h0bDZxZkdza3Z5cXRpdFNlMTdac2JyT0twMTh4anpkZ3lZdkt3SnkzLU9uOHcySHU2aHk0TDFQVGswUFlEdGgzcG9hVl80RWxPOXZoU2htM3AwN0FLSGNGWVFaT1l4OXk5XzJBc3NIdElMZzlfLUc0YVpWdGxYeTdkazAzTUVnRkxfSmRYTzJmZzc2dWxJ?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 8,
+      "score": 20
     },
     {
       "headline": "What's next for Dante Moore? Oregon QB's injury leaves 2027 NFL Draft, transfer options in play",
@@ -2456,34 +2529,25 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 614,
+      "age_hours": 618,
       "score": 19
     },
     {
-      "headline": "What Dante Moore\u2019s Injury Return Could Mean for His NFL Draft Stock",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 758,
-      "score": 19
-    },
-    {
-      "headline": "Dante Moore\u2019s Heisman Odds Change After Concussion",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1o2ODJTUzh6VFpWeThHMmIwanVtZDJMYXJNeGhUSXp1MW0xaHRleVlJSnExNWx4Q2J3djV1S2NCcU83RDFGV01EdHNwZWhlZXpMMlpPTVE1RUtiMUJBUTlJVUFtQzRMUVN1aEpfNmppdE9ydy13NXk4MjZyUF9Lb1VLaXlHeVFWeC1Va3Jn?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 1214,
+      "headline": "Julian Sayin Injury: When Will Ohio State\u2019s Starting QB Return?",
+      "source": "Athlon Sports",
+      "domain": "athlonsports.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlctYW1VTU1KTWFUVDg1N2VCRnhUTmlWdHlxU3ZyU2FTa3UxNHkzWE5QaWFkRUVtMHozLTV4QUNfOU5zaTlaOWNPeGRudHEwU3puRzdhZWRUUTl0TjUwU3JRZ1B0NHlZN25fZVJxOHk1Y2ZSMWV5UHRRcUFSZkExUkQwVFdhbEJCajQySHZ6R29wNmhjNDJqTVlxalpaMExPWU1Lag?oc=5",
+      "player": "Julian Sayin",
+      "age_hours": 8,
       "score": 17
     },
     {
-      "headline": "Texas Football Intel: Injury Updates, Playing Time and What to Expect vs. Arkansas",
-      "source": "On3",
-      "domain": "on3.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWljU0RwanlyVVNmSlMydDRfOXRtTHVPZmlTYkZ5Z3pLM0dSYXJXVHNRZXdBczZwcXZpZXJ3TWotSklFVkZtaGQ3Q2wtU01hOUVTREkxcUFCOGdjNmE2UGR0cFZmRDU1ZVhITk5BbkFhWkF3UlZxel9ROXFxYmFQNDVrTTdzY19SbzllSkxwRnJLVzRFT0t1cmgtV0pPYk0zSThYLThjamRZN1BDLWlJWjctQlFnUzFSOS1iV3BfRkNqUU1yRWc?oc=5",
+      "headline": "Arch Manning takes part in Texas senior day. Is Saturday his final home game?",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWFtX3FMNFFfbzdTY0d6eXhCbVR1TlFLNFNPdllYbVpGcVFjZUJsWWN3aDM3RVBOcngwOUhHa3JJQU8yb3QzbEFvR1ZwOW83ckFhQUVuWFBuYVBBTURaNDBENGRLU1BpdVBBQ2QtTVRJVFlSLXBEN19FSGxNTXo5TDBLMVNjTi02NEE?oc=5",
       "player": "Arch Manning",
-      "age_hours": 30,
+      "age_hours": 3,
       "score": 17
     },
     {
@@ -2492,7 +2556,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORTkwVnY2MzlEcFdDZVJhOTBCV0VWbENwT0R3TmJ5VTJDQXg4eTNsUUJjNXFFa1U5N05MMHk4NE1zLU5waG9rOHFDenRUdy1id29NQW9WU2VNVC1wVURzdEhGMlVnNF8xOXBRaExvOEpPS3RBNGZWSHdEWnVGcnlDTmxBMW80bkJQYTlMeGttS0lCUzBMLTM5Szd1aUZvWVU?oc=5",
       "player": "Jayden Maiava",
-      "age_hours": 43,
+      "age_hours": 47,
       "score": 17
     }
   ],
@@ -2504,27 +2568,27 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 40,
+          "pct": 37,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 40,
+          "pct": 34,
+          "tracked": true
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 9,
           "tracked": true
         },
         {
           "name": "CJ Carr",
-          "pct": 10,
+          "pct": 9,
           "tracked": true
         },
         {
           "name": "Darian Mensah",
           "pct": 5,
-          "tracked": true
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 4,
           "tracked": true
         },
         {
@@ -2602,26 +2666,31 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 72,
+          "pct": 77,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 13,
+          "pct": 9,
           "tracked": true
         },
         {
           "name": "Devon Dampier",
-          "pct": 8,
+          "pct": 9,
           "tracked": false
         },
         {
           "name": "CJ Carr",
-          "pct": 2,
+          "pct": 3,
           "tracked": true
         },
         {
           "name": "Gio Lopez",
+          "pct": 3,
+          "tracked": false
+        },
+        {
+          "name": "Gunner Stockton",
           "pct": 2,
           "tracked": false
         },
@@ -2629,11 +2698,6 @@
           "name": "Julian Sayin",
           "pct": 1,
           "tracked": true
-        },
-        {
-          "name": "Gunner Stockton",
-          "pct": 1,
-          "tracked": false
         },
         {
           "name": "Malachi Toney",
@@ -2699,8 +2763,7 @@
   },
   "diagnostics": {
     "errors": [
-      "/scoreboard: HTTP 401 - key rejected or tier too low",
-      "/games/players: HTTP 503"
+      "/scoreboard: HTTP 401 - key rejected or tier too low"
     ],
     "notes": [
       "scoreboard call failed - live status unavailable this run"
