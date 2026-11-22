@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T04:35:11.901789+00:00",
+  "updated_at": "2026-11-22T12:59:01.096206+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -364,7 +364,7 @@
         "total_td": 31,
         "ypg": 259,
         "rating": 143.5,
-        "epa_per_play": 0.286
+        "epa_per_play": 0.334
       }
     },
     {
@@ -405,8 +405,8 @@
         "opponent": "Washington",
         "opponent_id": 264,
         "home_away": "vs",
-        "kickoff": "2026-11-28T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-29T00:30:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "vs Washington"
@@ -783,7 +783,7 @@
         "total_td": 27,
         "ypg": 245,
         "rating": 161.7,
-        "epa_per_play": 0.453
+        "epa_per_play": 0.428
       }
     },
     {
@@ -1064,7 +1064,7 @@
         "total_td": 31,
         "ypg": 306,
         "rating": 180.0,
-        "epa_per_play": 0.582
+        "epa_per_play": 0.539
       }
     },
     {
@@ -1283,10 +1283,23 @@
         "kickoff": "2026-11-22T03:15:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Arizona State"
+        "state": "final",
+        "result": "W",
+        "score": "30-27",
+        "label": "W 30-27 at Arizona State"
       },
-      "game": null,
+      "game": {
+        "cmp": 30,
+        "att": 40,
+        "pass_yds": 294,
+        "pass_td": 0,
+        "int": 1,
+        "rush_att": 3,
+        "rush_yds": -11,
+        "rush_td": 0,
+        "comp_pct": 75.0,
+        "ypa": 7.3
+      },
       "next_game": {
         "event_id": "401856877",
         "week": 13,
@@ -1491,25 +1504,44 @@
           "result": "L",
           "score": "27-52",
           "date": "2026-11-15T02:30:00.000Z"
+        },
+        {
+          "cmp": 30,
+          "att": 40,
+          "pass_yds": 294,
+          "pass_td": 0,
+          "int": 1,
+          "rush_att": 3,
+          "rush_yds": -11,
+          "rush_td": 0,
+          "comp_pct": 75.0,
+          "ypa": 7.3,
+          "event_id": "401856870",
+          "week": 12,
+          "opponent": "Arizona State",
+          "home_away": "at",
+          "result": "W",
+          "score": "30-27",
+          "date": "2026-11-22T03:15:00.000Z"
         }
       ],
       "season": {
-        "games": 10,
-        "record": "6-4",
-        "cmp": 233,
-        "att": 351,
-        "comp_pct": 66.4,
-        "pass_yds": 3239,
-        "ypa": 9.2,
+        "games": 11,
+        "record": "7-4",
+        "cmp": 263,
+        "att": 391,
+        "comp_pct": 67.3,
+        "pass_yds": 3533,
+        "ypa": 9.0,
         "pass_td": 30,
-        "int": 10,
-        "td_int": "30-10",
-        "rush_yds": 169,
+        "int": 11,
+        "td_int": "30-11",
+        "rush_yds": 158,
         "rush_td": 4,
         "total_td": 34,
-        "ypg": 324,
-        "rating": 166.4,
-        "epa_per_play": 0.3
+        "ypg": 321,
+        "rating": 162.9,
+        "epa_per_play": 0.292
       }
     },
     {
@@ -1791,7 +1823,7 @@
         "total_td": 25,
         "ypg": 226,
         "rating": 148.4,
-        "epa_per_play": 0.128
+        "epa_per_play": 0.178
       }
     },
     {
@@ -1839,8 +1871,8 @@
         "opponent": "Arkansas",
         "opponent_id": 8,
         "home_away": "at",
-        "kickoff": "2026-11-28T05:00:00.000Z",
-        "tbd": true,
+        "kickoff": "2026-11-28T17:45:00.000Z",
+        "tbd": false,
         "neutral": false,
         "state": "scheduled",
         "label": "at Arkansas"
@@ -2069,7 +2101,7 @@
         "total_td": 28,
         "ypg": 274,
         "rating": 148.9,
-        "epa_per_play": 0.326
+        "epa_per_play": 0.276
       }
     },
     {
@@ -2327,7 +2359,7 @@
         "total_td": 22,
         "ypg": 272,
         "rating": 143.9,
-        "epa_per_play": 0.317
+        "epa_per_play": 0.306
       }
     },
     {
@@ -2610,27 +2642,18 @@
         "total_td": 31,
         "ypg": 314,
         "rating": 164.5,
-        "epa_per_play": 0.354
+        "epa_per_play": 0.314
       }
     }
   ],
   "news": [
-    {
-      "headline": "Dan Lanning Offers Injury Update on Oregon's Bear Alexander",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHQ2Smp0Q1hsdzlSWkpMZE0zczRIZ1YwUmFyRi0yc2dFYnF0UnNHeVdNN2RJN1Q5YW9XVm9renFCWjYyWjNwNFFwQXBlYWp6Qi1OVVQ1dXNUWVZTNkxKTFh6ZDhjamlHWi1ycUJ6cklFa3N1S1RCVlpDd3I2anQzU0VtQXpMV1FlYTh6TG0tNGFtX2Q5a0dvYloxTUltM0VScFliUnln?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 23,
-      "score": 21
-    },
     {
       "headline": "LaNorris Sellers, Drew Mestemaker and George MacIntyre Injury Updates Emerge Before Week 12",
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSGMwRVJYbE1ORk5yRzQ0VVpXaUpLNGQyY2NEc2tWelVWQ2k4OEIwWVZHU21ZU0gyVHZ5NmduWk1hYnNkOVBYbnROanRNY1ZnZFVHZS0wZllDZGxmblE5OVNfc254QnZicnViUTRYYkVkZkhvU2pMTVVETUExSnB3NGRmODBOUDdqMGpZQUNLcGMxbHhVU05IeUlFR0RlU0FZZUROMDZ5N2VZNnlLS2NDQzRfbUQzVmxlYlVtbWh5amJabnhpTUtlYVc5QXMtRU94?oc=5",
       "player": "Drew Mestemaker",
-      "age_hours": 13,
+      "age_hours": 22,
       "score": 21
     },
     {
@@ -2639,16 +2662,16 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1102,
+      "age_hours": 1110,
       "score": 20
     },
     {
-      "headline": "What's next for Dante Moore? Oregon QB's injury leaves 2027 NFL Draft, transfer options in play",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 622,
+      "headline": "In their words: ASU coaches preview Oklahoma State; Drew Mestemaker questionable",
+      "source": "247Sports",
+      "domain": "247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNblptdWp2Vk5BdVo5ZWNaNjc5THdPeExwdnZJeFpIYjBIRTZDSEZQMVliNDdCMHNmc25ocGR6ZUtQWVJXclB3WDRWb2JQOHcycTZtTWd2akRzMUFfRVF4M2lVOVFOYVc4TXJMQ0EtajIzMDllcUZtWFNOck4xMUVVWG1iOXRqQ0pjVndKVDgyaDFtQjNWV3FLaHA1SjY4aW84b1BRT3hhaC1kVjlQdjIwLVF1MEM0LTZwTmN6N1VKdDBGbFlXMVllbGpHTXJDMVpfZWJVQlVOMHZQbm1nMlVIUWdteWh5MW1zNWRJdVJqNG4xWHRtYnotOUZyYW8?oc=5",
+      "player": "Drew Mestemaker",
+      "age_hours": 20,
       "score": 19
     },
     {
@@ -2657,16 +2680,34 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoUFVubFhXcjlOVnAzNU5Ua1V1M2hMNUUxZG5wX3l5QUdCZC1wNm1WcHhlQUcyU0stVkhuSlpualRHek5ESk9jR2pscGtkRnBpWUc5TlR2NzVkalBPcHZuY0RmZ3RoaElCYUZ4d0tJOA?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 7,
+      "age_hours": 16,
       "score": 17
     },
     {
-      "headline": "Notre Dame, CFP in sight, shuts down SMU for fourth straight season with 10-plus wins",
+      "headline": "Dan Lanning Offers Injury Update on Oregon's Bear Alexander",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHQ2Smp0Q1hsdzlSWkpMZE0zczRIZ1YwUmFyRi0yc2dFYnF0UnNHeVdNN2RJN1Q5YW9XVm9renFCWjYyWjNwNFFwQXBlYWp6Qi1OVVQ1dXNUWVZTNkxKTFh6ZDhjamlHWi1ycUJ6cklFa3N1S1RCVlpDd3I2anQzU0VtQXpMV1FlYTh6TG0tNGFtX2Q5a0dvYloxTUltM0VScFliUnln?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 31,
+      "score": 17
+    },
+    {
+      "headline": "Notre Dame 24-3 SMU (Nov 21, 2026) Game Recap",
+      "source": "ESPN",
+      "domain": "espn.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4QmRrUFY0TExRLUpwSVhLRFNuS21GbDFtbmcxbXN0azJHaGJEMEZLT0xOYmNYS2dxRGIzYlF4clhzeTA1OW9DcUhwOVRTYldhc3prVjk2SXItWjBqVWk0MXhsb2trMTFkcXZJRFJORQ?oc=5",
+      "player": "CJ Carr",
+      "age_hours": 8,
+      "score": 17
+    },
+    {
+      "headline": "Notre Dame, CFP in sight, shuts down SMU for fourth straight 10-win season - The Athletic",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1ByNGlxTnFnUXdzMkJyQU5wZktrR1Ewc3VpWk9YcnNuTnA0Q19VajN3TVNNR1BJbnhHQnJKcjFWS3JJMUs3dm1mRWhBZUx5aU9aVXhUakdPeEFvVGozS3RyWHhCcjlJXzlSV2xHZ2F2bFU0NXU2MW9CV0RmT3JaSGd6VUpBQS1KajBPRjdVR3BhejQ?oc=5",
       "player": "CJ Carr",
-      "age_hours": 1,
+      "age_hours": 9,
       "score": 17
     },
     {
@@ -2675,16 +2716,7 @@
       "domain": "athlonsports.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlctYW1VTU1KTWFUVDg1N2VCRnhUTmlWdHlxU3ZyU2FTa3UxNHkzWE5QaWFkRUVtMHozLTV4QUNfOU5zaTlaOWNPeGRudHEwU3puRzdhZWRUUTl0TjUwU3JRZ1B0NHlZN25fZVJxOHk1Y2ZSMWV5UHRRcUFSZkExUkQwVFdhbEJCajQySHZ6R29wNmhjNDJqTVlxalpaMExPWU1Lag?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 12,
-      "score": 17
-    },
-    {
-      "headline": "Arch Manning takes part in Texas senior day. Was Saturday his final home game?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWFtX3FMNFFfbzdTY0d6eXhCbVR1TlFLNFNPdllYbVpGcVFjZUJsWWN3aDM3RVBOcngwOUhHa3JJQU8yb3QzbEFvR1ZwOW83ckFhQUVuWFBuYVBBTURaNDBENGRLU1BpdVBBQ2QtTVRJVFlSLXBEN19FSGxNTXo5TDBLMVNjTi02NEE?oc=5",
-      "player": "Arch Manning",
-      "age_hours": 7,
+      "age_hours": 20,
       "score": 17
     }
   ],
@@ -2695,14 +2727,14 @@
       "url": "https://kalshi.com/markets/kxnfldraftpick/nfl-draft-pick/kxnfldraftpick-27-1",
       "candidates": [
         {
-          "name": "Drew Mestemaker",
-          "pct": 40,
-          "tracked": true
+          "name": "Jeremiah Smith",
+          "pct": 38,
+          "tracked": false
         },
         {
-          "name": "Jeremiah Smith",
-          "pct": 37,
-          "tracked": false
+          "name": "Drew Mestemaker",
+          "pct": 35,
+          "tracked": true
         },
         {
           "name": "Arch Manning",
@@ -2764,6 +2796,11 @@
           "tracked": false
         },
         {
+          "name": "Arizona",
+          "pct": 2,
+          "tracked": false
+        },
+        {
           "name": "Atlanta",
           "pct": 2,
           "tracked": false
@@ -2775,11 +2812,6 @@
         },
         {
           "name": "Las Vegas",
-          "pct": 2,
-          "tracked": false
-        },
-        {
-          "name": "Philadelphia",
           "pct": 2,
           "tracked": false
         }
@@ -2794,32 +2826,22 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 82,
+          "pct": 81,
           "tracked": false
         },
         {
           "name": "Devon Dampier",
-          "pct": 12,
+          "pct": 14,
           "tracked": false
         },
         {
           "name": "Darian Mensah",
-          "pct": 6,
-          "tracked": true
-        },
-        {
-          "name": "Gunner Stockton",
-          "pct": 3,
-          "tracked": false
-        },
-        {
-          "name": "CJ Carr",
-          "pct": 3,
+          "pct": 5,
           "tracked": true
         },
         {
           "name": "Gio Lopez",
-          "pct": 3,
+          "pct": 2,
           "tracked": false
         },
         {
@@ -2828,9 +2850,19 @@
           "tracked": true
         },
         {
+          "name": "Gunner Stockton",
+          "pct": 1,
+          "tracked": false
+        },
+        {
           "name": "Malachi Toney",
           "pct": 1,
           "tracked": false
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 1,
+          "tracked": true
         }
       ],
       "field_pct": 0,
@@ -2896,7 +2928,7 @@
     "notes": [
       "scoreboard call failed - live status unavailable this run"
     ],
-    "games_seen": 888,
+    "games_seen": 895,
     "games_matched": 10,
     "teams_resolved": 10,
     "live_available": false,
