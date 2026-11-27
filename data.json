@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T20:57:50.193066+00:00",
+  "updated_at": "2026-11-27T06:55:09.994429+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -2536,12 +2536,30 @@
   ],
   "news": [
     {
-      "headline": "Oregon Ducks' Injury Report Delivers Encouraging Updates Before Washington",
+      "headline": "Dante Moore suffered concussion, but no additional injuries on hit that sent him to hospital",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpKbFdVZlJzNjVJNVZwempQbGcwcEMtSTFIaV91bm92T2dBaHpLZXNYS3d0SFMwazlYQTBZZ1NISldObzFfbEN3dUdocTU0VkhGR2R6NElyQWE3RVVycDV5Zlp5UXRCUGVTd1pPbVMxcmhDVVBIRGNEcVJJTms0UUhYcE9uc3hDTnJ1X1RmOEZ1YjJIc0JmMjVfVQ?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 1440,
+      "score": 22
+    },
+    {
+      "headline": "Oregon Ducks' Injury Report vs. Washington Huskies Sees No Changes",
       "source": "Sports Illustrated",
       "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXlqSHRlalJWaTJHRE5BTHFPN1dacVUzQjFKVS1ubElVcnNCOVRWT256eDZtc1p4YWRINEhsc1NwLWhsbkNld09ROXNUYjV6TlZMRm9RbEJpMWdNRTIxRmNWbk5JYUg2Mlh5ZXlDOE9RLXNWdXh5cTdXOEUtcVE4SDNDcGVXaUFxLUQ0aGVEbE5YUUgwdndFNzJZbGJqdmx3NURrQlVnNzlnUjUz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFp2bjA0QV90RkdjYmtKVVRpVVhZdENFRjlIemt6UkNvXzVrVWZrZVBCTnBpRlJjN1J0UTVLdG1GdGhjUmR3c0tSczZ3Y2ttVTZqaGYwS1FpYkRpczVVdXNObmdfQXZWMF9QSHZYb3Vadmx0M1pVQ0tTRTNLZ1NPM2VSNk5HSXIxMkE4aFVkT0JTZV9wTGhpYUN0cGJsVmk3VE9kYU45TQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 20,
+      "age_hours": 6,
+      "score": 21
+    },
+    {
+      "headline": "No. 3 Texas vs. Texas A&M: How to Watch, Odds, Injuries, and More",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUE04bE9UcERRWFU0Tmd0MTlSZlBzMm9NcDRmc1pSN2ZuZnM2bC1QQ1N1WDBoZVFPNmhrN0NOeHZZY0E3S0FkZUpfUWR3ZnhtX0p4RlI4ak5mMlNZTnRWQ2RsQWtvMWFFS1BKZHpscXFaS2pPcmhvSVk2Y094eEZQT2E1aS1IOHd0dWprQkFBMDVURENIUW5rSlVRekVNTlhLdmc?oc=5",
+      "player": "Arch Manning",
+      "age_hours": 7,
       "score": 21
     },
     {
@@ -2549,8 +2567,8 @@
       "source": "Sports Illustrated",
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0hNd1ZKM21yQ2RocUJYeGtEYjVfWnIwMlEwb3dUeDNKRVZFbHV2aVI5TjczM2NXT2tmdnVPS1RHLXl0eGJLcTQwYUdyVk1LSlFkRVdXUUVaSG81bTJmNmd1U2liLTlEUUhlWF9aYnJhbXQyZW13akVqRnNMQVVSTGNIS1RLMjZxc3N2bUlKMGtNUm9RZ1QwNVpRanNQc1VmS0NCQ3AyYXNBcFA0N3hDTVBabWE4RzNqQVlSOFdn?oc=5",
-      "player": "Darian Mensah",
-      "age_hours": 10,
+      "player": "CJ Carr",
+      "age_hours": 20,
       "score": 20
     },
     {
@@ -2559,25 +2577,7 @@
       "domain": "cbssports.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
       "player": "Dante Moore",
-      "age_hours": 734,
-      "score": 19
-    },
-    {
-      "headline": "What Dante Moore\u2019s Injury Return Could Mean for His NFL Draft Stock",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1luam5MM2NhbnZVMHlNc1MyZ3FxZ1VKSEp0SFpwQk14M2p5ZmVrM3BSVEYwUU56VGFnekpuOV9JYVVSR2xTV3hKMUd5Rjl2UGt3Umw1WEV2ZHljcmRSV1JZTWtfZ2hnc1R3d0NfUnh3SnN6Z3BONWtVeDRwdUNFckFKSVVVS0xoUEVqN2NSMnRrV2dEeU5rcEMzNEliNDU2YW4xNENXdVIxdEdD?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 878,
-      "score": 19
-    },
-    {
-      "headline": "LSU football vs Arkansas injury report | Jackson Harris questionable",
-      "source": "The Daily Advertiser | Lafayette, Louisiana",
-      "domain": "theadvertiser.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVXZMUG5YOVAxQThtb2Y3blJVRDdZYmt1eTBoeHdHQjBtMGNobFNIak05Y3IwT093ZkRkcWJvSlF4ekRjbGhXd3EtemJVQ1hrQXB5Mm93bnFRbEE2RmRJTE03THItSndMNkk2VVkwcUs0Z0s5bWJWY2JrdGRJNldaUXRCb1piMXR0eTFzUGMzbUFsVVBtYm91U21MakJVRC1JQW1SYWVwU3FaS0cyU2lRZy1pR2dTRWdfMXREYThfbTcyQVVfZmNsbFJsSG8?oc=5",
-      "player": "Sam Leavitt",
-      "age_hours": 19,
+      "age_hours": 744,
       "score": 19
     },
     {
@@ -2586,26 +2586,26 @@
       "domain": "nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUJBWjM0d2lhMWIwSTc2REVabzlYVjA5NG52MGZRb2tBWVBhalNGam9SWXJDQ1V6MG1GcU9xeEd4QUxqbzd5M3ZmRmg4c1BodGtSMy0xeE53ejZRSG9pUWhFR0gyazFud2pEYWtiY213Y3NNSG5lZjJyT2g3NHdEVnU2Nm14M3RVSW91VXRya2VxcURvWjVmWS1MVER1WUsyMF9IYkx1dk0?oc=5",
       "player": "CJ Carr",
-      "age_hours": 56,
+      "age_hours": 66,
       "score": 18
     },
     {
-      "headline": "Oregon QB Dante Moore (concussion) not expected to return this season",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVF3ellReGRtazJyZllZNXRwcDBlQmVFZFF2blVDMU9kUDRMSG1RR2xFTWgydjRLZlR5ZlY1LTFGcUNZZC01OG5ndVk3Y0tzcF9zWW1IX3d4dGhPNnlqbnU2TkNjb1M5TlJackRya2J5a1p6ekZrRVViX0U1czI3UGRwd3NoeEtGRlZPR0ZyNTBnWmlQemljS2IwU20tbmVyRC03cEk4aTlhV1dMNXFTREFn?oc=5",
+      "headline": "Oregon Ducks' Injury Report Delivers Encouraging Updates Before Washington",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXlqSHRlalJWaTJHRE5BTHFPN1dacVUzQjFKVS1ubElVcnNCOVRWT256eDZtc1p4YWRINEhsc1NwLWhsbkNld09ROXNUYjV6TlZMRm9RbEJpMWdNRTIxRmNWbk5JYUg2Mlh5ZXlDOE9RLXNWdXh5cTdXOEUtcVE4SDNDcGVXaUFxLUQ0aGVEbE5YUUgwdndFNzJZbGJqdmx3NURrQlVnNzlnUjUz?oc=5",
       "player": "Dante Moore",
-      "age_hours": 758,
-      "score": 16
+      "age_hours": 30,
+      "score": 17
     },
     {
-      "headline": "Raiola steps in for injured Moore, rallies Oregon past USC",
-      "source": "ESPN",
-      "domain": "espn.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzJmNlo1RTYzTXZMRnNVUnNuTmRkZUZPSWg5blFDRDZDa3luQ1ByMlp4bHdZUXdPNWVOdUJ1b2E2eUVvaDJOemRfR1ptQTdNVGtXWUVjcU0xajMzMUtvTXAzbVlSUXhhZG9kM0R5bVdqRzhNd0F5LUZ6VFRiQUYxYi1yRVdDLXR3VzhQajgtTkQwRlBTX3NEb3NxaWkteUZvazlTelBn?oc=5",
+      "headline": "Dante Moore\u2019s Heisman Odds Change After Concussion",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1o2ODJTUzh6VFpWeThHMmIwanVtZDJMYXJNeGhUSXp1MW0xaHRleVlJSnExNWx4Q2J3djV1S2NCcU83RDFGV01EdHNwZWhlZXpMMlpPTVE1RUtiMUJBUTlJVUFtQzRMUVN1aEpfNmppdE9ydy13NXk4MjZyUF9Lb1VLaXlHeVFWeC1Va3Jn?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1478,
-      "score": 16
+      "age_hours": 1344,
+      "score": 17
     }
   ],
   "kalshi": [
@@ -2616,22 +2616,22 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 41,
+          "pct": 37,
           "tracked": false
         },
         {
           "name": "Drew Mestemaker",
-          "pct": 38,
-          "tracked": true
-        },
-        {
-          "name": "Arch Manning",
-          "pct": 11,
+          "pct": 33,
           "tracked": true
         },
         {
           "name": "CJ Carr",
           "pct": 10,
+          "tracked": true
+        },
+        {
+          "name": "Arch Manning",
+          "pct": 7,
           "tracked": true
         },
         {
@@ -2655,7 +2655,7 @@
           "tracked": true
         }
       ],
-      "field_pct": 0,
+      "field_pct": 3,
       "field_count": 14
     },
     {
@@ -2665,7 +2665,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 40,
+          "pct": 43,
           "tracked": false
         },
         {
@@ -2674,13 +2674,13 @@
           "tracked": false
         },
         {
-          "name": "Los Angeles C",
-          "pct": 13,
+          "name": "New York J",
+          "pct": 8,
           "tracked": false
         },
         {
-          "name": "New York J",
-          "pct": 8,
+          "name": "Los Angeles C",
+          "pct": 7,
           "tracked": false
         },
         {
@@ -2704,7 +2704,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 0,
+      "field_pct": 1,
       "field_count": 24
     },
     {
@@ -2714,7 +2714,7 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 77,
+          "pct": 78,
           "tracked": false
         },
         {
@@ -2724,16 +2724,16 @@
         },
         {
           "name": "Darian Mensah",
-          "pct": 4,
+          "pct": 3,
           "tracked": true
         },
         {
-          "name": "Gunner Stockton",
-          "pct": 2,
+          "name": "Gio Lopez",
+          "pct": 3,
           "tracked": false
         },
         {
-          "name": "Gio Lopez",
+          "name": "Gunner Stockton",
           "pct": 2,
           "tracked": false
         },
