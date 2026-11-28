@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T03:43:10.612641+00:00",
+  "updated_at": "2026-11-28T05:47:49.829694+00:00",
   "season": 2026,
   "live_count": 0,
   "teams": {
@@ -1527,10 +1527,23 @@
         "kickoff": "2026-11-28T00:30:00.000Z",
         "tbd": false,
         "neutral": false,
-        "state": "scheduled",
-        "label": "at Texas A&M"
+        "state": "final",
+        "result": "W",
+        "score": "16-6",
+        "label": "W 16-6 at Texas A&M"
       },
-      "game": null,
+      "game": {
+        "cmp": 18,
+        "att": 34,
+        "pass_yds": 143,
+        "pass_td": 1,
+        "int": 1,
+        "rush_att": 8,
+        "rush_yds": 28,
+        "rush_td": 0,
+        "comp_pct": 52.9,
+        "ypa": 4.2
+      },
       "next_game": null,
       "log": [
         {
@@ -1742,24 +1755,43 @@
           "result": "W",
           "score": "45-3",
           "date": "2026-11-21T20:30:00.000Z"
+        },
+        {
+          "cmp": 18,
+          "att": 34,
+          "pass_yds": 143,
+          "pass_td": 1,
+          "int": 1,
+          "rush_att": 8,
+          "rush_yds": 28,
+          "rush_td": 0,
+          "comp_pct": 52.9,
+          "ypa": 4.2,
+          "event_id": "401856756",
+          "week": 13,
+          "opponent": "Texas A&M",
+          "home_away": "at",
+          "result": "W",
+          "score": "16-6",
+          "date": "2026-11-28T00:30:00.000Z"
         }
       ],
       "season": {
-        "games": 11,
-        "record": "9-2",
-        "cmp": 209,
-        "att": 315,
-        "comp_pct": 66.3,
-        "pass_yds": 2489,
-        "ypa": 7.9,
-        "pass_td": 21,
-        "int": 10,
-        "td_int": "21-10",
-        "rush_yds": 131,
+        "games": 12,
+        "record": "10-2",
+        "cmp": 227,
+        "att": 349,
+        "comp_pct": 65.0,
+        "pass_yds": 2632,
+        "ypa": 7.5,
+        "pass_td": 22,
+        "int": 11,
+        "td_int": "22-11",
+        "rush_yds": 159,
         "rush_td": 4,
-        "total_td": 25,
-        "ypg": 226,
-        "rating": 148.4,
+        "total_td": 26,
+        "ypg": 219,
+        "rating": 142.9,
         "epa_per_play": 0.178
       }
     },
@@ -2546,13 +2578,22 @@
   ],
   "news": [
     {
-      "headline": "Dante Moore injury: Oregon star ruled out vs. UCLA as he continues to recover from concussion",
-      "source": "CBS Sports",
-      "domain": "cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGpDQTdpSi1uMzF6WHE2SmhxMWstRi1nejd5LVFrZkFzbVQzMnpQcWo1emZDaldjdjFTQ081SThnclRDMlRRbGpYSy1RdjJKbnAtaFhSSHhmSjhGLU4tVmtWNUFUcG83cHFZUFIxcXBWdWJjT1IwdkJFSmVMNGY0aU1rbTI1aDJEa3loSTRpZGQ5anJpVUN4ejZnYU42dXFtcW9oUjNUOG1pNnpYZ0VNQWdJQVh3WDc0Zy1sS0ZIeVFKUGExdFV0OVdrTnA0VWlVVmRsZU5QZHJwZw?oc=5",
+      "headline": "Dante Moore suffered concussion, but no additional injuries on hit that sent him to hospital",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpKbFdVZlJzNjVJNVZwempQbGcwcEMtSTFIaV91bm92T2dBaHpLZXNYS3d0SFMwazlYQTBZZ1NISldObzFfbEN3dUdocTU0VkhGR2R6NElyQWE3RVVycDV5Zlp5UXRCUGVTd1pPbVMxcmhDVVBIRGNEcVJJTms0UUhYcE9uc3hDTnJ1X1RmOEZ1YjJIc0JmMjVfVQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 1245,
-      "score": 20
+      "age_hours": 1463,
+      "score": 22
+    },
+    {
+      "headline": "What USC Trojans vs. UCLA Bruins Injury Report Means For Rivalry Showdown",
+      "source": "Sports Illustrated",
+      "domain": "si.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnJOWnZUSjJUYjdFd0ZyNTZDME5HZDFsX3BPbDd1NkpSTEZHaUt0cXduQVNLS0tBcnF0ZWpGMWo5REpuRHJwd0hFTlpNRzNoTDRMaEFscTA0WV9yMldBYzlVQ1NaLUNJUVoydnJSSkdyeHAyZEdXUWNQREM2S3NfWkdFb1ptMXM3M2FmRFZfR3ZfREVkWE44WQ?oc=5",
+      "player": "Jayden Maiava",
+      "age_hours": 5,
+      "score": 21
     },
     {
       "headline": "Newsstand: Latest 2027 NFL mock draft projects historic first round for Notre Dame",
@@ -2560,8 +2601,17 @@
       "domain": "on3.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWlZbVRaaHFTaExrWk1SSDVZajlnVmdGaVhsV21wdHIxUHd1bTlETFpGYTcyb3FoWlkzVTk4RnIxc09INWNCQWE0b0dVSW9lSm1OMmVjWmI1WUZDVEVOM1FpaWdwdldWa2ZUSlBHcEVVeXktZm5XdWs3Ri10ekZ0ZFpsMEtmLUxNMEV3U25XTXg3YkVxMV9jNWt0bnVMeGpoWGhvbDRVbTBKYlExV0Zrb2Y0Z19FX2tWYWxV?oc=5",
       "player": "CJ Carr",
-      "age_hours": 16,
+      "age_hours": 18,
       "score": 20
+    },
+    {
+      "headline": "What's next for Dante Moore? Oregon QB's injury leaves 2027 NFL Draft, transfer options in play",
+      "source": "CBS Sports",
+      "domain": "cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJ3dVpjellrQWxZajBMdHdhb1Rfb3dQTkZqZHJ2My1ncHV4NklISFVrblkyODRvbDd6MzN4bVd5ZUhPeE5iNTdESlVVRHlFaTJ4RkFsU1J3TVFjalltU3NPVnFyZTMyS3ZfVjBZZW5Pd2VoUXNqcUMwcHNSNXFkS3BzLWpiOHVfajlfQVVteW1vekxoT1lOR0RnTjN1eDVyUnZjeXlYYw?oc=5",
+      "player": "Dante Moore",
+      "age_hours": 767,
+      "score": 19
     },
     {
       "headline": "Ohio State vs. Michigan: Ranking Every Heisman Trophy Finalist Since 2000",
@@ -2569,7 +2619,7 @@
       "domain": "foxsports.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVnZ0NnIwRU9BNjdScU1NRTFGSENzcjl2UktxYmJOYU0tdXNHOXVrZjhrWjFwTmE5aGVVOFdyQVNMZ1pGYWw3eHc1M3pNWVozYkVTZm81emFuZ1AwRUFkUXJaanVaZUgzaUd4STctNzJ5dUtpM1Y4cG54M3NtQzNIU2tlR2I2ZDV2REl1Z1dhQVF4UdIBkgFBVV95cUxPMXE1RlJ4UGVSaktXMGowLW5tZURQWmg2dlFYSno4VWJTYzFXNExYRC1TbVRUZXJFYTVEdEZfS3dPREMzTTU1WTRnU1NEenFkSW5DQjViMFpnTDR4NEFkUlBIcHVkVHJxb3N0OEs4LVpETThsZGFRWTFpdXJ6MUJUOU15eXZpQ3lVT3dERi1GNzdwUQ?oc=5",
       "player": "Julian Sayin",
-      "age_hours": 4,
+      "age_hours": 6,
       "score": 18
     },
     {
@@ -2578,7 +2628,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QdXM3OWxyRTVieWlScElYeVZoM2RQd3dkdkp1cmRtX2pyV1BZRkVDelc3ZjBMY0FlZmc0dzlHZ1U2dEZ6WUlmc2xlQnBpZlFrQjQ0NjhXaFBwMXNyWElfSXkyX1E5S1U0NVh3NlI2VQ?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 7,
+      "age_hours": 9,
       "score": 17
     },
     {
@@ -2587,7 +2637,7 @@
       "domain": "espn.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TV3Q5Tk1WNjROaDVvNzIzeHpfUG1pLTYzZGNKNm9tT2hzVDlzVDQ5RUVqYllkTXAwUDgxN1ZyVF9BZFYwcGVKZ05LYVJMZEVVMXR5QVJfQ193QQ?oc=5",
       "player": "Trinidad Chambliss",
-      "age_hours": 8,
+      "age_hours": 10,
       "score": 17
     },
     {
@@ -2596,25 +2646,7 @@
       "domain": "si.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFp2bjA0QV90RkdjYmtKVVRpVVhZdENFRjlIemt6UkNvXzVrVWZrZVBCTnBpRlJjN1J0UTVLdG1GdGhjUmR3c0tSczZ3Y2ttVTZqaGYwS1FpYkRpczVVdXNObmdfQXZWMF9QSHZYb3Vadmx0M1pVQ0tTRTNLZ1NPM2VSNk5HSXIxMkE4aFVkT0JTZV9wTGhpYUN0cGJsVmk3VE9kYU45TQ?oc=5",
       "player": "Dante Moore",
-      "age_hours": 27,
-      "score": 17
-    },
-    {
-      "headline": "Oregon Ducks' Injury Report Delivers Encouraging Updates Before Washington",
-      "source": "Sports Illustrated",
-      "domain": "si.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXlqSHRlalJWaTJHRE5BTHFPN1dacVUzQjFKVS1ubElVcnNCOVRWT256eDZtc1p4YWRINEhsc1NwLWhsbkNld09ROXNUYjV6TlZMRm9RbEJpMWdNRTIxRmNWbk5JYUg2Mlh5ZXlDOE9RLXNWdXh5cTdXOEUtcVE4SDNDcGVXaUFxLUQ0aGVEbE5YUUgwdndFNzJZbGJqdmx3NURrQlVnNzlnUjUz?oc=5",
-      "player": "Dante Moore",
-      "age_hours": 51,
-      "score": 17
-    },
-    {
-      "headline": "Notre Dame mailbag: Will CJ Carr return to South Bend? Was agreeing to Clemson series a mistake?",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUxYdVlfbndmSUVDY0FXR3FuY1RkRHU5Smw1cWZOQWZna3VhN1U5dUYwMl9QbHRDeko2UFBfeGtGdlpnTTBvZXEwX3dkdmRtOGtKZktFbEF0dkxpdkd2dUEtQUJZWlpLQkNfOVRKMXlxa2NYZHItRUdMZnBabk00aWl5cC1MTDdPdzVHT2NrRTlhZw?oc=5",
-      "player": "CJ Carr",
-      "age_hours": 13,
+      "age_hours": 29,
       "score": 17
     }
   ],
@@ -2645,17 +2677,17 @@
           "tracked": true
         },
         {
-          "name": "Darian Mensah",
-          "pct": 3,
-          "tracked": true
-        },
-        {
           "name": "LaNorris Sellers",
           "pct": 3,
           "tracked": false
         },
         {
           "name": "Julian Sayin",
+          "pct": 2,
+          "tracked": true
+        },
+        {
+          "name": "Darian Mensah",
           "pct": 2,
           "tracked": true
         },
@@ -2675,7 +2707,7 @@
       "candidates": [
         {
           "name": "Miami",
-          "pct": 38,
+          "pct": 39,
           "tracked": false
         },
         {
@@ -2685,7 +2717,7 @@
         },
         {
           "name": "Los Angeles C",
-          "pct": 10,
+          "pct": 15,
           "tracked": false
         },
         {
@@ -2714,7 +2746,7 @@
           "tracked": false
         }
       ],
-      "field_pct": 3,
+      "field_pct": 0,
       "field_count": 24
     },
     {
@@ -2724,12 +2756,12 @@
       "candidates": [
         {
           "name": "Jeremiah Smith",
-          "pct": 79,
+          "pct": 77,
           "tracked": false
         },
         {
           "name": "Devon Dampier",
-          "pct": 15,
+          "pct": 18,
           "tracked": false
         },
         {
@@ -2739,7 +2771,7 @@
         },
         {
           "name": "Gio Lopez",
-          "pct": 3,
+          "pct": 2,
           "tracked": false
         },
         {
